@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0118-pascals-triangle](https://github.com/gauthamnholla/coding-practice/tree/master/0118-pascals-triangle) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/gauthamnholla/coding-practice/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/gauthamnholla/coding-practice/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/gauthamnholla/coding-practice/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0010-regular-expression-matching](https://github.com/gauthamnholla/coding-practice/tree/master/0010-regular-expression-matching) |
 | [0044-wildcard-matching](https://github.com/gauthamnholla/coding-practice/tree/master/0044-wildcard-matching) |
+| [0118-pascals-triangle](https://github.com/gauthamnholla/coding-practice/tree/master/0118-pascals-triangle) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/gauthamnholla/coding-practice/tree/master/0934-bitwise-ors-of-subarrays) |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/gauthamnholla/coding-practice/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/gauthamnholla/coding-practice/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
