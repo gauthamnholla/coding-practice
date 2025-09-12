@@ -184,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/gauthamnholla/coding-practice/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/gauthamnholla/coding-practice/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/gauthamnholla/coding-practice/tree/master/3279-alice-and-bob-playing-flower-game) |
+| [3462-vowels-game-in-a-string](https://github.com/gauthamnholla/coding-practice/tree/master/3462-vowels-game-in-a-string) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/gauthamnholla/coding-practice/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3830-find-closest-person](https://github.com/gauthamnholla/coding-practice/tree/master/3830-find-closest-person) |
 ## String
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2346-largest-3-same-digit-number-in-string](https://github.com/gauthamnholla/coding-practice/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2887-sort-vowels-in-a-string](https://github.com/gauthamnholla/coding-practice/tree/master/2887-sort-vowels-in-a-string) |
 | [3396-valid-word](https://github.com/gauthamnholla/coding-practice/tree/master/3396-valid-word) |
+| [3462-vowels-game-in-a-string](https://github.com/gauthamnholla/coding-practice/tree/master/3462-vowels-game-in-a-string) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -259,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/gauthamnholla/coding-practice/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/gauthamnholla/coding-practice/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
+| [3462-vowels-game-in-a-string](https://github.com/gauthamnholla/coding-practice/tree/master/3462-vowels-game-in-a-string) |
 ## Recursion
 |  |
 | ------- |
@@ -316,4 +319,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/gauthamnholla/coding-practice/tree/master/2408-number-of-people-aware-of-a-secret) |
+## Game Theory
+|  |
+| ------- |
+| [3462-vowels-game-in-a-string](https://github.com/gauthamnholla/coding-practice/tree/master/3462-vowels-game-in-a-string) |
 <!---LeetCode Topics End-->
