@@ -208,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/gauthamnholla/coding-practice/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/gauthamnholla/coding-practice/tree/master/0010-regular-expression-matching) |
 | [0044-wildcard-matching](https://github.com/gauthamnholla/coding-practice/tree/master/0044-wildcard-matching) |
 | [0118-pascals-triangle](https://github.com/gauthamnholla/coding-practice/tree/master/0118-pascals-triangle) |
@@ -238,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/gauthamnholla/coding-practice/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/gauthamnholla/coding-practice/tree/master/0011-container-with-most-water) |
 | [0165-compare-version-numbers](https://github.com/gauthamnholla/coding-practice/tree/master/0165-compare-version-numbers) |
 | [0611-valid-triangle-number](https://github.com/gauthamnholla/coding-practice/tree/master/0611-valid-triangle-number) |
@@ -285,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/gauthamnholla/coding-practice/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/gauthamnholla/coding-practice/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/gauthamnholla/coding-practice/tree/master/0010-regular-expression-matching) |
 | [0044-wildcard-matching](https://github.com/gauthamnholla/coding-practice/tree/master/0044-wildcard-matching) |
 | [0165-compare-version-numbers](https://github.com/gauthamnholla/coding-practice/tree/master/0165-compare-version-numbers) |
