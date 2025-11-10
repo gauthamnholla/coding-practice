@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/gauthamnholla/coding-practice/tree/master/0011-container-with-most-water) |
 | [0036-valid-sudoku](https://github.com/gauthamnholla/coding-practice/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/gauthamnholla/coding-practice/tree/master/0037-sudoku-solver) |
+| [0088-merge-sorted-array](https://github.com/gauthamnholla/coding-practice/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/gauthamnholla/coding-practice/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/gauthamnholla/coding-practice/tree/master/0120-triangle) |
 | [0135-candy](https://github.com/gauthamnholla/coding-practice/tree/master/0135-candy) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/gauthamnholla/coding-practice/tree/master/0088-merge-sorted-array) |
 | [0594-longest-harmonious-subsequence](https://github.com/gauthamnholla/coding-practice/tree/master/0594-longest-harmonious-subsequence) |
 | [0611-valid-triangle-number](https://github.com/gauthamnholla/coding-practice/tree/master/0611-valid-triangle-number) |
 | [0900-reordered-power-of-2](https://github.com/gauthamnholla/coding-practice/tree/master/0900-reordered-power-of-2) |
@@ -345,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/gauthamnholla/coding-practice/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/gauthamnholla/coding-practice/tree/master/0011-container-with-most-water) |
+| [0088-merge-sorted-array](https://github.com/gauthamnholla/coding-practice/tree/master/0088-merge-sorted-array) |
 | [0165-compare-version-numbers](https://github.com/gauthamnholla/coding-practice/tree/master/0165-compare-version-numbers) |
 | [0611-valid-triangle-number](https://github.com/gauthamnholla/coding-practice/tree/master/0611-valid-triangle-number) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/gauthamnholla/coding-practice/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
