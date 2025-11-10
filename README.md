@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/gauthamnholla/coding-practice/tree/master/0417-pacific-atlantic-water-flow) |
 | [0498-diagonal-traverse](https://github.com/gauthamnholla/coding-practice/tree/master/0498-diagonal-traverse) |
 | [0594-longest-harmonious-subsequence](https://github.com/gauthamnholla/coding-practice/tree/master/0594-longest-harmonious-subsequence) |
+| [0605-can-place-flowers](https://github.com/gauthamnholla/coding-practice/tree/master/0605-can-place-flowers) |
 | [0611-valid-triangle-number](https://github.com/gauthamnholla/coding-practice/tree/master/0611-valid-triangle-number) |
 | [0679-24-game](https://github.com/gauthamnholla/coding-practice/tree/master/0679-24-game) |
 | [0794-swim-in-rising-water](https://github.com/gauthamnholla/coding-practice/tree/master/0794-swim-in-rising-water) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/gauthamnholla/coding-practice/tree/master/0011-container-with-most-water) |
 | [0044-wildcard-matching](https://github.com/gauthamnholla/coding-practice/tree/master/0044-wildcard-matching) |
 | [0135-candy](https://github.com/gauthamnholla/coding-practice/tree/master/0135-candy) |
+| [0605-can-place-flowers](https://github.com/gauthamnholla/coding-practice/tree/master/0605-can-place-flowers) |
 | [0611-valid-triangle-number](https://github.com/gauthamnholla/coding-practice/tree/master/0611-valid-triangle-number) |
 | [1018-largest-perimeter-triangle](https://github.com/gauthamnholla/coding-practice/tree/master/1018-largest-perimeter-triangle) |
 | [1448-maximum-69-number](https://github.com/gauthamnholla/coding-practice/tree/master/1448-maximum-69-number) |
