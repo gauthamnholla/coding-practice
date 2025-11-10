@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0498-diagonal-traverse](https://github.com/gauthamnholla/coding-practice/tree/master/0498-diagonal-traverse) |
 | [0594-longest-harmonious-subsequence](https://github.com/gauthamnholla/coding-practice/tree/master/0594-longest-harmonious-subsequence) |
 | [0605-can-place-flowers](https://github.com/gauthamnholla/coding-practice/tree/master/0605-can-place-flowers) |
+| [0609-find-duplicate-file-in-system](https://github.com/gauthamnholla/coding-practice/tree/master/0609-find-duplicate-file-in-system) |
 | [0611-valid-triangle-number](https://github.com/gauthamnholla/coding-practice/tree/master/0611-valid-triangle-number) |
 | [0679-24-game](https://github.com/gauthamnholla/coding-practice/tree/master/0679-24-game) |
 | [0794-swim-in-rising-water](https://github.com/gauthamnholla/coding-practice/tree/master/0794-swim-in-rising-water) |
@@ -238,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/gauthamnholla/coding-practice/tree/master/0037-sudoku-solver) |
 | [0166-fraction-to-recurring-decimal](https://github.com/gauthamnholla/coding-practice/tree/master/0166-fraction-to-recurring-decimal) |
 | [0594-longest-harmonious-subsequence](https://github.com/gauthamnholla/coding-practice/tree/master/0594-longest-harmonious-subsequence) |
+| [0609-find-duplicate-file-in-system](https://github.com/gauthamnholla/coding-practice/tree/master/0609-find-duplicate-file-in-system) |
 | [0900-reordered-power-of-2](https://github.com/gauthamnholla/coding-practice/tree/master/0900-reordered-power-of-2) |
 | [0940-fruit-into-baskets](https://github.com/gauthamnholla/coding-practice/tree/master/0940-fruit-into-baskets) |
 | [1006-vowel-spellchecker](https://github.com/gauthamnholla/coding-practice/tree/master/1006-vowel-spellchecker) |
@@ -419,6 +421,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0165-compare-version-numbers](https://github.com/gauthamnholla/coding-practice/tree/master/0165-compare-version-numbers) |
 | [0166-fraction-to-recurring-decimal](https://github.com/gauthamnholla/coding-practice/tree/master/0166-fraction-to-recurring-decimal) |
 | [0606-construct-string-from-binary-tree](https://github.com/gauthamnholla/coding-practice/tree/master/0606-construct-string-from-binary-tree) |
+| [0609-find-duplicate-file-in-system](https://github.com/gauthamnholla/coding-practice/tree/master/0609-find-duplicate-file-in-system) |
 | [1006-vowel-spellchecker](https://github.com/gauthamnholla/coding-practice/tree/master/1006-vowel-spellchecker) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/gauthamnholla/coding-practice/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/gauthamnholla/coding-practice/tree/master/1264-maximum-number-of-words-you-can-type) |
