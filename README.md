@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0472-concatenated-words](https://github.com/gauthamnholla/coding-practice/tree/master/0472-concatenated-words) |
 | [0474-ones-and-zeroes](https://github.com/gauthamnholla/coding-practice/tree/master/0474-ones-and-zeroes) |
 | [0498-diagonal-traverse](https://github.com/gauthamnholla/coding-practice/tree/master/0498-diagonal-traverse) |
+| [0502-ipo](https://github.com/gauthamnholla/coding-practice/tree/master/0502-ipo) |
 | [0594-longest-harmonious-subsequence](https://github.com/gauthamnholla/coding-practice/tree/master/0594-longest-harmonious-subsequence) |
 | [0605-can-place-flowers](https://github.com/gauthamnholla/coding-practice/tree/master/0605-can-place-flowers) |
 | [0609-find-duplicate-file-in-system](https://github.com/gauthamnholla/coding-practice/tree/master/0609-find-duplicate-file-in-system) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/gauthamnholla/coding-practice/tree/master/0011-container-with-most-water) |
 | [0044-wildcard-matching](https://github.com/gauthamnholla/coding-practice/tree/master/0044-wildcard-matching) |
 | [0135-candy](https://github.com/gauthamnholla/coding-practice/tree/master/0135-candy) |
+| [0502-ipo](https://github.com/gauthamnholla/coding-practice/tree/master/0502-ipo) |
 | [0605-can-place-flowers](https://github.com/gauthamnholla/coding-practice/tree/master/0605-can-place-flowers) |
 | [0611-valid-triangle-number](https://github.com/gauthamnholla/coding-practice/tree/master/0611-valid-triangle-number) |
 | [1018-largest-perimeter-triangle](https://github.com/gauthamnholla/coding-practice/tree/master/1018-largest-perimeter-triangle) |
@@ -163,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/gauthamnholla/coding-practice/tree/master/0295-find-median-from-data-stream) |
 | [0354-russian-doll-envelopes](https://github.com/gauthamnholla/coding-practice/tree/master/0354-russian-doll-envelopes) |
 | [0472-concatenated-words](https://github.com/gauthamnholla/coding-practice/tree/master/0472-concatenated-words) |
+| [0502-ipo](https://github.com/gauthamnholla/coding-practice/tree/master/0502-ipo) |
 | [0594-longest-harmonious-subsequence](https://github.com/gauthamnholla/coding-practice/tree/master/0594-longest-harmonious-subsequence) |
 | [0611-valid-triangle-number](https://github.com/gauthamnholla/coding-practice/tree/master/0611-valid-triangle-number) |
 | [0900-reordered-power-of-2](https://github.com/gauthamnholla/coding-practice/tree/master/0900-reordered-power-of-2) |
@@ -194,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0218-the-skyline-problem](https://github.com/gauthamnholla/coding-practice/tree/master/0218-the-skyline-problem) |
 | [0295-find-median-from-data-stream](https://github.com/gauthamnholla/coding-practice/tree/master/0295-find-median-from-data-stream) |
 | [0407-trapping-rain-water-ii](https://github.com/gauthamnholla/coding-practice/tree/master/0407-trapping-rain-water-ii) |
+| [0502-ipo](https://github.com/gauthamnholla/coding-practice/tree/master/0502-ipo) |
 | [0794-swim-in-rising-water](https://github.com/gauthamnholla/coding-practice/tree/master/0794-swim-in-rising-water) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/gauthamnholla/coding-practice/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1612-avoid-flood-in-the-city](https://github.com/gauthamnholla/coding-practice/tree/master/1612-avoid-flood-in-the-city) |
