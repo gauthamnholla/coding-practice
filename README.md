@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/gauthamnholla/coding-practice/tree/master/0011-container-with-most-water) |
 | [0036-valid-sudoku](https://github.com/gauthamnholla/coding-practice/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/gauthamnholla/coding-practice/tree/master/0037-sudoku-solver) |
+| [0041-first-missing-positive](https://github.com/gauthamnholla/coding-practice/tree/master/0041-first-missing-positive) |
 | [0085-maximal-rectangle](https://github.com/gauthamnholla/coding-practice/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/gauthamnholla/coding-practice/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/gauthamnholla/coding-practice/tree/master/0118-pascals-triangle) |
@@ -279,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0030-substring-with-concatenation-of-all-words](https://github.com/gauthamnholla/coding-practice/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0036-valid-sudoku](https://github.com/gauthamnholla/coding-practice/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/gauthamnholla/coding-practice/tree/master/0037-sudoku-solver) |
+| [0041-first-missing-positive](https://github.com/gauthamnholla/coding-practice/tree/master/0041-first-missing-positive) |
 | [0166-fraction-to-recurring-decimal](https://github.com/gauthamnholla/coding-practice/tree/master/0166-fraction-to-recurring-decimal) |
 | [0594-longest-harmonious-subsequence](https://github.com/gauthamnholla/coding-practice/tree/master/0594-longest-harmonious-subsequence) |
 | [0609-find-duplicate-file-in-system](https://github.com/gauthamnholla/coding-practice/tree/master/0609-find-duplicate-file-in-system) |
