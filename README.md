@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/gauthamnholla/coding-practice/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/gauthamnholla/coding-practice/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/gauthamnholla/coding-practice/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/gauthamnholla/coding-practice/tree/master/0073-set-matrix-zeroes) |
 | [0085-maximal-rectangle](https://github.com/gauthamnholla/coding-practice/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/gauthamnholla/coding-practice/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/gauthamnholla/coding-practice/tree/master/0118-pascals-triangle) |
@@ -284,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/gauthamnholla/coding-practice/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/gauthamnholla/coding-practice/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/gauthamnholla/coding-practice/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/gauthamnholla/coding-practice/tree/master/0073-set-matrix-zeroes) |
 | [0166-fraction-to-recurring-decimal](https://github.com/gauthamnholla/coding-practice/tree/master/0166-fraction-to-recurring-decimal) |
 | [0594-longest-harmonious-subsequence](https://github.com/gauthamnholla/coding-practice/tree/master/0594-longest-harmonious-subsequence) |
 | [0609-find-duplicate-file-in-system](https://github.com/gauthamnholla/coding-practice/tree/master/0609-find-duplicate-file-in-system) |
@@ -671,6 +673,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/gauthamnholla/coding-practice/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/gauthamnholla/coding-practice/tree/master/0037-sudoku-solver) |
+| [0073-set-matrix-zeroes](https://github.com/gauthamnholla/coding-practice/tree/master/0073-set-matrix-zeroes) |
 | [0085-maximal-rectangle](https://github.com/gauthamnholla/coding-practice/tree/master/0085-maximal-rectangle) |
 | [0407-trapping-rain-water-ii](https://github.com/gauthamnholla/coding-practice/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/gauthamnholla/coding-practice/tree/master/0417-pacific-atlantic-water-flow) |
