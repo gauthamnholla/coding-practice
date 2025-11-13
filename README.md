@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/gauthamnholla/coding-practice/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/gauthamnholla/coding-practice/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/gauthamnholla/coding-practice/tree/master/0014-longest-common-prefix) |
+| [0015-3sum](https://github.com/gauthamnholla/coding-practice/tree/master/0015-3sum) |
 | [0036-valid-sudoku](https://github.com/gauthamnholla/coding-practice/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/gauthamnholla/coding-practice/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/gauthamnholla/coding-practice/tree/master/0041-first-missing-positive) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/gauthamnholla/coding-practice/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/gauthamnholla/coding-practice/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/gauthamnholla/coding-practice/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/gauthamnholla/coding-practice/tree/master/0169-majority-element) |
@@ -420,6 +422,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/gauthamnholla/coding-practice/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/gauthamnholla/coding-practice/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/gauthamnholla/coding-practice/tree/master/0015-3sum) |
 | [0086-partition-list](https://github.com/gauthamnholla/coding-practice/tree/master/0086-partition-list) |
 | [0088-merge-sorted-array](https://github.com/gauthamnholla/coding-practice/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/gauthamnholla/coding-practice/tree/master/0141-linked-list-cycle) |
