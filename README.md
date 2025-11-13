@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/gauthamnholla/coding-practice/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/gauthamnholla/coding-practice/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/gauthamnholla/coding-practice/tree/master/0037-sudoku-solver) |
+| [0039-combination-sum](https://github.com/gauthamnholla/coding-practice/tree/master/0039-combination-sum) |
 | [0041-first-missing-positive](https://github.com/gauthamnholla/coding-practice/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/gauthamnholla/coding-practice/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/gauthamnholla/coding-practice/tree/master/0073-set-matrix-zeroes) |
@@ -658,6 +659,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/gauthamnholla/coding-practice/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0037-sudoku-solver](https://github.com/gauthamnholla/coding-practice/tree/master/0037-sudoku-solver) |
+| [0039-combination-sum](https://github.com/gauthamnholla/coding-practice/tree/master/0039-combination-sum) |
 | [0089-gray-code](https://github.com/gauthamnholla/coding-practice/tree/master/0089-gray-code) |
 | [0679-24-game](https://github.com/gauthamnholla/coding-practice/tree/master/0679-24-game) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/gauthamnholla/coding-practice/tree/master/2140-longest-subsequence-repeated-k-times) |
