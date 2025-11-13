@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/gauthamnholla/coding-practice/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/gauthamnholla/coding-practice/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/gauthamnholla/coding-practice/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/gauthamnholla/coding-practice/tree/master/0014-longest-common-prefix) |
 | [0036-valid-sudoku](https://github.com/gauthamnholla/coding-practice/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/gauthamnholla/coding-practice/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/gauthamnholla/coding-practice/tree/master/0041-first-missing-positive) |
@@ -505,6 +506,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/gauthamnholla/coding-practice/tree/master/0010-regular-expression-matching) |
 | [0012-integer-to-roman](https://github.com/gauthamnholla/coding-practice/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/gauthamnholla/coding-practice/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/gauthamnholla/coding-practice/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/gauthamnholla/coding-practice/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/gauthamnholla/coding-practice/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0044-wildcard-matching](https://github.com/gauthamnholla/coding-practice/tree/master/0044-wildcard-matching) |
@@ -566,6 +568,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Trie
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/gauthamnholla/coding-practice/tree/master/0014-longest-common-prefix) |
 | [0386-lexicographical-numbers](https://github.com/gauthamnholla/coding-practice/tree/master/0386-lexicographical-numbers) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/gauthamnholla/coding-practice/tree/master/0440-k-th-smallest-in-lexicographical-order) |
 | [0472-concatenated-words](https://github.com/gauthamnholla/coding-practice/tree/master/0472-concatenated-words) |
