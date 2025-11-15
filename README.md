@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/gauthamnholla/coding-practice/tree/master/0611-valid-triangle-number) |
 | [0630-course-schedule-iii](https://github.com/gauthamnholla/coding-practice/tree/master/0630-course-schedule-iii) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/gauthamnholla/coding-practice/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0661-image-smoother](https://github.com/gauthamnholla/coding-practice/tree/master/0661-image-smoother) |
 | [0679-24-game](https://github.com/gauthamnholla/coding-practice/tree/master/0679-24-game) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/gauthamnholla/coding-practice/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0759-set-intersection-size-at-least-two](https://github.com/gauthamnholla/coding-practice/tree/master/0759-set-intersection-size-at-least-two) |
@@ -778,6 +779,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0407-trapping-rain-water-ii](https://github.com/gauthamnholla/coding-practice/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/gauthamnholla/coding-practice/tree/master/0417-pacific-atlantic-water-flow) |
 | [0498-diagonal-traverse](https://github.com/gauthamnholla/coding-practice/tree/master/0498-diagonal-traverse) |
+| [0661-image-smoother](https://github.com/gauthamnholla/coding-practice/tree/master/0661-image-smoother) |
 | [0794-swim-in-rising-water](https://github.com/gauthamnholla/coding-practice/tree/master/0794-swim-in-rising-water) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/gauthamnholla/coding-practice/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1628-count-submatrices-with-all-ones](https://github.com/gauthamnholla/coding-practice/tree/master/1628-count-submatrices-with-all-ones) |
