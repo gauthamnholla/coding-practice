@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/gauthamnholla/coding-practice/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/gauthamnholla/coding-practice/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/gauthamnholla/coding-practice/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/gauthamnholla/coding-practice/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/gauthamnholla/coding-practice/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/gauthamnholla/coding-practice/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/gauthamnholla/coding-practice/tree/master/0073-set-matrix-zeroes) |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/gauthamnholla/coding-practice/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/gauthamnholla/coding-practice/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/gauthamnholla/coding-practice/tree/master/0018-4sum) |
+| [0047-permutations-ii](https://github.com/gauthamnholla/coding-practice/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/gauthamnholla/coding-practice/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/gauthamnholla/coding-practice/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/gauthamnholla/coding-practice/tree/master/0169-majority-element) |
@@ -697,6 +699,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/gauthamnholla/coding-practice/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/gauthamnholla/coding-practice/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/gauthamnholla/coding-practice/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/gauthamnholla/coding-practice/tree/master/0047-permutations-ii) |
 | [0089-gray-code](https://github.com/gauthamnholla/coding-practice/tree/master/0089-gray-code) |
 | [0679-24-game](https://github.com/gauthamnholla/coding-practice/tree/master/0679-24-game) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/gauthamnholla/coding-practice/tree/master/2140-longest-subsequence-repeated-k-times) |
