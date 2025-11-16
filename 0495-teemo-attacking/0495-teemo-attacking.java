@@ -2,13 +2,14 @@ class Solution {
     public int findPoisonedDuration(int[] timeSeries, int duration) {
         int count = 0;
 
-        // Calculate overlapping or non-overlapping poison intervals
+        // Add poison time for each attack except last
         for (int i = 0; i < timeSeries.length - 1; i++) {
-            // Add only the effective time (overlap reduces duration)
+            // If next attack comes before poison ends, only add the gap.
+            // Otherwise, add full duration.
             count += Math.min(duration, timeSeries[i + 1] - timeSeries[i]);
         }
 
-        // Add full duration for the last attack
+        // Last attack always adds full duration
         count += duration;
 
         return count;
