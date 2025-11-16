@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/gauthamnholla/coding-practice/tree/master/0463-island-perimeter) |
 | [0472-concatenated-words](https://github.com/gauthamnholla/coding-practice/tree/master/0472-concatenated-words) |
 | [0474-ones-and-zeroes](https://github.com/gauthamnholla/coding-practice/tree/master/0474-ones-and-zeroes) |
+| [0485-max-consecutive-ones](https://github.com/gauthamnholla/coding-practice/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/gauthamnholla/coding-practice/tree/master/0496-next-greater-element-i) |
 | [0498-diagonal-traverse](https://github.com/gauthamnholla/coding-practice/tree/master/0498-diagonal-traverse) |
 | [0502-ipo](https://github.com/gauthamnholla/coding-practice/tree/master/0502-ipo) |
