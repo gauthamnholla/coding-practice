@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0472-concatenated-words](https://github.com/gauthamnholla/coding-practice/tree/master/0472-concatenated-words) |
 | [0474-ones-and-zeroes](https://github.com/gauthamnholla/coding-practice/tree/master/0474-ones-and-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/gauthamnholla/coding-practice/tree/master/0485-max-consecutive-ones) |
+| [0495-teemo-attacking](https://github.com/gauthamnholla/coding-practice/tree/master/0495-teemo-attacking) |
 | [0496-next-greater-element-i](https://github.com/gauthamnholla/coding-practice/tree/master/0496-next-greater-element-i) |
 | [0498-diagonal-traverse](https://github.com/gauthamnholla/coding-practice/tree/master/0498-diagonal-traverse) |
 | [0502-ipo](https://github.com/gauthamnholla/coding-practice/tree/master/0502-ipo) |
@@ -412,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0495-teemo-attacking](https://github.com/gauthamnholla/coding-practice/tree/master/0495-teemo-attacking) |
 | [0498-diagonal-traverse](https://github.com/gauthamnholla/coding-practice/tree/master/0498-diagonal-traverse) |
 | [1642-water-bottles](https://github.com/gauthamnholla/coding-practice/tree/master/1642-water-bottles) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/gauthamnholla/coding-practice/tree/master/2137-final-value-of-variable-after-performing-operations) |
