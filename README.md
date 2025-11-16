@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0500-keyboard-row](https://github.com/gauthamnholla/coding-practice/tree/master/0500-keyboard-row) |
 | [0502-ipo](https://github.com/gauthamnholla/coding-practice/tree/master/0502-ipo) |
 | [0506-relative-ranks](https://github.com/gauthamnholla/coding-practice/tree/master/0506-relative-ranks) |
+| [0561-array-partition](https://github.com/gauthamnholla/coding-practice/tree/master/0561-array-partition) |
 | [0594-longest-harmonious-subsequence](https://github.com/gauthamnholla/coding-practice/tree/master/0594-longest-harmonious-subsequence) |
 | [0598-range-addition-ii](https://github.com/gauthamnholla/coding-practice/tree/master/0598-range-addition-ii) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/gauthamnholla/coding-practice/tree/master/0599-minimum-index-sum-of-two-lists) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/gauthamnholla/coding-practice/tree/master/0135-candy) |
 | [0455-assign-cookies](https://github.com/gauthamnholla/coding-practice/tree/master/0455-assign-cookies) |
 | [0502-ipo](https://github.com/gauthamnholla/coding-practice/tree/master/0502-ipo) |
+| [0561-array-partition](https://github.com/gauthamnholla/coding-practice/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/gauthamnholla/coding-practice/tree/master/0605-can-place-flowers) |
 | [0611-valid-triangle-number](https://github.com/gauthamnholla/coding-practice/tree/master/0611-valid-triangle-number) |
 | [0630-course-schedule-iii](https://github.com/gauthamnholla/coding-practice/tree/master/0630-course-schedule-iii) |
@@ -239,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0472-concatenated-words](https://github.com/gauthamnholla/coding-practice/tree/master/0472-concatenated-words) |
 | [0502-ipo](https://github.com/gauthamnholla/coding-practice/tree/master/0502-ipo) |
 | [0506-relative-ranks](https://github.com/gauthamnholla/coding-practice/tree/master/0506-relative-ranks) |
+| [0561-array-partition](https://github.com/gauthamnholla/coding-practice/tree/master/0561-array-partition) |
 | [0594-longest-harmonious-subsequence](https://github.com/gauthamnholla/coding-practice/tree/master/0594-longest-harmonious-subsequence) |
 | [0611-valid-triangle-number](https://github.com/gauthamnholla/coding-practice/tree/master/0611-valid-triangle-number) |
 | [0630-course-schedule-iii](https://github.com/gauthamnholla/coding-practice/tree/master/0630-course-schedule-iii) |
@@ -958,4 +961,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/gauthamnholla/coding-practice/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Counting Sort
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/gauthamnholla/coding-practice/tree/master/0561-array-partition) |
 <!---LeetCode Topics End-->
