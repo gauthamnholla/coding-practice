@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/gauthamnholla/coding-practice/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/gauthamnholla/coding-practice/tree/master/0645-set-mismatch) |
 | [0661-image-smoother](https://github.com/gauthamnholla/coding-practice/tree/master/0661-image-smoother) |
+| [0674-longest-continuous-increasing-subsequence](https://github.com/gauthamnholla/coding-practice/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0679-24-game](https://github.com/gauthamnholla/coding-practice/tree/master/0679-24-game) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/gauthamnholla/coding-practice/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0759-set-intersection-size-at-least-two](https://github.com/gauthamnholla/coding-practice/tree/master/0759-set-intersection-size-at-least-two) |
