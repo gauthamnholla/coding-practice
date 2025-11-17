@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0697-degree-of-an-array](https://github.com/gauthamnholla/coding-practice/tree/master/0697-degree-of-an-array) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/gauthamnholla/coding-practice/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0759-set-intersection-size-at-least-two](https://github.com/gauthamnholla/coding-practice/tree/master/0759-set-intersection-size-at-least-two) |
+| [0792-binary-search](https://github.com/gauthamnholla/coding-practice/tree/master/0792-binary-search) |
 | [0794-swim-in-rising-water](https://github.com/gauthamnholla/coding-practice/tree/master/0794-swim-in-rising-water) |
 | [0830-largest-triangle-area](https://github.com/gauthamnholla/coding-practice/tree/master/0830-largest-triangle-area) |
 | [0894-random-pick-with-blacklist](https://github.com/gauthamnholla/coding-practice/tree/master/0894-random-pick-with-blacklist) |
@@ -781,6 +782,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0354-russian-doll-envelopes](https://github.com/gauthamnholla/coding-practice/tree/master/0354-russian-doll-envelopes) |
 | [0611-valid-triangle-number](https://github.com/gauthamnholla/coding-practice/tree/master/0611-valid-triangle-number) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/gauthamnholla/coding-practice/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [0792-binary-search](https://github.com/gauthamnholla/coding-practice/tree/master/0792-binary-search) |
 | [0794-swim-in-rising-water](https://github.com/gauthamnholla/coding-practice/tree/master/0794-swim-in-rising-water) |
 | [0894-random-pick-with-blacklist](https://github.com/gauthamnholla/coding-practice/tree/master/0894-random-pick-with-blacklist) |
 | [1612-avoid-flood-in-the-city](https://github.com/gauthamnholla/coding-practice/tree/master/1612-avoid-flood-in-the-city) |
