@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/gauthamnholla/coding-practice/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/gauthamnholla/coding-practice/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/gauthamnholla/coding-practice/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/gauthamnholla/coding-practice/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/gauthamnholla/coding-practice/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/gauthamnholla/coding-practice/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1580-shuffle-the-array](https://github.com/gauthamnholla/coding-practice/tree/master/1580-shuffle-the-array) |
@@ -298,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1018-largest-perimeter-triangle](https://github.com/gauthamnholla/coding-practice/tree/master/1018-largest-perimeter-triangle) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/gauthamnholla/coding-practice/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/gauthamnholla/coding-practice/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/gauthamnholla/coding-practice/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/gauthamnholla/coding-practice/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/gauthamnholla/coding-practice/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/gauthamnholla/coding-practice/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
@@ -434,6 +436,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1006-vowel-spellchecker](https://github.com/gauthamnholla/coding-practice/tree/master/1006-vowel-spellchecker) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/gauthamnholla/coding-practice/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/gauthamnholla/coding-practice/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/gauthamnholla/coding-practice/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/gauthamnholla/coding-practice/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1612-avoid-flood-in-the-city](https://github.com/gauthamnholla/coding-practice/tree/master/1612-avoid-flood-in-the-city) |
 | [1813-maximum-erasure-value](https://github.com/gauthamnholla/coding-practice/tree/master/1813-maximum-erasure-value) |
@@ -1065,6 +1068,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/gauthamnholla/coding-practice/tree/master/0561-array-partition) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/gauthamnholla/coding-practice/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## Hash Function
 |  |
 | ------- |
