@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0794-swim-in-rising-water](https://github.com/gauthamnholla/coding-practice/tree/master/0794-swim-in-rising-water) |
 | [0816-design-hashset](https://github.com/gauthamnholla/coding-practice/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/gauthamnholla/coding-practice/tree/master/0817-design-hashmap) |
+| [0822-unique-morse-code-words](https://github.com/gauthamnholla/coding-practice/tree/master/0822-unique-morse-code-words) |
 | [0830-largest-triangle-area](https://github.com/gauthamnholla/coding-practice/tree/master/0830-largest-triangle-area) |
 | [0894-random-pick-with-blacklist](https://github.com/gauthamnholla/coding-practice/tree/master/0894-random-pick-with-blacklist) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/gauthamnholla/coding-practice/tree/master/0934-bitwise-ors-of-subarrays) |
@@ -403,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0749-shortest-completing-word](https://github.com/gauthamnholla/coding-practice/tree/master/0749-shortest-completing-word) |
 | [0816-design-hashset](https://github.com/gauthamnholla/coding-practice/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/gauthamnholla/coding-practice/tree/master/0817-design-hashmap) |
+| [0822-unique-morse-code-words](https://github.com/gauthamnholla/coding-practice/tree/master/0822-unique-morse-code-words) |
 | [0894-random-pick-with-blacklist](https://github.com/gauthamnholla/coding-practice/tree/master/0894-random-pick-with-blacklist) |
 | [0900-reordered-power-of-2](https://github.com/gauthamnholla/coding-practice/tree/master/0900-reordered-power-of-2) |
 | [0940-fruit-into-baskets](https://github.com/gauthamnholla/coding-practice/tree/master/0940-fruit-into-baskets) |
@@ -648,6 +650,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0609-find-duplicate-file-in-system](https://github.com/gauthamnholla/coding-practice/tree/master/0609-find-duplicate-file-in-system) |
 | [0726-number-of-atoms](https://github.com/gauthamnholla/coding-practice/tree/master/0726-number-of-atoms) |
 | [0749-shortest-completing-word](https://github.com/gauthamnholla/coding-practice/tree/master/0749-shortest-completing-word) |
+| [0822-unique-morse-code-words](https://github.com/gauthamnholla/coding-practice/tree/master/0822-unique-morse-code-words) |
 | [1006-vowel-spellchecker](https://github.com/gauthamnholla/coding-practice/tree/master/1006-vowel-spellchecker) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/gauthamnholla/coding-practice/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/gauthamnholla/coding-practice/tree/master/1264-maximum-number-of-words-you-can-type) |
