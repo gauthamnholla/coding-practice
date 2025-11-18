@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/gauthamnholla/coding-practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0630-course-schedule-iii](https://github.com/gauthamnholla/coding-practice/tree/master/0630-course-schedule-iii) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/gauthamnholla/coding-practice/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0636-exclusive-time-of-functions](https://github.com/gauthamnholla/coding-practice/tree/master/0636-exclusive-time-of-functions) |
 | [0643-maximum-average-subarray-i](https://github.com/gauthamnholla/coding-practice/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/gauthamnholla/coding-practice/tree/master/0645-set-mismatch) |
 | [0661-image-smoother](https://github.com/gauthamnholla/coding-practice/tree/master/0661-image-smoother) |
@@ -759,6 +760,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/gauthamnholla/coding-practice/tree/master/0085-maximal-rectangle) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/gauthamnholla/coding-practice/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0496-next-greater-element-i](https://github.com/gauthamnholla/coding-practice/tree/master/0496-next-greater-element-i) |
+| [0636-exclusive-time-of-functions](https://github.com/gauthamnholla/coding-practice/tree/master/0636-exclusive-time-of-functions) |
 | [0682-baseball-game](https://github.com/gauthamnholla/coding-practice/tree/master/0682-baseball-game) |
 | [0726-number-of-atoms](https://github.com/gauthamnholla/coding-practice/tree/master/0726-number-of-atoms) |
 | [1552-build-an-array-with-stack-operations](https://github.com/gauthamnholla/coding-practice/tree/master/1552-build-an-array-with-stack-operations) |
