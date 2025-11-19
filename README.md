@@ -1099,6 +1099,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/gauthamnholla/coding-practice/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
+| [1661-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/gauthamnholla/coding-practice/tree/master/1661-minimum-number-of-vertices-to-reach-all-nodes) |
 | [2198-process-restricted-friend-requests](https://github.com/gauthamnholla/coding-practice/tree/master/2198-process-restricted-friend-requests) |
 | [3863-power-grid-maintenance](https://github.com/gauthamnholla/coding-practice/tree/master/3863-power-grid-maintenance) |
 ## Binary Tree
