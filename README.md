@@ -701,6 +701,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0609-find-duplicate-file-in-system](https://github.com/gauthamnholla/coding-practice/tree/master/0609-find-duplicate-file-in-system) |
 | [0726-number-of-atoms](https://github.com/gauthamnholla/coding-practice/tree/master/0726-number-of-atoms) |
 | [0749-shortest-completing-word](https://github.com/gauthamnholla/coding-practice/tree/master/0749-shortest-completing-word) |
+| [0812-rotate-string](https://github.com/gauthamnholla/coding-practice/tree/master/0812-rotate-string) |
 | [0822-unique-morse-code-words](https://github.com/gauthamnholla/coding-practice/tree/master/0822-unique-morse-code-words) |
 | [0824-number-of-lines-to-write-string](https://github.com/gauthamnholla/coding-practice/tree/master/0824-number-of-lines-to-write-string) |
 | [0837-most-common-word](https://github.com/gauthamnholla/coding-practice/tree/master/0837-most-common-word) |
@@ -1102,4 +1103,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0459-repeated-substring-pattern](https://github.com/gauthamnholla/coding-practice/tree/master/0459-repeated-substring-pattern) |
+| [0812-rotate-string](https://github.com/gauthamnholla/coding-practice/tree/master/0812-rotate-string) |
 <!---LeetCode Topics End-->
