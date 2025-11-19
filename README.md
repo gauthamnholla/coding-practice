@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-sort-an-array](https://github.com/gauthamnholla/coding-practice/tree/master/0948-sort-an-array) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/gauthamnholla/coding-practice/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [0958-sort-array-by-parity-ii](https://github.com/gauthamnholla/coding-practice/tree/master/0958-sort-array-by-parity-ii) |
+| [0989-largest-component-size-by-common-factor](https://github.com/gauthamnholla/coding-practice/tree/master/0989-largest-component-size-by-common-factor) |
 | [1006-vowel-spellchecker](https://github.com/gauthamnholla/coding-practice/tree/master/1006-vowel-spellchecker) |
 | [1018-largest-perimeter-triangle](https://github.com/gauthamnholla/coding-practice/tree/master/1018-largest-perimeter-triangle) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/gauthamnholla/coding-practice/tree/master/1111-minimum-score-triangulation-of-polygon) |
@@ -450,6 +451,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0924-fair-candy-swap](https://github.com/gauthamnholla/coding-practice/tree/master/0924-fair-candy-swap) |
 | [0940-fruit-into-baskets](https://github.com/gauthamnholla/coding-practice/tree/master/0940-fruit-into-baskets) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/gauthamnholla/coding-practice/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
+| [0989-largest-component-size-by-common-factor](https://github.com/gauthamnholla/coding-practice/tree/master/0989-largest-component-size-by-common-factor) |
 | [1006-vowel-spellchecker](https://github.com/gauthamnholla/coding-practice/tree/master/1006-vowel-spellchecker) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/gauthamnholla/coding-practice/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/gauthamnholla/coding-practice/tree/master/1353-find-resultant-array-after-removing-anagrams) |
@@ -654,6 +656,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0928-surface-area-of-3d-shapes](https://github.com/gauthamnholla/coding-practice/tree/master/0928-surface-area-of-3d-shapes) |
 | [0944-smallest-range-i](https://github.com/gauthamnholla/coding-practice/tree/master/0944-smallest-range-i) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/gauthamnholla/coding-practice/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
+| [0989-largest-component-size-by-common-factor](https://github.com/gauthamnholla/coding-practice/tree/master/0989-largest-component-size-by-common-factor) |
 | [1018-largest-perimeter-triangle](https://github.com/gauthamnholla/coding-practice/tree/master/1018-largest-perimeter-triangle) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/gauthamnholla/coding-practice/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/gauthamnholla/coding-practice/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
@@ -1054,6 +1057,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/gauthamnholla/coding-practice/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
+| [0989-largest-component-size-by-common-factor](https://github.com/gauthamnholla/coding-practice/tree/master/0989-largest-component-size-by-common-factor) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/gauthamnholla/coding-practice/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/gauthamnholla/coding-practice/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/gauthamnholla/coding-practice/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
@@ -1082,6 +1086,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/gauthamnholla/coding-practice/tree/master/0128-longest-consecutive-sequence) |
 | [0794-swim-in-rising-water](https://github.com/gauthamnholla/coding-practice/tree/master/0794-swim-in-rising-water) |
+| [0989-largest-component-size-by-common-factor](https://github.com/gauthamnholla/coding-practice/tree/master/0989-largest-component-size-by-common-factor) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/gauthamnholla/coding-practice/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [3863-power-grid-maintenance](https://github.com/gauthamnholla/coding-practice/tree/master/3863-power-grid-maintenance) |
 ## Bitmask
