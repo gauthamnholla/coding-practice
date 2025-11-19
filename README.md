@@ -876,6 +876,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/gauthamnholla/coding-practice/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/gauthamnholla/coding-practice/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/gauthamnholla/coding-practice/tree/master/0051-n-queens) |
+| [0077-combinations](https://github.com/gauthamnholla/coding-practice/tree/master/0077-combinations) |
 | [0089-gray-code](https://github.com/gauthamnholla/coding-practice/tree/master/0089-gray-code) |
 | [0093-restore-ip-addresses](https://github.com/gauthamnholla/coding-practice/tree/master/0093-restore-ip-addresses) |
 | [0679-24-game](https://github.com/gauthamnholla/coding-practice/tree/master/0679-24-game) |
