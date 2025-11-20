@@ -359,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/gauthamnholla/coding-practice/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2429-design-a-food-rating-system](https://github.com/gauthamnholla/coding-practice/tree/master/2429-design-a-food-rating-system) |
 | [2479-meeting-rooms-iii](https://github.com/gauthamnholla/coding-practice/tree/master/2479-meeting-rooms-iii) |
+| [2678-design-graph-with-shortest-path-calculator](https://github.com/gauthamnholla/coding-practice/tree/master/2678-design-graph-with-shortest-path-calculator) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/gauthamnholla/coding-practice/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/gauthamnholla/coding-practice/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/gauthamnholla/coding-practice/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
@@ -507,6 +508,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2023-design-movie-rental-system](https://github.com/gauthamnholla/coding-practice/tree/master/2023-design-movie-rental-system) |
 | [2169-simple-bank-system](https://github.com/gauthamnholla/coding-practice/tree/master/2169-simple-bank-system) |
 | [2429-design-a-food-rating-system](https://github.com/gauthamnholla/coding-practice/tree/master/2429-design-a-food-rating-system) |
+| [2678-design-graph-with-shortest-path-calculator](https://github.com/gauthamnholla/coding-practice/tree/master/2678-design-graph-with-shortest-path-calculator) |
 | [3678-design-task-manager](https://github.com/gauthamnholla/coding-practice/tree/master/3678-design-task-manager) |
 ## Simulation
 |  |
@@ -1139,6 +1141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2321-minimum-weighted-subgraph-with-the-required-paths](https://github.com/gauthamnholla/coding-practice/tree/master/2321-minimum-weighted-subgraph-with-the-required-paths) |
 | [2582-minimum-score-of-a-path-between-two-cities](https://github.com/gauthamnholla/coding-practice/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
 | [2596-add-edges-to-make-degrees-of-all-nodes-even](https://github.com/gauthamnholla/coding-practice/tree/master/2596-add-edges-to-make-degrees-of-all-nodes-even) |
+| [2678-design-graph-with-shortest-path-calculator](https://github.com/gauthamnholla/coding-practice/tree/master/2678-design-graph-with-shortest-path-calculator) |
 | [2793-count-the-number-of-complete-components](https://github.com/gauthamnholla/coding-practice/tree/master/2793-count-the-number-of-complete-components) |
 | [3863-power-grid-maintenance](https://github.com/gauthamnholla/coding-practice/tree/master/3863-power-grid-maintenance) |
 ## Binary Tree
@@ -1213,4 +1216,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0744-network-delay-time](https://github.com/gauthamnholla/coding-practice/tree/master/0744-network-delay-time) |
 | [2321-minimum-weighted-subgraph-with-the-required-paths](https://github.com/gauthamnholla/coding-practice/tree/master/2321-minimum-weighted-subgraph-with-the-required-paths) |
+| [2678-design-graph-with-shortest-path-calculator](https://github.com/gauthamnholla/coding-practice/tree/master/2678-design-graph-with-shortest-path-calculator) |
 <!---LeetCode Topics End-->
