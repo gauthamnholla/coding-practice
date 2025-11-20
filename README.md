@@ -162,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/gauthamnholla/coding-practice/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2169-simple-bank-system](https://github.com/gauthamnholla/coding-practice/tree/master/2169-simple-bank-system) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/gauthamnholla/coding-practice/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [2189-maximum-path-quality-of-a-graph](https://github.com/gauthamnholla/coding-practice/tree/master/2189-maximum-path-quality-of-a-graph) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/gauthamnholla/coding-practice/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/gauthamnholla/coding-practice/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/gauthamnholla/coding-practice/tree/master/2244-number-of-laser-beams-in-a-bank) |
@@ -891,6 +892,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2140-longest-subsequence-repeated-k-times](https://github.com/gauthamnholla/coding-practice/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/gauthamnholla/coding-practice/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/gauthamnholla/coding-practice/tree/master/2174-next-greater-numerically-balanced-number) |
+| [2189-maximum-path-quality-of-a-graph](https://github.com/gauthamnholla/coding-practice/tree/master/2189-maximum-path-quality-of-a-graph) |
 ## Binary Search
 |  |
 | ------- |
@@ -1101,6 +1103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/gauthamnholla/coding-practice/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1661-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/gauthamnholla/coding-practice/tree/master/1661-minimum-number-of-vertices-to-reach-all-nodes) |
+| [2189-maximum-path-quality-of-a-graph](https://github.com/gauthamnholla/coding-practice/tree/master/2189-maximum-path-quality-of-a-graph) |
 | [2198-process-restricted-friend-requests](https://github.com/gauthamnholla/coding-practice/tree/master/2198-process-restricted-friend-requests) |
 | [2596-add-edges-to-make-degrees-of-all-nodes-even](https://github.com/gauthamnholla/coding-practice/tree/master/2596-add-edges-to-make-degrees-of-all-nodes-even) |
 | [3863-power-grid-maintenance](https://github.com/gauthamnholla/coding-practice/tree/master/3863-power-grid-maintenance) |
