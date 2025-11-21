@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1018-largest-perimeter-triangle](https://github.com/gauthamnholla/coding-practice/tree/master/1018-largest-perimeter-triangle) |
 | [1019-squares-of-a-sorted-array](https://github.com/gauthamnholla/coding-practice/tree/master/1019-squares-of-a-sorted-array) |
 | [1039-find-the-town-judge](https://github.com/gauthamnholla/coding-practice/tree/master/1039-find-the-town-judge) |
+| [1041-available-captures-for-rook](https://github.com/gauthamnholla/coding-practice/tree/master/1041-available-captures-for-rook) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/gauthamnholla/coding-practice/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1299-k-concatenation-maximum-sum](https://github.com/gauthamnholla/coding-practice/tree/master/1299-k-concatenation-maximum-sum) |
 | [1306-minimum-absolute-difference](https://github.com/gauthamnholla/coding-practice/tree/master/1306-minimum-absolute-difference) |
@@ -536,6 +537,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/gauthamnholla/coding-practice/tree/master/0682-baseball-game) |
 | [0861-flipping-an-image](https://github.com/gauthamnholla/coding-practice/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/gauthamnholla/coding-practice/tree/master/0898-transpose-matrix) |
+| [1041-available-captures-for-rook](https://github.com/gauthamnholla/coding-practice/tree/master/1041-available-captures-for-rook) |
 | [1552-build-an-array-with-stack-operations](https://github.com/gauthamnholla/coding-practice/tree/master/1552-build-an-array-with-stack-operations) |
 | [1642-water-bottles](https://github.com/gauthamnholla/coding-practice/tree/master/1642-water-bottles) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/gauthamnholla/coding-practice/tree/master/1667-find-kth-bit-in-nth-binary-string) |
@@ -1033,6 +1035,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0898-transpose-matrix](https://github.com/gauthamnholla/coding-practice/tree/master/0898-transpose-matrix) |
 | [0919-projection-area-of-3d-shapes](https://github.com/gauthamnholla/coding-practice/tree/master/0919-projection-area-of-3d-shapes) |
 | [0928-surface-area-of-3d-shapes](https://github.com/gauthamnholla/coding-practice/tree/master/0928-surface-area-of-3d-shapes) |
+| [1041-available-captures-for-rook](https://github.com/gauthamnholla/coding-practice/tree/master/1041-available-captures-for-rook) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/gauthamnholla/coding-practice/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1628-count-submatrices-with-all-ones](https://github.com/gauthamnholla/coding-practice/tree/master/1628-count-submatrices-with-all-ones) |
 | [1876-map-of-highest-peak](https://github.com/gauthamnholla/coding-practice/tree/master/1876-map-of-highest-peak) |
