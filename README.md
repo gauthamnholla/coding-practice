@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1041-available-captures-for-rook](https://github.com/gauthamnholla/coding-practice/tree/master/1041-available-captures-for-rook) |
 | [1044-find-common-characters](https://github.com/gauthamnholla/coding-practice/tree/master/1044-find-common-characters) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/gauthamnholla/coding-practice/tree/master/1047-maximize-sum-of-array-after-k-negations) |
+| [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/gauthamnholla/coding-practice/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/gauthamnholla/coding-practice/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1299-k-concatenation-maximum-sum](https://github.com/gauthamnholla/coding-practice/tree/master/1299-k-concatenation-maximum-sum) |
 | [1306-minimum-absolute-difference](https://github.com/gauthamnholla/coding-practice/tree/master/1306-minimum-absolute-difference) |
@@ -259,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0979-di-string-match](https://github.com/gauthamnholla/coding-practice/tree/master/0979-di-string-match) |
 | [1018-largest-perimeter-triangle](https://github.com/gauthamnholla/coding-practice/tree/master/1018-largest-perimeter-triangle) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/gauthamnholla/coding-practice/tree/master/1047-maximize-sum-of-array-after-k-negations) |
+| [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/gauthamnholla/coding-practice/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
 | [1448-maximum-69-number](https://github.com/gauthamnholla/coding-practice/tree/master/1448-maximum-69-number) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/gauthamnholla/coding-practice/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/gauthamnholla/coding-practice/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
