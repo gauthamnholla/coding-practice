@@ -616,6 +616,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/gauthamnholla/coding-practice/tree/master/0045-jump-game-ii) |
 | [0085-maximal-rectangle](https://github.com/gauthamnholla/coding-practice/tree/master/0085-maximal-rectangle) |
 | [0087-scramble-string](https://github.com/gauthamnholla/coding-practice/tree/master/0087-scramble-string) |
+| [0095-unique-binary-search-trees-ii](https://github.com/gauthamnholla/coding-practice/tree/master/0095-unique-binary-search-trees-ii) |
 | [0097-interleaving-string](https://github.com/gauthamnholla/coding-practice/tree/master/0097-interleaving-string) |
 | [0118-pascals-triangle](https://github.com/gauthamnholla/coding-practice/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/gauthamnholla/coding-practice/tree/master/0119-pascals-triangle-ii) |
@@ -972,6 +973,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/gauthamnholla/coding-practice/tree/master/0095-unique-binary-search-trees-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/gauthamnholla/coding-practice/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/gauthamnholla/coding-practice/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/gauthamnholla/coding-practice/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -1024,6 +1026,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0089-gray-code](https://github.com/gauthamnholla/coding-practice/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/gauthamnholla/coding-practice/tree/master/0090-subsets-ii) |
 | [0093-restore-ip-addresses](https://github.com/gauthamnholla/coding-practice/tree/master/0093-restore-ip-addresses) |
+| [0095-unique-binary-search-trees-ii](https://github.com/gauthamnholla/coding-practice/tree/master/0095-unique-binary-search-trees-ii) |
 | [0679-24-game](https://github.com/gauthamnholla/coding-practice/tree/master/0679-24-game) |
 | [0813-all-paths-from-source-to-target](https://github.com/gauthamnholla/coding-practice/tree/master/0813-all-paths-from-source-to-target) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/gauthamnholla/coding-practice/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
@@ -1295,6 +1298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/gauthamnholla/coding-practice/tree/master/0095-unique-binary-search-trees-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/gauthamnholla/coding-practice/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/gauthamnholla/coding-practice/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/gauthamnholla/coding-practice/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -1328,6 +1332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/gauthamnholla/coding-practice/tree/master/0095-unique-binary-search-trees-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/gauthamnholla/coding-practice/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/gauthamnholla/coding-practice/tree/master/0450-delete-node-in-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/gauthamnholla/coding-practice/tree/master/0783-search-in-a-binary-search-tree) |
