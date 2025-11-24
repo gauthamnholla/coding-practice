@@ -725,6 +725,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/gauthamnholla/coding-practice/tree/master/0023-merge-k-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/gauthamnholla/coding-practice/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0086-partition-list](https://github.com/gauthamnholla/coding-practice/tree/master/0086-partition-list) |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/gauthamnholla/coding-practice/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0138-copy-list-with-random-pointer](https://github.com/gauthamnholla/coding-practice/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/gauthamnholla/coding-practice/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/gauthamnholla/coding-practice/tree/master/0160-intersection-of-two-linked-lists) |
@@ -1009,6 +1010,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/gauthamnholla/coding-practice/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/gauthamnholla/coding-practice/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/gauthamnholla/coding-practice/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/gauthamnholla/coding-practice/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0113-path-sum-ii](https://github.com/gauthamnholla/coding-practice/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/gauthamnholla/coding-practice/tree/master/0257-binary-tree-paths) |
 | [0450-delete-node-in-a-bst](https://github.com/gauthamnholla/coding-practice/tree/master/0450-delete-node-in-a-bst) |
@@ -1197,6 +1199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/gauthamnholla/coding-practice/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/gauthamnholla/coding-practice/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/gauthamnholla/coding-practice/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/gauthamnholla/coding-practice/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/gauthamnholla/coding-practice/tree/master/0169-majority-element) |
 | [0218-the-skyline-problem](https://github.com/gauthamnholla/coding-practice/tree/master/0218-the-skyline-problem) |
 | [0307-range-sum-query-mutable](https://github.com/gauthamnholla/coding-practice/tree/master/0307-range-sum-query-mutable) |
@@ -1351,6 +1354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/gauthamnholla/coding-practice/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/gauthamnholla/coding-practice/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/gauthamnholla/coding-practice/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/gauthamnholla/coding-practice/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0113-path-sum-ii](https://github.com/gauthamnholla/coding-practice/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/gauthamnholla/coding-practice/tree/master/0257-binary-tree-paths) |
 | [0450-delete-node-in-a-bst](https://github.com/gauthamnholla/coding-practice/tree/master/0450-delete-node-in-a-bst) |
@@ -1388,6 +1392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/gauthamnholla/coding-practice/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/gauthamnholla/coding-practice/tree/master/0099-recover-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/gauthamnholla/coding-practice/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/gauthamnholla/coding-practice/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/gauthamnholla/coding-practice/tree/master/0450-delete-node-in-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/gauthamnholla/coding-practice/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/gauthamnholla/coding-practice/tree/master/0784-insert-into-a-binary-search-tree) |
