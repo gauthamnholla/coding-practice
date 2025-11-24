@@ -13,30 +13,24 @@
  *     }
  * }
  */
-class Solution {
-    private int sum = 0;
-    private int currSum = 0; 
 
+class Solution {
+    int sum = 0;
     public TreeNode convertBST(TreeNode root) {
-        inorder(root);
-        inorder2(root);
+        if(root==null){
+            return root;
+        }
+        reverseInorder(root);
         return root;
     }
-
-    private void inorder(TreeNode root) {
-        if (root == null) return;
-        inorder(root.left);
-        sum += root.val;
-        inorder(root.right);
-    }
-
-    private void inorder2(TreeNode root) {
-        if (root == null) return;
-
-        inorder2(root.left);
-        int oldVal = root.val;
-        root.val = sum - currSum;
-        currSum += oldVal; 
-        inorder2(root.right);
+    private void reverseInorder(TreeNode root){
+        if(root==null){
+            return;
+        }
+        reverseInorder(root.right);
+        root.val = root.val + sum;
+        sum = root.val;
+        reverseInorder(root.left);
+        return;
     }
 }
