@@ -572,6 +572,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0173-binary-search-tree-iterator](https://github.com/gauthamnholla/coding-practice/tree/master/0173-binary-search-tree-iterator) |
 | [0208-implement-trie-prefix-tree](https://github.com/gauthamnholla/coding-practice/tree/master/0208-implement-trie-prefix-tree) |
 | [0295-find-median-from-data-stream](https://github.com/gauthamnholla/coding-practice/tree/master/0295-find-median-from-data-stream) |
 | [0303-range-sum-query-immutable](https://github.com/gauthamnholla/coding-practice/tree/master/0303-range-sum-query-immutable) |
@@ -948,6 +949,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/gauthamnholla/coding-practice/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/gauthamnholla/coding-practice/tree/master/0085-maximal-rectangle) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/gauthamnholla/coding-practice/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0173-binary-search-tree-iterator](https://github.com/gauthamnholla/coding-practice/tree/master/0173-binary-search-tree-iterator) |
 | [0321-create-maximum-number](https://github.com/gauthamnholla/coding-practice/tree/master/0321-create-maximum-number) |
 | [0394-decode-string](https://github.com/gauthamnholla/coding-practice/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/gauthamnholla/coding-practice/tree/master/0402-remove-k-digits) |
@@ -1012,6 +1014,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/gauthamnholla/coding-practice/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/gauthamnholla/coding-practice/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0113-path-sum-ii](https://github.com/gauthamnholla/coding-practice/tree/master/0113-path-sum-ii) |
+| [0173-binary-search-tree-iterator](https://github.com/gauthamnholla/coding-practice/tree/master/0173-binary-search-tree-iterator) |
 | [0257-binary-tree-paths](https://github.com/gauthamnholla/coding-practice/tree/master/0257-binary-tree-paths) |
 | [0450-delete-node-in-a-bst](https://github.com/gauthamnholla/coding-practice/tree/master/0450-delete-node-in-a-bst) |
 | [0606-construct-string-from-binary-tree](https://github.com/gauthamnholla/coding-practice/tree/master/0606-construct-string-from-binary-tree) |
@@ -1356,6 +1359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/gauthamnholla/coding-practice/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/gauthamnholla/coding-practice/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0113-path-sum-ii](https://github.com/gauthamnholla/coding-practice/tree/master/0113-path-sum-ii) |
+| [0173-binary-search-tree-iterator](https://github.com/gauthamnholla/coding-practice/tree/master/0173-binary-search-tree-iterator) |
 | [0257-binary-tree-paths](https://github.com/gauthamnholla/coding-practice/tree/master/0257-binary-tree-paths) |
 | [0450-delete-node-in-a-bst](https://github.com/gauthamnholla/coding-practice/tree/master/0450-delete-node-in-a-bst) |
 | [0606-construct-string-from-binary-tree](https://github.com/gauthamnholla/coding-practice/tree/master/0606-construct-string-from-binary-tree) |
@@ -1393,6 +1397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0099-recover-binary-search-tree](https://github.com/gauthamnholla/coding-practice/tree/master/0099-recover-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/gauthamnholla/coding-practice/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/gauthamnholla/coding-practice/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0173-binary-search-tree-iterator](https://github.com/gauthamnholla/coding-practice/tree/master/0173-binary-search-tree-iterator) |
 | [0450-delete-node-in-a-bst](https://github.com/gauthamnholla/coding-practice/tree/master/0450-delete-node-in-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/gauthamnholla/coding-practice/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/gauthamnholla/coding-practice/tree/master/0784-insert-into-a-binary-search-tree) |
@@ -1453,4 +1458,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0460-lfu-cache](https://github.com/gauthamnholla/coding-practice/tree/master/0460-lfu-cache) |
+## Iterator
+|  |
+| ------- |
+| [0173-binary-search-tree-iterator](https://github.com/gauthamnholla/coding-practice/tree/master/0173-binary-search-tree-iterator) |
 <!---LeetCode Topics End-->
