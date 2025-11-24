@@ -224,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2529-range-product-queries-of-powers](https://github.com/gauthamnholla/coding-practice/tree/master/2529-range-product-queries-of-powers) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/gauthamnholla/coding-practice/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2625-increment-submatrices-by-one](https://github.com/gauthamnholla/coding-practice/tree/master/2625-increment-submatrices-by-one) |
+| [2644-find-the-maximum-divisibility-score](https://github.com/gauthamnholla/coding-practice/tree/master/2644-find-the-maximum-divisibility-score) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/gauthamnholla/coding-practice/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2689-rearranging-fruits](https://github.com/gauthamnholla/coding-practice/tree/master/2689-rearranging-fruits) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/gauthamnholla/coding-practice/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
