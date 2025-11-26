@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/gauthamnholla/coding-practice/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/gauthamnholla/coding-practice/tree/master/0051-n-queens) |
 | [0063-unique-paths-ii](https://github.com/gauthamnholla/coding-practice/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/gauthamnholla/coding-practice/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/gauthamnholla/coding-practice/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/gauthamnholla/coding-practice/tree/master/0073-set-matrix-zeroes) |
 | [0078-subsets](https://github.com/gauthamnholla/coding-practice/tree/master/0078-subsets) |
@@ -650,6 +651,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/gauthamnholla/coding-practice/tree/master/0045-jump-game-ii) |
 | [0062-unique-paths](https://github.com/gauthamnholla/coding-practice/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/gauthamnholla/coding-practice/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/gauthamnholla/coding-practice/tree/master/0064-minimum-path-sum) |
 | [0085-maximal-rectangle](https://github.com/gauthamnholla/coding-practice/tree/master/0085-maximal-rectangle) |
 | [0087-scramble-string](https://github.com/gauthamnholla/coding-practice/tree/master/0087-scramble-string) |
 | [0095-unique-binary-search-trees-ii](https://github.com/gauthamnholla/coding-practice/tree/master/0095-unique-binary-search-trees-ii) |
@@ -1236,6 +1238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/gauthamnholla/coding-practice/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/gauthamnholla/coding-practice/tree/master/0048-rotate-image) |
 | [0063-unique-paths-ii](https://github.com/gauthamnholla/coding-practice/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/gauthamnholla/coding-practice/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/gauthamnholla/coding-practice/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/gauthamnholla/coding-practice/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/gauthamnholla/coding-practice/tree/master/0085-maximal-rectangle) |
