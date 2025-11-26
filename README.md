@@ -996,6 +996,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1462-course-schedule-iv](https://github.com/gauthamnholla/coding-practice/tree/master/1462-course-schedule-iv) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/gauthamnholla/coding-practice/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [2121-find-if-path-exists-in-graph](https://github.com/gauthamnholla/coding-practice/tree/master/2121-find-if-path-exists-in-graph) |
+| [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/gauthamnholla/coding-practice/tree/master/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/gauthamnholla/coding-practice/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/gauthamnholla/coding-practice/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 | [2582-minimum-score-of-a-path-between-two-cities](https://github.com/gauthamnholla/coding-practice/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
@@ -1414,6 +1415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/gauthamnholla/coding-practice/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1876-map-of-highest-peak](https://github.com/gauthamnholla/coding-practice/tree/master/1876-map-of-highest-peak) |
 | [2121-find-if-path-exists-in-graph](https://github.com/gauthamnholla/coding-practice/tree/master/2121-find-if-path-exists-in-graph) |
+| [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/gauthamnholla/coding-practice/tree/master/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [2582-minimum-score-of-a-path-between-two-cities](https://github.com/gauthamnholla/coding-practice/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
 | [2793-count-the-number-of-complete-components](https://github.com/gauthamnholla/coding-practice/tree/master/2793-count-the-number-of-complete-components) |
 | [3863-power-grid-maintenance](https://github.com/gauthamnholla/coding-practice/tree/master/3863-power-grid-maintenance) |
@@ -1461,6 +1463,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/gauthamnholla/coding-practice/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 | [2121-find-if-path-exists-in-graph](https://github.com/gauthamnholla/coding-practice/tree/master/2121-find-if-path-exists-in-graph) |
 | [2189-maximum-path-quality-of-a-graph](https://github.com/gauthamnholla/coding-practice/tree/master/2189-maximum-path-quality-of-a-graph) |
+| [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/gauthamnholla/coding-practice/tree/master/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [2198-process-restricted-friend-requests](https://github.com/gauthamnholla/coding-practice/tree/master/2198-process-restricted-friend-requests) |
 | [2321-minimum-weighted-subgraph-with-the-required-paths](https://github.com/gauthamnholla/coding-practice/tree/master/2321-minimum-weighted-subgraph-with-the-required-paths) |
 | [2582-minimum-score-of-a-path-between-two-cities](https://github.com/gauthamnholla/coding-practice/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
@@ -1622,6 +1625,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1786-number-of-restricted-paths-from-first-to-last-node](https://github.com/gauthamnholla/coding-practice/tree/master/1786-number-of-restricted-paths-from-first-to-last-node) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/gauthamnholla/coding-practice/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/gauthamnholla/coding-practice/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
+| [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/gauthamnholla/coding-practice/tree/master/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 ## Doubly-Linked List
 |  |
 | ------- |
