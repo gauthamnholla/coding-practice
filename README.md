@@ -221,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/gauthamnholla/coding-practice/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2429-design-a-food-rating-system](https://github.com/gauthamnholla/coding-practice/tree/master/2429-design-a-food-rating-system) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/gauthamnholla/coding-practice/tree/master/2432-number-of-zero-filled-subarrays) |
+| [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/gauthamnholla/coding-practice/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/gauthamnholla/coding-practice/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/gauthamnholla/coding-practice/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 | [2479-meeting-rooms-iii](https://github.com/gauthamnholla/coding-practice/tree/master/2479-meeting-rooms-iii) |
@@ -686,6 +687,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/gauthamnholla/coding-practice/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/gauthamnholla/coding-practice/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/gauthamnholla/coding-practice/tree/master/2408-number-of-people-aware-of-a-secret) |
+| [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/gauthamnholla/coding-practice/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/gauthamnholla/coding-practice/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/gauthamnholla/coding-practice/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/gauthamnholla/coding-practice/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
@@ -1253,6 +1255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2022-convert-1d-array-into-2d-array](https://github.com/gauthamnholla/coding-practice/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/gauthamnholla/coding-practice/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/gauthamnholla/coding-practice/tree/master/2343-count-unguarded-cells-in-the-grid) |
+| [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/gauthamnholla/coding-practice/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2625-increment-submatrices-by-one](https://github.com/gauthamnholla/coding-practice/tree/master/2625-increment-submatrices-by-one) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/gauthamnholla/coding-practice/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/gauthamnholla/coding-practice/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
