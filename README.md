@@ -993,6 +993,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0897-increasing-order-search-tree](https://github.com/gauthamnholla/coding-practice/tree/master/0897-increasing-order-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/gauthamnholla/coding-practice/tree/master/0938-range-sum-of-bst) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/gauthamnholla/coding-practice/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
+| [1203-sort-items-by-groups-respecting-dependencies](https://github.com/gauthamnholla/coding-practice/tree/master/1203-sort-items-by-groups-respecting-dependencies) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/gauthamnholla/coding-practice/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/gauthamnholla/coding-practice/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/gauthamnholla/coding-practice/tree/master/1373-maximum-sum-bst-in-binary-tree) |
@@ -1414,6 +1415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0802-find-eventual-safe-states](https://github.com/gauthamnholla/coding-practice/tree/master/0802-find-eventual-safe-states) |
 | [0813-all-paths-from-source-to-target](https://github.com/gauthamnholla/coding-practice/tree/master/0813-all-paths-from-source-to-target) |
 | [0833-bus-routes](https://github.com/gauthamnholla/coding-practice/tree/master/0833-bus-routes) |
+| [1203-sort-items-by-groups-respecting-dependencies](https://github.com/gauthamnholla/coding-practice/tree/master/1203-sort-items-by-groups-respecting-dependencies) |
 | [1229-shortest-path-with-alternating-colors](https://github.com/gauthamnholla/coding-practice/tree/master/1229-shortest-path-with-alternating-colors) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/gauthamnholla/coding-practice/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1436-get-watched-videos-by-your-friends](https://github.com/gauthamnholla/coding-practice/tree/master/1436-get-watched-videos-by-your-friends) |
@@ -1458,6 +1460,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0851-loud-and-rich](https://github.com/gauthamnholla/coding-practice/tree/master/0851-loud-and-rich) |
 | [0949-cat-and-mouse](https://github.com/gauthamnholla/coding-practice/tree/master/0949-cat-and-mouse) |
 | [1039-find-the-town-judge](https://github.com/gauthamnholla/coding-practice/tree/master/1039-find-the-town-judge) |
+| [1203-sort-items-by-groups-respecting-dependencies](https://github.com/gauthamnholla/coding-practice/tree/master/1203-sort-items-by-groups-respecting-dependencies) |
 | [1229-shortest-path-with-alternating-colors](https://github.com/gauthamnholla/coding-practice/tree/master/1229-shortest-path-with-alternating-colors) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/gauthamnholla/coding-practice/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1436-get-watched-videos-by-your-friends](https://github.com/gauthamnholla/coding-practice/tree/master/1436-get-watched-videos-by-your-friends) |
@@ -1629,6 +1632,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0802-find-eventual-safe-states](https://github.com/gauthamnholla/coding-practice/tree/master/0802-find-eventual-safe-states) |
 | [0851-loud-and-rich](https://github.com/gauthamnholla/coding-practice/tree/master/0851-loud-and-rich) |
 | [0949-cat-and-mouse](https://github.com/gauthamnholla/coding-practice/tree/master/0949-cat-and-mouse) |
+| [1203-sort-items-by-groups-respecting-dependencies](https://github.com/gauthamnholla/coding-practice/tree/master/1203-sort-items-by-groups-respecting-dependencies) |
 | [1462-course-schedule-iv](https://github.com/gauthamnholla/coding-practice/tree/master/1462-course-schedule-iv) |
 | [1786-number-of-restricted-paths-from-first-to-last-node](https://github.com/gauthamnholla/coding-practice/tree/master/1786-number-of-restricted-paths-from-first-to-last-node) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/gauthamnholla/coding-practice/tree/master/1976-number-of-ways-to-arrive-at-destination) |
