@@ -217,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/gauthamnholla/coding-practice/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/gauthamnholla/coding-practice/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/gauthamnholla/coding-practice/tree/master/2244-number-of-laser-beams-in-a-bank) |
+| [2246-longest-path-with-different-adjacent-characters](https://github.com/gauthamnholla/coding-practice/tree/master/2246-longest-path-with-different-adjacent-characters) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/gauthamnholla/coding-practice/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/gauthamnholla/coding-practice/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/gauthamnholla/coding-practice/tree/master/2307-replace-non-coprime-numbers-in-array) |
@@ -950,6 +951,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/gauthamnholla/coding-practice/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/gauthamnholla/coding-practice/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/gauthamnholla/coding-practice/tree/master/2244-number-of-laser-beams-in-a-bank) |
+| [2246-longest-path-with-different-adjacent-characters](https://github.com/gauthamnholla/coding-practice/tree/master/2246-longest-path-with-different-adjacent-characters) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/gauthamnholla/coding-practice/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2326-sum-of-scores-of-built-strings](https://github.com/gauthamnholla/coding-practice/tree/master/2326-sum-of-scores-of-built-strings) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/gauthamnholla/coding-practice/tree/master/2346-largest-3-same-digit-number-in-string) |
@@ -1019,6 +1021,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2121-find-if-path-exists-in-graph](https://github.com/gauthamnholla/coding-practice/tree/master/2121-find-if-path-exists-in-graph) |
 | [2127-maximum-employees-to-be-invited-to-a-meeting](https://github.com/gauthamnholla/coding-practice/tree/master/2127-maximum-employees-to-be-invited-to-a-meeting) |
 | [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/gauthamnholla/coding-practice/tree/master/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
+| [2246-longest-path-with-different-adjacent-characters](https://github.com/gauthamnholla/coding-practice/tree/master/2246-longest-path-with-different-adjacent-characters) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/gauthamnholla/coding-practice/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/gauthamnholla/coding-practice/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 | [2582-minimum-score-of-a-path-between-two-cities](https://github.com/gauthamnholla/coding-practice/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
@@ -1133,6 +1136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1382-balance-a-binary-search-tree](https://github.com/gauthamnholla/coding-practice/tree/master/1382-balance-a-binary-search-tree) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/gauthamnholla/coding-practice/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1916-count-ways-to-build-rooms-in-an-ant-colony](https://github.com/gauthamnholla/coding-practice/tree/master/1916-count-ways-to-build-rooms-in-an-ant-colony) |
+| [2246-longest-path-with-different-adjacent-characters](https://github.com/gauthamnholla/coding-practice/tree/master/2246-longest-path-with-different-adjacent-characters) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/gauthamnholla/coding-practice/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/gauthamnholla/coding-practice/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 ## Segment Tree
@@ -1508,6 +1512,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2189-maximum-path-quality-of-a-graph](https://github.com/gauthamnholla/coding-practice/tree/master/2189-maximum-path-quality-of-a-graph) |
 | [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/gauthamnholla/coding-practice/tree/master/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [2198-process-restricted-friend-requests](https://github.com/gauthamnholla/coding-practice/tree/master/2198-process-restricted-friend-requests) |
+| [2246-longest-path-with-different-adjacent-characters](https://github.com/gauthamnholla/coding-practice/tree/master/2246-longest-path-with-different-adjacent-characters) |
 | [2321-minimum-weighted-subgraph-with-the-required-paths](https://github.com/gauthamnholla/coding-practice/tree/master/2321-minimum-weighted-subgraph-with-the-required-paths) |
 | [2582-minimum-score-of-a-path-between-two-cities](https://github.com/gauthamnholla/coding-practice/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
 | [2596-add-edges-to-make-degrees-of-all-nodes-even](https://github.com/gauthamnholla/coding-practice/tree/master/2596-add-edges-to-make-degrees-of-all-nodes-even) |
@@ -1678,6 +1683,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/gauthamnholla/coding-practice/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 | [2127-maximum-employees-to-be-invited-to-a-meeting](https://github.com/gauthamnholla/coding-practice/tree/master/2127-maximum-employees-to-be-invited-to-a-meeting) |
 | [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/gauthamnholla/coding-practice/tree/master/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
+| [2246-longest-path-with-different-adjacent-characters](https://github.com/gauthamnholla/coding-practice/tree/master/2246-longest-path-with-different-adjacent-characters) |
 ## Doubly-Linked List
 |  |
 | ------- |
