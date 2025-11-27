@@ -272,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3616-make-array-elements-equal-to-zero](https://github.com/gauthamnholla/coding-practice/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/gauthamnholla/coding-practice/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/gauthamnholla/coding-practice/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
+| [3620-network-recovery-pathways](https://github.com/gauthamnholla/coding-practice/tree/master/3620-network-recovery-pathways) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/gauthamnholla/coding-practice/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/gauthamnholla/coding-practice/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/gauthamnholla/coding-practice/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
@@ -462,6 +463,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/gauthamnholla/coding-practice/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/gauthamnholla/coding-practice/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/gauthamnholla/coding-practice/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
+| [3620-network-recovery-pathways](https://github.com/gauthamnholla/coding-practice/tree/master/3620-network-recovery-pathways) |
 | [3678-design-task-manager](https://github.com/gauthamnholla/coding-practice/tree/master/3678-design-task-manager) |
 | [3863-power-grid-maintenance](https://github.com/gauthamnholla/coding-practice/tree/master/3863-power-grid-maintenance) |
 ## Sliding Window
@@ -729,6 +731,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/gauthamnholla/coding-practice/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3530-maximum-profit-from-valid-topological-order-in-dag](https://github.com/gauthamnholla/coding-practice/tree/master/3530-maximum-profit-from-valid-topological-order-in-dag) |
 | [3618-find-the-original-typed-string-ii](https://github.com/gauthamnholla/coding-practice/tree/master/3618-find-the-original-typed-string-ii) |
+| [3620-network-recovery-pathways](https://github.com/gauthamnholla/coding-practice/tree/master/3620-network-recovery-pathways) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/gauthamnholla/coding-practice/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/gauthamnholla/coding-practice/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/gauthamnholla/coding-practice/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
@@ -1250,6 +1253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/gauthamnholla/coding-practice/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/gauthamnholla/coding-practice/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/gauthamnholla/coding-practice/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
+| [3620-network-recovery-pathways](https://github.com/gauthamnholla/coding-practice/tree/master/3620-network-recovery-pathways) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/gauthamnholla/coding-practice/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/gauthamnholla/coding-practice/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/gauthamnholla/coding-practice/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
@@ -1544,6 +1548,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2793-count-the-number-of-complete-components](https://github.com/gauthamnholla/coding-practice/tree/master/2793-count-the-number-of-complete-components) |
 | [3435-frequencies-of-shortest-supersequences](https://github.com/gauthamnholla/coding-practice/tree/master/3435-frequencies-of-shortest-supersequences) |
 | [3530-maximum-profit-from-valid-topological-order-in-dag](https://github.com/gauthamnholla/coding-practice/tree/master/3530-maximum-profit-from-valid-topological-order-in-dag) |
+| [3620-network-recovery-pathways](https://github.com/gauthamnholla/coding-practice/tree/master/3620-network-recovery-pathways) |
 | [3863-power-grid-maintenance](https://github.com/gauthamnholla/coding-practice/tree/master/3863-power-grid-maintenance) |
 ## Binary Tree
 |  |
@@ -1678,6 +1683,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/gauthamnholla/coding-practice/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2321-minimum-weighted-subgraph-with-the-required-paths](https://github.com/gauthamnholla/coding-practice/tree/master/2321-minimum-weighted-subgraph-with-the-required-paths) |
 | [2678-design-graph-with-shortest-path-calculator](https://github.com/gauthamnholla/coding-practice/tree/master/2678-design-graph-with-shortest-path-calculator) |
+| [3620-network-recovery-pathways](https://github.com/gauthamnholla/coding-practice/tree/master/3620-network-recovery-pathways) |
 ## Minimum Spanning Tree
 |  |
 | ------- |
@@ -1716,6 +1722,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2603-collect-coins-in-a-tree](https://github.com/gauthamnholla/coding-practice/tree/master/2603-collect-coins-in-a-tree) |
 | [3435-frequencies-of-shortest-supersequences](https://github.com/gauthamnholla/coding-practice/tree/master/3435-frequencies-of-shortest-supersequences) |
 | [3530-maximum-profit-from-valid-topological-order-in-dag](https://github.com/gauthamnholla/coding-practice/tree/master/3530-maximum-profit-from-valid-topological-order-in-dag) |
+| [3620-network-recovery-pathways](https://github.com/gauthamnholla/coding-practice/tree/master/3620-network-recovery-pathways) |
 ## Doubly-Linked List
 |  |
 | ------- |
