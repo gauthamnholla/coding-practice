@@ -241,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/gauthamnholla/coding-practice/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/gauthamnholla/coding-practice/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2529-range-product-queries-of-powers](https://github.com/gauthamnholla/coding-practice/tree/master/2529-range-product-queries-of-powers) |
+| [2603-collect-coins-in-a-tree](https://github.com/gauthamnholla/coding-practice/tree/master/2603-collect-coins-in-a-tree) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/gauthamnholla/coding-practice/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2625-increment-submatrices-by-one](https://github.com/gauthamnholla/coding-practice/tree/master/2625-increment-submatrices-by-one) |
 | [2644-find-the-maximum-divisibility-score](https://github.com/gauthamnholla/coding-practice/tree/master/2644-find-the-maximum-divisibility-score) |
@@ -1145,6 +1146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2246-longest-path-with-different-adjacent-characters](https://github.com/gauthamnholla/coding-practice/tree/master/2246-longest-path-with-different-adjacent-characters) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/gauthamnholla/coding-practice/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/gauthamnholla/coding-practice/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
+| [2603-collect-coins-in-a-tree](https://github.com/gauthamnholla/coding-practice/tree/master/2603-collect-coins-in-a-tree) |
 ## Segment Tree
 |  |
 | ------- |
@@ -1529,6 +1531,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2392-build-a-matrix-with-conditions](https://github.com/gauthamnholla/coding-practice/tree/master/2392-build-a-matrix-with-conditions) |
 | [2582-minimum-score-of-a-path-between-two-cities](https://github.com/gauthamnholla/coding-practice/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
 | [2596-add-edges-to-make-degrees-of-all-nodes-even](https://github.com/gauthamnholla/coding-practice/tree/master/2596-add-edges-to-make-degrees-of-all-nodes-even) |
+| [2603-collect-coins-in-a-tree](https://github.com/gauthamnholla/coding-practice/tree/master/2603-collect-coins-in-a-tree) |
 | [2678-design-graph-with-shortest-path-calculator](https://github.com/gauthamnholla/coding-practice/tree/master/2678-design-graph-with-shortest-path-calculator) |
 | [2793-count-the-number-of-complete-components](https://github.com/gauthamnholla/coding-practice/tree/master/2793-count-the-number-of-complete-components) |
 | [3863-power-grid-maintenance](https://github.com/gauthamnholla/coding-practice/tree/master/3863-power-grid-maintenance) |
@@ -1700,6 +1703,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/gauthamnholla/coding-practice/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 | [2360-longest-cycle-in-a-graph](https://github.com/gauthamnholla/coding-practice/tree/master/2360-longest-cycle-in-a-graph) |
 | [2392-build-a-matrix-with-conditions](https://github.com/gauthamnholla/coding-practice/tree/master/2392-build-a-matrix-with-conditions) |
+| [2603-collect-coins-in-a-tree](https://github.com/gauthamnholla/coding-practice/tree/master/2603-collect-coins-in-a-tree) |
 ## Doubly-Linked List
 |  |
 | ------- |
