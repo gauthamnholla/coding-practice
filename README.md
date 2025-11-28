@@ -856,6 +856,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/gauthamnholla/coding-practice/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/gauthamnholla/coding-practice/tree/master/0342-power-of-four) |
 | [0357-count-numbers-with-unique-digits](https://github.com/gauthamnholla/coding-practice/tree/master/0357-count-numbers-with-unique-digits) |
+| [0372-super-pow](https://github.com/gauthamnholla/coding-practice/tree/master/0372-super-pow) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/gauthamnholla/coding-practice/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/gauthamnholla/coding-practice/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0470-implement-rand10-using-rand7](https://github.com/gauthamnholla/coding-practice/tree/master/0470-implement-rand10-using-rand7) |
@@ -1414,6 +1415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0315-count-of-smaller-numbers-after-self](https://github.com/gauthamnholla/coding-practice/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0324-wiggle-sort-ii](https://github.com/gauthamnholla/coding-practice/tree/master/0324-wiggle-sort-ii) |
 | [0347-top-k-frequent-elements](https://github.com/gauthamnholla/coding-practice/tree/master/0347-top-k-frequent-elements) |
+| [0372-super-pow](https://github.com/gauthamnholla/coding-practice/tree/master/0372-super-pow) |
 | [0948-sort-an-array](https://github.com/gauthamnholla/coding-practice/tree/master/0948-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/gauthamnholla/coding-practice/tree/master/0973-k-closest-points-to-origin) |
 | [1382-balance-a-binary-search-tree](https://github.com/gauthamnholla/coding-practice/tree/master/1382-balance-a-binary-search-tree) |
