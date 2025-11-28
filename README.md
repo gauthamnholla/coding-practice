@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/gauthamnholla/coding-practice/tree/master/0219-contains-duplicate-ii) |
 | [0220-contains-duplicate-iii](https://github.com/gauthamnholla/coding-practice/tree/master/0220-contains-duplicate-iii) |
 | [0228-summary-ranges](https://github.com/gauthamnholla/coding-practice/tree/master/0228-summary-ranges) |
+| [0240-search-a-2d-matrix-ii](https://github.com/gauthamnholla/coding-practice/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/gauthamnholla/coding-practice/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/gauthamnholla/coding-practice/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/gauthamnholla/coding-practice/tree/master/0303-range-sum-query-immutable) |
@@ -1266,6 +1267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/gauthamnholla/coding-practice/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/gauthamnholla/coding-practice/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/gauthamnholla/coding-practice/tree/master/0035-search-insert-position) |
+| [0240-search-a-2d-matrix-ii](https://github.com/gauthamnholla/coding-practice/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/gauthamnholla/coding-practice/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/gauthamnholla/coding-practice/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/gauthamnholla/coding-practice/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -1343,6 +1345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/gauthamnholla/coding-practice/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/gauthamnholla/coding-practice/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/gauthamnholla/coding-practice/tree/master/0085-maximal-rectangle) |
+| [0240-search-a-2d-matrix-ii](https://github.com/gauthamnholla/coding-practice/tree/master/0240-search-a-2d-matrix-ii) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/gauthamnholla/coding-practice/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0407-trapping-rain-water-ii](https://github.com/gauthamnholla/coding-practice/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/gauthamnholla/coding-practice/tree/master/0417-pacific-atlantic-water-flow) |
@@ -1402,6 +1405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0190-reverse-bits](https://github.com/gauthamnholla/coding-practice/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/gauthamnholla/coding-practice/tree/master/0191-number-of-1-bits) |
 | [0218-the-skyline-problem](https://github.com/gauthamnholla/coding-practice/tree/master/0218-the-skyline-problem) |
+| [0240-search-a-2d-matrix-ii](https://github.com/gauthamnholla/coding-practice/tree/master/0240-search-a-2d-matrix-ii) |
 | [0307-range-sum-query-mutable](https://github.com/gauthamnholla/coding-practice/tree/master/0307-range-sum-query-mutable) |
 | [0324-wiggle-sort-ii](https://github.com/gauthamnholla/coding-practice/tree/master/0324-wiggle-sort-ii) |
 | [0347-top-k-frequent-elements](https://github.com/gauthamnholla/coding-practice/tree/master/0347-top-k-frequent-elements) |
