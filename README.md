@@ -1121,6 +1121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0089-gray-code](https://github.com/gauthamnholla/coding-practice/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/gauthamnholla/coding-practice/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/gauthamnholla/coding-practice/tree/master/0136-single-number) |
+| [0190-reverse-bits](https://github.com/gauthamnholla/coding-practice/tree/master/0190-reverse-bits) |
 | [0231-power-of-two](https://github.com/gauthamnholla/coding-practice/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/gauthamnholla/coding-practice/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/gauthamnholla/coding-practice/tree/master/0342-power-of-four) |
@@ -1397,6 +1398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/gauthamnholla/coding-practice/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/gauthamnholla/coding-practice/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/gauthamnholla/coding-practice/tree/master/0169-majority-element) |
+| [0190-reverse-bits](https://github.com/gauthamnholla/coding-practice/tree/master/0190-reverse-bits) |
 | [0218-the-skyline-problem](https://github.com/gauthamnholla/coding-practice/tree/master/0218-the-skyline-problem) |
 | [0307-range-sum-query-mutable](https://github.com/gauthamnholla/coding-practice/tree/master/0307-range-sum-query-mutable) |
 | [0324-wiggle-sort-ii](https://github.com/gauthamnholla/coding-practice/tree/master/0324-wiggle-sort-ii) |
