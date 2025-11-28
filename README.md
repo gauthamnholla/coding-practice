@@ -199,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1673-find-the-most-competitive-subsequence](https://github.com/gauthamnholla/coding-practice/tree/master/1673-find-the-most-competitive-subsequence) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/gauthamnholla/coding-practice/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1728-cat-and-mouse-ii](https://github.com/gauthamnholla/coding-practice/tree/master/1728-cat-and-mouse-ii) |
+| [1738-find-kth-largest-xor-coordinate-value](https://github.com/gauthamnholla/coding-practice/tree/master/1738-find-kth-largest-xor-coordinate-value) |
 | [1813-maximum-erasure-value](https://github.com/gauthamnholla/coding-practice/tree/master/1813-maximum-erasure-value) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/gauthamnholla/coding-practice/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/gauthamnholla/coding-practice/tree/master/1863-sum-of-all-subset-xor-totals) |
@@ -418,6 +419,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/gauthamnholla/coding-practice/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1632-rank-transform-of-a-matrix](https://github.com/gauthamnholla/coding-practice/tree/master/1632-rank-transform-of-a-matrix) |
 | [1648-sell-diminishing-valued-colored-balls](https://github.com/gauthamnholla/coding-practice/tree/master/1648-sell-diminishing-valued-colored-balls) |
+| [1738-find-kth-largest-xor-coordinate-value](https://github.com/gauthamnholla/coding-practice/tree/master/1738-find-kth-largest-xor-coordinate-value) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/gauthamnholla/coding-practice/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2195-append-k-integers-with-minimal-sum](https://github.com/gauthamnholla/coding-practice/tree/master/2195-append-k-integers-with-minimal-sum) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/gauthamnholla/coding-practice/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
@@ -459,6 +461,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/gauthamnholla/coding-practice/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1612-avoid-flood-in-the-city](https://github.com/gauthamnholla/coding-practice/tree/master/1612-avoid-flood-in-the-city) |
 | [1648-sell-diminishing-valued-colored-balls](https://github.com/gauthamnholla/coding-practice/tree/master/1648-sell-diminishing-valued-colored-balls) |
+| [1738-find-kth-largest-xor-coordinate-value](https://github.com/gauthamnholla/coding-practice/tree/master/1738-find-kth-largest-xor-coordinate-value) |
 | [1786-number-of-restricted-paths-from-first-to-last-node](https://github.com/gauthamnholla/coding-practice/tree/master/1786-number-of-restricted-paths-from-first-to-last-node) |
 | [1917-maximum-average-pass-ratio](https://github.com/gauthamnholla/coding-practice/tree/master/1917-maximum-average-pass-ratio) |
 | [2023-design-movie-rental-system](https://github.com/gauthamnholla/coding-practice/tree/master/2023-design-movie-rental-system) |
@@ -1113,6 +1116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1018-binary-prefix-divisible-by-5](https://github.com/gauthamnholla/coding-practice/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1071-binary-prefix-divisible-by-5](https://github.com/gauthamnholla/coding-practice/tree/master/1071-binary-prefix-divisible-by-5) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/gauthamnholla/coding-practice/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
+| [1738-find-kth-largest-xor-coordinate-value](https://github.com/gauthamnholla/coding-practice/tree/master/1738-find-kth-largest-xor-coordinate-value) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/gauthamnholla/coding-practice/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/gauthamnholla/coding-practice/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/gauthamnholla/coding-practice/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
@@ -1185,6 +1189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/gauthamnholla/coding-practice/tree/master/0303-range-sum-query-immutable) |
 | [0724-find-pivot-index](https://github.com/gauthamnholla/coding-practice/tree/master/0724-find-pivot-index) |
+| [1738-find-kth-largest-xor-coordinate-value](https://github.com/gauthamnholla/coding-practice/tree/master/1738-find-kth-largest-xor-coordinate-value) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/gauthamnholla/coding-practice/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/gauthamnholla/coding-practice/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2529-range-product-queries-of-powers](https://github.com/gauthamnholla/coding-practice/tree/master/2529-range-product-queries-of-powers) |
@@ -1340,6 +1345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1628-count-submatrices-with-all-ones](https://github.com/gauthamnholla/coding-practice/tree/master/1628-count-submatrices-with-all-ones) |
 | [1632-rank-transform-of-a-matrix](https://github.com/gauthamnholla/coding-practice/tree/master/1632-rank-transform-of-a-matrix) |
 | [1728-cat-and-mouse-ii](https://github.com/gauthamnholla/coding-practice/tree/master/1728-cat-and-mouse-ii) |
+| [1738-find-kth-largest-xor-coordinate-value](https://github.com/gauthamnholla/coding-practice/tree/master/1738-find-kth-largest-xor-coordinate-value) |
 | [1876-map-of-highest-peak](https://github.com/gauthamnholla/coding-practice/tree/master/1876-map-of-highest-peak) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/gauthamnholla/coding-practice/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/gauthamnholla/coding-practice/tree/master/2244-number-of-laser-beams-in-a-bank) |
@@ -1379,6 +1385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-sort-an-array](https://github.com/gauthamnholla/coding-practice/tree/master/0948-sort-an-array) |
 | [1382-balance-a-binary-search-tree](https://github.com/gauthamnholla/coding-practice/tree/master/1382-balance-a-binary-search-tree) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/gauthamnholla/coding-practice/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [1738-find-kth-largest-xor-coordinate-value](https://github.com/gauthamnholla/coding-practice/tree/master/1738-find-kth-largest-xor-coordinate-value) |
 ## Counting
 |  |
 | ------- |
@@ -1765,4 +1772,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0324-wiggle-sort-ii](https://github.com/gauthamnholla/coding-practice/tree/master/0324-wiggle-sort-ii) |
 | [0347-top-k-frequent-elements](https://github.com/gauthamnholla/coding-practice/tree/master/0347-top-k-frequent-elements) |
+| [1738-find-kth-largest-xor-coordinate-value](https://github.com/gauthamnholla/coding-practice/tree/master/1738-find-kth-largest-xor-coordinate-value) |
 <!---LeetCode Topics End-->
