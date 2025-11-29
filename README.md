@@ -226,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/gauthamnholla/coding-practice/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2169-simple-bank-system](https://github.com/gauthamnholla/coding-practice/tree/master/2169-simple-bank-system) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/gauthamnholla/coding-practice/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [2179-count-good-triplets-in-an-array](https://github.com/gauthamnholla/coding-practice/tree/master/2179-count-good-triplets-in-an-array) |
 | [2189-maximum-path-quality-of-a-graph](https://github.com/gauthamnholla/coding-practice/tree/master/2189-maximum-path-quality-of-a-graph) |
 | [2195-append-k-integers-with-minimal-sum](https://github.com/gauthamnholla/coding-practice/tree/master/2195-append-k-integers-with-minimal-sum) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/gauthamnholla/coding-practice/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
@@ -1226,6 +1227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0315-count-of-smaller-numbers-after-self](https://github.com/gauthamnholla/coding-practice/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0327-count-of-range-sum](https://github.com/gauthamnholla/coding-practice/tree/master/0327-count-of-range-sum) |
 | [1649-create-sorted-array-through-instructions](https://github.com/gauthamnholla/coding-practice/tree/master/1649-create-sorted-array-through-instructions) |
+| [2179-count-good-triplets-in-an-array](https://github.com/gauthamnholla/coding-practice/tree/master/2179-count-good-triplets-in-an-array) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/gauthamnholla/coding-practice/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 | [3790-fruits-into-baskets-ii](https://github.com/gauthamnholla/coding-practice/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/gauthamnholla/coding-practice/tree/master/3791-fruits-into-baskets-iii) |
@@ -1313,6 +1315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1649-create-sorted-array-through-instructions](https://github.com/gauthamnholla/coding-practice/tree/master/1649-create-sorted-array-through-instructions) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/gauthamnholla/coding-practice/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/gauthamnholla/coding-practice/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
+| [2179-count-good-triplets-in-an-array](https://github.com/gauthamnholla/coding-practice/tree/master/2179-count-good-triplets-in-an-array) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/gauthamnholla/coding-practice/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2326-sum-of-scores-of-built-strings](https://github.com/gauthamnholla/coding-practice/tree/master/2326-sum-of-scores-of-built-strings) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/gauthamnholla/coding-practice/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -1361,6 +1364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0327-count-of-range-sum](https://github.com/gauthamnholla/coding-practice/tree/master/0327-count-of-range-sum) |
 | [1649-create-sorted-array-through-instructions](https://github.com/gauthamnholla/coding-practice/tree/master/1649-create-sorted-array-through-instructions) |
 | [2023-design-movie-rental-system](https://github.com/gauthamnholla/coding-practice/tree/master/2023-design-movie-rental-system) |
+| [2179-count-good-triplets-in-an-array](https://github.com/gauthamnholla/coding-practice/tree/master/2179-count-good-triplets-in-an-array) |
 | [2429-design-a-food-rating-system](https://github.com/gauthamnholla/coding-practice/tree/master/2429-design-a-food-rating-system) |
 | [3678-design-task-manager](https://github.com/gauthamnholla/coding-practice/tree/master/3678-design-task-manager) |
 | [3790-fruits-into-baskets-ii](https://github.com/gauthamnholla/coding-practice/tree/master/3790-fruits-into-baskets-ii) |
@@ -1451,6 +1455,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1649-create-sorted-array-through-instructions](https://github.com/gauthamnholla/coding-practice/tree/master/1649-create-sorted-array-through-instructions) |
 | [1738-find-kth-largest-xor-coordinate-value](https://github.com/gauthamnholla/coding-practice/tree/master/1738-find-kth-largest-xor-coordinate-value) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/gauthamnholla/coding-practice/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
+| [2179-count-good-triplets-in-an-array](https://github.com/gauthamnholla/coding-practice/tree/master/2179-count-good-triplets-in-an-array) |
 | [2343-query-kth-smallest-trimmed-number](https://github.com/gauthamnholla/coding-practice/tree/master/2343-query-kth-smallest-trimmed-number) |
 ## Counting
 |  |
@@ -1485,6 +1490,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0327-count-of-range-sum](https://github.com/gauthamnholla/coding-practice/tree/master/0327-count-of-range-sum) |
 | [0948-sort-an-array](https://github.com/gauthamnholla/coding-practice/tree/master/0948-sort-an-array) |
 | [1649-create-sorted-array-through-instructions](https://github.com/gauthamnholla/coding-practice/tree/master/1649-create-sorted-array-through-instructions) |
+| [2179-count-good-triplets-in-an-array](https://github.com/gauthamnholla/coding-practice/tree/master/2179-count-good-triplets-in-an-array) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -1700,6 +1706,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0315-count-of-smaller-numbers-after-self](https://github.com/gauthamnholla/coding-practice/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0327-count-of-range-sum](https://github.com/gauthamnholla/coding-practice/tree/master/0327-count-of-range-sum) |
 | [1649-create-sorted-array-through-instructions](https://github.com/gauthamnholla/coding-practice/tree/master/1649-create-sorted-array-through-instructions) |
+| [2179-count-good-triplets-in-an-array](https://github.com/gauthamnholla/coding-practice/tree/master/2179-count-good-triplets-in-an-array) |
 ## Line Sweep
 |  |
 | ------- |
