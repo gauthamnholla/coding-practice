@@ -687,6 +687,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/gauthamnholla/coding-practice/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/gauthamnholla/coding-practice/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/gauthamnholla/coding-practice/tree/master/0059-spiral-matrix-ii) |
 | [0258-add-digits](https://github.com/gauthamnholla/coding-practice/tree/master/0258-add-digits) |
@@ -877,6 +878,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/gauthamnholla/coding-practice/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/gauthamnholla/coding-practice/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/gauthamnholla/coding-practice/tree/master/0013-roman-to-integer) |
+| [0043-multiply-strings](https://github.com/gauthamnholla/coding-practice/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/gauthamnholla/coding-practice/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/gauthamnholla/coding-practice/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/gauthamnholla/coding-practice/tree/master/0066-plus-one) |
@@ -977,6 +979,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/gauthamnholla/coding-practice/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/gauthamnholla/coding-practice/tree/master/0022-generate-parentheses) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/gauthamnholla/coding-practice/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0043-multiply-strings](https://github.com/gauthamnholla/coding-practice/tree/master/0043-multiply-strings) |
 | [0044-wildcard-matching](https://github.com/gauthamnholla/coding-practice/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/gauthamnholla/coding-practice/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/gauthamnholla/coding-practice/tree/master/0076-minimum-window-substring) |
