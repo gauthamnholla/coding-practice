@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/gauthamnholla/coding-practice/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/gauthamnholla/coding-practice/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0354-russian-doll-envelopes](https://github.com/gauthamnholla/coding-practice/tree/master/0354-russian-doll-envelopes) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/gauthamnholla/coding-practice/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0407-trapping-rain-water-ii](https://github.com/gauthamnholla/coding-practice/tree/master/0407-trapping-rain-water-ii) |
 | [0414-third-maximum-number](https://github.com/gauthamnholla/coding-practice/tree/master/0414-third-maximum-number) |
 | [0417-pacific-atlantic-water-flow](https://github.com/gauthamnholla/coding-practice/tree/master/0417-pacific-atlantic-water-flow) |
@@ -413,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/gauthamnholla/coding-practice/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/gauthamnholla/coding-practice/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0354-russian-doll-envelopes](https://github.com/gauthamnholla/coding-practice/tree/master/0354-russian-doll-envelopes) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/gauthamnholla/coding-practice/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0414-third-maximum-number](https://github.com/gauthamnholla/coding-practice/tree/master/0414-third-maximum-number) |
 | [0451-sort-characters-by-frequency](https://github.com/gauthamnholla/coding-practice/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/gauthamnholla/coding-practice/tree/master/0455-assign-cookies) |
@@ -492,6 +494,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0264-ugly-number-ii](https://github.com/gauthamnholla/coding-practice/tree/master/0264-ugly-number-ii) |
 | [0295-find-median-from-data-stream](https://github.com/gauthamnholla/coding-practice/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/gauthamnholla/coding-practice/tree/master/0347-top-k-frequent-elements) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/gauthamnholla/coding-practice/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0407-trapping-rain-water-ii](https://github.com/gauthamnholla/coding-practice/tree/master/0407-trapping-rain-water-ii) |
 | [0420-strong-password-checker](https://github.com/gauthamnholla/coding-practice/tree/master/0420-strong-password-checker) |
 | [0451-sort-characters-by-frequency](https://github.com/gauthamnholla/coding-practice/tree/master/0451-sort-characters-by-frequency) |
@@ -1372,6 +1375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/gauthamnholla/coding-practice/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/gauthamnholla/coding-practice/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0354-russian-doll-envelopes](https://github.com/gauthamnholla/coding-practice/tree/master/0354-russian-doll-envelopes) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/gauthamnholla/coding-practice/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0611-valid-triangle-number](https://github.com/gauthamnholla/coding-practice/tree/master/0611-valid-triangle-number) |
 | [0658-find-k-closest-elements](https://github.com/gauthamnholla/coding-practice/tree/master/0658-find-k-closest-elements) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/gauthamnholla/coding-practice/tree/master/0719-find-k-th-smallest-pair-distance) |
@@ -1464,6 +1468,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/gauthamnholla/coding-practice/tree/master/0240-search-a-2d-matrix-ii) |
 | [0289-game-of-life](https://github.com/gauthamnholla/coding-practice/tree/master/0289-game-of-life) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/gauthamnholla/coding-practice/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/gauthamnholla/coding-practice/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0407-trapping-rain-water-ii](https://github.com/gauthamnholla/coding-practice/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/gauthamnholla/coding-practice/tree/master/0417-pacific-atlantic-water-flow) |
 | [0463-island-perimeter](https://github.com/gauthamnholla/coding-practice/tree/master/0463-island-perimeter) |
