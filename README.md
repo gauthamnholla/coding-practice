@@ -503,6 +503,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-network-delay-time](https://github.com/gauthamnholla/coding-practice/tree/master/0744-network-delay-time) |
 | [0767-reorganize-string](https://github.com/gauthamnholla/coding-practice/tree/master/0767-reorganize-string) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/gauthamnholla/coding-practice/tree/master/0786-k-th-smallest-prime-fraction) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/gauthamnholla/coding-practice/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0794-swim-in-rising-water](https://github.com/gauthamnholla/coding-practice/tree/master/0794-swim-in-rising-water) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/gauthamnholla/coding-practice/tree/master/0871-minimum-number-of-refueling-stops) |
 | [0948-sort-an-array](https://github.com/gauthamnholla/coding-practice/tree/master/0948-sort-an-array) |
@@ -772,6 +773,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0473-matchsticks-to-square](https://github.com/gauthamnholla/coding-practice/tree/master/0473-matchsticks-to-square) |
 | [0474-ones-and-zeroes](https://github.com/gauthamnholla/coding-practice/tree/master/0474-ones-and-zeroes) |
 | [0747-min-cost-climbing-stairs](https://github.com/gauthamnholla/coding-practice/tree/master/0747-min-cost-climbing-stairs) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/gauthamnholla/coding-practice/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0826-soup-servings](https://github.com/gauthamnholla/coding-practice/tree/master/0826-soup-servings) |
 | [0867-new-21-game](https://github.com/gauthamnholla/coding-practice/tree/master/0867-new-21-game) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/gauthamnholla/coding-practice/tree/master/0871-minimum-number-of-refueling-stops) |
@@ -1127,6 +1129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/gauthamnholla/coding-practice/tree/master/0733-flood-fill) |
 | [0744-network-delay-time](https://github.com/gauthamnholla/coding-practice/tree/master/0744-network-delay-time) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/gauthamnholla/coding-practice/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/gauthamnholla/coding-practice/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0794-swim-in-rising-water](https://github.com/gauthamnholla/coding-practice/tree/master/0794-swim-in-rising-water) |
 | [0802-find-eventual-safe-states](https://github.com/gauthamnholla/coding-practice/tree/master/0802-find-eventual-safe-states) |
 | [0813-all-paths-from-source-to-target](https://github.com/gauthamnholla/coding-practice/tree/master/0813-all-paths-from-source-to-target) |
@@ -1652,6 +1655,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/gauthamnholla/coding-practice/tree/master/0733-flood-fill) |
 | [0744-network-delay-time](https://github.com/gauthamnholla/coding-practice/tree/master/0744-network-delay-time) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/gauthamnholla/coding-practice/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/gauthamnholla/coding-practice/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0794-swim-in-rising-water](https://github.com/gauthamnholla/coding-practice/tree/master/0794-swim-in-rising-water) |
 | [0802-find-eventual-safe-states](https://github.com/gauthamnholla/coding-practice/tree/master/0802-find-eventual-safe-states) |
 | [0813-all-paths-from-source-to-target](https://github.com/gauthamnholla/coding-practice/tree/master/0813-all-paths-from-source-to-target) |
@@ -1701,6 +1705,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0310-minimum-height-trees](https://github.com/gauthamnholla/coding-practice/tree/master/0310-minimum-height-trees) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/gauthamnholla/coding-practice/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0744-network-delay-time](https://github.com/gauthamnholla/coding-practice/tree/master/0744-network-delay-time) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/gauthamnholla/coding-practice/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/gauthamnholla/coding-practice/tree/master/0802-find-eventual-safe-states) |
 | [0813-all-paths-from-source-to-target](https://github.com/gauthamnholla/coding-practice/tree/master/0813-all-paths-from-source-to-target) |
 | [0851-loud-and-rich](https://github.com/gauthamnholla/coding-practice/tree/master/0851-loud-and-rich) |
@@ -1883,6 +1888,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0744-network-delay-time](https://github.com/gauthamnholla/coding-practice/tree/master/0744-network-delay-time) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/gauthamnholla/coding-practice/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/gauthamnholla/coding-practice/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1786-number-of-restricted-paths-from-first-to-last-node](https://github.com/gauthamnholla/coding-practice/tree/master/1786-number-of-restricted-paths-from-first-to-last-node) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/gauthamnholla/coding-practice/tree/master/1976-number-of-ways-to-arrive-at-destination) |
