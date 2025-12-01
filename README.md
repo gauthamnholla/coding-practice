@@ -186,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/gauthamnholla/coding-practice/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1115-valid-boomerang](https://github.com/gauthamnholla/coding-practice/tree/master/1115-valid-boomerang) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/gauthamnholla/coding-practice/tree/master/1262-greatest-sum-divisible-by-three) |
+| [1263-minimum-moves-to-move-a-box-to-their-target-location](https://github.com/gauthamnholla/coding-practice/tree/master/1263-minimum-moves-to-move-a-box-to-their-target-location) |
 | [1299-k-concatenation-maximum-sum](https://github.com/gauthamnholla/coding-practice/tree/master/1299-k-concatenation-maximum-sum) |
 | [1306-minimum-absolute-difference](https://github.com/gauthamnholla/coding-practice/tree/master/1306-minimum-absolute-difference) |
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/gauthamnholla/coding-practice/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
@@ -516,6 +517,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0871-minimum-number-of-refueling-stops](https://github.com/gauthamnholla/coding-practice/tree/master/0871-minimum-number-of-refueling-stops) |
 | [0948-sort-an-array](https://github.com/gauthamnholla/coding-practice/tree/master/0948-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/gauthamnholla/coding-practice/tree/master/0973-k-closest-points-to-origin) |
+| [1263-minimum-moves-to-move-a-box-to-their-target-location](https://github.com/gauthamnholla/coding-practice/tree/master/1263-minimum-moves-to-move-a-box-to-their-target-location) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/gauthamnholla/coding-practice/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1612-avoid-flood-in-the-city](https://github.com/gauthamnholla/coding-practice/tree/master/1612-avoid-flood-in-the-city) |
 | [1648-sell-diminishing-valued-colored-balls](https://github.com/gauthamnholla/coding-practice/tree/master/1648-sell-diminishing-valued-colored-balls) |
@@ -1487,6 +1489,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0928-surface-area-of-3d-shapes](https://github.com/gauthamnholla/coding-practice/tree/master/0928-surface-area-of-3d-shapes) |
 | [1041-available-captures-for-rook](https://github.com/gauthamnholla/coding-practice/tree/master/1041-available-captures-for-rook) |
 | [1094-matrix-cells-in-distance-order](https://github.com/gauthamnholla/coding-practice/tree/master/1094-matrix-cells-in-distance-order) |
+| [1263-minimum-moves-to-move-a-box-to-their-target-location](https://github.com/gauthamnholla/coding-practice/tree/master/1263-minimum-moves-to-move-a-box-to-their-target-location) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/gauthamnholla/coding-practice/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1591-strange-printer-ii](https://github.com/gauthamnholla/coding-practice/tree/master/1591-strange-printer-ii) |
 | [1628-count-submatrices-with-all-ones](https://github.com/gauthamnholla/coding-practice/tree/master/1628-count-submatrices-with-all-ones) |
@@ -1678,6 +1681,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0833-bus-routes](https://github.com/gauthamnholla/coding-practice/tree/master/0833-bus-routes) |
 | [1203-sort-items-by-groups-respecting-dependencies](https://github.com/gauthamnholla/coding-practice/tree/master/1203-sort-items-by-groups-respecting-dependencies) |
 | [1229-shortest-path-with-alternating-colors](https://github.com/gauthamnholla/coding-practice/tree/master/1229-shortest-path-with-alternating-colors) |
+| [1263-minimum-moves-to-move-a-box-to-their-target-location](https://github.com/gauthamnholla/coding-practice/tree/master/1263-minimum-moves-to-move-a-box-to-their-target-location) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/gauthamnholla/coding-practice/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1436-get-watched-videos-by-your-friends](https://github.com/gauthamnholla/coding-practice/tree/master/1436-get-watched-videos-by-your-friends) |
 | [1462-course-schedule-iv](https://github.com/gauthamnholla/coding-practice/tree/master/1462-course-schedule-iv) |
