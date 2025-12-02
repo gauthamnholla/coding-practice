@@ -527,6 +527,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0855-exam-room](https://github.com/gauthamnholla/coding-practice/tree/master/0855-exam-room) |
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/gauthamnholla/coding-practice/tree/master/0857-minimum-cost-to-hire-k-workers) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/gauthamnholla/coding-practice/tree/master/0871-minimum-number-of-refueling-stops) |
+| [0882-reachable-nodes-in-subdivided-graph](https://github.com/gauthamnholla/coding-practice/tree/master/0882-reachable-nodes-in-subdivided-graph) |
 | [0948-sort-an-array](https://github.com/gauthamnholla/coding-practice/tree/master/0948-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/gauthamnholla/coding-practice/tree/master/0973-k-closest-points-to-origin) |
 | [1263-minimum-moves-to-move-a-box-to-their-target-location](https://github.com/gauthamnholla/coding-practice/tree/master/1263-minimum-moves-to-move-a-box-to-their-target-location) |
@@ -1751,6 +1752,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0802-find-eventual-safe-states](https://github.com/gauthamnholla/coding-practice/tree/master/0802-find-eventual-safe-states) |
 | [0813-all-paths-from-source-to-target](https://github.com/gauthamnholla/coding-practice/tree/master/0813-all-paths-from-source-to-target) |
 | [0851-loud-and-rich](https://github.com/gauthamnholla/coding-practice/tree/master/0851-loud-and-rich) |
+| [0882-reachable-nodes-in-subdivided-graph](https://github.com/gauthamnholla/coding-practice/tree/master/0882-reachable-nodes-in-subdivided-graph) |
 | [0949-cat-and-mouse](https://github.com/gauthamnholla/coding-practice/tree/master/0949-cat-and-mouse) |
 | [1039-find-the-town-judge](https://github.com/gauthamnholla/coding-practice/tree/master/1039-find-the-town-judge) |
 | [1203-sort-items-by-groups-respecting-dependencies](https://github.com/gauthamnholla/coding-practice/tree/master/1203-sort-items-by-groups-respecting-dependencies) |
@@ -1931,6 +1933,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0744-network-delay-time](https://github.com/gauthamnholla/coding-practice/tree/master/0744-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/gauthamnholla/coding-practice/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0882-reachable-nodes-in-subdivided-graph](https://github.com/gauthamnholla/coding-practice/tree/master/0882-reachable-nodes-in-subdivided-graph) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/gauthamnholla/coding-practice/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1786-number-of-restricted-paths-from-first-to-last-node](https://github.com/gauthamnholla/coding-practice/tree/master/1786-number-of-restricted-paths-from-first-to-last-node) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/gauthamnholla/coding-practice/tree/master/1976-number-of-ways-to-arrive-at-destination) |
