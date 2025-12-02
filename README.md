@@ -195,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1299-k-concatenation-maximum-sum](https://github.com/gauthamnholla/coding-practice/tree/master/1299-k-concatenation-maximum-sum) |
 | [1306-minimum-absolute-difference](https://github.com/gauthamnholla/coding-practice/tree/master/1306-minimum-absolute-difference) |
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/gauthamnholla/coding-practice/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/gauthamnholla/coding-practice/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/gauthamnholla/coding-practice/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/gauthamnholla/coding-practice/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/gauthamnholla/coding-practice/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -466,6 +467,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1268-search-suggestions-system](https://github.com/gauthamnholla/coding-practice/tree/master/1268-search-suggestions-system) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/gauthamnholla/coding-practice/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1306-minimum-absolute-difference](https://github.com/gauthamnholla/coding-practice/tree/master/1306-minimum-absolute-difference) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/gauthamnholla/coding-practice/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/gauthamnholla/coding-practice/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1436-get-watched-videos-by-your-friends](https://github.com/gauthamnholla/coding-practice/tree/master/1436-get-watched-videos-by-your-friends) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/gauthamnholla/coding-practice/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
@@ -537,6 +539,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1172-dinner-plate-stacks](https://github.com/gauthamnholla/coding-practice/tree/master/1172-dinner-plate-stacks) |
 | [1263-minimum-moves-to-move-a-box-to-their-target-location](https://github.com/gauthamnholla/coding-practice/tree/master/1263-minimum-moves-to-move-a-box-to-their-target-location) |
 | [1268-search-suggestions-system](https://github.com/gauthamnholla/coding-practice/tree/master/1268-search-suggestions-system) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/gauthamnholla/coding-practice/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/gauthamnholla/coding-practice/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1612-avoid-flood-in-the-city](https://github.com/gauthamnholla/coding-practice/tree/master/1612-avoid-flood-in-the-city) |
 | [1648-sell-diminishing-valued-colored-balls](https://github.com/gauthamnholla/coding-practice/tree/master/1648-sell-diminishing-valued-colored-balls) |
@@ -1420,6 +1423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0894-random-pick-with-blacklist](https://github.com/gauthamnholla/coding-practice/tree/master/0894-random-pick-with-blacklist) |
 | [0924-fair-candy-swap](https://github.com/gauthamnholla/coding-practice/tree/master/0924-fair-candy-swap) |
 | [1268-search-suggestions-system](https://github.com/gauthamnholla/coding-practice/tree/master/1268-search-suggestions-system) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/gauthamnholla/coding-practice/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1539-kth-missing-positive-number](https://github.com/gauthamnholla/coding-practice/tree/master/1539-kth-missing-positive-number) |
 | [1612-avoid-flood-in-the-city](https://github.com/gauthamnholla/coding-practice/tree/master/1612-avoid-flood-in-the-city) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/gauthamnholla/coding-practice/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -1521,6 +1525,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1041-available-captures-for-rook](https://github.com/gauthamnholla/coding-practice/tree/master/1041-available-captures-for-rook) |
 | [1094-matrix-cells-in-distance-order](https://github.com/gauthamnholla/coding-practice/tree/master/1094-matrix-cells-in-distance-order) |
 | [1263-minimum-moves-to-move-a-box-to-their-target-location](https://github.com/gauthamnholla/coding-practice/tree/master/1263-minimum-moves-to-move-a-box-to-their-target-location) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/gauthamnholla/coding-practice/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/gauthamnholla/coding-practice/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1591-strange-printer-ii](https://github.com/gauthamnholla/coding-practice/tree/master/1591-strange-printer-ii) |
 | [1628-count-submatrices-with-all-ones](https://github.com/gauthamnholla/coding-practice/tree/master/1628-count-submatrices-with-all-ones) |
