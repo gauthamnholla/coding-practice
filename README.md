@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0630-course-schedule-iii](https://github.com/gauthamnholla/coding-practice/tree/master/0630-course-schedule-iii) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/gauthamnholla/coding-practice/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0636-exclusive-time-of-functions](https://github.com/gauthamnholla/coding-practice/tree/master/0636-exclusive-time-of-functions) |
+| [0641-design-circular-deque](https://github.com/gauthamnholla/coding-practice/tree/master/0641-design-circular-deque) |
 | [0643-maximum-average-subarray-i](https://github.com/gauthamnholla/coding-practice/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/gauthamnholla/coding-practice/tree/master/0645-set-mismatch) |
 | [0658-find-k-closest-elements](https://github.com/gauthamnholla/coding-practice/tree/master/0658-find-k-closest-elements) |
@@ -830,6 +831,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0449-serialize-and-deserialize-bst](https://github.com/gauthamnholla/coding-practice/tree/master/0449-serialize-and-deserialize-bst) |
 | [0460-lfu-cache](https://github.com/gauthamnholla/coding-practice/tree/master/0460-lfu-cache) |
 | [0622-design-circular-queue](https://github.com/gauthamnholla/coding-practice/tree/master/0622-design-circular-queue) |
+| [0641-design-circular-deque](https://github.com/gauthamnholla/coding-practice/tree/master/0641-design-circular-deque) |
 | [0816-design-hashset](https://github.com/gauthamnholla/coding-practice/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/gauthamnholla/coding-practice/tree/master/0817-design-hashmap) |
 | [0855-exam-room](https://github.com/gauthamnholla/coding-practice/tree/master/0855-exam-room) |
@@ -1048,6 +1050,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0445-add-two-numbers-ii](https://github.com/gauthamnholla/coding-practice/tree/master/0445-add-two-numbers-ii) |
 | [0460-lfu-cache](https://github.com/gauthamnholla/coding-practice/tree/master/0460-lfu-cache) |
 | [0622-design-circular-queue](https://github.com/gauthamnholla/coding-practice/tree/master/0622-design-circular-queue) |
+| [0641-design-circular-deque](https://github.com/gauthamnholla/coding-practice/tree/master/0641-design-circular-deque) |
 | [0816-design-hashset](https://github.com/gauthamnholla/coding-practice/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/gauthamnholla/coding-practice/tree/master/0817-design-hashmap) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/gauthamnholla/coding-practice/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -1805,6 +1808,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/gauthamnholla/coding-practice/tree/master/0239-sliding-window-maximum) |
 | [0622-design-circular-queue](https://github.com/gauthamnholla/coding-practice/tree/master/0622-design-circular-queue) |
+| [0641-design-circular-deque](https://github.com/gauthamnholla/coding-practice/tree/master/0641-design-circular-deque) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/gauthamnholla/coding-practice/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1696-jump-game-vi](https://github.com/gauthamnholla/coding-practice/tree/master/1696-jump-game-vi) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/gauthamnholla/coding-practice/tree/master/2408-number-of-people-aware-of-a-secret) |
