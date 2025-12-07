@@ -718,6 +718,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/gauthamnholla/coding-practice/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/gauthamnholla/coding-practice/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/gauthamnholla/coding-practice/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/gauthamnholla/coding-practice/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/gauthamnholla/coding-practice/tree/master/0160-intersection-of-two-linked-lists) |
 | [0166-fraction-to-recurring-decimal](https://github.com/gauthamnholla/coding-practice/tree/master/0166-fraction-to-recurring-decimal) |
 | [0169-majority-element](https://github.com/gauthamnholla/coding-practice/tree/master/0169-majority-element) |
@@ -995,6 +996,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0086-partition-list](https://github.com/gauthamnholla/coding-practice/tree/master/0086-partition-list) |
 | [0088-merge-sorted-array](https://github.com/gauthamnholla/coding-practice/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/gauthamnholla/coding-practice/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/gauthamnholla/coding-practice/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/gauthamnholla/coding-practice/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/gauthamnholla/coding-practice/tree/master/0160-intersection-of-two-linked-lists) |
 | [0165-compare-version-numbers](https://github.com/gauthamnholla/coding-practice/tree/master/0165-compare-version-numbers) |
@@ -1043,6 +1045,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/gauthamnholla/coding-practice/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0138-copy-list-with-random-pointer](https://github.com/gauthamnholla/coding-practice/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/gauthamnholla/coding-practice/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/gauthamnholla/coding-practice/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/gauthamnholla/coding-practice/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/gauthamnholla/coding-practice/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/gauthamnholla/coding-practice/tree/master/0203-remove-linked-list-elements) |
