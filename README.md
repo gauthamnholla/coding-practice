@@ -468,6 +468,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0218-the-skyline-problem](https://github.com/gauthamnholla/coding-practice/tree/master/0218-the-skyline-problem) |
 | [0220-contains-duplicate-iii](https://github.com/gauthamnholla/coding-practice/tree/master/0220-contains-duplicate-iii) |
 | [0229-majority-element-ii](https://github.com/gauthamnholla/coding-practice/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/gauthamnholla/coding-practice/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/gauthamnholla/coding-practice/tree/master/0268-missing-number) |
 | [0295-find-median-from-data-stream](https://github.com/gauthamnholla/coding-practice/tree/master/0295-find-median-from-data-stream) |
 | [0324-wiggle-sort-ii](https://github.com/gauthamnholla/coding-practice/tree/master/0324-wiggle-sort-ii) |
@@ -739,6 +740,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/gauthamnholla/coding-practice/tree/master/0208-implement-trie-prefix-tree) |
 | [0219-contains-duplicate-ii](https://github.com/gauthamnholla/coding-practice/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/gauthamnholla/coding-practice/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/gauthamnholla/coding-practice/tree/master/0242-valid-anagram) |
 | [0264-ugly-number-ii](https://github.com/gauthamnholla/coding-practice/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/gauthamnholla/coding-practice/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/gauthamnholla/coding-practice/tree/master/0347-top-k-frequent-elements) |
@@ -1237,6 +1239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0166-fraction-to-recurring-decimal](https://github.com/gauthamnholla/coding-practice/tree/master/0166-fraction-to-recurring-decimal) |
 | [0205-isomorphic-strings](https://github.com/gauthamnholla/coding-practice/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/gauthamnholla/coding-practice/tree/master/0208-implement-trie-prefix-tree) |
+| [0242-valid-anagram](https://github.com/gauthamnholla/coding-practice/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/gauthamnholla/coding-practice/tree/master/0257-binary-tree-paths) |
 | [0306-additive-number](https://github.com/gauthamnholla/coding-practice/tree/master/0306-additive-number) |
 | [0394-decode-string](https://github.com/gauthamnholla/coding-practice/tree/master/0394-decode-string) |
