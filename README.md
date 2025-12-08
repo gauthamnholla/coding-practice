@@ -477,6 +477,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/gauthamnholla/coding-practice/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0354-russian-doll-envelopes](https://github.com/gauthamnholla/coding-practice/tree/master/0354-russian-doll-envelopes) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/gauthamnholla/coding-practice/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0389-find-the-difference](https://github.com/gauthamnholla/coding-practice/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/gauthamnholla/coding-practice/tree/master/0414-third-maximum-number) |
 | [0451-sort-characters-by-frequency](https://github.com/gauthamnholla/coding-practice/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/gauthamnholla/coding-practice/tree/master/0455-assign-cookies) |
@@ -750,6 +751,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/gauthamnholla/coding-practice/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/gauthamnholla/coding-practice/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/gauthamnholla/coding-practice/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/gauthamnholla/coding-practice/tree/master/0389-find-the-difference) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/gauthamnholla/coding-practice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/gauthamnholla/coding-practice/tree/master/0451-sort-characters-by-frequency) |
 | [0460-lfu-cache](https://github.com/gauthamnholla/coding-practice/tree/master/0460-lfu-cache) |
@@ -1250,6 +1252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0306-additive-number](https://github.com/gauthamnholla/coding-practice/tree/master/0306-additive-number) |
 | [0383-ransom-note](https://github.com/gauthamnholla/coding-practice/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/gauthamnholla/coding-practice/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/gauthamnholla/coding-practice/tree/master/0389-find-the-difference) |
 | [0394-decode-string](https://github.com/gauthamnholla/coding-practice/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/gauthamnholla/coding-practice/tree/master/0402-remove-k-digits) |
 | [0412-fizz-buzz](https://github.com/gauthamnholla/coding-practice/tree/master/0412-fizz-buzz) |
@@ -1456,6 +1459,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/gauthamnholla/coding-practice/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/gauthamnholla/coding-practice/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/gauthamnholla/coding-practice/tree/master/0342-power-of-four) |
+| [0389-find-the-difference](https://github.com/gauthamnholla/coding-practice/tree/master/0389-find-the-difference) |
 | [0401-binary-watch](https://github.com/gauthamnholla/coding-practice/tree/master/0401-binary-watch) |
 | [0473-matchsticks-to-square](https://github.com/gauthamnholla/coding-practice/tree/master/0473-matchsticks-to-square) |
 | [0491-non-decreasing-subsequences](https://github.com/gauthamnholla/coding-practice/tree/master/0491-non-decreasing-subsequences) |
