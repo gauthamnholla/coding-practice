@@ -743,6 +743,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/gauthamnholla/coding-practice/tree/master/0242-valid-anagram) |
 | [0264-ugly-number-ii](https://github.com/gauthamnholla/coding-practice/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/gauthamnholla/coding-practice/tree/master/0268-missing-number) |
+| [0290-word-pattern](https://github.com/gauthamnholla/coding-practice/tree/master/0290-word-pattern) |
 | [0347-top-k-frequent-elements](https://github.com/gauthamnholla/coding-practice/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/gauthamnholla/coding-practice/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/gauthamnholla/coding-practice/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -1241,6 +1242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/gauthamnholla/coding-practice/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/gauthamnholla/coding-practice/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/gauthamnholla/coding-practice/tree/master/0257-binary-tree-paths) |
+| [0290-word-pattern](https://github.com/gauthamnholla/coding-practice/tree/master/0290-word-pattern) |
 | [0306-additive-number](https://github.com/gauthamnholla/coding-practice/tree/master/0306-additive-number) |
 | [0394-decode-string](https://github.com/gauthamnholla/coding-practice/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/gauthamnholla/coding-practice/tree/master/0402-remove-k-digits) |
