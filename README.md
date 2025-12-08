@@ -686,6 +686,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0900-reordered-power-of-2](https://github.com/gauthamnholla/coding-practice/tree/master/0900-reordered-power-of-2) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/gauthamnholla/coding-practice/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/gauthamnholla/coding-practice/tree/master/1863-sum-of-all-subset-xor-totals) |
+| [1925-count-square-sum-triples](https://github.com/gauthamnholla/coding-practice/tree/master/1925-count-square-sum-triples) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/gauthamnholla/coding-practice/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/gauthamnholla/coding-practice/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/gauthamnholla/coding-practice/tree/master/2174-next-greater-numerically-balanced-number) |
@@ -1157,6 +1158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1863-sum-of-all-subset-xor-totals](https://github.com/gauthamnholla/coding-practice/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/gauthamnholla/coding-practice/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1916-count-ways-to-build-rooms-in-an-ant-colony](https://github.com/gauthamnholla/coding-practice/tree/master/1916-count-ways-to-build-rooms-in-an-ant-colony) |
+| [1925-count-square-sum-triples](https://github.com/gauthamnholla/coding-practice/tree/master/1925-count-square-sum-triples) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/gauthamnholla/coding-practice/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2195-append-k-integers-with-minimal-sum](https://github.com/gauthamnholla/coding-practice/tree/master/2195-append-k-integers-with-minimal-sum) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/gauthamnholla/coding-practice/tree/master/2202-sum-of-k-mirror-numbers) |
