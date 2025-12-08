@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/gauthamnholla/coding-practice/tree/master/0128-longest-consecutive-sequence) |
 | [0135-candy](https://github.com/gauthamnholla/coding-practice/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/gauthamnholla/coding-practice/tree/master/0136-single-number) |
+| [0140-word-break-ii](https://github.com/gauthamnholla/coding-practice/tree/master/0140-word-break-ii) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/gauthamnholla/coding-practice/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0164-maximum-gap](https://github.com/gauthamnholla/coding-practice/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/gauthamnholla/coding-practice/tree/master/0169-majority-element) |
@@ -723,6 +724,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/gauthamnholla/coding-practice/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/gauthamnholla/coding-practice/tree/master/0133-clone-graph) |
 | [0138-copy-list-with-random-pointer](https://github.com/gauthamnholla/coding-practice/tree/master/0138-copy-list-with-random-pointer) |
+| [0140-word-break-ii](https://github.com/gauthamnholla/coding-practice/tree/master/0140-word-break-ii) |
 | [0141-linked-list-cycle](https://github.com/gauthamnholla/coding-practice/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/gauthamnholla/coding-practice/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/gauthamnholla/coding-practice/tree/master/0160-intersection-of-two-linked-lists) |
@@ -919,6 +921,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/gauthamnholla/coding-practice/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/gauthamnholla/coding-practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/gauthamnholla/coding-practice/tree/master/0131-palindrome-partitioning) |
+| [0140-word-break-ii](https://github.com/gauthamnholla/coding-practice/tree/master/0140-word-break-ii) |
 | [0264-ugly-number-ii](https://github.com/gauthamnholla/coding-practice/tree/master/0264-ugly-number-ii) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/gauthamnholla/coding-practice/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0354-russian-doll-envelopes](https://github.com/gauthamnholla/coding-practice/tree/master/0354-russian-doll-envelopes) |
@@ -978,6 +981,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0140-word-break-ii](https://github.com/gauthamnholla/coding-practice/tree/master/0140-word-break-ii) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/gauthamnholla/coding-practice/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0949-cat-and-mouse](https://github.com/gauthamnholla/coding-practice/tree/master/0949-cat-and-mouse) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/gauthamnholla/coding-practice/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
@@ -1218,6 +1222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0097-interleaving-string](https://github.com/gauthamnholla/coding-practice/tree/master/0097-interleaving-string) |
 | [0127-word-ladder](https://github.com/gauthamnholla/coding-practice/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/gauthamnholla/coding-practice/tree/master/0131-palindrome-partitioning) |
+| [0140-word-break-ii](https://github.com/gauthamnholla/coding-practice/tree/master/0140-word-break-ii) |
 | [0165-compare-version-numbers](https://github.com/gauthamnholla/coding-practice/tree/master/0165-compare-version-numbers) |
 | [0166-fraction-to-recurring-decimal](https://github.com/gauthamnholla/coding-practice/tree/master/0166-fraction-to-recurring-decimal) |
 | [0208-implement-trie-prefix-tree](https://github.com/gauthamnholla/coding-practice/tree/master/0208-implement-trie-prefix-tree) |
@@ -1372,6 +1377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/gauthamnholla/coding-practice/tree/master/0014-longest-common-prefix) |
+| [0140-word-break-ii](https://github.com/gauthamnholla/coding-practice/tree/master/0140-word-break-ii) |
 | [0208-implement-trie-prefix-tree](https://github.com/gauthamnholla/coding-practice/tree/master/0208-implement-trie-prefix-tree) |
 | [0386-lexicographical-numbers](https://github.com/gauthamnholla/coding-practice/tree/master/0386-lexicographical-numbers) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/gauthamnholla/coding-practice/tree/master/0440-k-th-smallest-in-lexicographical-order) |
@@ -1565,6 +1571,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0095-unique-binary-search-trees-ii](https://github.com/gauthamnholla/coding-practice/tree/master/0095-unique-binary-search-trees-ii) |
 | [0113-path-sum-ii](https://github.com/gauthamnholla/coding-practice/tree/master/0113-path-sum-ii) |
 | [0131-palindrome-partitioning](https://github.com/gauthamnholla/coding-practice/tree/master/0131-palindrome-partitioning) |
+| [0140-word-break-ii](https://github.com/gauthamnholla/coding-practice/tree/master/0140-word-break-ii) |
 | [0216-combination-sum-iii](https://github.com/gauthamnholla/coding-practice/tree/master/0216-combination-sum-iii) |
 | [0257-binary-tree-paths](https://github.com/gauthamnholla/coding-practice/tree/master/0257-binary-tree-paths) |
 | [0306-additive-number](https://github.com/gauthamnholla/coding-practice/tree/master/0306-additive-number) |
