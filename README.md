@@ -249,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1631-path-with-minimum-effort](https://github.com/gauthamnholla/coding-practice/tree/master/1631-path-with-minimum-effort) |
 | [1632-rank-transform-of-a-matrix](https://github.com/gauthamnholla/coding-practice/tree/master/1632-rank-transform-of-a-matrix) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/gauthamnholla/coding-practice/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/gauthamnholla/coding-practice/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1642-furthest-building-you-can-reach](https://github.com/gauthamnholla/coding-practice/tree/master/1642-furthest-building-you-can-reach) |
 | [1648-sell-diminishing-valued-colored-balls](https://github.com/gauthamnholla/coding-practice/tree/master/1648-sell-diminishing-valued-colored-balls) |
 | [1649-create-sorted-array-through-instructions](https://github.com/gauthamnholla/coding-practice/tree/master/1649-create-sorted-array-through-instructions) |
@@ -555,6 +556,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/gauthamnholla/coding-practice/tree/master/1619-mean-of-array-after-removing-some-elements) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/gauthamnholla/coding-practice/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1632-rank-transform-of-a-matrix](https://github.com/gauthamnholla/coding-practice/tree/master/1632-rank-transform-of-a-matrix) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/gauthamnholla/coding-practice/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1648-sell-diminishing-valued-colored-balls](https://github.com/gauthamnholla/coding-practice/tree/master/1648-sell-diminishing-valued-colored-balls) |
 | [1686-stone-game-vi](https://github.com/gauthamnholla/coding-practice/tree/master/1686-stone-game-vi) |
 | [1738-find-kth-largest-xor-coordinate-value](https://github.com/gauthamnholla/coding-practice/tree/master/1738-find-kth-largest-xor-coordinate-value) |
@@ -834,6 +836,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-find-lucky-integer-in-an-array](https://github.com/gauthamnholla/coding-practice/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1590-make-sum-divisible-by-p](https://github.com/gauthamnholla/coding-practice/tree/master/1590-make-sum-divisible-by-p) |
 | [1612-avoid-flood-in-the-city](https://github.com/gauthamnholla/coding-practice/tree/master/1612-avoid-flood-in-the-city) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/gauthamnholla/coding-practice/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1813-maximum-erasure-value](https://github.com/gauthamnholla/coding-practice/tree/master/1813-maximum-erasure-value) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/gauthamnholla/coding-practice/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1857-largest-color-value-in-a-directed-graph](https://github.com/gauthamnholla/coding-practice/tree/master/1857-largest-color-value-in-a-directed-graph) |
