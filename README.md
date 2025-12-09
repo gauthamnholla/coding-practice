@@ -190,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1041-available-captures-for-rook](https://github.com/gauthamnholla/coding-practice/tree/master/1041-available-captures-for-rook) |
 | [1044-find-common-characters](https://github.com/gauthamnholla/coding-practice/tree/master/1044-find-common-characters) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/gauthamnholla/coding-practice/tree/master/1047-maximize-sum-of-array-after-k-negations) |
+| [1051-height-checker](https://github.com/gauthamnholla/coding-practice/tree/master/1051-height-checker) |
 | [1054-distant-barcodes](https://github.com/gauthamnholla/coding-practice/tree/master/1054-distant-barcodes) |
 | [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/gauthamnholla/coding-practice/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
 | [1071-binary-prefix-divisible-by-5](https://github.com/gauthamnholla/coding-practice/tree/master/1071-binary-prefix-divisible-by-5) |
@@ -513,6 +514,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1018-largest-perimeter-triangle](https://github.com/gauthamnholla/coding-practice/tree/master/1018-largest-perimeter-triangle) |
 | [1019-squares-of-a-sorted-array](https://github.com/gauthamnholla/coding-practice/tree/master/1019-squares-of-a-sorted-array) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/gauthamnholla/coding-practice/tree/master/1047-maximize-sum-of-array-after-k-negations) |
+| [1051-height-checker](https://github.com/gauthamnholla/coding-practice/tree/master/1051-height-checker) |
 | [1054-distant-barcodes](https://github.com/gauthamnholla/coding-practice/tree/master/1054-distant-barcodes) |
 | [1094-matrix-cells-in-distance-order](https://github.com/gauthamnholla/coding-practice/tree/master/1094-matrix-cells-in-distance-order) |
 | [1094-car-pooling](https://github.com/gauthamnholla/coding-practice/tree/master/1094-car-pooling) |
@@ -2184,6 +2186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0561-array-partition](https://github.com/gauthamnholla/coding-practice/tree/master/0561-array-partition) |
 | [0948-sort-an-array](https://github.com/gauthamnholla/coding-practice/tree/master/0948-sort-an-array) |
+| [1051-height-checker](https://github.com/gauthamnholla/coding-practice/tree/master/1051-height-checker) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/gauthamnholla/coding-practice/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## Hash Function
 |  |
