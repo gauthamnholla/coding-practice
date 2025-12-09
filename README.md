@@ -279,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/gauthamnholla/coding-practice/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/gauthamnholla/coding-practice/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2023-design-movie-rental-system](https://github.com/gauthamnholla/coding-practice/tree/master/2023-design-movie-rental-system) |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/gauthamnholla/coding-practice/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2050-parallel-courses-iii](https://github.com/gauthamnholla/coding-practice/tree/master/2050-parallel-courses-iii) |
 | [2058-concatenation-of-array](https://github.com/gauthamnholla/coding-practice/tree/master/2058-concatenation-of-array) |
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/gauthamnholla/coding-practice/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
@@ -442,6 +443,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1834-minimum-number-of-people-to-teach](https://github.com/gauthamnholla/coding-practice/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1917-maximum-average-pass-ratio](https://github.com/gauthamnholla/coding-practice/tree/master/1917-maximum-average-pass-ratio) |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/gauthamnholla/coding-practice/tree/master/1962-remove-stones-to-minimize-the-total) |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/gauthamnholla/coding-practice/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/gauthamnholla/coding-practice/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/gauthamnholla/coding-practice/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2182-construct-string-with-repeat-limit](https://github.com/gauthamnholla/coding-practice/tree/master/2182-construct-string-with-repeat-limit) |
@@ -570,6 +572,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/gauthamnholla/coding-practice/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/gauthamnholla/coding-practice/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/gauthamnholla/coding-practice/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/gauthamnholla/coding-practice/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/gauthamnholla/coding-practice/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2146-k-highest-ranked-items-within-a-price-range](https://github.com/gauthamnholla/coding-practice/tree/master/2146-k-highest-ranked-items-within-a-price-range) |
 | [2195-append-k-integers-with-minimal-sum](https://github.com/gauthamnholla/coding-practice/tree/master/2195-append-k-integers-with-minimal-sum) |
@@ -2228,6 +2231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1051-height-checker](https://github.com/gauthamnholla/coding-practice/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/gauthamnholla/coding-practice/tree/master/1122-relative-sort-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/gauthamnholla/coding-practice/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/gauthamnholla/coding-practice/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 ## Hash Function
 |  |
 | ------- |
