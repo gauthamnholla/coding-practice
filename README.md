@@ -319,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/gauthamnholla/coding-practice/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2392-build-a-matrix-with-conditions](https://github.com/gauthamnholla/coding-practice/tree/master/2392-build-a-matrix-with-conditions) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/gauthamnholla/coding-practice/tree/master/2400-minimum-score-after-removals-on-a-tree) |
+| [2418-sort-the-people](https://github.com/gauthamnholla/coding-practice/tree/master/2418-sort-the-people) |
 | [2426-number-of-pairs-satisfying-inequality](https://github.com/gauthamnholla/coding-practice/tree/master/2426-number-of-pairs-satisfying-inequality) |
 | [2429-design-a-food-rating-system](https://github.com/gauthamnholla/coding-practice/tree/master/2429-design-a-food-rating-system) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/gauthamnholla/coding-practice/tree/master/2432-number-of-zero-filled-subarrays) |
@@ -599,6 +600,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/gauthamnholla/coding-practice/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/gauthamnholla/coding-practice/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/gauthamnholla/coding-practice/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [2418-sort-the-people](https://github.com/gauthamnholla/coding-practice/tree/master/2418-sort-the-people) |
 | [2479-meeting-rooms-iii](https://github.com/gauthamnholla/coding-practice/tree/master/2479-meeting-rooms-iii) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/gauthamnholla/coding-practice/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2689-rearranging-fruits](https://github.com/gauthamnholla/coding-practice/tree/master/2689-rearranging-fruits) |
@@ -878,6 +880,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2248-intersection-of-multiple-arrays](https://github.com/gauthamnholla/coding-practice/tree/master/2248-intersection-of-multiple-arrays) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/gauthamnholla/coding-practice/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/gauthamnholla/coding-practice/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
+| [2418-sort-the-people](https://github.com/gauthamnholla/coding-practice/tree/master/2418-sort-the-people) |
 | [2429-design-a-food-rating-system](https://github.com/gauthamnholla/coding-practice/tree/master/2429-design-a-food-rating-system) |
 | [2479-meeting-rooms-iii](https://github.com/gauthamnholla/coding-practice/tree/master/2479-meeting-rooms-iii) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/gauthamnholla/coding-practice/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
@@ -1381,6 +1384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2343-query-kth-smallest-trimmed-number](https://github.com/gauthamnholla/coding-practice/tree/master/2343-query-kth-smallest-trimmed-number) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/gauthamnholla/coding-practice/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/gauthamnholla/coding-practice/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
+| [2418-sort-the-people](https://github.com/gauthamnholla/coding-practice/tree/master/2418-sort-the-people) |
 | [2429-design-a-food-rating-system](https://github.com/gauthamnholla/coding-practice/tree/master/2429-design-a-food-rating-system) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/gauthamnholla/coding-practice/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2575-find-the-divisibility-array-of-a-string](https://github.com/gauthamnholla/coding-practice/tree/master/2575-find-the-divisibility-array-of-a-string) |
