@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/gauthamnholla/coding-practice/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/gauthamnholla/coding-practice/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/gauthamnholla/coding-practice/tree/master/0073-set-matrix-zeroes) |
+| [0075-sort-colors](https://github.com/gauthamnholla/coding-practice/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/gauthamnholla/coding-practice/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/gauthamnholla/coding-practice/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/gauthamnholla/coding-practice/tree/master/0084-largest-rectangle-in-histogram) |
@@ -525,6 +526,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/gauthamnholla/coding-practice/tree/master/0018-4sum) |
 | [0047-permutations-ii](https://github.com/gauthamnholla/coding-practice/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/gauthamnholla/coding-practice/tree/master/0049-group-anagrams) |
+| [0075-sort-colors](https://github.com/gauthamnholla/coding-practice/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/gauthamnholla/coding-practice/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/gauthamnholla/coding-practice/tree/master/0148-sort-list) |
 | [0164-maximum-gap](https://github.com/gauthamnholla/coding-practice/tree/master/0164-maximum-gap) |
@@ -1166,6 +1168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/gauthamnholla/coding-practice/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/gauthamnholla/coding-practice/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/gauthamnholla/coding-practice/tree/master/0061-rotate-list) |
+| [0075-sort-colors](https://github.com/gauthamnholla/coding-practice/tree/master/0075-sort-colors) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/gauthamnholla/coding-practice/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/gauthamnholla/coding-practice/tree/master/0086-partition-list) |
 | [0088-merge-sorted-array](https://github.com/gauthamnholla/coding-practice/tree/master/0088-merge-sorted-array) |
