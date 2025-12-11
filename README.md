@@ -405,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/gauthamnholla/coding-practice/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/gauthamnholla/coding-practice/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/gauthamnholla/coding-practice/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
+| [3745-maximize-expression-of-three-elements](https://github.com/gauthamnholla/coding-practice/tree/master/3745-maximize-expression-of-three-elements) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/gauthamnholla/coding-practice/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3748-sort-matrix-by-diagonals](https://github.com/gauthamnholla/coding-practice/tree/master/3748-sort-matrix-by-diagonals) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/gauthamnholla/coding-practice/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
@@ -507,6 +508,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/gauthamnholla/coding-practice/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/gauthamnholla/coding-practice/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/gauthamnholla/coding-practice/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
+| [3745-maximize-expression-of-three-elements](https://github.com/gauthamnholla/coding-practice/tree/master/3745-maximize-expression-of-three-elements) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/gauthamnholla/coding-practice/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/gauthamnholla/coding-practice/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Sorting
@@ -669,6 +671,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/gauthamnholla/coding-practice/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/gauthamnholla/coding-practice/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 | [3731-find-missing-elements](https://github.com/gauthamnholla/coding-practice/tree/master/3731-find-missing-elements) |
+| [3745-maximize-expression-of-three-elements](https://github.com/gauthamnholla/coding-practice/tree/master/3745-maximize-expression-of-three-elements) |
 | [3748-sort-matrix-by-diagonals](https://github.com/gauthamnholla/coding-practice/tree/master/3748-sort-matrix-by-diagonals) |
 ## Heap (Priority Queue)
 |  |
@@ -814,6 +817,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/gauthamnholla/coding-practice/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/gauthamnholla/coding-practice/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/gauthamnholla/coding-practice/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
+| [3745-maximize-expression-of-three-elements](https://github.com/gauthamnholla/coding-practice/tree/master/3745-maximize-expression-of-three-elements) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/gauthamnholla/coding-practice/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/gauthamnholla/coding-practice/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 ## Hash Table
