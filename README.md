@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0354-russian-doll-envelopes](https://github.com/gauthamnholla/coding-practice/tree/master/0354-russian-doll-envelopes) |
 | [0368-largest-divisible-subset](https://github.com/gauthamnholla/coding-practice/tree/master/0368-largest-divisible-subset) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/gauthamnholla/coding-practice/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0406-queue-reconstruction-by-height](https://github.com/gauthamnholla/coding-practice/tree/master/0406-queue-reconstruction-by-height) |
 | [0407-trapping-rain-water-ii](https://github.com/gauthamnholla/coding-practice/tree/master/0407-trapping-rain-water-ii) |
 | [0414-third-maximum-number](https://github.com/gauthamnholla/coding-practice/tree/master/0414-third-maximum-number) |
 | [0417-pacific-atlantic-water-flow](https://github.com/gauthamnholla/coding-practice/tree/master/0417-pacific-atlantic-water-flow) |
@@ -544,6 +545,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/gauthamnholla/coding-practice/tree/master/0368-largest-divisible-subset) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/gauthamnholla/coding-practice/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0389-find-the-difference](https://github.com/gauthamnholla/coding-practice/tree/master/0389-find-the-difference) |
+| [0406-queue-reconstruction-by-height](https://github.com/gauthamnholla/coding-practice/tree/master/0406-queue-reconstruction-by-height) |
 | [0414-third-maximum-number](https://github.com/gauthamnholla/coding-practice/tree/master/0414-third-maximum-number) |
 | [0451-sort-characters-by-frequency](https://github.com/gauthamnholla/coding-practice/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/gauthamnholla/coding-practice/tree/master/0455-assign-cookies) |
@@ -1707,6 +1709,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0307-range-sum-query-mutable](https://github.com/gauthamnholla/coding-practice/tree/master/0307-range-sum-query-mutable) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/gauthamnholla/coding-practice/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0327-count-of-range-sum](https://github.com/gauthamnholla/coding-practice/tree/master/0327-count-of-range-sum) |
+| [0406-queue-reconstruction-by-height](https://github.com/gauthamnholla/coding-practice/tree/master/0406-queue-reconstruction-by-height) |
 | [1649-create-sorted-array-through-instructions](https://github.com/gauthamnholla/coding-practice/tree/master/1649-create-sorted-array-through-instructions) |
 | [2179-count-good-triplets-in-an-array](https://github.com/gauthamnholla/coding-practice/tree/master/2179-count-good-triplets-in-an-array) |
 | [2426-number-of-pairs-satisfying-inequality](https://github.com/gauthamnholla/coding-practice/tree/master/2426-number-of-pairs-satisfying-inequality) |
@@ -2292,6 +2295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0307-range-sum-query-mutable](https://github.com/gauthamnholla/coding-practice/tree/master/0307-range-sum-query-mutable) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/gauthamnholla/coding-practice/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0327-count-of-range-sum](https://github.com/gauthamnholla/coding-practice/tree/master/0327-count-of-range-sum) |
+| [0406-queue-reconstruction-by-height](https://github.com/gauthamnholla/coding-practice/tree/master/0406-queue-reconstruction-by-height) |
 | [1649-create-sorted-array-through-instructions](https://github.com/gauthamnholla/coding-practice/tree/master/1649-create-sorted-array-through-instructions) |
 | [2179-count-good-triplets-in-an-array](https://github.com/gauthamnholla/coding-practice/tree/master/2179-count-good-triplets-in-an-array) |
 | [2426-number-of-pairs-satisfying-inequality](https://github.com/gauthamnholla/coding-practice/tree/master/2426-number-of-pairs-satisfying-inequality) |
