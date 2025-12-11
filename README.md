@@ -408,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3745-maximize-expression-of-three-elements](https://github.com/gauthamnholla/coding-practice/tree/master/3745-maximize-expression-of-three-elements) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/gauthamnholla/coding-practice/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3748-sort-matrix-by-diagonals](https://github.com/gauthamnholla/coding-practice/tree/master/3748-sort-matrix-by-diagonals) |
+| [3769-sort-integers-by-binary-reflection](https://github.com/gauthamnholla/coding-practice/tree/master/3769-sort-integers-by-binary-reflection) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/gauthamnholla/coding-practice/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/gauthamnholla/coding-practice/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 | [3790-fruits-into-baskets-ii](https://github.com/gauthamnholla/coding-practice/tree/master/3790-fruits-into-baskets-ii) |
@@ -673,6 +674,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3731-find-missing-elements](https://github.com/gauthamnholla/coding-practice/tree/master/3731-find-missing-elements) |
 | [3745-maximize-expression-of-three-elements](https://github.com/gauthamnholla/coding-practice/tree/master/3745-maximize-expression-of-three-elements) |
 | [3748-sort-matrix-by-diagonals](https://github.com/gauthamnholla/coding-practice/tree/master/3748-sort-matrix-by-diagonals) |
+| [3769-sort-integers-by-binary-reflection](https://github.com/gauthamnholla/coding-practice/tree/master/3769-sort-integers-by-binary-reflection) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
