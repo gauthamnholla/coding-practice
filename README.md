@@ -171,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0826-most-profit-assigning-work](https://github.com/gauthamnholla/coding-practice/tree/master/0826-most-profit-assigning-work) |
 | [0830-largest-triangle-area](https://github.com/gauthamnholla/coding-practice/tree/master/0830-largest-triangle-area) |
 | [0833-bus-routes](https://github.com/gauthamnholla/coding-practice/tree/master/0833-bus-routes) |
+| [0833-find-and-replace-in-string](https://github.com/gauthamnholla/coding-practice/tree/master/0833-find-and-replace-in-string) |
 | [0837-most-common-word](https://github.com/gauthamnholla/coding-practice/tree/master/0837-most-common-word) |
 | [0841-shortest-distance-to-a-character](https://github.com/gauthamnholla/coding-practice/tree/master/0841-shortest-distance-to-a-character) |
 | [0851-loud-and-rich](https://github.com/gauthamnholla/coding-practice/tree/master/0851-loud-and-rich) |
@@ -608,6 +609,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0823-binary-trees-with-factors](https://github.com/gauthamnholla/coding-practice/tree/master/0823-binary-trees-with-factors) |
 | [0825-friends-of-appropriate-ages](https://github.com/gauthamnholla/coding-practice/tree/master/0825-friends-of-appropriate-ages) |
 | [0826-most-profit-assigning-work](https://github.com/gauthamnholla/coding-practice/tree/master/0826-most-profit-assigning-work) |
+| [0833-find-and-replace-in-string](https://github.com/gauthamnholla/coding-practice/tree/master/0833-find-and-replace-in-string) |
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/gauthamnholla/coding-practice/tree/master/0857-minimum-cost-to-hire-k-workers) |
 | [0894-random-pick-with-blacklist](https://github.com/gauthamnholla/coding-practice/tree/master/0894-random-pick-with-blacklist) |
 | [0900-reordered-power-of-2](https://github.com/gauthamnholla/coding-practice/tree/master/0900-reordered-power-of-2) |
@@ -951,6 +953,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0822-unique-morse-code-words](https://github.com/gauthamnholla/coding-practice/tree/master/0822-unique-morse-code-words) |
 | [0823-binary-trees-with-factors](https://github.com/gauthamnholla/coding-practice/tree/master/0823-binary-trees-with-factors) |
 | [0833-bus-routes](https://github.com/gauthamnholla/coding-practice/tree/master/0833-bus-routes) |
+| [0833-find-and-replace-in-string](https://github.com/gauthamnholla/coding-practice/tree/master/0833-find-and-replace-in-string) |
 | [0837-most-common-word](https://github.com/gauthamnholla/coding-practice/tree/master/0837-most-common-word) |
 | [0894-random-pick-with-blacklist](https://github.com/gauthamnholla/coding-practice/tree/master/0894-random-pick-with-blacklist) |
 | [0900-reordered-power-of-2](https://github.com/gauthamnholla/coding-practice/tree/master/0900-reordered-power-of-2) |
@@ -1505,6 +1508,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0812-rotate-string](https://github.com/gauthamnholla/coding-practice/tree/master/0812-rotate-string) |
 | [0822-unique-morse-code-words](https://github.com/gauthamnholla/coding-practice/tree/master/0822-unique-morse-code-words) |
 | [0824-number-of-lines-to-write-string](https://github.com/gauthamnholla/coding-practice/tree/master/0824-number-of-lines-to-write-string) |
+| [0833-find-and-replace-in-string](https://github.com/gauthamnholla/coding-practice/tree/master/0833-find-and-replace-in-string) |
 | [0837-most-common-word](https://github.com/gauthamnholla/coding-practice/tree/master/0837-most-common-word) |
 | [0841-shortest-distance-to-a-character](https://github.com/gauthamnholla/coding-practice/tree/master/0841-shortest-distance-to-a-character) |
 | [0858-masking-personal-information](https://github.com/gauthamnholla/coding-practice/tree/master/0858-masking-personal-information) |
