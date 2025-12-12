@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0522-longest-uncommon-subsequence-ii](https://github.com/gauthamnholla/coding-practice/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/gauthamnholla/coding-practice/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/gauthamnholla/coding-practice/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0539-minimum-time-difference](https://github.com/gauthamnholla/coding-practice/tree/master/0539-minimum-time-difference) |
 | [0561-array-partition](https://github.com/gauthamnholla/coding-practice/tree/master/0561-array-partition) |
 | [0566-reshape-the-matrix](https://github.com/gauthamnholla/coding-practice/tree/master/0566-reshape-the-matrix) |
 | [0575-distribute-candies](https://github.com/gauthamnholla/coding-practice/tree/master/0575-distribute-candies) |
@@ -572,6 +573,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0522-longest-uncommon-subsequence-ii](https://github.com/gauthamnholla/coding-practice/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/gauthamnholla/coding-practice/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/gauthamnholla/coding-practice/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0539-minimum-time-difference](https://github.com/gauthamnholla/coding-practice/tree/master/0539-minimum-time-difference) |
 | [0561-array-partition](https://github.com/gauthamnholla/coding-practice/tree/master/0561-array-partition) |
 | [0594-longest-harmonious-subsequence](https://github.com/gauthamnholla/coding-practice/tree/master/0594-longest-harmonious-subsequence) |
 | [0611-valid-triangle-number](https://github.com/gauthamnholla/coding-practice/tree/master/0611-valid-triangle-number) |
@@ -1322,6 +1324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/gauthamnholla/coding-practice/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/gauthamnholla/coding-practice/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0470-implement-rand10-using-rand7](https://github.com/gauthamnholla/coding-practice/tree/master/0470-implement-rand10-using-rand7) |
+| [0539-minimum-time-difference](https://github.com/gauthamnholla/coding-practice/tree/master/0539-minimum-time-difference) |
 | [0598-range-addition-ii](https://github.com/gauthamnholla/coding-practice/tree/master/0598-range-addition-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/gauthamnholla/coding-practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0670-maximum-swap](https://github.com/gauthamnholla/coding-practice/tree/master/0670-maximum-swap) |
@@ -1459,6 +1462,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0500-keyboard-row](https://github.com/gauthamnholla/coding-practice/tree/master/0500-keyboard-row) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/gauthamnholla/coding-practice/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/gauthamnholla/coding-practice/tree/master/0524-longest-word-in-dictionary-through-deleting) |
+| [0539-minimum-time-difference](https://github.com/gauthamnholla/coding-practice/tree/master/0539-minimum-time-difference) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/gauthamnholla/coding-practice/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0606-construct-string-from-binary-tree](https://github.com/gauthamnholla/coding-practice/tree/master/0606-construct-string-from-binary-tree) |
 | [0609-find-duplicate-file-in-system](https://github.com/gauthamnholla/coding-practice/tree/master/0609-find-duplicate-file-in-system) |
