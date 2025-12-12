@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0502-ipo](https://github.com/gauthamnholla/coding-practice/tree/master/0502-ipo) |
 | [0506-relative-ranks](https://github.com/gauthamnholla/coding-practice/tree/master/0506-relative-ranks) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/gauthamnholla/coding-practice/tree/master/0522-longest-uncommon-subsequence-ii) |
+| [0524-longest-word-in-dictionary-through-deleting](https://github.com/gauthamnholla/coding-practice/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0561-array-partition](https://github.com/gauthamnholla/coding-practice/tree/master/0561-array-partition) |
 | [0566-reshape-the-matrix](https://github.com/gauthamnholla/coding-practice/tree/master/0566-reshape-the-matrix) |
 | [0575-distribute-candies](https://github.com/gauthamnholla/coding-practice/tree/master/0575-distribute-candies) |
@@ -568,6 +569,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0502-ipo](https://github.com/gauthamnholla/coding-practice/tree/master/0502-ipo) |
 | [0506-relative-ranks](https://github.com/gauthamnholla/coding-practice/tree/master/0506-relative-ranks) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/gauthamnholla/coding-practice/tree/master/0522-longest-uncommon-subsequence-ii) |
+| [0524-longest-word-in-dictionary-through-deleting](https://github.com/gauthamnholla/coding-practice/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0561-array-partition](https://github.com/gauthamnholla/coding-practice/tree/master/0561-array-partition) |
 | [0594-longest-harmonious-subsequence](https://github.com/gauthamnholla/coding-practice/tree/master/0594-longest-harmonious-subsequence) |
 | [0611-valid-triangle-number](https://github.com/gauthamnholla/coding-practice/tree/master/0611-valid-triangle-number) |
@@ -1207,6 +1209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0475-heaters](https://github.com/gauthamnholla/coding-practice/tree/master/0475-heaters) |
 | [0481-magical-string](https://github.com/gauthamnholla/coding-practice/tree/master/0481-magical-string) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/gauthamnholla/coding-practice/tree/master/0522-longest-uncommon-subsequence-ii) |
+| [0524-longest-word-in-dictionary-through-deleting](https://github.com/gauthamnholla/coding-practice/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0611-valid-triangle-number](https://github.com/gauthamnholla/coding-practice/tree/master/0611-valid-triangle-number) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/gauthamnholla/coding-practice/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0658-find-k-closest-elements](https://github.com/gauthamnholla/coding-practice/tree/master/0658-find-k-closest-elements) |
@@ -1451,6 +1454,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0482-license-key-formatting](https://github.com/gauthamnholla/coding-practice/tree/master/0482-license-key-formatting) |
 | [0500-keyboard-row](https://github.com/gauthamnholla/coding-practice/tree/master/0500-keyboard-row) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/gauthamnholla/coding-practice/tree/master/0522-longest-uncommon-subsequence-ii) |
+| [0524-longest-word-in-dictionary-through-deleting](https://github.com/gauthamnholla/coding-practice/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/gauthamnholla/coding-practice/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0606-construct-string-from-binary-tree](https://github.com/gauthamnholla/coding-practice/tree/master/0606-construct-string-from-binary-tree) |
 | [0609-find-duplicate-file-in-system](https://github.com/gauthamnholla/coding-practice/tree/master/0609-find-duplicate-file-in-system) |
