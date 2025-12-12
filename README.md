@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0641-design-circular-deque](https://github.com/gauthamnholla/coding-practice/tree/master/0641-design-circular-deque) |
 | [0643-maximum-average-subarray-i](https://github.com/gauthamnholla/coding-practice/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/gauthamnholla/coding-practice/tree/master/0645-set-mismatch) |
+| [0646-maximum-length-of-pair-chain](https://github.com/gauthamnholla/coding-practice/tree/master/0646-maximum-length-of-pair-chain) |
 | [0658-find-k-closest-elements](https://github.com/gauthamnholla/coding-practice/tree/master/0658-find-k-closest-elements) |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/gauthamnholla/coding-practice/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [0661-image-smoother](https://github.com/gauthamnholla/coding-practice/tree/master/0661-image-smoother) |
@@ -455,6 +456,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/gauthamnholla/coding-practice/tree/master/0621-task-scheduler) |
 | [0630-course-schedule-iii](https://github.com/gauthamnholla/coding-practice/tree/master/0630-course-schedule-iii) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/gauthamnholla/coding-practice/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0646-maximum-length-of-pair-chain](https://github.com/gauthamnholla/coding-practice/tree/master/0646-maximum-length-of-pair-chain) |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/gauthamnholla/coding-practice/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [0670-maximum-swap](https://github.com/gauthamnholla/coding-practice/tree/master/0670-maximum-swap) |
 | [0738-monotone-increasing-digits](https://github.com/gauthamnholla/coding-practice/tree/master/0738-monotone-increasing-digits) |
@@ -585,6 +587,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0630-course-schedule-iii](https://github.com/gauthamnholla/coding-practice/tree/master/0630-course-schedule-iii) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/gauthamnholla/coding-practice/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0645-set-mismatch](https://github.com/gauthamnholla/coding-practice/tree/master/0645-set-mismatch) |
+| [0646-maximum-length-of-pair-chain](https://github.com/gauthamnholla/coding-practice/tree/master/0646-maximum-length-of-pair-chain) |
 | [0658-find-k-closest-elements](https://github.com/gauthamnholla/coding-practice/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/gauthamnholla/coding-practice/tree/master/0692-top-k-frequent-words) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/gauthamnholla/coding-practice/tree/master/0719-find-k-th-smallest-pair-distance) |
@@ -1119,6 +1122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0472-concatenated-words](https://github.com/gauthamnholla/coding-practice/tree/master/0472-concatenated-words) |
 | [0473-matchsticks-to-square](https://github.com/gauthamnholla/coding-practice/tree/master/0473-matchsticks-to-square) |
 | [0474-ones-and-zeroes](https://github.com/gauthamnholla/coding-practice/tree/master/0474-ones-and-zeroes) |
+| [0646-maximum-length-of-pair-chain](https://github.com/gauthamnholla/coding-practice/tree/master/0646-maximum-length-of-pair-chain) |
 | [0747-min-cost-climbing-stairs](https://github.com/gauthamnholla/coding-practice/tree/master/0747-min-cost-climbing-stairs) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/gauthamnholla/coding-practice/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0826-soup-servings](https://github.com/gauthamnholla/coding-practice/tree/master/0826-soup-servings) |
