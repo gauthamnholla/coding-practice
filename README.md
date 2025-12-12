@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/gauthamnholla/coding-practice/tree/master/0435-non-overlapping-intervals) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/gauthamnholla/coding-practice/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/gauthamnholla/coding-practice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/gauthamnholla/coding-practice/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/gauthamnholla/coding-practice/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0455-assign-cookies](https://github.com/gauthamnholla/coding-practice/tree/master/0455-assign-cookies) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/gauthamnholla/coding-practice/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -438,6 +439,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/gauthamnholla/coding-practice/tree/master/0402-remove-k-digits) |
 | [0420-strong-password-checker](https://github.com/gauthamnholla/coding-practice/tree/master/0420-strong-password-checker) |
 | [0435-non-overlapping-intervals](https://github.com/gauthamnholla/coding-practice/tree/master/0435-non-overlapping-intervals) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/gauthamnholla/coding-practice/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/gauthamnholla/coding-practice/tree/master/0455-assign-cookies) |
 | [0502-ipo](https://github.com/gauthamnholla/coding-practice/tree/master/0502-ipo) |
 | [0561-array-partition](https://github.com/gauthamnholla/coding-practice/tree/master/0561-array-partition) |
@@ -556,6 +558,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/gauthamnholla/coding-practice/tree/master/0435-non-overlapping-intervals) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/gauthamnholla/coding-practice/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/gauthamnholla/coding-practice/tree/master/0451-sort-characters-by-frequency) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/gauthamnholla/coding-practice/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/gauthamnholla/coding-practice/tree/master/0455-assign-cookies) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/gauthamnholla/coding-practice/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0472-concatenated-words](https://github.com/gauthamnholla/coding-practice/tree/master/0472-concatenated-words) |
