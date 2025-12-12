@@ -165,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0817-design-hashmap](https://github.com/gauthamnholla/coding-practice/tree/master/0817-design-hashmap) |
 | [0817-linked-list-components](https://github.com/gauthamnholla/coding-practice/tree/master/0817-linked-list-components) |
 | [0822-unique-morse-code-words](https://github.com/gauthamnholla/coding-practice/tree/master/0822-unique-morse-code-words) |
+| [0823-binary-trees-with-factors](https://github.com/gauthamnholla/coding-practice/tree/master/0823-binary-trees-with-factors) |
 | [0824-number-of-lines-to-write-string](https://github.com/gauthamnholla/coding-practice/tree/master/0824-number-of-lines-to-write-string) |
 | [0830-largest-triangle-area](https://github.com/gauthamnholla/coding-practice/tree/master/0830-largest-triangle-area) |
 | [0833-bus-routes](https://github.com/gauthamnholla/coding-practice/tree/master/0833-bus-routes) |
@@ -601,6 +602,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0786-k-th-smallest-prime-fraction](https://github.com/gauthamnholla/coding-practice/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0791-custom-sort-string](https://github.com/gauthamnholla/coding-practice/tree/master/0791-custom-sort-string) |
 | [0792-number-of-matching-subsequences](https://github.com/gauthamnholla/coding-practice/tree/master/0792-number-of-matching-subsequences) |
+| [0823-binary-trees-with-factors](https://github.com/gauthamnholla/coding-practice/tree/master/0823-binary-trees-with-factors) |
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/gauthamnholla/coding-practice/tree/master/0857-minimum-cost-to-hire-k-workers) |
 | [0894-random-pick-with-blacklist](https://github.com/gauthamnholla/coding-practice/tree/master/0894-random-pick-with-blacklist) |
 | [0900-reordered-power-of-2](https://github.com/gauthamnholla/coding-practice/tree/master/0900-reordered-power-of-2) |
@@ -942,6 +944,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0817-design-hashmap](https://github.com/gauthamnholla/coding-practice/tree/master/0817-design-hashmap) |
 | [0817-linked-list-components](https://github.com/gauthamnholla/coding-practice/tree/master/0817-linked-list-components) |
 | [0822-unique-morse-code-words](https://github.com/gauthamnholla/coding-practice/tree/master/0822-unique-morse-code-words) |
+| [0823-binary-trees-with-factors](https://github.com/gauthamnholla/coding-practice/tree/master/0823-binary-trees-with-factors) |
 | [0833-bus-routes](https://github.com/gauthamnholla/coding-practice/tree/master/0833-bus-routes) |
 | [0837-most-common-word](https://github.com/gauthamnholla/coding-practice/tree/master/0837-most-common-word) |
 | [0894-random-pick-with-blacklist](https://github.com/gauthamnholla/coding-practice/tree/master/0894-random-pick-with-blacklist) |
@@ -1134,6 +1137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0747-min-cost-climbing-stairs](https://github.com/gauthamnholla/coding-practice/tree/master/0747-min-cost-climbing-stairs) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/gauthamnholla/coding-practice/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0792-number-of-matching-subsequences](https://github.com/gauthamnholla/coding-practice/tree/master/0792-number-of-matching-subsequences) |
+| [0823-binary-trees-with-factors](https://github.com/gauthamnholla/coding-practice/tree/master/0823-binary-trees-with-factors) |
 | [0826-soup-servings](https://github.com/gauthamnholla/coding-practice/tree/master/0826-soup-servings) |
 | [0867-new-21-game](https://github.com/gauthamnholla/coding-practice/tree/master/0867-new-21-game) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/gauthamnholla/coding-practice/tree/master/0871-minimum-number-of-refueling-stops) |
