@@ -248,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1306-minimum-absolute-difference](https://github.com/gauthamnholla/coding-practice/tree/master/1306-minimum-absolute-difference) |
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/gauthamnholla/coding-practice/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1331-rank-transform-of-an-array](https://github.com/gauthamnholla/coding-practice/tree/master/1331-rank-transform-of-an-array) |
+| [1333-filter-restaurants-by-vegan-friendly-price-and-distance](https://github.com/gauthamnholla/coding-practice/tree/master/1333-filter-restaurants-by-vegan-friendly-price-and-distance) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/gauthamnholla/coding-practice/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1338-reduce-array-size-to-the-half](https://github.com/gauthamnholla/coding-practice/tree/master/1338-reduce-array-size-to-the-half) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/gauthamnholla/coding-practice/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -681,6 +682,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/gauthamnholla/coding-practice/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1306-minimum-absolute-difference](https://github.com/gauthamnholla/coding-practice/tree/master/1306-minimum-absolute-difference) |
 | [1331-rank-transform-of-an-array](https://github.com/gauthamnholla/coding-practice/tree/master/1331-rank-transform-of-an-array) |
+| [1333-filter-restaurants-by-vegan-friendly-price-and-distance](https://github.com/gauthamnholla/coding-practice/tree/master/1333-filter-restaurants-by-vegan-friendly-price-and-distance) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/gauthamnholla/coding-practice/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1338-reduce-array-size-to-the-half](https://github.com/gauthamnholla/coding-practice/tree/master/1338-reduce-array-size-to-the-half) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/gauthamnholla/coding-practice/tree/master/1353-find-resultant-array-after-removing-anagrams) |
