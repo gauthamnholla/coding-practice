@@ -195,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0932-monotonic-array](https://github.com/gauthamnholla/coding-practice/tree/master/0932-monotonic-array) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/gauthamnholla/coding-practice/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0937-reorder-data-in-log-files](https://github.com/gauthamnholla/coding-practice/tree/master/0937-reorder-data-in-log-files) |
+| [0939-minimum-area-rectangle](https://github.com/gauthamnholla/coding-practice/tree/master/0939-minimum-area-rectangle) |
 | [0940-fruit-into-baskets](https://github.com/gauthamnholla/coding-practice/tree/master/0940-fruit-into-baskets) |
 | [0941-sort-array-by-parity](https://github.com/gauthamnholla/coding-practice/tree/master/0941-sort-array-by-parity) |
 | [0944-smallest-range-i](https://github.com/gauthamnholla/coding-practice/tree/master/0944-smallest-range-i) |
@@ -634,6 +635,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0923-3sum-with-multiplicity](https://github.com/gauthamnholla/coding-practice/tree/master/0923-3sum-with-multiplicity) |
 | [0924-fair-candy-swap](https://github.com/gauthamnholla/coding-practice/tree/master/0924-fair-candy-swap) |
 | [0937-reorder-data-in-log-files](https://github.com/gauthamnholla/coding-practice/tree/master/0937-reorder-data-in-log-files) |
+| [0939-minimum-area-rectangle](https://github.com/gauthamnholla/coding-practice/tree/master/0939-minimum-area-rectangle) |
 | [0941-sort-array-by-parity](https://github.com/gauthamnholla/coding-practice/tree/master/0941-sort-array-by-parity) |
 | [0948-sort-an-array](https://github.com/gauthamnholla/coding-practice/tree/master/0948-sort-an-array) |
 | [0958-sort-array-by-parity-ii](https://github.com/gauthamnholla/coding-practice/tree/master/0958-sort-array-by-parity-ii) |
@@ -981,6 +983,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0900-reordered-power-of-2](https://github.com/gauthamnholla/coding-practice/tree/master/0900-reordered-power-of-2) |
 | [0923-3sum-with-multiplicity](https://github.com/gauthamnholla/coding-practice/tree/master/0923-3sum-with-multiplicity) |
 | [0924-fair-candy-swap](https://github.com/gauthamnholla/coding-practice/tree/master/0924-fair-candy-swap) |
+| [0939-minimum-area-rectangle](https://github.com/gauthamnholla/coding-practice/tree/master/0939-minimum-area-rectangle) |
 | [0940-fruit-into-baskets](https://github.com/gauthamnholla/coding-practice/tree/master/0940-fruit-into-baskets) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/gauthamnholla/coding-practice/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/gauthamnholla/coding-practice/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -1396,6 +1399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0910-smallest-range-ii](https://github.com/gauthamnholla/coding-practice/tree/master/0910-smallest-range-ii) |
 | [0919-projection-area-of-3d-shapes](https://github.com/gauthamnholla/coding-practice/tree/master/0919-projection-area-of-3d-shapes) |
 | [0928-surface-area-of-3d-shapes](https://github.com/gauthamnholla/coding-practice/tree/master/0928-surface-area-of-3d-shapes) |
+| [0939-minimum-area-rectangle](https://github.com/gauthamnholla/coding-practice/tree/master/0939-minimum-area-rectangle) |
 | [0944-smallest-range-i](https://github.com/gauthamnholla/coding-practice/tree/master/0944-smallest-range-i) |
 | [0949-cat-and-mouse](https://github.com/gauthamnholla/coding-practice/tree/master/0949-cat-and-mouse) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/gauthamnholla/coding-practice/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
@@ -2184,6 +2188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0830-largest-triangle-area](https://github.com/gauthamnholla/coding-practice/tree/master/0830-largest-triangle-area) |
 | [0919-projection-area-of-3d-shapes](https://github.com/gauthamnholla/coding-practice/tree/master/0919-projection-area-of-3d-shapes) |
 | [0928-surface-area-of-3d-shapes](https://github.com/gauthamnholla/coding-practice/tree/master/0928-surface-area-of-3d-shapes) |
+| [0939-minimum-area-rectangle](https://github.com/gauthamnholla/coding-practice/tree/master/0939-minimum-area-rectangle) |
 | [0973-k-closest-points-to-origin](https://github.com/gauthamnholla/coding-practice/tree/master/0973-k-closest-points-to-origin) |
 | [1094-matrix-cells-in-distance-order](https://github.com/gauthamnholla/coding-practice/tree/master/1094-matrix-cells-in-distance-order) |
 | [1115-valid-boomerang](https://github.com/gauthamnholla/coding-practice/tree/master/1115-valid-boomerang) |
