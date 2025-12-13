@@ -181,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0861-flipping-an-image](https://github.com/gauthamnholla/coding-practice/tree/master/0861-flipping-an-image) |
 | [0870-advantage-shuffle](https://github.com/gauthamnholla/coding-practice/tree/master/0870-advantage-shuffle) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/gauthamnholla/coding-practice/tree/master/0871-minimum-number-of-refueling-stops) |
+| [0881-boats-to-save-people](https://github.com/gauthamnholla/coding-practice/tree/master/0881-boats-to-save-people) |
 | [0890-lemonade-change](https://github.com/gauthamnholla/coding-practice/tree/master/0890-lemonade-change) |
 | [0894-random-pick-with-blacklist](https://github.com/gauthamnholla/coding-practice/tree/master/0894-random-pick-with-blacklist) |
 | [0898-transpose-matrix](https://github.com/gauthamnholla/coding-practice/tree/master/0898-transpose-matrix) |
@@ -476,6 +477,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/gauthamnholla/coding-practice/tree/master/0857-minimum-cost-to-hire-k-workers) |
 | [0870-advantage-shuffle](https://github.com/gauthamnholla/coding-practice/tree/master/0870-advantage-shuffle) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/gauthamnholla/coding-practice/tree/master/0871-minimum-number-of-refueling-stops) |
+| [0881-boats-to-save-people](https://github.com/gauthamnholla/coding-practice/tree/master/0881-boats-to-save-people) |
 | [0890-lemonade-change](https://github.com/gauthamnholla/coding-practice/tree/master/0890-lemonade-change) |
 | [0979-di-string-match](https://github.com/gauthamnholla/coding-practice/tree/master/0979-di-string-match) |
 | [1018-largest-perimeter-triangle](https://github.com/gauthamnholla/coding-practice/tree/master/1018-largest-perimeter-triangle) |
@@ -619,6 +621,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0853-car-fleet](https://github.com/gauthamnholla/coding-practice/tree/master/0853-car-fleet) |
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/gauthamnholla/coding-practice/tree/master/0857-minimum-cost-to-hire-k-workers) |
 | [0870-advantage-shuffle](https://github.com/gauthamnholla/coding-practice/tree/master/0870-advantage-shuffle) |
+| [0881-boats-to-save-people](https://github.com/gauthamnholla/coding-practice/tree/master/0881-boats-to-save-people) |
 | [0894-random-pick-with-blacklist](https://github.com/gauthamnholla/coding-practice/tree/master/0894-random-pick-with-blacklist) |
 | [0900-reordered-power-of-2](https://github.com/gauthamnholla/coding-practice/tree/master/0900-reordered-power-of-2) |
 | [0924-fair-candy-swap](https://github.com/gauthamnholla/coding-practice/tree/master/0924-fair-candy-swap) |
@@ -1265,6 +1268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0861-flipping-an-image](https://github.com/gauthamnholla/coding-practice/tree/master/0861-flipping-an-image) |
 | [0870-advantage-shuffle](https://github.com/gauthamnholla/coding-practice/tree/master/0870-advantage-shuffle) |
 | [0876-middle-of-the-linked-list](https://github.com/gauthamnholla/coding-practice/tree/master/0876-middle-of-the-linked-list) |
+| [0881-boats-to-save-people](https://github.com/gauthamnholla/coding-practice/tree/master/0881-boats-to-save-people) |
 | [0941-sort-array-by-parity](https://github.com/gauthamnholla/coding-practice/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/gauthamnholla/coding-practice/tree/master/0958-sort-array-by-parity-ii) |
 | [0979-di-string-match](https://github.com/gauthamnholla/coding-practice/tree/master/0979-di-string-match) |
