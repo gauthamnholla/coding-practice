@@ -685,6 +685,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1333-filter-restaurants-by-vegan-friendly-price-and-distance](https://github.com/gauthamnholla/coding-practice/tree/master/1333-filter-restaurants-by-vegan-friendly-price-and-distance) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/gauthamnholla/coding-practice/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1338-reduce-array-size-to-the-half](https://github.com/gauthamnholla/coding-practice/tree/master/1338-reduce-array-size-to-the-half) |
+| [1348-tweet-counts-per-frequency](https://github.com/gauthamnholla/coding-practice/tree/master/1348-tweet-counts-per-frequency) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/gauthamnholla/coding-practice/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/gauthamnholla/coding-practice/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1383-maximum-performance-of-a-team](https://github.com/gauthamnholla/coding-practice/tree/master/1383-maximum-performance-of-a-team) |
@@ -1035,6 +1036,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1264-maximum-number-of-words-you-can-type](https://github.com/gauthamnholla/coding-practice/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1331-rank-transform-of-an-array](https://github.com/gauthamnholla/coding-practice/tree/master/1331-rank-transform-of-an-array) |
 | [1338-reduce-array-size-to-the-half](https://github.com/gauthamnholla/coding-practice/tree/master/1338-reduce-array-size-to-the-half) |
+| [1348-tweet-counts-per-frequency](https://github.com/gauthamnholla/coding-practice/tree/master/1348-tweet-counts-per-frequency) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/gauthamnholla/coding-practice/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1436-get-watched-videos-by-your-friends](https://github.com/gauthamnholla/coding-practice/tree/master/1436-get-watched-videos-by-your-friends) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/gauthamnholla/coding-practice/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
@@ -1118,6 +1120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0855-exam-room](https://github.com/gauthamnholla/coding-practice/tree/master/0855-exam-room) |
 | [1172-dinner-plate-stacks](https://github.com/gauthamnholla/coding-practice/tree/master/1172-dinner-plate-stacks) |
 | [1206-design-skiplist](https://github.com/gauthamnholla/coding-practice/tree/master/1206-design-skiplist) |
+| [1348-tweet-counts-per-frequency](https://github.com/gauthamnholla/coding-practice/tree/master/1348-tweet-counts-per-frequency) |
 | [1472-design-browser-history](https://github.com/gauthamnholla/coding-practice/tree/master/1472-design-browser-history) |
 | [1845-seat-reservation-manager](https://github.com/gauthamnholla/coding-practice/tree/master/1845-seat-reservation-manager) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/gauthamnholla/coding-practice/tree/master/1995-finding-pairs-with-a-certain-sum) |
@@ -1596,6 +1599,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1264-maximum-number-of-words-you-can-type](https://github.com/gauthamnholla/coding-practice/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1268-search-suggestions-system](https://github.com/gauthamnholla/coding-practice/tree/master/1268-search-suggestions-system) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/gauthamnholla/coding-practice/tree/master/1302-delete-characters-to-make-fancy-string) |
+| [1348-tweet-counts-per-frequency](https://github.com/gauthamnholla/coding-practice/tree/master/1348-tweet-counts-per-frequency) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/gauthamnholla/coding-practice/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/gauthamnholla/coding-practice/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1405-longest-happy-string](https://github.com/gauthamnholla/coding-practice/tree/master/1405-longest-happy-string) |
@@ -1967,6 +1971,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1268-search-suggestions-system](https://github.com/gauthamnholla/coding-practice/tree/master/1268-search-suggestions-system) |
 | [1300-sum-of-mutated-array-closest-to-target](https://github.com/gauthamnholla/coding-practice/tree/master/1300-sum-of-mutated-array-closest-to-target) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/gauthamnholla/coding-practice/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
+| [1348-tweet-counts-per-frequency](https://github.com/gauthamnholla/coding-practice/tree/master/1348-tweet-counts-per-frequency) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/gauthamnholla/coding-practice/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1539-kth-missing-positive-number](https://github.com/gauthamnholla/coding-practice/tree/master/1539-kth-missing-positive-number) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/gauthamnholla/coding-practice/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
@@ -2039,6 +2044,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0315-count-of-smaller-numbers-after-self](https://github.com/gauthamnholla/coding-practice/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0327-count-of-range-sum](https://github.com/gauthamnholla/coding-practice/tree/master/0327-count-of-range-sum) |
 | [0855-exam-room](https://github.com/gauthamnholla/coding-practice/tree/master/0855-exam-room) |
+| [1348-tweet-counts-per-frequency](https://github.com/gauthamnholla/coding-practice/tree/master/1348-tweet-counts-per-frequency) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/gauthamnholla/coding-practice/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1649-create-sorted-array-through-instructions](https://github.com/gauthamnholla/coding-practice/tree/master/1649-create-sorted-array-through-instructions) |
 | [2023-design-movie-rental-system](https://github.com/gauthamnholla/coding-practice/tree/master/2023-design-movie-rental-system) |
