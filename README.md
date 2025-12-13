@@ -206,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0950-reveal-cards-in-increasing-order](https://github.com/gauthamnholla/coding-practice/tree/master/0950-reveal-cards-in-increasing-order) |
 | [0954-array-of-doubled-pairs](https://github.com/gauthamnholla/coding-practice/tree/master/0954-array-of-doubled-pairs) |
 | [0958-sort-array-by-parity-ii](https://github.com/gauthamnholla/coding-practice/tree/master/0958-sort-array-by-parity-ii) |
+| [0969-pancake-sorting](https://github.com/gauthamnholla/coding-practice/tree/master/0969-pancake-sorting) |
 | [0973-k-closest-points-to-origin](https://github.com/gauthamnholla/coding-practice/tree/master/0973-k-closest-points-to-origin) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/gauthamnholla/coding-practice/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0979-di-string-match](https://github.com/gauthamnholla/coding-practice/tree/master/0979-di-string-match) |
@@ -492,6 +493,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0945-minimum-increment-to-make-array-unique](https://github.com/gauthamnholla/coding-practice/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [0948-bag-of-tokens](https://github.com/gauthamnholla/coding-practice/tree/master/0948-bag-of-tokens) |
 | [0954-array-of-doubled-pairs](https://github.com/gauthamnholla/coding-practice/tree/master/0954-array-of-doubled-pairs) |
+| [0969-pancake-sorting](https://github.com/gauthamnholla/coding-practice/tree/master/0969-pancake-sorting) |
 | [0979-di-string-match](https://github.com/gauthamnholla/coding-practice/tree/master/0979-di-string-match) |
 | [1018-largest-perimeter-triangle](https://github.com/gauthamnholla/coding-practice/tree/master/1018-largest-perimeter-triangle) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/gauthamnholla/coding-practice/tree/master/1047-maximize-sum-of-array-after-k-negations) |
@@ -650,6 +652,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0950-reveal-cards-in-increasing-order](https://github.com/gauthamnholla/coding-practice/tree/master/0950-reveal-cards-in-increasing-order) |
 | [0954-array-of-doubled-pairs](https://github.com/gauthamnholla/coding-practice/tree/master/0954-array-of-doubled-pairs) |
 | [0958-sort-array-by-parity-ii](https://github.com/gauthamnholla/coding-practice/tree/master/0958-sort-array-by-parity-ii) |
+| [0969-pancake-sorting](https://github.com/gauthamnholla/coding-practice/tree/master/0969-pancake-sorting) |
 | [0973-k-closest-points-to-origin](https://github.com/gauthamnholla/coding-practice/tree/master/0973-k-closest-points-to-origin) |
 | [1018-largest-perimeter-triangle](https://github.com/gauthamnholla/coding-practice/tree/master/1018-largest-perimeter-triangle) |
 | [1019-squares-of-a-sorted-array](https://github.com/gauthamnholla/coding-practice/tree/master/1019-squares-of-a-sorted-array) |
@@ -1300,6 +1303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0941-sort-array-by-parity](https://github.com/gauthamnholla/coding-practice/tree/master/0941-sort-array-by-parity) |
 | [0948-bag-of-tokens](https://github.com/gauthamnholla/coding-practice/tree/master/0948-bag-of-tokens) |
 | [0958-sort-array-by-parity-ii](https://github.com/gauthamnholla/coding-practice/tree/master/0958-sort-array-by-parity-ii) |
+| [0969-pancake-sorting](https://github.com/gauthamnholla/coding-practice/tree/master/0969-pancake-sorting) |
 | [0979-di-string-match](https://github.com/gauthamnholla/coding-practice/tree/master/0979-di-string-match) |
 | [1019-squares-of-a-sorted-array](https://github.com/gauthamnholla/coding-practice/tree/master/1019-squares-of-a-sorted-array) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/gauthamnholla/coding-practice/tree/master/1385-find-the-distance-value-between-two-arrays) |
