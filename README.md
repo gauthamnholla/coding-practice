@@ -519,6 +519,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1383-maximum-performance-of-a-team](https://github.com/gauthamnholla/coding-practice/tree/master/1383-maximum-performance-of-a-team) |
 | [1403-minimum-subsequence-in-non-increasing-order](https://github.com/gauthamnholla/coding-practice/tree/master/1403-minimum-subsequence-in-non-increasing-order) |
 | [1405-longest-happy-string](https://github.com/gauthamnholla/coding-practice/tree/master/1405-longest-happy-string) |
+| [1433-check-if-a-string-can-break-another-string](https://github.com/gauthamnholla/coding-practice/tree/master/1433-check-if-a-string-can-break-another-string) |
 | [1448-maximum-69-number](https://github.com/gauthamnholla/coding-practice/tree/master/1448-maximum-69-number) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/gauthamnholla/coding-practice/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/gauthamnholla/coding-practice/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
@@ -698,6 +699,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1387-sort-integers-by-the-power-value](https://github.com/gauthamnholla/coding-practice/tree/master/1387-sort-integers-by-the-power-value) |
 | [1403-minimum-subsequence-in-non-increasing-order](https://github.com/gauthamnholla/coding-practice/tree/master/1403-minimum-subsequence-in-non-increasing-order) |
 | [1424-diagonal-traverse-ii](https://github.com/gauthamnholla/coding-practice/tree/master/1424-diagonal-traverse-ii) |
+| [1433-check-if-a-string-can-break-another-string](https://github.com/gauthamnholla/coding-practice/tree/master/1433-check-if-a-string-can-break-another-string) |
 | [1436-get-watched-videos-by-your-friends](https://github.com/gauthamnholla/coding-practice/tree/master/1436-get-watched-videos-by-your-friends) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/gauthamnholla/coding-practice/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/gauthamnholla/coding-practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -1616,6 +1618,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/gauthamnholla/coding-practice/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1366-rank-teams-by-votes](https://github.com/gauthamnholla/coding-practice/tree/master/1366-rank-teams-by-votes) |
 | [1405-longest-happy-string](https://github.com/gauthamnholla/coding-practice/tree/master/1405-longest-happy-string) |
+| [1433-check-if-a-string-can-break-another-string](https://github.com/gauthamnholla/coding-practice/tree/master/1433-check-if-a-string-can-break-another-string) |
 | [1508-longest-happy-prefix](https://github.com/gauthamnholla/coding-practice/tree/master/1508-longest-happy-prefix) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/gauthamnholla/coding-practice/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/gauthamnholla/coding-practice/tree/master/1636-number-of-substrings-with-only-1s) |
