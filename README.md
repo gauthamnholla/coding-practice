@@ -299,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1612-avoid-flood-in-the-city](https://github.com/gauthamnholla/coding-practice/tree/master/1612-avoid-flood-in-the-city) |
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/gauthamnholla/coding-practice/tree/master/1619-mean-of-array-after-removing-some-elements) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/gauthamnholla/coding-practice/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1626-best-team-with-no-conflicts](https://github.com/gauthamnholla/coding-practice/tree/master/1626-best-team-with-no-conflicts) |
 | [1628-count-submatrices-with-all-ones](https://github.com/gauthamnholla/coding-practice/tree/master/1628-count-submatrices-with-all-ones) |
 | [1630-arithmetic-subarrays](https://github.com/gauthamnholla/coding-practice/tree/master/1630-arithmetic-subarrays) |
 | [1631-path-with-minimum-effort](https://github.com/gauthamnholla/coding-practice/tree/master/1631-path-with-minimum-effort) |
@@ -747,6 +748,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1613-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/gauthamnholla/coding-practice/tree/master/1613-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/gauthamnholla/coding-practice/tree/master/1619-mean-of-array-after-removing-some-elements) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/gauthamnholla/coding-practice/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1626-best-team-with-no-conflicts](https://github.com/gauthamnholla/coding-practice/tree/master/1626-best-team-with-no-conflicts) |
 | [1630-arithmetic-subarrays](https://github.com/gauthamnholla/coding-practice/tree/master/1630-arithmetic-subarrays) |
 | [1632-rank-transform-of-a-matrix](https://github.com/gauthamnholla/coding-practice/tree/master/1632-rank-transform-of-a-matrix) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/gauthamnholla/coding-practice/tree/master/1636-sort-array-by-increasing-frequency) |
@@ -1289,6 +1291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1467-probability-of-a-two-boxes-having-the-same-number-of-distinct-balls](https://github.com/gauthamnholla/coding-practice/tree/master/1467-probability-of-a-two-boxes-having-the-same-number-of-distinct-balls) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/gauthamnholla/coding-practice/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/gauthamnholla/coding-practice/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [1626-best-team-with-no-conflicts](https://github.com/gauthamnholla/coding-practice/tree/master/1626-best-team-with-no-conflicts) |
 | [1628-count-submatrices-with-all-ones](https://github.com/gauthamnholla/coding-practice/tree/master/1628-count-submatrices-with-all-ones) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/gauthamnholla/coding-practice/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1696-jump-game-vi](https://github.com/gauthamnholla/coding-practice/tree/master/1696-jump-game-vi) |
