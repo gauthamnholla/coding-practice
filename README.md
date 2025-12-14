@@ -293,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/gauthamnholla/coding-practice/tree/master/1589-maximum-sum-obtained-of-any-permutation) |
 | [1590-make-sum-divisible-by-p](https://github.com/gauthamnholla/coding-practice/tree/master/1590-make-sum-divisible-by-p) |
 | [1591-strange-printer-ii](https://github.com/gauthamnholla/coding-practice/tree/master/1591-strange-printer-ii) |
+| [1604-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period](https://github.com/gauthamnholla/coding-practice/tree/master/1604-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/gauthamnholla/coding-practice/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1612-avoid-flood-in-the-city](https://github.com/gauthamnholla/coding-practice/tree/master/1612-avoid-flood-in-the-city) |
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/gauthamnholla/coding-practice/tree/master/1619-mean-of-array-after-removing-some-elements) |
@@ -729,6 +730,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1552-magnetic-force-between-two-balls](https://github.com/gauthamnholla/coding-practice/tree/master/1552-magnetic-force-between-two-balls) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/gauthamnholla/coding-practice/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/gauthamnholla/coding-practice/tree/master/1589-maximum-sum-obtained-of-any-permutation) |
+| [1604-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period](https://github.com/gauthamnholla/coding-practice/tree/master/1604-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/gauthamnholla/coding-practice/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1613-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/gauthamnholla/coding-practice/tree/master/1613-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/gauthamnholla/coding-practice/tree/master/1619-mean-of-array-after-removing-some-elements) |
@@ -1076,6 +1078,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/gauthamnholla/coding-practice/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/gauthamnholla/coding-practice/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1590-make-sum-divisible-by-p](https://github.com/gauthamnholla/coding-practice/tree/master/1590-make-sum-divisible-by-p) |
+| [1604-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period](https://github.com/gauthamnholla/coding-practice/tree/master/1604-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period) |
 | [1612-avoid-flood-in-the-city](https://github.com/gauthamnholla/coding-practice/tree/master/1612-avoid-flood-in-the-city) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/gauthamnholla/coding-practice/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1813-maximum-erasure-value](https://github.com/gauthamnholla/coding-practice/tree/master/1813-maximum-erasure-value) |
@@ -1648,6 +1651,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1451-rearrange-words-in-a-sentence](https://github.com/gauthamnholla/coding-practice/tree/master/1451-rearrange-words-in-a-sentence) |
 | [1508-longest-happy-prefix](https://github.com/gauthamnholla/coding-practice/tree/master/1508-longest-happy-prefix) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/gauthamnholla/coding-practice/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
+| [1604-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period](https://github.com/gauthamnholla/coding-practice/tree/master/1604-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/gauthamnholla/coding-practice/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/gauthamnholla/coding-practice/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/gauthamnholla/coding-practice/tree/master/1700-minimum-time-to-make-rope-colorful) |
