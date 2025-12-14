@@ -285,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/gauthamnholla/coding-practice/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1552-build-an-array-with-stack-operations](https://github.com/gauthamnholla/coding-practice/tree/master/1552-build-an-array-with-stack-operations) |
 | [1552-magnetic-force-between-two-balls](https://github.com/gauthamnholla/coding-practice/tree/master/1552-magnetic-force-between-two-balls) |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/gauthamnholla/coding-practice/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/gauthamnholla/coding-practice/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/gauthamnholla/coding-practice/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1580-shuffle-the-array](https://github.com/gauthamnholla/coding-practice/tree/master/1580-shuffle-the-array) |
@@ -532,6 +533,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/gauthamnholla/coding-practice/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1509-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/gauthamnholla/coding-practice/tree/master/1509-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/gauthamnholla/coding-practice/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/gauthamnholla/coding-practice/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1612-avoid-flood-in-the-city](https://github.com/gauthamnholla/coding-practice/tree/master/1612-avoid-flood-in-the-city) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/gauthamnholla/coding-practice/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1642-furthest-building-you-can-reach](https://github.com/gauthamnholla/coding-practice/tree/master/1642-furthest-building-you-can-reach) |
@@ -723,6 +725,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/gauthamnholla/coding-practice/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [1509-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/gauthamnholla/coding-practice/tree/master/1509-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1552-magnetic-force-between-two-balls](https://github.com/gauthamnholla/coding-practice/tree/master/1552-magnetic-force-between-two-balls) |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/gauthamnholla/coding-practice/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/gauthamnholla/coding-practice/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1613-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/gauthamnholla/coding-practice/tree/master/1613-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/gauthamnholla/coding-practice/tree/master/1619-mean-of-array-after-removing-some-elements) |
@@ -1493,6 +1496,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1467-probability-of-a-two-boxes-having-the-same-number-of-distinct-balls](https://github.com/gauthamnholla/coding-practice/tree/master/1467-probability-of-a-two-boxes-having-the-same-number-of-distinct-balls) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/gauthamnholla/coding-practice/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/gauthamnholla/coding-practice/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/gauthamnholla/coding-practice/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/gauthamnholla/coding-practice/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/gauthamnholla/coding-practice/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1642-water-bottles](https://github.com/gauthamnholla/coding-practice/tree/master/1642-water-bottles) |
@@ -2307,6 +2311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0292-nim-game](https://github.com/gauthamnholla/coding-practice/tree/master/0292-nim-game) |
 | [0909-stone-game](https://github.com/gauthamnholla/coding-practice/tree/master/0909-stone-game) |
 | [0949-cat-and-mouse](https://github.com/gauthamnholla/coding-practice/tree/master/0949-cat-and-mouse) |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/gauthamnholla/coding-practice/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1686-stone-game-vi](https://github.com/gauthamnholla/coding-practice/tree/master/1686-stone-game-vi) |
 | [1728-cat-and-mouse-ii](https://github.com/gauthamnholla/coding-practice/tree/master/1728-cat-and-mouse-ii) |
 | [3462-vowels-game-in-a-string](https://github.com/gauthamnholla/coding-practice/tree/master/3462-vowels-game-in-a-string) |
