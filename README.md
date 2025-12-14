@@ -321,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1801-number-of-orders-in-the-backlog](https://github.com/gauthamnholla/coding-practice/tree/master/1801-number-of-orders-in-the-backlog) |
 | [1813-maximum-erasure-value](https://github.com/gauthamnholla/coding-practice/tree/master/1813-maximum-erasure-value) |
 | [1818-minimum-absolute-sum-difference](https://github.com/gauthamnholla/coding-practice/tree/master/1818-minimum-absolute-sum-difference) |
+| [1833-maximum-ice-cream-bars](https://github.com/gauthamnholla/coding-practice/tree/master/1833-maximum-ice-cream-bars) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/gauthamnholla/coding-practice/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1834-single-threaded-cpu](https://github.com/gauthamnholla/coding-practice/tree/master/1834-single-threaded-cpu) |
 | [1851-minimum-interval-to-include-each-query](https://github.com/gauthamnholla/coding-practice/tree/master/1851-minimum-interval-to-include-each-query) |
@@ -555,6 +556,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1753-maximum-score-from-removing-stones](https://github.com/gauthamnholla/coding-practice/tree/master/1753-maximum-score-from-removing-stones) |
 | [1798-maximum-number-of-consecutive-values-you-can-make](https://github.com/gauthamnholla/coding-practice/tree/master/1798-maximum-number-of-consecutive-values-you-can-make) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/gauthamnholla/coding-practice/tree/master/1818-maximum-score-from-removing-substrings) |
+| [1833-maximum-ice-cream-bars](https://github.com/gauthamnholla/coding-practice/tree/master/1833-maximum-ice-cream-bars) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/gauthamnholla/coding-practice/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1917-maximum-average-pass-ratio](https://github.com/gauthamnholla/coding-practice/tree/master/1917-maximum-average-pass-ratio) |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/gauthamnholla/coding-practice/tree/master/1962-remove-stones-to-minimize-the-total) |
@@ -756,6 +758,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1738-find-kth-largest-xor-coordinate-value](https://github.com/gauthamnholla/coding-practice/tree/master/1738-find-kth-largest-xor-coordinate-value) |
 | [1798-maximum-number-of-consecutive-values-you-can-make](https://github.com/gauthamnholla/coding-practice/tree/master/1798-maximum-number-of-consecutive-values-you-can-make) |
 | [1818-minimum-absolute-sum-difference](https://github.com/gauthamnholla/coding-practice/tree/master/1818-minimum-absolute-sum-difference) |
+| [1833-maximum-ice-cream-bars](https://github.com/gauthamnholla/coding-practice/tree/master/1833-maximum-ice-cream-bars) |
 | [1834-single-threaded-cpu](https://github.com/gauthamnholla/coding-practice/tree/master/1834-single-threaded-cpu) |
 | [1851-minimum-interval-to-include-each-query](https://github.com/gauthamnholla/coding-practice/tree/master/1851-minimum-interval-to-include-each-query) |
 | [1859-sorting-the-sentence](https://github.com/gauthamnholla/coding-practice/tree/master/1859-sorting-the-sentence) |
@@ -2616,6 +2619,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1051-height-checker](https://github.com/gauthamnholla/coding-practice/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/gauthamnholla/coding-practice/tree/master/1122-relative-sort-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/gauthamnholla/coding-practice/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1833-maximum-ice-cream-bars](https://github.com/gauthamnholla/coding-practice/tree/master/1833-maximum-ice-cream-bars) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/gauthamnholla/coding-practice/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 ## Hash Function
 |  |
