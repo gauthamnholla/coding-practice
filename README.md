@@ -365,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2191-sort-the-jumbled-numbers](https://github.com/gauthamnholla/coding-practice/tree/master/2191-sort-the-jumbled-numbers) |
 | [2195-append-k-integers-with-minimal-sum](https://github.com/gauthamnholla/coding-practice/tree/master/2195-append-k-integers-with-minimal-sum) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/gauthamnholla/coding-practice/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
+| [2225-find-players-with-zero-or-one-losses](https://github.com/gauthamnholla/coding-practice/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/gauthamnholla/coding-practice/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2233-maximum-product-after-k-increments](https://github.com/gauthamnholla/coding-practice/tree/master/2233-maximum-product-after-k-increments) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/gauthamnholla/coding-practice/tree/master/2244-number-of-laser-beams-in-a-bank) |
@@ -792,6 +793,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2191-sort-the-jumbled-numbers](https://github.com/gauthamnholla/coding-practice/tree/master/2191-sort-the-jumbled-numbers) |
 | [2195-append-k-integers-with-minimal-sum](https://github.com/gauthamnholla/coding-practice/tree/master/2195-append-k-integers-with-minimal-sum) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/gauthamnholla/coding-practice/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
+| [2225-find-players-with-zero-or-one-losses](https://github.com/gauthamnholla/coding-practice/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2231-largest-number-after-digit-swaps-by-parity](https://github.com/gauthamnholla/coding-practice/tree/master/2231-largest-number-after-digit-swaps-by-parity) |
 | [2248-intersection-of-multiple-arrays](https://github.com/gauthamnholla/coding-practice/tree/master/2248-intersection-of-multiple-arrays) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/gauthamnholla/coding-practice/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -1133,6 +1135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2174-next-greater-numerically-balanced-number](https://github.com/gauthamnholla/coding-practice/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2182-construct-string-with-repeat-limit](https://github.com/gauthamnholla/coding-practice/tree/master/2182-construct-string-with-repeat-limit) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/gauthamnholla/coding-practice/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
+| [2225-find-players-with-zero-or-one-losses](https://github.com/gauthamnholla/coding-practice/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2248-intersection-of-multiple-arrays](https://github.com/gauthamnholla/coding-practice/tree/master/2248-intersection-of-multiple-arrays) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/gauthamnholla/coding-practice/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/gauthamnholla/coding-practice/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
@@ -2294,6 +2297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/gauthamnholla/coding-practice/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/gauthamnholla/coding-practice/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2182-construct-string-with-repeat-limit](https://github.com/gauthamnholla/coding-practice/tree/master/2182-construct-string-with-repeat-limit) |
+| [2225-find-players-with-zero-or-one-losses](https://github.com/gauthamnholla/coding-practice/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2248-intersection-of-multiple-arrays](https://github.com/gauthamnholla/coding-practice/tree/master/2248-intersection-of-multiple-arrays) |
 | [3223-minimum-length-of-string-after-operations](https://github.com/gauthamnholla/coding-practice/tree/master/3223-minimum-length-of-string-after-operations) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/gauthamnholla/coding-practice/tree/master/3242-count-elements-with-maximum-frequency) |
