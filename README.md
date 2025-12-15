@@ -371,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/gauthamnholla/coding-practice/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2246-longest-path-with-different-adjacent-characters](https://github.com/gauthamnholla/coding-practice/tree/master/2246-longest-path-with-different-adjacent-characters) |
 | [2248-intersection-of-multiple-arrays](https://github.com/gauthamnholla/coding-practice/tree/master/2248-intersection-of-multiple-arrays) |
+| [2250-count-number-of-rectangles-containing-each-point](https://github.com/gauthamnholla/coding-practice/tree/master/2250-count-number-of-rectangles-containing-each-point) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/gauthamnholla/coding-practice/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/gauthamnholla/coding-practice/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/gauthamnholla/coding-practice/tree/master/2307-replace-non-coprime-numbers-in-array) |
@@ -796,6 +797,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2225-find-players-with-zero-or-one-losses](https://github.com/gauthamnholla/coding-practice/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2231-largest-number-after-digit-swaps-by-parity](https://github.com/gauthamnholla/coding-practice/tree/master/2231-largest-number-after-digit-swaps-by-parity) |
 | [2248-intersection-of-multiple-arrays](https://github.com/gauthamnholla/coding-practice/tree/master/2248-intersection-of-multiple-arrays) |
+| [2250-count-number-of-rectangles-containing-each-point](https://github.com/gauthamnholla/coding-practice/tree/master/2250-count-number-of-rectangles-containing-each-point) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/gauthamnholla/coding-practice/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/gauthamnholla/coding-practice/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/gauthamnholla/coding-practice/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
@@ -1137,6 +1139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/gauthamnholla/coding-practice/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/gauthamnholla/coding-practice/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2248-intersection-of-multiple-arrays](https://github.com/gauthamnholla/coding-practice/tree/master/2248-intersection-of-multiple-arrays) |
+| [2250-count-number-of-rectangles-containing-each-point](https://github.com/gauthamnholla/coding-practice/tree/master/2250-count-number-of-rectangles-containing-each-point) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/gauthamnholla/coding-practice/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/gauthamnholla/coding-practice/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2363-merge-similar-items](https://github.com/gauthamnholla/coding-practice/tree/master/2363-merge-similar-items) |
@@ -2092,6 +2095,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/gauthamnholla/coding-practice/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2179-count-good-triplets-in-an-array](https://github.com/gauthamnholla/coding-practice/tree/master/2179-count-good-triplets-in-an-array) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/gauthamnholla/coding-practice/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
+| [2250-count-number-of-rectangles-containing-each-point](https://github.com/gauthamnholla/coding-practice/tree/master/2250-count-number-of-rectangles-containing-each-point) |
 | [2326-sum-of-scores-of-built-strings](https://github.com/gauthamnholla/coding-practice/tree/master/2326-sum-of-scores-of-built-strings) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/gauthamnholla/coding-practice/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/gauthamnholla/coding-practice/tree/master/2389-longest-subsequence-with-limited-sum) |
@@ -2583,6 +2587,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0406-queue-reconstruction-by-height](https://github.com/gauthamnholla/coding-practice/tree/master/0406-queue-reconstruction-by-height) |
 | [1649-create-sorted-array-through-instructions](https://github.com/gauthamnholla/coding-practice/tree/master/1649-create-sorted-array-through-instructions) |
 | [2179-count-good-triplets-in-an-array](https://github.com/gauthamnholla/coding-practice/tree/master/2179-count-good-triplets-in-an-array) |
+| [2250-count-number-of-rectangles-containing-each-point](https://github.com/gauthamnholla/coding-practice/tree/master/2250-count-number-of-rectangles-containing-each-point) |
 | [2426-number-of-pairs-satisfying-inequality](https://github.com/gauthamnholla/coding-practice/tree/master/2426-number-of-pairs-satisfying-inequality) |
 ## Line Sweep
 |  |
