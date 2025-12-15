@@ -338,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/gauthamnholla/coding-practice/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/gauthamnholla/coding-practice/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/gauthamnholla/coding-practice/tree/master/1995-finding-pairs-with-a-certain-sum) |
+| [2008-maximum-earnings-from-taxi](https://github.com/gauthamnholla/coding-practice/tree/master/2008-maximum-earnings-from-taxi) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/gauthamnholla/coding-practice/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2023-design-movie-rental-system](https://github.com/gauthamnholla/coding-practice/tree/master/2023-design-movie-rental-system) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/gauthamnholla/coding-practice/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
@@ -771,6 +772,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/gauthamnholla/coding-practice/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/gauthamnholla/coding-practice/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/gauthamnholla/coding-practice/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
+| [2008-maximum-earnings-from-taxi](https://github.com/gauthamnholla/coding-practice/tree/master/2008-maximum-earnings-from-taxi) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/gauthamnholla/coding-practice/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/gauthamnholla/coding-practice/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/gauthamnholla/coding-practice/tree/master/2094-finding-3-digit-even-numbers) |
@@ -1113,6 +1115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1857-largest-color-value-in-a-directed-graph](https://github.com/gauthamnholla/coding-practice/tree/master/1857-largest-color-value-in-a-directed-graph) |
 | [1942-the-number-of-the-smallest-unoccupied-chair](https://github.com/gauthamnholla/coding-practice/tree/master/1942-the-number-of-the-smallest-unoccupied-chair) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/gauthamnholla/coding-practice/tree/master/1995-finding-pairs-with-a-certain-sum) |
+| [2008-maximum-earnings-from-taxi](https://github.com/gauthamnholla/coding-practice/tree/master/2008-maximum-earnings-from-taxi) |
 | [2023-design-movie-rental-system](https://github.com/gauthamnholla/coding-practice/tree/master/2023-design-movie-rental-system) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/gauthamnholla/coding-practice/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2094-finding-3-digit-even-numbers](https://github.com/gauthamnholla/coding-practice/tree/master/2094-finding-3-digit-even-numbers) |
@@ -1303,6 +1306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1857-largest-color-value-in-a-directed-graph](https://github.com/gauthamnholla/coding-practice/tree/master/1857-largest-color-value-in-a-directed-graph) |
 | [1916-count-ways-to-build-rooms-in-an-ant-colony](https://github.com/gauthamnholla/coding-practice/tree/master/1916-count-ways-to-build-rooms-in-an-ant-colony) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/gauthamnholla/coding-practice/tree/master/1976-number-of-ways-to-arrive-at-destination) |
+| [2008-maximum-earnings-from-taxi](https://github.com/gauthamnholla/coding-practice/tree/master/2008-maximum-earnings-from-taxi) |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/gauthamnholla/coding-practice/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
 | [2050-parallel-courses-iii](https://github.com/gauthamnholla/coding-practice/tree/master/2050-parallel-courses-iii) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/gauthamnholla/coding-practice/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
@@ -2067,6 +2071,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1649-create-sorted-array-through-instructions](https://github.com/gauthamnholla/coding-practice/tree/master/1649-create-sorted-array-through-instructions) |
 | [1818-minimum-absolute-sum-difference](https://github.com/gauthamnholla/coding-practice/tree/master/1818-minimum-absolute-sum-difference) |
 | [1851-minimum-interval-to-include-each-query](https://github.com/gauthamnholla/coding-practice/tree/master/1851-minimum-interval-to-include-each-query) |
+| [2008-maximum-earnings-from-taxi](https://github.com/gauthamnholla/coding-practice/tree/master/2008-maximum-earnings-from-taxi) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/gauthamnholla/coding-practice/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/gauthamnholla/coding-practice/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/gauthamnholla/coding-practice/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
