@@ -431,6 +431,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2542-maximum-subsequence-score](https://github.com/gauthamnholla/coding-practice/tree/master/2542-maximum-subsequence-score) |
 | [2575-find-the-divisibility-array-of-a-string](https://github.com/gauthamnholla/coding-practice/tree/master/2575-find-the-divisibility-array-of-a-string) |
 | [2576-find-the-maximum-number-of-marked-indices](https://github.com/gauthamnholla/coding-practice/tree/master/2576-find-the-maximum-number-of-marked-indices) |
+| [2580-count-ways-to-group-overlapping-ranges](https://github.com/gauthamnholla/coding-practice/tree/master/2580-count-ways-to-group-overlapping-ranges) |
 | [2603-collect-coins-in-a-tree](https://github.com/gauthamnholla/coding-practice/tree/master/2603-collect-coins-in-a-tree) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/gauthamnholla/coding-practice/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2625-increment-submatrices-by-one](https://github.com/gauthamnholla/coding-practice/tree/master/2625-increment-submatrices-by-one) |
@@ -882,6 +883,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2542-maximum-subsequence-score](https://github.com/gauthamnholla/coding-practice/tree/master/2542-maximum-subsequence-score) |
 | [2576-find-the-maximum-number-of-marked-indices](https://github.com/gauthamnholla/coding-practice/tree/master/2576-find-the-maximum-number-of-marked-indices) |
 | [2578-split-with-minimum-sum](https://github.com/gauthamnholla/coding-practice/tree/master/2578-split-with-minimum-sum) |
+| [2580-count-ways-to-group-overlapping-ranges](https://github.com/gauthamnholla/coding-practice/tree/master/2580-count-ways-to-group-overlapping-ranges) |
 | [2689-rearranging-fruits](https://github.com/gauthamnholla/coding-practice/tree/master/2689-rearranging-fruits) |
 | [2706-buy-two-chocolates](https://github.com/gauthamnholla/coding-practice/tree/master/2706-buy-two-chocolates) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/gauthamnholla/coding-practice/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
