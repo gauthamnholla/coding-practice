@@ -388,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2271-maximum-white-tiles-covered-by-a-carpet](https://github.com/gauthamnholla/coding-practice/tree/master/2271-maximum-white-tiles-covered-by-a-carpet) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/gauthamnholla/coding-practice/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2274-maximum-consecutive-floors-without-special-floors](https://github.com/gauthamnholla/coding-practice/tree/master/2274-maximum-consecutive-floors-without-special-floors) |
+| [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/gauthamnholla/coding-practice/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/gauthamnholla/coding-practice/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/gauthamnholla/coding-practice/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/gauthamnholla/coding-practice/tree/master/2320-find-all-k-distant-indices-in-an-array) |
@@ -602,6 +603,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2195-append-k-integers-with-minimal-sum](https://github.com/gauthamnholla/coding-practice/tree/master/2195-append-k-integers-with-minimal-sum) |
 | [2233-maximum-product-after-k-increments](https://github.com/gauthamnholla/coding-practice/tree/master/2233-maximum-product-after-k-increments) |
 | [2271-maximum-white-tiles-covered-by-a-carpet](https://github.com/gauthamnholla/coding-practice/tree/master/2271-maximum-white-tiles-covered-by-a-carpet) |
+| [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/gauthamnholla/coding-practice/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/gauthamnholla/coding-practice/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/gauthamnholla/coding-practice/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/gauthamnholla/coding-practice/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
@@ -837,6 +839,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2271-maximum-white-tiles-covered-by-a-carpet](https://github.com/gauthamnholla/coding-practice/tree/master/2271-maximum-white-tiles-covered-by-a-carpet) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/gauthamnholla/coding-practice/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2274-maximum-consecutive-floors-without-special-floors](https://github.com/gauthamnholla/coding-practice/tree/master/2274-maximum-consecutive-floors-without-special-floors) |
+| [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/gauthamnholla/coding-practice/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/gauthamnholla/coding-practice/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/gauthamnholla/coding-practice/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 | [2343-query-kth-smallest-trimmed-number](https://github.com/gauthamnholla/coding-practice/tree/master/2343-query-kth-smallest-trimmed-number) |
