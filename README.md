@@ -395,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/gauthamnholla/coding-practice/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/gauthamnholla/coding-practice/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/gauthamnholla/coding-practice/tree/master/2328-number-of-increasing-paths-in-a-grid) |
+| [2332-the-latest-time-to-catch-a-bus](https://github.com/gauthamnholla/coding-practice/tree/master/2332-the-latest-time-to-catch-a-bus) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/gauthamnholla/coding-practice/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/gauthamnholla/coding-practice/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/gauthamnholla/coding-practice/tree/master/2343-count-unguarded-cells-in-the-grid) |
@@ -844,6 +845,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/gauthamnholla/coding-practice/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [2280-minimum-lines-to-represent-a-line-chart](https://github.com/gauthamnholla/coding-practice/tree/master/2280-minimum-lines-to-represent-a-line-chart) |
 | [2285-maximum-total-importance-of-roads](https://github.com/gauthamnholla/coding-practice/tree/master/2285-maximum-total-importance-of-roads) |
+| [2332-the-latest-time-to-catch-a-bus](https://github.com/gauthamnholla/coding-practice/tree/master/2332-the-latest-time-to-catch-a-bus) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/gauthamnholla/coding-practice/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/gauthamnholla/coding-practice/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 | [2343-query-kth-smallest-trimmed-number](https://github.com/gauthamnholla/coding-practice/tree/master/2343-query-kth-smallest-trimmed-number) |
@@ -1478,6 +1480,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1679-max-number-of-k-sum-pairs](https://github.com/gauthamnholla/coding-practice/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/gauthamnholla/coding-practice/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/gauthamnholla/coding-practice/tree/master/2320-find-all-k-distant-indices-in-an-array) |
+| [2332-the-latest-time-to-catch-a-bus](https://github.com/gauthamnholla/coding-practice/tree/master/2332-the-latest-time-to-catch-a-bus) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/gauthamnholla/coding-practice/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/gauthamnholla/coding-practice/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2465-number-of-distinct-averages](https://github.com/gauthamnholla/coding-practice/tree/master/2465-number-of-distinct-averages) |
@@ -2167,6 +2170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2250-count-number-of-rectangles-containing-each-point](https://github.com/gauthamnholla/coding-practice/tree/master/2250-count-number-of-rectangles-containing-each-point) |
 | [2271-maximum-white-tiles-covered-by-a-carpet](https://github.com/gauthamnholla/coding-practice/tree/master/2271-maximum-white-tiles-covered-by-a-carpet) |
 | [2326-sum-of-scores-of-built-strings](https://github.com/gauthamnholla/coding-practice/tree/master/2326-sum-of-scores-of-built-strings) |
+| [2332-the-latest-time-to-catch-a-bus](https://github.com/gauthamnholla/coding-practice/tree/master/2332-the-latest-time-to-catch-a-bus) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/gauthamnholla/coding-practice/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/gauthamnholla/coding-practice/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/gauthamnholla/coding-practice/tree/master/2392-successful-pairs-of-spells-and-potions) |
