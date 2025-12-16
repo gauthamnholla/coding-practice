@@ -426,6 +426,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2501-longest-square-streak-in-an-array](https://github.com/gauthamnholla/coding-practice/tree/master/2501-longest-square-streak-in-an-array) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/gauthamnholla/coding-practice/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2512-reward-top-k-students](https://github.com/gauthamnholla/coding-practice/tree/master/2512-reward-top-k-students) |
+| [2517-maximum-tastiness-of-candy-basket](https://github.com/gauthamnholla/coding-practice/tree/master/2517-maximum-tastiness-of-candy-basket) |
 | [2529-range-product-queries-of-powers](https://github.com/gauthamnholla/coding-practice/tree/master/2529-range-product-queries-of-powers) |
 | [2575-find-the-divisibility-array-of-a-string](https://github.com/gauthamnholla/coding-practice/tree/master/2575-find-the-divisibility-array-of-a-string) |
 | [2603-collect-coins-in-a-tree](https://github.com/gauthamnholla/coding-practice/tree/master/2603-collect-coins-in-a-tree) |
@@ -621,6 +622,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/gauthamnholla/coding-practice/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/gauthamnholla/coding-practice/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2497-maximum-star-sum-of-a-graph](https://github.com/gauthamnholla/coding-practice/tree/master/2497-maximum-star-sum-of-a-graph) |
+| [2517-maximum-tastiness-of-candy-basket](https://github.com/gauthamnholla/coding-practice/tree/master/2517-maximum-tastiness-of-candy-basket) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/gauthamnholla/coding-practice/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2578-split-with-minimum-sum](https://github.com/gauthamnholla/coding-practice/tree/master/2578-split-with-minimum-sum) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/gauthamnholla/coding-practice/tree/master/2618-maximize-the-minimum-powered-city) |
@@ -872,6 +874,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2497-maximum-star-sum-of-a-graph](https://github.com/gauthamnholla/coding-practice/tree/master/2497-maximum-star-sum-of-a-graph) |
 | [2501-longest-square-streak-in-an-array](https://github.com/gauthamnholla/coding-practice/tree/master/2501-longest-square-streak-in-an-array) |
 | [2512-reward-top-k-students](https://github.com/gauthamnholla/coding-practice/tree/master/2512-reward-top-k-students) |
+| [2517-maximum-tastiness-of-candy-basket](https://github.com/gauthamnholla/coding-practice/tree/master/2517-maximum-tastiness-of-candy-basket) |
 | [2578-split-with-minimum-sum](https://github.com/gauthamnholla/coding-practice/tree/master/2578-split-with-minimum-sum) |
 | [2689-rearranging-fruits](https://github.com/gauthamnholla/coding-practice/tree/master/2689-rearranging-fruits) |
 | [2706-buy-two-chocolates](https://github.com/gauthamnholla/coding-practice/tree/master/2706-buy-two-chocolates) |
@@ -2201,6 +2204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/gauthamnholla/coding-practice/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/gauthamnholla/coding-practice/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2501-longest-square-streak-in-an-array](https://github.com/gauthamnholla/coding-practice/tree/master/2501-longest-square-streak-in-an-array) |
+| [2517-maximum-tastiness-of-candy-basket](https://github.com/gauthamnholla/coding-practice/tree/master/2517-maximum-tastiness-of-candy-basket) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/gauthamnholla/coding-practice/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/gauthamnholla/coding-practice/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/gauthamnholla/coding-practice/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
