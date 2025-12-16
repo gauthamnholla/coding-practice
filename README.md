@@ -431,6 +431,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2529-range-product-queries-of-powers](https://github.com/gauthamnholla/coding-practice/tree/master/2529-range-product-queries-of-powers) |
 | [2542-maximum-subsequence-score](https://github.com/gauthamnholla/coding-practice/tree/master/2542-maximum-subsequence-score) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/gauthamnholla/coding-practice/tree/master/2545-sort-the-students-by-their-kth-score) |
+| [2563-count-the-number-of-fair-pairs](https://github.com/gauthamnholla/coding-practice/tree/master/2563-count-the-number-of-fair-pairs) |
 | [2575-find-the-divisibility-array-of-a-string](https://github.com/gauthamnholla/coding-practice/tree/master/2575-find-the-divisibility-array-of-a-string) |
 | [2576-find-the-maximum-number-of-marked-indices](https://github.com/gauthamnholla/coding-practice/tree/master/2576-find-the-maximum-number-of-marked-indices) |
 | [2580-count-ways-to-group-overlapping-ranges](https://github.com/gauthamnholla/coding-practice/tree/master/2580-count-ways-to-group-overlapping-ranges) |
@@ -891,6 +892,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/gauthamnholla/coding-practice/tree/master/2517-maximum-tastiness-of-candy-basket) |
 | [2542-maximum-subsequence-score](https://github.com/gauthamnholla/coding-practice/tree/master/2542-maximum-subsequence-score) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/gauthamnholla/coding-practice/tree/master/2545-sort-the-students-by-their-kth-score) |
+| [2563-count-the-number-of-fair-pairs](https://github.com/gauthamnholla/coding-practice/tree/master/2563-count-the-number-of-fair-pairs) |
 | [2576-find-the-maximum-number-of-marked-indices](https://github.com/gauthamnholla/coding-practice/tree/master/2576-find-the-maximum-number-of-marked-indices) |
 | [2578-split-with-minimum-sum](https://github.com/gauthamnholla/coding-practice/tree/master/2578-split-with-minimum-sum) |
 | [2580-count-ways-to-group-overlapping-ranges](https://github.com/gauthamnholla/coding-practice/tree/master/2580-count-ways-to-group-overlapping-ranges) |
@@ -1537,6 +1539,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2465-number-of-distinct-averages](https://github.com/gauthamnholla/coding-practice/tree/master/2465-number-of-distinct-averages) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/gauthamnholla/coding-practice/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/gauthamnholla/coding-practice/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [2563-count-the-number-of-fair-pairs](https://github.com/gauthamnholla/coding-practice/tree/master/2563-count-the-number-of-fair-pairs) |
 | [2576-find-the-maximum-number-of-marked-indices](https://github.com/gauthamnholla/coding-practice/tree/master/2576-find-the-maximum-number-of-marked-indices) |
 | [2592-maximize-greatness-of-an-array](https://github.com/gauthamnholla/coding-practice/tree/master/2592-maximize-greatness-of-an-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/gauthamnholla/coding-practice/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -2241,6 +2244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/gauthamnholla/coding-practice/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2501-longest-square-streak-in-an-array](https://github.com/gauthamnholla/coding-practice/tree/master/2501-longest-square-streak-in-an-array) |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/gauthamnholla/coding-practice/tree/master/2517-maximum-tastiness-of-candy-basket) |
+| [2563-count-the-number-of-fair-pairs](https://github.com/gauthamnholla/coding-practice/tree/master/2563-count-the-number-of-fair-pairs) |
 | [2576-find-the-maximum-number-of-marked-indices](https://github.com/gauthamnholla/coding-practice/tree/master/2576-find-the-maximum-number-of-marked-indices) |
 | [2602-minimum-operations-to-make-all-array-elements-equal](https://github.com/gauthamnholla/coding-practice/tree/master/2602-minimum-operations-to-make-all-array-elements-equal) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/gauthamnholla/coding-practice/tree/master/2618-maximize-the-minimum-powered-city) |
