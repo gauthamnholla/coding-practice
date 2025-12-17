@@ -439,6 +439,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2575-find-the-divisibility-array-of-a-string](https://github.com/gauthamnholla/coding-practice/tree/master/2575-find-the-divisibility-array-of-a-string) |
 | [2576-find-the-maximum-number-of-marked-indices](https://github.com/gauthamnholla/coding-practice/tree/master/2576-find-the-maximum-number-of-marked-indices) |
 | [2580-count-ways-to-group-overlapping-ranges](https://github.com/gauthamnholla/coding-practice/tree/master/2580-count-ways-to-group-overlapping-ranges) |
+| [2587-rearrange-array-to-maximize-prefix-score](https://github.com/gauthamnholla/coding-practice/tree/master/2587-rearrange-array-to-maximize-prefix-score) |
 | [2592-maximize-greatness-of-an-array](https://github.com/gauthamnholla/coding-practice/tree/master/2592-maximize-greatness-of-an-array) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/gauthamnholla/coding-practice/tree/master/2597-the-number-of-beautiful-subsets) |
 | [2602-minimum-operations-to-make-all-array-elements-equal](https://github.com/gauthamnholla/coding-practice/tree/master/2602-minimum-operations-to-make-all-array-elements-equal) |
@@ -644,6 +645,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2567-minimum-score-by-changing-two-elements](https://github.com/gauthamnholla/coding-practice/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2576-find-the-maximum-number-of-marked-indices](https://github.com/gauthamnholla/coding-practice/tree/master/2576-find-the-maximum-number-of-marked-indices) |
 | [2578-split-with-minimum-sum](https://github.com/gauthamnholla/coding-practice/tree/master/2578-split-with-minimum-sum) |
+| [2587-rearrange-array-to-maximize-prefix-score](https://github.com/gauthamnholla/coding-practice/tree/master/2587-rearrange-array-to-maximize-prefix-score) |
 | [2592-maximize-greatness-of-an-array](https://github.com/gauthamnholla/coding-practice/tree/master/2592-maximize-greatness-of-an-array) |
 | [2607-make-k-subarray-sums-equal](https://github.com/gauthamnholla/coding-practice/tree/master/2607-make-k-subarray-sums-equal) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/gauthamnholla/coding-practice/tree/master/2618-maximize-the-minimum-powered-city) |
@@ -908,6 +910,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2578-split-with-minimum-sum](https://github.com/gauthamnholla/coding-practice/tree/master/2578-split-with-minimum-sum) |
 | [2580-count-ways-to-group-overlapping-ranges](https://github.com/gauthamnholla/coding-practice/tree/master/2580-count-ways-to-group-overlapping-ranges) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/gauthamnholla/coding-practice/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
+| [2587-rearrange-array-to-maximize-prefix-score](https://github.com/gauthamnholla/coding-practice/tree/master/2587-rearrange-array-to-maximize-prefix-score) |
 | [2592-maximize-greatness-of-an-array](https://github.com/gauthamnholla/coding-practice/tree/master/2592-maximize-greatness-of-an-array) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/gauthamnholla/coding-practice/tree/master/2597-the-number-of-beautiful-subsets) |
 | [2602-minimum-operations-to-make-all-array-elements-equal](https://github.com/gauthamnholla/coding-practice/tree/master/2602-minimum-operations-to-make-all-array-elements-equal) |
@@ -2140,6 +2143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2389-longest-subsequence-with-limited-sum](https://github.com/gauthamnholla/coding-practice/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/gauthamnholla/coding-practice/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [2529-range-product-queries-of-powers](https://github.com/gauthamnholla/coding-practice/tree/master/2529-range-product-queries-of-powers) |
+| [2587-rearrange-array-to-maximize-prefix-score](https://github.com/gauthamnholla/coding-practice/tree/master/2587-rearrange-array-to-maximize-prefix-score) |
 | [2602-minimum-operations-to-make-all-array-elements-equal](https://github.com/gauthamnholla/coding-practice/tree/master/2602-minimum-operations-to-make-all-array-elements-equal) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/gauthamnholla/coding-practice/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2625-increment-submatrices-by-one](https://github.com/gauthamnholla/coding-practice/tree/master/2625-increment-submatrices-by-one) |
