@@ -452,6 +452,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2689-rearranging-fruits](https://github.com/gauthamnholla/coding-practice/tree/master/2689-rearranging-fruits) |
 | [2706-buy-two-chocolates](https://github.com/gauthamnholla/coding-practice/tree/master/2706-buy-two-chocolates) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/gauthamnholla/coding-practice/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
+| [2731-movement-of-robots](https://github.com/gauthamnholla/coding-practice/tree/master/2731-movement-of-robots) |
 | [2733-neither-minimum-nor-maximum](https://github.com/gauthamnholla/coding-practice/tree/master/2733-neither-minimum-nor-maximum) |
 | [2740-find-the-value-of-the-partition](https://github.com/gauthamnholla/coding-practice/tree/master/2740-find-the-value-of-the-partition) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/gauthamnholla/coding-practice/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
@@ -926,6 +927,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2689-rearranging-fruits](https://github.com/gauthamnholla/coding-practice/tree/master/2689-rearranging-fruits) |
 | [2706-buy-two-chocolates](https://github.com/gauthamnholla/coding-practice/tree/master/2706-buy-two-chocolates) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/gauthamnholla/coding-practice/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
+| [2731-movement-of-robots](https://github.com/gauthamnholla/coding-practice/tree/master/2731-movement-of-robots) |
 | [2733-neither-minimum-nor-maximum](https://github.com/gauthamnholla/coding-practice/tree/master/2733-neither-minimum-nor-maximum) |
 | [2740-find-the-value-of-the-partition](https://github.com/gauthamnholla/coding-practice/tree/master/2740-find-the-value-of-the-partition) |
 | [2784-check-if-array-is-good](https://github.com/gauthamnholla/coding-practice/tree/master/2784-check-if-array-is-good) |
@@ -2170,6 +2172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2602-minimum-operations-to-make-all-array-elements-equal](https://github.com/gauthamnholla/coding-practice/tree/master/2602-minimum-operations-to-make-all-array-elements-equal) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/gauthamnholla/coding-practice/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2625-increment-submatrices-by-one](https://github.com/gauthamnholla/coding-practice/tree/master/2625-increment-submatrices-by-one) |
+| [2731-movement-of-robots](https://github.com/gauthamnholla/coding-practice/tree/master/2731-movement-of-robots) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/gauthamnholla/coding-practice/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/gauthamnholla/coding-practice/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/gauthamnholla/coding-practice/tree/master/3432-count-partitions-with-even-sum-difference) |
@@ -2310,6 +2313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0292-nim-game](https://github.com/gauthamnholla/coding-practice/tree/master/0292-nim-game) |
 | [1227-airplane-seat-assignment-probability](https://github.com/gauthamnholla/coding-practice/tree/master/1227-airplane-seat-assignment-probability) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/gauthamnholla/coding-practice/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [2731-movement-of-robots](https://github.com/gauthamnholla/coding-practice/tree/master/2731-movement-of-robots) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/gauthamnholla/coding-practice/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [3462-vowels-game-in-a-string](https://github.com/gauthamnholla/coding-practice/tree/master/3462-vowels-game-in-a-string) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/gauthamnholla/coding-practice/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
