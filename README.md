@@ -458,6 +458,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2784-check-if-array-is-good](https://github.com/gauthamnholla/coding-practice/tree/master/2784-check-if-array-is-good) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/gauthamnholla/coding-practice/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2830-maximize-the-profit-as-the-salesman](https://github.com/gauthamnholla/coding-practice/tree/master/2830-maximize-the-profit-as-the-salesman) |
+| [2860-happy-students](https://github.com/gauthamnholla/coding-practice/tree/master/2860-happy-students) |
 | [2974-minimum-number-game](https://github.com/gauthamnholla/coding-practice/tree/master/2974-minimum-number-game) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/gauthamnholla/coding-practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/gauthamnholla/coding-practice/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
@@ -926,6 +927,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/gauthamnholla/coding-practice/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2830-maximize-the-profit-as-the-salesman](https://github.com/gauthamnholla/coding-practice/tree/master/2830-maximize-the-profit-as-the-salesman) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/gauthamnholla/coding-practice/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
+| [2860-happy-students](https://github.com/gauthamnholla/coding-practice/tree/master/2860-happy-students) |
 | [2887-sort-vowels-in-a-string](https://github.com/gauthamnholla/coding-practice/tree/master/2887-sort-vowels-in-a-string) |
 | [2974-minimum-number-game](https://github.com/gauthamnholla/coding-practice/tree/master/2974-minimum-number-game) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/gauthamnholla/coding-practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -1100,6 +1102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2174-next-greater-numerically-balanced-number](https://github.com/gauthamnholla/coding-practice/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/gauthamnholla/coding-practice/tree/master/2202-sum-of-k-mirror-numbers) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/gauthamnholla/coding-practice/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
+| [2860-happy-students](https://github.com/gauthamnholla/coding-practice/tree/master/2860-happy-students) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/gauthamnholla/coding-practice/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3201-distribute-candies-among-children-ii](https://github.com/gauthamnholla/coding-practice/tree/master/3201-distribute-candies-among-children-ii) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/gauthamnholla/coding-practice/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
