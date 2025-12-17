@@ -453,6 +453,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2706-buy-two-chocolates](https://github.com/gauthamnholla/coding-practice/tree/master/2706-buy-two-chocolates) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/gauthamnholla/coding-practice/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2733-neither-minimum-nor-maximum](https://github.com/gauthamnholla/coding-practice/tree/master/2733-neither-minimum-nor-maximum) |
+| [2740-find-the-value-of-the-partition](https://github.com/gauthamnholla/coding-practice/tree/master/2740-find-the-value-of-the-partition) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/gauthamnholla/coding-practice/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [2784-check-if-array-is-good](https://github.com/gauthamnholla/coding-practice/tree/master/2784-check-if-array-is-good) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/gauthamnholla/coding-practice/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -919,6 +920,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2706-buy-two-chocolates](https://github.com/gauthamnholla/coding-practice/tree/master/2706-buy-two-chocolates) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/gauthamnholla/coding-practice/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2733-neither-minimum-nor-maximum](https://github.com/gauthamnholla/coding-practice/tree/master/2733-neither-minimum-nor-maximum) |
+| [2740-find-the-value-of-the-partition](https://github.com/gauthamnholla/coding-practice/tree/master/2740-find-the-value-of-the-partition) |
 | [2784-check-if-array-is-good](https://github.com/gauthamnholla/coding-practice/tree/master/2784-check-if-array-is-good) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/gauthamnholla/coding-practice/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2887-sort-vowels-in-a-string](https://github.com/gauthamnholla/coding-practice/tree/master/2887-sort-vowels-in-a-string) |
