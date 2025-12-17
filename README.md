@@ -353,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2008-maximum-earnings-from-taxi](https://github.com/gauthamnholla/coding-practice/tree/master/2008-maximum-earnings-from-taxi) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/gauthamnholla/coding-practice/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2023-design-movie-rental-system](https://github.com/gauthamnholla/coding-practice/tree/master/2023-design-movie-rental-system) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/gauthamnholla/coding-practice/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/gauthamnholla/coding-practice/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2050-parallel-courses-iii](https://github.com/gauthamnholla/coding-practice/tree/master/2050-parallel-courses-iii) |
 | [2058-concatenation-of-array](https://github.com/gauthamnholla/coding-practice/tree/master/2058-concatenation-of-array) |
@@ -848,6 +849,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1996-the-number-of-weak-characters-in-the-game](https://github.com/gauthamnholla/coding-practice/tree/master/1996-the-number-of-weak-characters-in-the-game) |
 | [2007-find-original-array-from-doubled-array](https://github.com/gauthamnholla/coding-practice/tree/master/2007-find-original-array-from-doubled-array) |
 | [2008-maximum-earnings-from-taxi](https://github.com/gauthamnholla/coding-practice/tree/master/2008-maximum-earnings-from-taxi) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/gauthamnholla/coding-practice/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/gauthamnholla/coding-practice/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/gauthamnholla/coding-practice/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/gauthamnholla/coding-practice/tree/master/2094-finding-3-digit-even-numbers) |
@@ -1688,6 +1690,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/gauthamnholla/coding-practice/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1916-count-ways-to-build-rooms-in-an-ant-colony](https://github.com/gauthamnholla/coding-practice/tree/master/1916-count-ways-to-build-rooms-in-an-ant-colony) |
 | [1925-count-square-sum-triples](https://github.com/gauthamnholla/coding-practice/tree/master/1925-count-square-sum-triples) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/gauthamnholla/coding-practice/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/gauthamnholla/coding-practice/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/gauthamnholla/coding-practice/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/gauthamnholla/coding-practice/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
@@ -2368,6 +2371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1876-map-of-highest-peak](https://github.com/gauthamnholla/coding-practice/tree/master/1876-map-of-highest-peak) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/gauthamnholla/coding-practice/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/gauthamnholla/coding-practice/tree/master/2022-convert-1d-array-into-2d-array) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/gauthamnholla/coding-practice/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2146-k-highest-ranked-items-within-a-price-range](https://github.com/gauthamnholla/coding-practice/tree/master/2146-k-highest-ranked-items-within-a-price-range) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/gauthamnholla/coding-practice/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/gauthamnholla/coding-practice/tree/master/2328-number-of-increasing-paths-in-a-grid) |
