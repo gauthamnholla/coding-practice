@@ -263,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/gauthamnholla/coding-practice/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/gauthamnholla/coding-practice/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/gauthamnholla/coding-practice/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1363-largest-multiple-of-three](https://github.com/gauthamnholla/coding-practice/tree/master/1363-largest-multiple-of-three) |
 | [1366-rank-teams-by-votes](https://github.com/gauthamnholla/coding-practice/tree/master/1366-rank-teams-by-votes) |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/gauthamnholla/coding-practice/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1383-maximum-performance-of-a-team](https://github.com/gauthamnholla/coding-practice/tree/master/1383-maximum-performance-of-a-team) |
@@ -594,6 +595,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/gauthamnholla/coding-practice/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/gauthamnholla/coding-practice/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1338-reduce-array-size-to-the-half](https://github.com/gauthamnholla/coding-practice/tree/master/1338-reduce-array-size-to-the-half) |
+| [1363-largest-multiple-of-three](https://github.com/gauthamnholla/coding-practice/tree/master/1363-largest-multiple-of-three) |
 | [1382-balance-a-binary-search-tree](https://github.com/gauthamnholla/coding-practice/tree/master/1382-balance-a-binary-search-tree) |
 | [1383-maximum-performance-of-a-team](https://github.com/gauthamnholla/coding-practice/tree/master/1383-maximum-performance-of-a-team) |
 | [1403-minimum-subsequence-in-non-increasing-order](https://github.com/gauthamnholla/coding-practice/tree/master/1403-minimum-subsequence-in-non-increasing-order) |
@@ -815,6 +817,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1348-tweet-counts-per-frequency](https://github.com/gauthamnholla/coding-practice/tree/master/1348-tweet-counts-per-frequency) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/gauthamnholla/coding-practice/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/gauthamnholla/coding-practice/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1363-largest-multiple-of-three](https://github.com/gauthamnholla/coding-practice/tree/master/1363-largest-multiple-of-three) |
 | [1366-rank-teams-by-votes](https://github.com/gauthamnholla/coding-practice/tree/master/1366-rank-teams-by-votes) |
 | [1383-maximum-performance-of-a-team](https://github.com/gauthamnholla/coding-practice/tree/master/1383-maximum-performance-of-a-team) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/gauthamnholla/coding-practice/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -1468,6 +1471,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1299-k-concatenation-maximum-sum](https://github.com/gauthamnholla/coding-practice/tree/master/1299-k-concatenation-maximum-sum) |
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/gauthamnholla/coding-practice/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1340-jump-game-v](https://github.com/gauthamnholla/coding-practice/tree/master/1340-jump-game-v) |
+| [1363-largest-multiple-of-three](https://github.com/gauthamnholla/coding-practice/tree/master/1363-largest-multiple-of-three) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/gauthamnholla/coding-practice/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1387-sort-integers-by-the-power-value](https://github.com/gauthamnholla/coding-practice/tree/master/1387-sort-integers-by-the-power-value) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/gauthamnholla/coding-practice/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -1724,6 +1728,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1094-matrix-cells-in-distance-order](https://github.com/gauthamnholla/coding-practice/tree/master/1094-matrix-cells-in-distance-order) |
 | [1115-valid-boomerang](https://github.com/gauthamnholla/coding-practice/tree/master/1115-valid-boomerang) |
 | [1227-airplane-seat-assignment-probability](https://github.com/gauthamnholla/coding-practice/tree/master/1227-airplane-seat-assignment-probability) |
+| [1363-largest-multiple-of-three](https://github.com/gauthamnholla/coding-practice/tree/master/1363-largest-multiple-of-three) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/gauthamnholla/coding-practice/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/gauthamnholla/coding-practice/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1448-maximum-69-number](https://github.com/gauthamnholla/coding-practice/tree/master/1448-maximum-69-number) |
