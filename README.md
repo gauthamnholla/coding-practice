@@ -335,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1727-largest-submatrix-with-rearrangements](https://github.com/gauthamnholla/coding-practice/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1728-cat-and-mouse-ii](https://github.com/gauthamnholla/coding-practice/tree/master/1728-cat-and-mouse-ii) |
 | [1738-find-kth-largest-xor-coordinate-value](https://github.com/gauthamnholla/coding-practice/tree/master/1738-find-kth-largest-xor-coordinate-value) |
+| [1782-count-pairs-of-nodes](https://github.com/gauthamnholla/coding-practice/tree/master/1782-count-pairs-of-nodes) |
 | [1798-maximum-number-of-consecutive-values-you-can-make](https://github.com/gauthamnholla/coding-practice/tree/master/1798-maximum-number-of-consecutive-values-you-can-make) |
 | [1801-number-of-orders-in-the-backlog](https://github.com/gauthamnholla/coding-practice/tree/master/1801-number-of-orders-in-the-backlog) |
 | [1813-maximum-erasure-value](https://github.com/gauthamnholla/coding-practice/tree/master/1813-maximum-erasure-value) |
@@ -875,6 +876,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1710-maximum-units-on-a-truck](https://github.com/gauthamnholla/coding-practice/tree/master/1710-maximum-units-on-a-truck) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/gauthamnholla/coding-practice/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1738-find-kth-largest-xor-coordinate-value](https://github.com/gauthamnholla/coding-practice/tree/master/1738-find-kth-largest-xor-coordinate-value) |
+| [1782-count-pairs-of-nodes](https://github.com/gauthamnholla/coding-practice/tree/master/1782-count-pairs-of-nodes) |
 | [1798-maximum-number-of-consecutive-values-you-can-make](https://github.com/gauthamnholla/coding-practice/tree/master/1798-maximum-number-of-consecutive-values-you-can-make) |
 | [1818-minimum-absolute-sum-difference](https://github.com/gauthamnholla/coding-practice/tree/master/1818-minimum-absolute-sum-difference) |
 | [1833-maximum-ice-cream-bars](https://github.com/gauthamnholla/coding-practice/tree/master/1833-maximum-ice-cream-bars) |
@@ -1293,6 +1295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/gauthamnholla/coding-practice/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1657-determine-if-two-strings-are-close](https://github.com/gauthamnholla/coding-practice/tree/master/1657-determine-if-two-strings-are-close) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/gauthamnholla/coding-practice/tree/master/1679-max-number-of-k-sum-pairs) |
+| [1782-count-pairs-of-nodes](https://github.com/gauthamnholla/coding-practice/tree/master/1782-count-pairs-of-nodes) |
 | [1813-maximum-erasure-value](https://github.com/gauthamnholla/coding-practice/tree/master/1813-maximum-erasure-value) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/gauthamnholla/coding-practice/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1857-largest-color-value-in-a-directed-graph](https://github.com/gauthamnholla/coding-practice/tree/master/1857-largest-color-value-in-a-directed-graph) |
@@ -1618,6 +1621,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/gauthamnholla/coding-practice/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/gauthamnholla/coding-practice/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1697-checking-existence-of-edge-length-limited-paths](https://github.com/gauthamnholla/coding-practice/tree/master/1697-checking-existence-of-edge-length-limited-paths) |
+| [1782-count-pairs-of-nodes](https://github.com/gauthamnholla/coding-practice/tree/master/1782-count-pairs-of-nodes) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/gauthamnholla/coding-practice/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/gauthamnholla/coding-practice/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2332-the-latest-time-to-catch-a-bus](https://github.com/gauthamnholla/coding-practice/tree/master/2332-the-latest-time-to-catch-a-bus) |
@@ -2330,6 +2334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1631-path-with-minimum-effort](https://github.com/gauthamnholla/coding-practice/tree/master/1631-path-with-minimum-effort) |
 | [1648-sell-diminishing-valued-colored-balls](https://github.com/gauthamnholla/coding-practice/tree/master/1648-sell-diminishing-valued-colored-balls) |
 | [1649-create-sorted-array-through-instructions](https://github.com/gauthamnholla/coding-practice/tree/master/1649-create-sorted-array-through-instructions) |
+| [1782-count-pairs-of-nodes](https://github.com/gauthamnholla/coding-practice/tree/master/1782-count-pairs-of-nodes) |
 | [1818-minimum-absolute-sum-difference](https://github.com/gauthamnholla/coding-practice/tree/master/1818-minimum-absolute-sum-difference) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/gauthamnholla/coding-practice/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1851-minimum-interval-to-include-each-query](https://github.com/gauthamnholla/coding-practice/tree/master/1851-minimum-interval-to-include-each-query) |
@@ -2551,6 +2556,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/gauthamnholla/coding-practice/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/gauthamnholla/coding-practice/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1657-determine-if-two-strings-are-close](https://github.com/gauthamnholla/coding-practice/tree/master/1657-determine-if-two-strings-are-close) |
+| [1782-count-pairs-of-nodes](https://github.com/gauthamnholla/coding-practice/tree/master/1782-count-pairs-of-nodes) |
 | [1857-largest-color-value-in-a-directed-graph](https://github.com/gauthamnholla/coding-practice/tree/master/1857-largest-color-value-in-a-directed-graph) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/gauthamnholla/coding-practice/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/gauthamnholla/coding-practice/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
@@ -2780,6 +2786,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1661-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/gauthamnholla/coding-practice/tree/master/1661-minimum-number-of-vertices-to-reach-all-nodes) |
 | [1697-checking-existence-of-edge-length-limited-paths](https://github.com/gauthamnholla/coding-practice/tree/master/1697-checking-existence-of-edge-length-limited-paths) |
 | [1728-cat-and-mouse-ii](https://github.com/gauthamnholla/coding-practice/tree/master/1728-cat-and-mouse-ii) |
+| [1782-count-pairs-of-nodes](https://github.com/gauthamnholla/coding-practice/tree/master/1782-count-pairs-of-nodes) |
 | [1786-number-of-restricted-paths-from-first-to-last-node](https://github.com/gauthamnholla/coding-practice/tree/master/1786-number-of-restricted-paths-from-first-to-last-node) |
 | [1857-largest-color-value-in-a-directed-graph](https://github.com/gauthamnholla/coding-practice/tree/master/1857-largest-color-value-in-a-directed-graph) |
 | [1916-count-ways-to-build-rooms-in-an-ant-colony](https://github.com/gauthamnholla/coding-practice/tree/master/1916-count-ways-to-build-rooms-in-an-ant-colony) |
