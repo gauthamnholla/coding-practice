@@ -243,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1122-relative-sort-array](https://github.com/gauthamnholla/coding-practice/tree/master/1122-relative-sort-array) |
 | [1169-invalid-transactions](https://github.com/gauthamnholla/coding-practice/tree/master/1169-invalid-transactions) |
 | [1170-compare-strings-by-frequency-of-the-smallest-character](https://github.com/gauthamnholla/coding-practice/tree/master/1170-compare-strings-by-frequency-of-the-smallest-character) |
+| [1187-make-array-strictly-increasing](https://github.com/gauthamnholla/coding-practice/tree/master/1187-make-array-strictly-increasing) |
 | [1202-smallest-string-with-swaps](https://github.com/gauthamnholla/coding-practice/tree/master/1202-smallest-string-with-swaps) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/gauthamnholla/coding-practice/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1263-minimum-moves-to-move-a-box-to-their-target-location](https://github.com/gauthamnholla/coding-practice/tree/master/1263-minimum-moves-to-move-a-box-to-their-target-location) |
@@ -795,6 +796,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1122-relative-sort-array](https://github.com/gauthamnholla/coding-practice/tree/master/1122-relative-sort-array) |
 | [1169-invalid-transactions](https://github.com/gauthamnholla/coding-practice/tree/master/1169-invalid-transactions) |
 | [1170-compare-strings-by-frequency-of-the-smallest-character](https://github.com/gauthamnholla/coding-practice/tree/master/1170-compare-strings-by-frequency-of-the-smallest-character) |
+| [1187-make-array-strictly-increasing](https://github.com/gauthamnholla/coding-practice/tree/master/1187-make-array-strictly-increasing) |
 | [1202-smallest-string-with-swaps](https://github.com/gauthamnholla/coding-practice/tree/master/1202-smallest-string-with-swaps) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/gauthamnholla/coding-practice/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1268-search-suggestions-system](https://github.com/gauthamnholla/coding-practice/tree/master/1268-search-suggestions-system) |
@@ -1458,6 +1460,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0949-cat-and-mouse](https://github.com/gauthamnholla/coding-practice/tree/master/0949-cat-and-mouse) |
 | [1048-longest-string-chain](https://github.com/gauthamnholla/coding-practice/tree/master/1048-longest-string-chain) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/gauthamnholla/coding-practice/tree/master/1111-minimum-score-triangulation-of-polygon) |
+| [1187-make-array-strictly-increasing](https://github.com/gauthamnholla/coding-practice/tree/master/1187-make-array-strictly-increasing) |
 | [1227-airplane-seat-assignment-probability](https://github.com/gauthamnholla/coding-practice/tree/master/1227-airplane-seat-assignment-probability) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/gauthamnholla/coding-practice/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1299-k-concatenation-maximum-sum](https://github.com/gauthamnholla/coding-practice/tree/master/1299-k-concatenation-maximum-sum) |
@@ -2280,6 +2283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0894-random-pick-with-blacklist](https://github.com/gauthamnholla/coding-practice/tree/master/0894-random-pick-with-blacklist) |
 | [0924-fair-candy-swap](https://github.com/gauthamnholla/coding-practice/tree/master/0924-fair-candy-swap) |
 | [1170-compare-strings-by-frequency-of-the-smallest-character](https://github.com/gauthamnholla/coding-practice/tree/master/1170-compare-strings-by-frequency-of-the-smallest-character) |
+| [1187-make-array-strictly-increasing](https://github.com/gauthamnholla/coding-practice/tree/master/1187-make-array-strictly-increasing) |
 | [1268-search-suggestions-system](https://github.com/gauthamnholla/coding-practice/tree/master/1268-search-suggestions-system) |
 | [1300-sum-of-mutated-array-closest-to-target](https://github.com/gauthamnholla/coding-practice/tree/master/1300-sum-of-mutated-array-closest-to-target) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/gauthamnholla/coding-practice/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
