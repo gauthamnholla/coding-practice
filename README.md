@@ -344,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1834-minimum-number-of-people-to-teach](https://github.com/gauthamnholla/coding-practice/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1834-single-threaded-cpu](https://github.com/gauthamnholla/coding-practice/tree/master/1834-single-threaded-cpu) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/gauthamnholla/coding-practice/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [1840-maximum-building-height](https://github.com/gauthamnholla/coding-practice/tree/master/1840-maximum-building-height) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/gauthamnholla/coding-practice/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1851-minimum-interval-to-include-each-query](https://github.com/gauthamnholla/coding-practice/tree/master/1851-minimum-interval-to-include-each-query) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/gauthamnholla/coding-practice/tree/master/1863-sum-of-all-subset-xor-totals) |
@@ -882,6 +883,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-maximum-ice-cream-bars](https://github.com/gauthamnholla/coding-practice/tree/master/1833-maximum-ice-cream-bars) |
 | [1834-single-threaded-cpu](https://github.com/gauthamnholla/coding-practice/tree/master/1834-single-threaded-cpu) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/gauthamnholla/coding-practice/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [1840-maximum-building-height](https://github.com/gauthamnholla/coding-practice/tree/master/1840-maximum-building-height) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/gauthamnholla/coding-practice/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1851-minimum-interval-to-include-each-query](https://github.com/gauthamnholla/coding-practice/tree/master/1851-minimum-interval-to-include-each-query) |
 | [1859-sorting-the-sentence](https://github.com/gauthamnholla/coding-practice/tree/master/1859-sorting-the-sentence) |
@@ -1772,6 +1774,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1728-cat-and-mouse-ii](https://github.com/gauthamnholla/coding-practice/tree/master/1728-cat-and-mouse-ii) |
 | [1753-maximum-score-from-removing-stones](https://github.com/gauthamnholla/coding-practice/tree/master/1753-maximum-score-from-removing-stones) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/gauthamnholla/coding-practice/tree/master/1817-calculate-money-in-leetcode-bank) |
+| [1840-maximum-building-height](https://github.com/gauthamnholla/coding-practice/tree/master/1840-maximum-building-height) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/gauthamnholla/coding-practice/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/gauthamnholla/coding-practice/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1916-count-ways-to-build-rooms-in-an-ant-colony](https://github.com/gauthamnholla/coding-practice/tree/master/1916-count-ways-to-build-rooms-in-an-ant-colony) |
