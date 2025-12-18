@@ -328,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1686-stone-game-vi](https://github.com/gauthamnholla/coding-practice/tree/master/1686-stone-game-vi) |
 | [1691-maximum-height-by-stacking-cuboids](https://github.com/gauthamnholla/coding-practice/tree/master/1691-maximum-height-by-stacking-cuboids) |
 | [1696-jump-game-vi](https://github.com/gauthamnholla/coding-practice/tree/master/1696-jump-game-vi) |
+| [1697-checking-existence-of-edge-length-limited-paths](https://github.com/gauthamnholla/coding-practice/tree/master/1697-checking-existence-of-edge-length-limited-paths) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/gauthamnholla/coding-practice/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1705-maximum-number-of-eaten-apples](https://github.com/gauthamnholla/coding-practice/tree/master/1705-maximum-number-of-eaten-apples) |
 | [1710-maximum-units-on-a-truck](https://github.com/gauthamnholla/coding-practice/tree/master/1710-maximum-units-on-a-truck) |
@@ -870,6 +871,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1679-max-number-of-k-sum-pairs](https://github.com/gauthamnholla/coding-practice/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1686-stone-game-vi](https://github.com/gauthamnholla/coding-practice/tree/master/1686-stone-game-vi) |
 | [1691-maximum-height-by-stacking-cuboids](https://github.com/gauthamnholla/coding-practice/tree/master/1691-maximum-height-by-stacking-cuboids) |
+| [1697-checking-existence-of-edge-length-limited-paths](https://github.com/gauthamnholla/coding-practice/tree/master/1697-checking-existence-of-edge-length-limited-paths) |
 | [1710-maximum-units-on-a-truck](https://github.com/gauthamnholla/coding-practice/tree/master/1710-maximum-units-on-a-truck) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/gauthamnholla/coding-practice/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1738-find-kth-largest-xor-coordinate-value](https://github.com/gauthamnholla/coding-practice/tree/master/1738-find-kth-largest-xor-coordinate-value) |
@@ -1615,6 +1617,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/gauthamnholla/coding-practice/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/gauthamnholla/coding-practice/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/gauthamnholla/coding-practice/tree/master/1679-max-number-of-k-sum-pairs) |
+| [1697-checking-existence-of-edge-length-limited-paths](https://github.com/gauthamnholla/coding-practice/tree/master/1697-checking-existence-of-edge-length-limited-paths) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/gauthamnholla/coding-practice/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/gauthamnholla/coding-practice/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2332-the-latest-time-to-catch-a-bus](https://github.com/gauthamnholla/coding-practice/tree/master/2332-the-latest-time-to-catch-a-bus) |
@@ -2732,6 +2735,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1613-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/gauthamnholla/coding-practice/tree/master/1613-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
 | [1631-path-with-minimum-effort](https://github.com/gauthamnholla/coding-practice/tree/master/1631-path-with-minimum-effort) |
 | [1632-rank-transform-of-a-matrix](https://github.com/gauthamnholla/coding-practice/tree/master/1632-rank-transform-of-a-matrix) |
+| [1697-checking-existence-of-edge-length-limited-paths](https://github.com/gauthamnholla/coding-practice/tree/master/1697-checking-existence-of-edge-length-limited-paths) |
 | [2121-find-if-path-exists-in-graph](https://github.com/gauthamnholla/coding-practice/tree/master/2121-find-if-path-exists-in-graph) |
 | [2198-process-restricted-friend-requests](https://github.com/gauthamnholla/coding-practice/tree/master/2198-process-restricted-friend-requests) |
 | [2582-minimum-score-of-a-path-between-two-cities](https://github.com/gauthamnholla/coding-practice/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
@@ -2774,6 +2778,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1613-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/gauthamnholla/coding-practice/tree/master/1613-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
 | [1632-rank-transform-of-a-matrix](https://github.com/gauthamnholla/coding-practice/tree/master/1632-rank-transform-of-a-matrix) |
 | [1661-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/gauthamnholla/coding-practice/tree/master/1661-minimum-number-of-vertices-to-reach-all-nodes) |
+| [1697-checking-existence-of-edge-length-limited-paths](https://github.com/gauthamnholla/coding-practice/tree/master/1697-checking-existence-of-edge-length-limited-paths) |
 | [1728-cat-and-mouse-ii](https://github.com/gauthamnholla/coding-practice/tree/master/1728-cat-and-mouse-ii) |
 | [1786-number-of-restricted-paths-from-first-to-last-node](https://github.com/gauthamnholla/coding-practice/tree/master/1786-number-of-restricted-paths-from-first-to-last-node) |
 | [1857-largest-color-value-in-a-directed-graph](https://github.com/gauthamnholla/coding-practice/tree/master/1857-largest-color-value-in-a-directed-graph) |
