@@ -510,6 +510,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/gauthamnholla/coding-practice/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3530-maximum-profit-from-valid-topological-order-in-dag](https://github.com/gauthamnholla/coding-practice/tree/master/3530-maximum-profit-from-valid-topological-order-in-dag) |
 | [3531-count-covered-buildings](https://github.com/gauthamnholla/coding-practice/tree/master/3531-count-covered-buildings) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/gauthamnholla/coding-practice/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3553-minimum-weighted-subgraph-with-the-required-paths-ii](https://github.com/gauthamnholla/coding-practice/tree/master/3553-minimum-weighted-subgraph-with-the-required-paths-ii) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/gauthamnholla/coding-practice/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/gauthamnholla/coding-practice/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
@@ -1022,6 +1023,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3531-count-covered-buildings](https://github.com/gauthamnholla/coding-practice/tree/master/3531-count-covered-buildings) |
 | [3536-maximum-product-of-two-digits](https://github.com/gauthamnholla/coding-practice/tree/master/3536-maximum-product-of-two-digits) |
 | [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/gauthamnholla/coding-practice/tree/master/3545-minimum-deletions-for-at-most-k-distinct-characters) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/gauthamnholla/coding-practice/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3556-sum-of-largest-prime-substrings](https://github.com/gauthamnholla/coding-practice/tree/master/3556-sum-of-largest-prime-substrings) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/gauthamnholla/coding-practice/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3572-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues](https://github.com/gauthamnholla/coding-practice/tree/master/3572-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues) |
@@ -1399,6 +1401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/gauthamnholla/coding-practice/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3531-count-covered-buildings](https://github.com/gauthamnholla/coding-practice/tree/master/3531-count-covered-buildings) |
 | [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/gauthamnholla/coding-practice/tree/master/3545-minimum-deletions-for-at-most-k-distinct-characters) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/gauthamnholla/coding-practice/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3556-sum-of-largest-prime-substrings](https://github.com/gauthamnholla/coding-practice/tree/master/3556-sum-of-largest-prime-substrings) |
 | [3572-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues](https://github.com/gauthamnholla/coding-practice/tree/master/3572-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/gauthamnholla/coding-practice/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
