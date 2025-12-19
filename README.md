@@ -560,6 +560,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3745-maximize-expression-of-three-elements](https://github.com/gauthamnholla/coding-practice/tree/master/3745-maximize-expression-of-three-elements) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/gauthamnholla/coding-practice/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3748-sort-matrix-by-diagonals](https://github.com/gauthamnholla/coding-practice/tree/master/3748-sort-matrix-by-diagonals) |
+| [3752-lexicographically-smallest-negated-permutation-that-sums-to-target](https://github.com/gauthamnholla/coding-practice/tree/master/3752-lexicographically-smallest-negated-permutation-that-sums-to-target) |
 | [3759-count-elements-with-at-least-k-greater-values](https://github.com/gauthamnholla/coding-practice/tree/master/3759-count-elements-with-at-least-k-greater-values) |
 | [3767-maximize-points-after-choosing-k-tasks](https://github.com/gauthamnholla/coding-practice/tree/master/3767-maximize-points-after-choosing-k-tasks) |
 | [3769-sort-integers-by-binary-reflection](https://github.com/gauthamnholla/coding-practice/tree/master/3769-sort-integers-by-binary-reflection) |
@@ -727,6 +728,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/gauthamnholla/coding-practice/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/gauthamnholla/coding-practice/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3745-maximize-expression-of-three-elements](https://github.com/gauthamnholla/coding-practice/tree/master/3745-maximize-expression-of-three-elements) |
+| [3752-lexicographically-smallest-negated-permutation-that-sums-to-target](https://github.com/gauthamnholla/coding-practice/tree/master/3752-lexicographically-smallest-negated-permutation-that-sums-to-target) |
 | [3767-maximize-points-after-choosing-k-tasks](https://github.com/gauthamnholla/coding-practice/tree/master/3767-maximize-points-after-choosing-k-tasks) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/gauthamnholla/coding-practice/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/gauthamnholla/coding-practice/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
@@ -1060,6 +1062,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/gauthamnholla/coding-practice/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
 | [3745-maximize-expression-of-three-elements](https://github.com/gauthamnholla/coding-practice/tree/master/3745-maximize-expression-of-three-elements) |
 | [3748-sort-matrix-by-diagonals](https://github.com/gauthamnholla/coding-practice/tree/master/3748-sort-matrix-by-diagonals) |
+| [3752-lexicographically-smallest-negated-permutation-that-sums-to-target](https://github.com/gauthamnholla/coding-practice/tree/master/3752-lexicographically-smallest-negated-permutation-that-sums-to-target) |
 | [3759-count-elements-with-at-least-k-greater-values](https://github.com/gauthamnholla/coding-practice/tree/master/3759-count-elements-with-at-least-k-greater-values) |
 | [3767-maximize-points-after-choosing-k-tasks](https://github.com/gauthamnholla/coding-practice/tree/master/3767-maximize-points-after-choosing-k-tasks) |
 | [3769-sort-integers-by-binary-reflection](https://github.com/gauthamnholla/coding-practice/tree/master/3769-sort-integers-by-binary-reflection) |
@@ -1720,6 +1723,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3649-number-of-perfect-pairs](https://github.com/gauthamnholla/coding-practice/tree/master/3649-number-of-perfect-pairs) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/gauthamnholla/coding-practice/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3685-subsequence-sum-after-capping-elements](https://github.com/gauthamnholla/coding-practice/tree/master/3685-subsequence-sum-after-capping-elements) |
+| [3752-lexicographically-smallest-negated-permutation-that-sums-to-target](https://github.com/gauthamnholla/coding-practice/tree/master/3752-lexicographically-smallest-negated-permutation-that-sums-to-target) |
 ## Linked List
 |  |
 | ------- |
@@ -1904,6 +1908,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/gauthamnholla/coding-practice/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/gauthamnholla/coding-practice/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/gauthamnholla/coding-practice/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
+| [3752-lexicographically-smallest-negated-permutation-that-sums-to-target](https://github.com/gauthamnholla/coding-practice/tree/master/3752-lexicographically-smallest-negated-permutation-that-sums-to-target) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/gauthamnholla/coding-practice/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/gauthamnholla/coding-practice/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3830-find-closest-person](https://github.com/gauthamnholla/coding-practice/tree/master/3830-find-closest-person) |
