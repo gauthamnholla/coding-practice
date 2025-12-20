@@ -428,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/gauthamnholla/coding-practice/tree/master/2342-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/gauthamnholla/coding-practice/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2343-query-kth-smallest-trimmed-number](https://github.com/gauthamnholla/coding-practice/tree/master/2343-query-kth-smallest-trimmed-number) |
+| [2344-minimum-deletions-to-make-array-divisible](https://github.com/gauthamnholla/coding-practice/tree/master/2344-minimum-deletions-to-make-array-divisible) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/gauthamnholla/coding-practice/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2363-merge-similar-items](https://github.com/gauthamnholla/coding-practice/tree/master/2363-merge-similar-items) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/gauthamnholla/coding-practice/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
@@ -984,6 +985,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/gauthamnholla/coding-practice/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 | [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/gauthamnholla/coding-practice/tree/master/2342-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2343-query-kth-smallest-trimmed-number](https://github.com/gauthamnholla/coding-practice/tree/master/2343-query-kth-smallest-trimmed-number) |
+| [2344-minimum-deletions-to-make-array-divisible](https://github.com/gauthamnholla/coding-practice/tree/master/2344-minimum-deletions-to-make-array-divisible) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/gauthamnholla/coding-practice/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2363-merge-similar-items](https://github.com/gauthamnholla/coding-practice/tree/master/2363-merge-similar-items) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/gauthamnholla/coding-practice/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
@@ -1163,6 +1165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/gauthamnholla/coding-practice/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 | [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/gauthamnholla/coding-practice/tree/master/2342-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2343-query-kth-smallest-trimmed-number](https://github.com/gauthamnholla/coding-practice/tree/master/2343-query-kth-smallest-trimmed-number) |
+| [2344-minimum-deletions-to-make-array-divisible](https://github.com/gauthamnholla/coding-practice/tree/master/2344-minimum-deletions-to-make-array-divisible) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/gauthamnholla/coding-practice/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/gauthamnholla/coding-practice/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [2429-design-a-food-rating-system](https://github.com/gauthamnholla/coding-practice/tree/master/2429-design-a-food-rating-system) |
@@ -1899,6 +1902,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2288-count-operations-to-obtain-zero](https://github.com/gauthamnholla/coding-practice/tree/master/2288-count-operations-to-obtain-zero) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/gauthamnholla/coding-practice/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/gauthamnholla/coding-practice/tree/master/2324-find-triangular-sum-of-an-array) |
+| [2344-minimum-deletions-to-make-array-divisible](https://github.com/gauthamnholla/coding-practice/tree/master/2344-minimum-deletions-to-make-array-divisible) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/gauthamnholla/coding-practice/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/gauthamnholla/coding-practice/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2575-find-the-divisibility-array-of-a-string](https://github.com/gauthamnholla/coding-practice/tree/master/2575-find-the-divisibility-array-of-a-string) |
@@ -2802,6 +2806,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1998-gcd-sort-of-an-array](https://github.com/gauthamnholla/coding-practice/tree/master/1998-gcd-sort-of-an-array) |
 | [2280-minimum-lines-to-represent-a-line-chart](https://github.com/gauthamnholla/coding-practice/tree/master/2280-minimum-lines-to-represent-a-line-chart) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/gauthamnholla/coding-practice/tree/master/2307-replace-non-coprime-numbers-in-array) |
+| [2344-minimum-deletions-to-make-array-divisible](https://github.com/gauthamnholla/coding-practice/tree/master/2344-minimum-deletions-to-make-array-divisible) |
 | [2607-make-k-subarray-sums-equal](https://github.com/gauthamnholla/coding-practice/tree/master/2607-make-k-subarray-sums-equal) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/gauthamnholla/coding-practice/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [3556-sum-of-largest-prime-substrings](https://github.com/gauthamnholla/coding-practice/tree/master/3556-sum-of-largest-prime-substrings) |
