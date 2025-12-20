@@ -446,6 +446,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2432-number-of-zero-filled-subarrays](https://github.com/gauthamnholla/coding-practice/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/gauthamnholla/coding-practice/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/gauthamnholla/coding-practice/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
+| [2448-minimum-cost-to-make-array-equal](https://github.com/gauthamnholla/coding-practice/tree/master/2448-minimum-cost-to-make-array-equal) |
 | [2449-minimum-number-of-operations-to-make-arrays-similar](https://github.com/gauthamnholla/coding-practice/tree/master/2449-minimum-number-of-operations-to-make-arrays-similar) |
 | [2454-next-greater-element-iv](https://github.com/gauthamnholla/coding-practice/tree/master/2454-next-greater-element-iv) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/gauthamnholla/coding-practice/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
@@ -710,6 +711,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/gauthamnholla/coding-practice/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/gauthamnholla/coding-practice/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [2412-minimum-money-required-before-transactions](https://github.com/gauthamnholla/coding-practice/tree/master/2412-minimum-money-required-before-transactions) |
+| [2448-minimum-cost-to-make-array-equal](https://github.com/gauthamnholla/coding-practice/tree/master/2448-minimum-cost-to-make-array-equal) |
 | [2449-minimum-number-of-operations-to-make-arrays-similar](https://github.com/gauthamnholla/coding-practice/tree/master/2449-minimum-number-of-operations-to-make-arrays-similar) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/gauthamnholla/coding-practice/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2497-maximum-star-sum-of-a-graph](https://github.com/gauthamnholla/coding-practice/tree/master/2497-maximum-star-sum-of-a-graph) |
@@ -1013,6 +1015,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2418-sort-the-people](https://github.com/gauthamnholla/coding-practice/tree/master/2418-sort-the-people) |
 | [2421-number-of-good-paths](https://github.com/gauthamnholla/coding-practice/tree/master/2421-number-of-good-paths) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/gauthamnholla/coding-practice/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
+| [2448-minimum-cost-to-make-array-equal](https://github.com/gauthamnholla/coding-practice/tree/master/2448-minimum-cost-to-make-array-equal) |
 | [2449-minimum-number-of-operations-to-make-arrays-similar](https://github.com/gauthamnholla/coding-practice/tree/master/2449-minimum-number-of-operations-to-make-arrays-similar) |
 | [2454-next-greater-element-iv](https://github.com/gauthamnholla/coding-practice/tree/master/2454-next-greater-element-iv) |
 | [2456-most-popular-video-creator](https://github.com/gauthamnholla/coding-practice/tree/master/2456-most-popular-video-creator) |
@@ -2398,6 +2401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2271-maximum-white-tiles-covered-by-a-carpet](https://github.com/gauthamnholla/coding-practice/tree/master/2271-maximum-white-tiles-covered-by-a-carpet) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/gauthamnholla/coding-practice/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/gauthamnholla/coding-practice/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
+| [2448-minimum-cost-to-make-array-equal](https://github.com/gauthamnholla/coding-practice/tree/master/2448-minimum-cost-to-make-array-equal) |
 | [2529-range-product-queries-of-powers](https://github.com/gauthamnholla/coding-practice/tree/master/2529-range-product-queries-of-powers) |
 | [2587-rearrange-array-to-maximize-prefix-score](https://github.com/gauthamnholla/coding-practice/tree/master/2587-rearrange-array-to-maximize-prefix-score) |
 | [2602-minimum-operations-to-make-all-array-elements-equal](https://github.com/gauthamnholla/coding-practice/tree/master/2602-minimum-operations-to-make-all-array-elements-equal) |
@@ -2527,6 +2531,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2389-longest-subsequence-with-limited-sum](https://github.com/gauthamnholla/coding-practice/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/gauthamnholla/coding-practice/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2426-number-of-pairs-satisfying-inequality](https://github.com/gauthamnholla/coding-practice/tree/master/2426-number-of-pairs-satisfying-inequality) |
+| [2448-minimum-cost-to-make-array-equal](https://github.com/gauthamnholla/coding-practice/tree/master/2448-minimum-cost-to-make-array-equal) |
 | [2454-next-greater-element-iv](https://github.com/gauthamnholla/coding-practice/tree/master/2454-next-greater-element-iv) |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/gauthamnholla/coding-practice/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/gauthamnholla/coding-practice/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
