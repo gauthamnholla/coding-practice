@@ -384,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2122-recover-the-original-array](https://github.com/gauthamnholla/coding-practice/tree/master/2122-recover-the-original-array) |
 | [2126-destroying-asteroids](https://github.com/gauthamnholla/coding-practice/tree/master/2126-destroying-asteroids) |
 | [2135-count-words-obtained-after-adding-a-letter](https://github.com/gauthamnholla/coding-practice/tree/master/2135-count-words-obtained-after-adding-a-letter) |
+| [2136-earliest-possible-day-of-full-bloom](https://github.com/gauthamnholla/coding-practice/tree/master/2136-earliest-possible-day-of-full-bloom) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/gauthamnholla/coding-practice/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/gauthamnholla/coding-practice/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/gauthamnholla/coding-practice/tree/master/2144-maximum-difference-between-increasing-elements) |
@@ -673,6 +674,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/gauthamnholla/coding-practice/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2071-maximum-number-of-tasks-you-can-assign](https://github.com/gauthamnholla/coding-practice/tree/master/2071-maximum-number-of-tasks-you-can-assign) |
 | [2126-destroying-asteroids](https://github.com/gauthamnholla/coding-practice/tree/master/2126-destroying-asteroids) |
+| [2136-earliest-possible-day-of-full-bloom](https://github.com/gauthamnholla/coding-practice/tree/master/2136-earliest-possible-day-of-full-bloom) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/gauthamnholla/coding-practice/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/gauthamnholla/coding-practice/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/gauthamnholla/coding-practice/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -948,6 +950,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2122-recover-the-original-array](https://github.com/gauthamnholla/coding-practice/tree/master/2122-recover-the-original-array) |
 | [2126-destroying-asteroids](https://github.com/gauthamnholla/coding-practice/tree/master/2126-destroying-asteroids) |
 | [2135-count-words-obtained-after-adding-a-letter](https://github.com/gauthamnholla/coding-practice/tree/master/2135-count-words-obtained-after-adding-a-letter) |
+| [2136-earliest-possible-day-of-full-bloom](https://github.com/gauthamnholla/coding-practice/tree/master/2136-earliest-possible-day-of-full-bloom) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/gauthamnholla/coding-practice/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/gauthamnholla/coding-practice/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2146-k-highest-ranked-items-within-a-price-range](https://github.com/gauthamnholla/coding-practice/tree/master/2146-k-highest-ranked-items-within-a-price-range) |
