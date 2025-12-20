@@ -446,6 +446,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/gauthamnholla/coding-practice/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/gauthamnholla/coding-practice/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2449-minimum-number-of-operations-to-make-arrays-similar](https://github.com/gauthamnholla/coding-practice/tree/master/2449-minimum-number-of-operations-to-make-arrays-similar) |
+| [2454-next-greater-element-iv](https://github.com/gauthamnholla/coding-practice/tree/master/2454-next-greater-element-iv) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/gauthamnholla/coding-practice/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2456-most-popular-video-creator](https://github.com/gauthamnholla/coding-practice/tree/master/2456-most-popular-video-creator) |
 | [2465-number-of-distinct-averages](https://github.com/gauthamnholla/coding-practice/tree/master/2465-number-of-distinct-averages) |
@@ -1002,6 +1003,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2418-sort-the-people](https://github.com/gauthamnholla/coding-practice/tree/master/2418-sort-the-people) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/gauthamnholla/coding-practice/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2449-minimum-number-of-operations-to-make-arrays-similar](https://github.com/gauthamnholla/coding-practice/tree/master/2449-minimum-number-of-operations-to-make-arrays-similar) |
+| [2454-next-greater-element-iv](https://github.com/gauthamnholla/coding-practice/tree/master/2454-next-greater-element-iv) |
 | [2456-most-popular-video-creator](https://github.com/gauthamnholla/coding-practice/tree/master/2456-most-popular-video-creator) |
 | [2465-number-of-distinct-averages](https://github.com/gauthamnholla/coding-practice/tree/master/2465-number-of-distinct-averages) |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/gauthamnholla/coding-practice/tree/master/2475-number-of-unequal-triplets-in-array) |
@@ -1178,6 +1180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2386-find-the-k-sum-of-an-array](https://github.com/gauthamnholla/coding-practice/tree/master/2386-find-the-k-sum-of-an-array) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/gauthamnholla/coding-practice/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [2429-design-a-food-rating-system](https://github.com/gauthamnholla/coding-practice/tree/master/2429-design-a-food-rating-system) |
+| [2454-next-greater-element-iv](https://github.com/gauthamnholla/coding-practice/tree/master/2454-next-greater-element-iv) |
 | [2456-most-popular-video-creator](https://github.com/gauthamnholla/coding-practice/tree/master/2456-most-popular-video-creator) |
 | [2479-meeting-rooms-iii](https://github.com/gauthamnholla/coding-practice/tree/master/2479-meeting-rooms-iii) |
 | [2497-maximum-star-sum-of-a-graph](https://github.com/gauthamnholla/coding-practice/tree/master/2497-maximum-star-sum-of-a-graph) |
@@ -2230,6 +2233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1996-the-number-of-weak-characters-in-the-game](https://github.com/gauthamnholla/coding-practice/tree/master/1996-the-number-of-weak-characters-in-the-game) |
 | [2211-count-collisions-on-a-road](https://github.com/gauthamnholla/coding-practice/tree/master/2211-count-collisions-on-a-road) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/gauthamnholla/coding-practice/tree/master/2307-replace-non-coprime-numbers-in-array) |
+| [2454-next-greater-element-iv](https://github.com/gauthamnholla/coding-practice/tree/master/2454-next-greater-element-iv) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/gauthamnholla/coding-practice/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/gauthamnholla/coding-practice/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/gauthamnholla/coding-practice/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
@@ -2495,6 +2499,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2389-longest-subsequence-with-limited-sum](https://github.com/gauthamnholla/coding-practice/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/gauthamnholla/coding-practice/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2426-number-of-pairs-satisfying-inequality](https://github.com/gauthamnholla/coding-practice/tree/master/2426-number-of-pairs-satisfying-inequality) |
+| [2454-next-greater-element-iv](https://github.com/gauthamnholla/coding-practice/tree/master/2454-next-greater-element-iv) |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/gauthamnholla/coding-practice/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/gauthamnholla/coding-practice/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2501-longest-square-streak-in-an-array](https://github.com/gauthamnholla/coding-practice/tree/master/2501-longest-square-streak-in-an-array) |
@@ -2763,6 +2768,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/gauthamnholla/coding-practice/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1673-find-the-most-competitive-subsequence](https://github.com/gauthamnholla/coding-practice/tree/master/1673-find-the-most-competitive-subsequence) |
 | [1996-the-number-of-weak-characters-in-the-game](https://github.com/gauthamnholla/coding-practice/tree/master/1996-the-number-of-weak-characters-in-the-game) |
+| [2454-next-greater-element-iv](https://github.com/gauthamnholla/coding-practice/tree/master/2454-next-greater-element-iv) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/gauthamnholla/coding-practice/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Geometry
 |  |
