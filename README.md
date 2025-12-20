@@ -381,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2094-finding-3-digit-even-numbers](https://github.com/gauthamnholla/coding-practice/tree/master/2094-finding-3-digit-even-numbers) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/gauthamnholla/coding-practice/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/gauthamnholla/coding-practice/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
+| [2122-recover-the-original-array](https://github.com/gauthamnholla/coding-practice/tree/master/2122-recover-the-original-array) |
 | [2126-destroying-asteroids](https://github.com/gauthamnholla/coding-practice/tree/master/2126-destroying-asteroids) |
 | [2135-count-words-obtained-after-adding-a-letter](https://github.com/gauthamnholla/coding-practice/tree/master/2135-count-words-obtained-after-adding-a-letter) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/gauthamnholla/coding-practice/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -944,6 +945,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-find-target-indices-after-sorting-array](https://github.com/gauthamnholla/coding-practice/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2092-find-all-people-with-secret](https://github.com/gauthamnholla/coding-practice/tree/master/2092-find-all-people-with-secret) |
 | [2094-finding-3-digit-even-numbers](https://github.com/gauthamnholla/coding-practice/tree/master/2094-finding-3-digit-even-numbers) |
+| [2122-recover-the-original-array](https://github.com/gauthamnholla/coding-practice/tree/master/2122-recover-the-original-array) |
 | [2126-destroying-asteroids](https://github.com/gauthamnholla/coding-practice/tree/master/2126-destroying-asteroids) |
 | [2135-count-words-obtained-after-adding-a-letter](https://github.com/gauthamnholla/coding-practice/tree/master/2135-count-words-obtained-after-adding-a-letter) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/gauthamnholla/coding-practice/tree/master/2141-maximum-running-time-of-n-computers) |
@@ -1218,6 +1220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1863-sum-of-all-subset-xor-totals](https://github.com/gauthamnholla/coding-practice/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1925-count-square-sum-triples](https://github.com/gauthamnholla/coding-practice/tree/master/1925-count-square-sum-triples) |
 | [2094-finding-3-digit-even-numbers](https://github.com/gauthamnholla/coding-practice/tree/master/2094-finding-3-digit-even-numbers) |
+| [2122-recover-the-original-array](https://github.com/gauthamnholla/coding-practice/tree/master/2122-recover-the-original-array) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/gauthamnholla/coding-practice/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/gauthamnholla/coding-practice/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2171-removing-minimum-number-of-magic-beans](https://github.com/gauthamnholla/coding-practice/tree/master/2171-removing-minimum-number-of-magic-beans) |
@@ -1381,6 +1384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/gauthamnholla/coding-practice/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2094-finding-3-digit-even-numbers](https://github.com/gauthamnholla/coding-practice/tree/master/2094-finding-3-digit-even-numbers) |
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/gauthamnholla/coding-practice/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
+| [2122-recover-the-original-array](https://github.com/gauthamnholla/coding-practice/tree/master/2122-recover-the-original-array) |
 | [2135-count-words-obtained-after-adding-a-letter](https://github.com/gauthamnholla/coding-practice/tree/master/2135-count-words-obtained-after-adding-a-letter) |
 | [2169-simple-bank-system](https://github.com/gauthamnholla/coding-practice/tree/master/2169-simple-bank-system) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/gauthamnholla/coding-practice/tree/master/2174-next-greater-numerically-balanced-number) |
@@ -1707,6 +1711,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1782-count-pairs-of-nodes](https://github.com/gauthamnholla/coding-practice/tree/master/1782-count-pairs-of-nodes) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/gauthamnholla/coding-practice/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2071-maximum-number-of-tasks-you-can-assign](https://github.com/gauthamnholla/coding-practice/tree/master/2071-maximum-number-of-tasks-you-can-assign) |
+| [2122-recover-the-original-array](https://github.com/gauthamnholla/coding-practice/tree/master/2122-recover-the-original-array) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/gauthamnholla/coding-practice/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2332-the-latest-time-to-catch-a-bus](https://github.com/gauthamnholla/coding-practice/tree/master/2332-the-latest-time-to-catch-a-bus) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/gauthamnholla/coding-practice/tree/master/2392-successful-pairs-of-spells-and-potions) |
