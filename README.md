@@ -484,6 +484,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2644-find-the-maximum-divisibility-score](https://github.com/gauthamnholla/coding-practice/tree/master/2644-find-the-maximum-divisibility-score) |
 | [2659-make-array-empty](https://github.com/gauthamnholla/coding-practice/tree/master/2659-make-array-empty) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/gauthamnholla/coding-practice/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
+| [2681-power-of-heroes](https://github.com/gauthamnholla/coding-practice/tree/master/2681-power-of-heroes) |
 | [2689-rearranging-fruits](https://github.com/gauthamnholla/coding-practice/tree/master/2689-rearranging-fruits) |
 | [2706-buy-two-chocolates](https://github.com/gauthamnholla/coding-practice/tree/master/2706-buy-two-chocolates) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/gauthamnholla/coding-practice/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
@@ -1040,6 +1041,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2602-minimum-operations-to-make-all-array-elements-equal](https://github.com/gauthamnholla/coding-practice/tree/master/2602-minimum-operations-to-make-all-array-elements-equal) |
 | [2607-make-k-subarray-sums-equal](https://github.com/gauthamnholla/coding-practice/tree/master/2607-make-k-subarray-sums-equal) |
 | [2659-make-array-empty](https://github.com/gauthamnholla/coding-practice/tree/master/2659-make-array-empty) |
+| [2681-power-of-heroes](https://github.com/gauthamnholla/coding-practice/tree/master/2681-power-of-heroes) |
 | [2689-rearranging-fruits](https://github.com/gauthamnholla/coding-practice/tree/master/2689-rearranging-fruits) |
 | [2706-buy-two-chocolates](https://github.com/gauthamnholla/coding-practice/tree/master/2706-buy-two-chocolates) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/gauthamnholla/coding-practice/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
@@ -1652,6 +1654,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2463-minimum-total-distance-traveled](https://github.com/gauthamnholla/coding-practice/tree/master/2463-minimum-total-distance-traveled) |
 | [2501-longest-square-streak-in-an-array](https://github.com/gauthamnholla/coding-practice/tree/master/2501-longest-square-streak-in-an-array) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/gauthamnholla/coding-practice/tree/master/2597-the-number-of-beautiful-subsets) |
+| [2681-power-of-heroes](https://github.com/gauthamnholla/coding-practice/tree/master/2681-power-of-heroes) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/gauthamnholla/coding-practice/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2830-maximize-the-profit-as-the-salesman](https://github.com/gauthamnholla/coding-practice/tree/master/2830-maximize-the-profit-as-the-salesman) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/gauthamnholla/coding-practice/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
@@ -1939,6 +1942,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2597-the-number-of-beautiful-subsets](https://github.com/gauthamnholla/coding-practice/tree/master/2597-the-number-of-beautiful-subsets) |
 | [2607-make-k-subarray-sums-equal](https://github.com/gauthamnholla/coding-practice/tree/master/2607-make-k-subarray-sums-equal) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/gauthamnholla/coding-practice/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
+| [2681-power-of-heroes](https://github.com/gauthamnholla/coding-practice/tree/master/2681-power-of-heroes) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/gauthamnholla/coding-practice/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/gauthamnholla/coding-practice/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [3024-type-of-triangle](https://github.com/gauthamnholla/coding-practice/tree/master/3024-type-of-triangle) |
@@ -2395,6 +2399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2602-minimum-operations-to-make-all-array-elements-equal](https://github.com/gauthamnholla/coding-practice/tree/master/2602-minimum-operations-to-make-all-array-elements-equal) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/gauthamnholla/coding-practice/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2625-increment-submatrices-by-one](https://github.com/gauthamnholla/coding-practice/tree/master/2625-increment-submatrices-by-one) |
+| [2681-power-of-heroes](https://github.com/gauthamnholla/coding-practice/tree/master/2681-power-of-heroes) |
 | [2731-movement-of-robots](https://github.com/gauthamnholla/coding-practice/tree/master/2731-movement-of-robots) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/gauthamnholla/coding-practice/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/gauthamnholla/coding-practice/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
