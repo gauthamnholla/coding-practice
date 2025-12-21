@@ -503,6 +503,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2790-maximum-number-of-groups-with-increasing-length](https://github.com/gauthamnholla/coding-practice/tree/master/2790-maximum-number-of-groups-with-increasing-length) |
 | [2809-minimum-time-to-make-array-sum-at-most-x](https://github.com/gauthamnholla/coding-practice/tree/master/2809-minimum-time-to-make-array-sum-at-most-x) |
 | [2813-maximum-elegance-of-a-k-length-subsequence](https://github.com/gauthamnholla/coding-practice/tree/master/2813-maximum-elegance-of-a-k-length-subsequence) |
+| [2818-apply-operations-to-maximize-score](https://github.com/gauthamnholla/coding-practice/tree/master/2818-apply-operations-to-maximize-score) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/gauthamnholla/coding-practice/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2830-maximize-the-profit-as-the-salesman](https://github.com/gauthamnholla/coding-practice/tree/master/2830-maximize-the-profit-as-the-salesman) |
 | [2860-happy-students](https://github.com/gauthamnholla/coding-practice/tree/master/2860-happy-students) |
@@ -755,6 +756,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/gauthamnholla/coding-practice/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2790-maximum-number-of-groups-with-increasing-length](https://github.com/gauthamnholla/coding-practice/tree/master/2790-maximum-number-of-groups-with-increasing-length) |
 | [2813-maximum-elegance-of-a-k-length-subsequence](https://github.com/gauthamnholla/coding-practice/tree/master/2813-maximum-elegance-of-a-k-length-subsequence) |
+| [2818-apply-operations-to-maximize-score](https://github.com/gauthamnholla/coding-practice/tree/master/2818-apply-operations-to-maximize-score) |
 | [2931-maximum-spending-after-buying-items](https://github.com/gauthamnholla/coding-practice/tree/master/2931-maximum-spending-after-buying-items) |
 | [2952-minimum-number-of-coins-to-be-added](https://github.com/gauthamnholla/coding-practice/tree/master/2952-minimum-number-of-coins-to-be-added) |
 | [2967-minimum-cost-to-make-array-equalindromic](https://github.com/gauthamnholla/coding-practice/tree/master/2967-minimum-cost-to-make-array-equalindromic) |
@@ -1092,6 +1094,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2790-maximum-number-of-groups-with-increasing-length](https://github.com/gauthamnholla/coding-practice/tree/master/2790-maximum-number-of-groups-with-increasing-length) |
 | [2809-minimum-time-to-make-array-sum-at-most-x](https://github.com/gauthamnholla/coding-practice/tree/master/2809-minimum-time-to-make-array-sum-at-most-x) |
 | [2813-maximum-elegance-of-a-k-length-subsequence](https://github.com/gauthamnholla/coding-practice/tree/master/2813-maximum-elegance-of-a-k-length-subsequence) |
+| [2818-apply-operations-to-maximize-score](https://github.com/gauthamnholla/coding-practice/tree/master/2818-apply-operations-to-maximize-score) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/gauthamnholla/coding-practice/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2830-maximize-the-profit-as-the-salesman](https://github.com/gauthamnholla/coding-practice/tree/master/2830-maximize-the-profit-as-the-salesman) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/gauthamnholla/coding-practice/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
@@ -2021,6 +2024,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/gauthamnholla/coding-practice/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/gauthamnholla/coding-practice/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [2790-maximum-number-of-groups-with-increasing-length](https://github.com/gauthamnholla/coding-practice/tree/master/2790-maximum-number-of-groups-with-increasing-length) |
+| [2818-apply-operations-to-maximize-score](https://github.com/gauthamnholla/coding-practice/tree/master/2818-apply-operations-to-maximize-score) |
 | [2967-minimum-cost-to-make-array-equalindromic](https://github.com/gauthamnholla/coding-practice/tree/master/2967-minimum-cost-to-make-array-equalindromic) |
 | [3024-type-of-triangle](https://github.com/gauthamnholla/coding-practice/tree/master/3024-type-of-triangle) |
 | [3201-distribute-candies-among-children-ii](https://github.com/gauthamnholla/coding-practice/tree/master/3201-distribute-candies-among-children-ii) |
@@ -2342,6 +2346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2736-maximum-sum-queries](https://github.com/gauthamnholla/coding-practice/tree/master/2736-maximum-sum-queries) |
 | [2751-robot-collisions](https://github.com/gauthamnholla/coding-practice/tree/master/2751-robot-collisions) |
 | [2813-maximum-elegance-of-a-k-length-subsequence](https://github.com/gauthamnholla/coding-practice/tree/master/2813-maximum-elegance-of-a-k-length-subsequence) |
+| [2818-apply-operations-to-maximize-score](https://github.com/gauthamnholla/coding-practice/tree/master/2818-apply-operations-to-maximize-score) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/gauthamnholla/coding-practice/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/gauthamnholla/coding-practice/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Bit Manipulation
@@ -2904,6 +2909,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1996-the-number-of-weak-characters-in-the-game](https://github.com/gauthamnholla/coding-practice/tree/master/1996-the-number-of-weak-characters-in-the-game) |
 | [2454-next-greater-element-iv](https://github.com/gauthamnholla/coding-practice/tree/master/2454-next-greater-element-iv) |
 | [2736-maximum-sum-queries](https://github.com/gauthamnholla/coding-practice/tree/master/2736-maximum-sum-queries) |
+| [2818-apply-operations-to-maximize-score](https://github.com/gauthamnholla/coding-practice/tree/master/2818-apply-operations-to-maximize-score) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/gauthamnholla/coding-practice/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Geometry
 |  |
@@ -2959,6 +2965,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/gauthamnholla/coding-practice/tree/master/2344-minimum-deletions-to-make-array-divisible) |
 | [2607-make-k-subarray-sums-equal](https://github.com/gauthamnholla/coding-practice/tree/master/2607-make-k-subarray-sums-equal) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/gauthamnholla/coding-practice/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
+| [2818-apply-operations-to-maximize-score](https://github.com/gauthamnholla/coding-practice/tree/master/2818-apply-operations-to-maximize-score) |
 | [3556-sum-of-largest-prime-substrings](https://github.com/gauthamnholla/coding-practice/tree/master/3556-sum-of-largest-prime-substrings) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/gauthamnholla/coding-practice/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Combinatorics
