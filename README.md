@@ -494,6 +494,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/gauthamnholla/coding-practice/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2731-movement-of-robots](https://github.com/gauthamnholla/coding-practice/tree/master/2731-movement-of-robots) |
 | [2733-neither-minimum-nor-maximum](https://github.com/gauthamnholla/coding-practice/tree/master/2733-neither-minimum-nor-maximum) |
+| [2736-maximum-sum-queries](https://github.com/gauthamnholla/coding-practice/tree/master/2736-maximum-sum-queries) |
 | [2740-find-the-value-of-the-partition](https://github.com/gauthamnholla/coding-practice/tree/master/2740-find-the-value-of-the-partition) |
 | [2751-robot-collisions](https://github.com/gauthamnholla/coding-practice/tree/master/2751-robot-collisions) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/gauthamnholla/coding-practice/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
@@ -1083,6 +1084,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/gauthamnholla/coding-practice/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2731-movement-of-robots](https://github.com/gauthamnholla/coding-practice/tree/master/2731-movement-of-robots) |
 | [2733-neither-minimum-nor-maximum](https://github.com/gauthamnholla/coding-practice/tree/master/2733-neither-minimum-nor-maximum) |
+| [2736-maximum-sum-queries](https://github.com/gauthamnholla/coding-practice/tree/master/2736-maximum-sum-queries) |
 | [2740-find-the-value-of-the-partition](https://github.com/gauthamnholla/coding-practice/tree/master/2740-find-the-value-of-the-partition) |
 | [2751-robot-collisions](https://github.com/gauthamnholla/coding-practice/tree/master/2751-robot-collisions) |
 | [2780-minimum-index-of-a-valid-split](https://github.com/gauthamnholla/coding-practice/tree/master/2780-minimum-index-of-a-valid-split) |
@@ -2337,6 +2339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2454-next-greater-element-iv](https://github.com/gauthamnholla/coding-practice/tree/master/2454-next-greater-element-iv) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/gauthamnholla/coding-practice/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2589-minimum-time-to-complete-all-tasks](https://github.com/gauthamnholla/coding-practice/tree/master/2589-minimum-time-to-complete-all-tasks) |
+| [2736-maximum-sum-queries](https://github.com/gauthamnholla/coding-practice/tree/master/2736-maximum-sum-queries) |
 | [2751-robot-collisions](https://github.com/gauthamnholla/coding-practice/tree/master/2751-robot-collisions) |
 | [2813-maximum-elegance-of-a-k-length-subsequence](https://github.com/gauthamnholla/coding-practice/tree/master/2813-maximum-elegance-of-a-k-length-subsequence) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/gauthamnholla/coding-practice/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
@@ -2452,6 +2455,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2179-count-good-triplets-in-an-array](https://github.com/gauthamnholla/coding-practice/tree/master/2179-count-good-triplets-in-an-array) |
 | [2426-number-of-pairs-satisfying-inequality](https://github.com/gauthamnholla/coding-practice/tree/master/2426-number-of-pairs-satisfying-inequality) |
 | [2659-make-array-empty](https://github.com/gauthamnholla/coding-practice/tree/master/2659-make-array-empty) |
+| [2736-maximum-sum-queries](https://github.com/gauthamnholla/coding-practice/tree/master/2736-maximum-sum-queries) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/gauthamnholla/coding-practice/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/gauthamnholla/coding-practice/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/gauthamnholla/coding-practice/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
@@ -2626,6 +2630,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2659-make-array-empty](https://github.com/gauthamnholla/coding-practice/tree/master/2659-make-array-empty) |
 | [2713-maximum-strictly-increasing-cells-in-a-matrix](https://github.com/gauthamnholla/coding-practice/tree/master/2713-maximum-strictly-increasing-cells-in-a-matrix) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/gauthamnholla/coding-practice/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
+| [2736-maximum-sum-queries](https://github.com/gauthamnholla/coding-practice/tree/master/2736-maximum-sum-queries) |
 | [2790-maximum-number-of-groups-with-increasing-length](https://github.com/gauthamnholla/coding-practice/tree/master/2790-maximum-number-of-groups-with-increasing-length) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/gauthamnholla/coding-practice/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2830-maximize-the-profit-as-the-salesman](https://github.com/gauthamnholla/coding-practice/tree/master/2830-maximize-the-profit-as-the-salesman) |
@@ -2898,6 +2903,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1673-find-the-most-competitive-subsequence](https://github.com/gauthamnholla/coding-practice/tree/master/1673-find-the-most-competitive-subsequence) |
 | [1996-the-number-of-weak-characters-in-the-game](https://github.com/gauthamnholla/coding-practice/tree/master/1996-the-number-of-weak-characters-in-the-game) |
 | [2454-next-greater-element-iv](https://github.com/gauthamnholla/coding-practice/tree/master/2454-next-greater-element-iv) |
+| [2736-maximum-sum-queries](https://github.com/gauthamnholla/coding-practice/tree/master/2736-maximum-sum-queries) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/gauthamnholla/coding-practice/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Geometry
 |  |
@@ -3180,6 +3186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2250-count-number-of-rectangles-containing-each-point](https://github.com/gauthamnholla/coding-practice/tree/master/2250-count-number-of-rectangles-containing-each-point) |
 | [2426-number-of-pairs-satisfying-inequality](https://github.com/gauthamnholla/coding-practice/tree/master/2426-number-of-pairs-satisfying-inequality) |
 | [2659-make-array-empty](https://github.com/gauthamnholla/coding-practice/tree/master/2659-make-array-empty) |
+| [2736-maximum-sum-queries](https://github.com/gauthamnholla/coding-practice/tree/master/2736-maximum-sum-queries) |
 ## Line Sweep
 |  |
 | ------- |
