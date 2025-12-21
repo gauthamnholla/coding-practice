@@ -208,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/gauthamnholla/coding-practice/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/gauthamnholla/coding-practice/tree/master/0950-reveal-cards-in-increasing-order) |
 | [0954-array-of-doubled-pairs](https://github.com/gauthamnholla/coding-practice/tree/master/0954-array-of-doubled-pairs) |
+| [0955-delete-columns-to-make-sorted-ii](https://github.com/gauthamnholla/coding-practice/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0958-sort-array-by-parity-ii](https://github.com/gauthamnholla/coding-practice/tree/master/0958-sort-array-by-parity-ii) |
 | [0969-pancake-sorting](https://github.com/gauthamnholla/coding-practice/tree/master/0969-pancake-sorting) |
 | [0973-k-closest-points-to-origin](https://github.com/gauthamnholla/coding-practice/tree/master/0973-k-closest-points-to-origin) |
@@ -633,6 +634,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0945-minimum-increment-to-make-array-unique](https://github.com/gauthamnholla/coding-practice/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [0948-bag-of-tokens](https://github.com/gauthamnholla/coding-practice/tree/master/0948-bag-of-tokens) |
 | [0954-array-of-doubled-pairs](https://github.com/gauthamnholla/coding-practice/tree/master/0954-array-of-doubled-pairs) |
+| [0955-delete-columns-to-make-sorted-ii](https://github.com/gauthamnholla/coding-practice/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0969-pancake-sorting](https://github.com/gauthamnholla/coding-practice/tree/master/0969-pancake-sorting) |
 | [0979-di-string-match](https://github.com/gauthamnholla/coding-practice/tree/master/0979-di-string-match) |
 | [1018-largest-perimeter-triangle](https://github.com/gauthamnholla/coding-practice/tree/master/1018-largest-perimeter-triangle) |
@@ -2058,6 +2060,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0899-orderly-queue](https://github.com/gauthamnholla/coding-practice/tree/master/0899-orderly-queue) |
 | [0937-reorder-data-in-log-files](https://github.com/gauthamnholla/coding-practice/tree/master/0937-reorder-data-in-log-files) |
 | [0944-delete-columns-to-make-sorted](https://github.com/gauthamnholla/coding-practice/tree/master/0944-delete-columns-to-make-sorted) |
+| [0955-delete-columns-to-make-sorted-ii](https://github.com/gauthamnholla/coding-practice/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0979-di-string-match](https://github.com/gauthamnholla/coding-practice/tree/master/0979-di-string-match) |
 | [0981-delete-columns-to-make-sorted](https://github.com/gauthamnholla/coding-practice/tree/master/0981-delete-columns-to-make-sorted) |
 | [0990-verifying-an-alien-dictionary](https://github.com/gauthamnholla/coding-practice/tree/master/0990-verifying-an-alien-dictionary) |
