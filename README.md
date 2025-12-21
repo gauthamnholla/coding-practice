@@ -1108,6 +1108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2967-minimum-cost-to-make-array-equalindromic](https://github.com/gauthamnholla/coding-practice/tree/master/2967-minimum-cost-to-make-array-equalindromic) |
 | [2968-apply-operations-to-maximize-frequency-score](https://github.com/gauthamnholla/coding-practice/tree/master/2968-apply-operations-to-maximize-frequency-score) |
 | [2971-find-polygon-with-the-largest-perimeter](https://github.com/gauthamnholla/coding-practice/tree/master/2971-find-polygon-with-the-largest-perimeter) |
+| [2973-find-number-of-coins-to-place-in-tree-nodes](https://github.com/gauthamnholla/coding-practice/tree/master/2973-find-number-of-coins-to-place-in-tree-nodes) |
 | [2974-minimum-number-game](https://github.com/gauthamnholla/coding-practice/tree/master/2974-minimum-number-game) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/gauthamnholla/coding-practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/gauthamnholla/coding-practice/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
@@ -1264,6 +1265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2678-design-graph-with-shortest-path-calculator](https://github.com/gauthamnholla/coding-practice/tree/master/2678-design-graph-with-shortest-path-calculator) |
 | [2813-maximum-elegance-of-a-k-length-subsequence](https://github.com/gauthamnholla/coding-practice/tree/master/2813-maximum-elegance-of-a-k-length-subsequence) |
 | [2931-maximum-spending-after-buying-items](https://github.com/gauthamnholla/coding-practice/tree/master/2931-maximum-spending-after-buying-items) |
+| [2973-find-number-of-coins-to-place-in-tree-nodes](https://github.com/gauthamnholla/coding-practice/tree/master/2973-find-number-of-coins-to-place-in-tree-nodes) |
 | [2974-minimum-number-game](https://github.com/gauthamnholla/coding-practice/tree/master/2974-minimum-number-game) |
 | [3080-mark-elements-on-array-by-performing-queries](https://github.com/gauthamnholla/coding-practice/tree/master/3080-mark-elements-on-array-by-performing-queries) |
 | [3081-replace-question-marks-in-string-to-minimize-its-value](https://github.com/gauthamnholla/coding-practice/tree/master/3081-replace-question-marks-in-string-to-minimize-its-value) |
@@ -1733,6 +1735,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2809-minimum-time-to-make-array-sum-at-most-x](https://github.com/gauthamnholla/coding-practice/tree/master/2809-minimum-time-to-make-array-sum-at-most-x) |
 | [2830-maximize-the-profit-as-the-salesman](https://github.com/gauthamnholla/coding-practice/tree/master/2830-maximize-the-profit-as-the-salesman) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/gauthamnholla/coding-practice/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
+| [2973-find-number-of-coins-to-place-in-tree-nodes](https://github.com/gauthamnholla/coding-practice/tree/master/2973-find-number-of-coins-to-place-in-tree-nodes) |
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/gauthamnholla/coding-practice/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3068-find-the-maximum-sum-of-node-values](https://github.com/gauthamnholla/coding-practice/tree/master/3068-find-the-maximum-sum-of-node-values) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/gauthamnholla/coding-practice/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
@@ -2284,6 +2287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2582-minimum-score-of-a-path-between-two-cities](https://github.com/gauthamnholla/coding-practice/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
 | [2793-count-the-number-of-complete-components](https://github.com/gauthamnholla/coding-practice/tree/master/2793-count-the-number-of-complete-components) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/gauthamnholla/coding-practice/tree/master/2872-maximum-number-of-k-divisible-components) |
+| [2973-find-number-of-coins-to-place-in-tree-nodes](https://github.com/gauthamnholla/coding-practice/tree/master/2973-find-number-of-coins-to-place-in-tree-nodes) |
 | [3553-minimum-weighted-subgraph-with-the-required-paths-ii](https://github.com/gauthamnholla/coding-practice/tree/master/3553-minimum-weighted-subgraph-with-the-required-paths-ii) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/gauthamnholla/coding-practice/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 | [3863-power-grid-maintenance](https://github.com/gauthamnholla/coding-practice/tree/master/3863-power-grid-maintenance) |
@@ -2445,6 +2449,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/gauthamnholla/coding-practice/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 | [2603-collect-coins-in-a-tree](https://github.com/gauthamnholla/coding-practice/tree/master/2603-collect-coins-in-a-tree) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/gauthamnholla/coding-practice/tree/master/2872-maximum-number-of-k-divisible-components) |
+| [2973-find-number-of-coins-to-place-in-tree-nodes](https://github.com/gauthamnholla/coding-practice/tree/master/2973-find-number-of-coins-to-place-in-tree-nodes) |
 | [3068-find-the-maximum-sum-of-node-values](https://github.com/gauthamnholla/coding-practice/tree/master/3068-find-the-maximum-sum-of-node-values) |
 | [3553-minimum-weighted-subgraph-with-the-required-paths-ii](https://github.com/gauthamnholla/coding-practice/tree/master/3553-minimum-weighted-subgraph-with-the-required-paths-ii) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/gauthamnholla/coding-practice/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
