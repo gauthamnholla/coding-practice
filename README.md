@@ -662,6 +662,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1509-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/gauthamnholla/coding-practice/tree/master/1509-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/gauthamnholla/coding-practice/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/gauthamnholla/coding-practice/tree/master/1561-maximum-number-of-coins-you-can-get) |
+| [1585-check-if-string-is-transformable-with-substring-sort-operations](https://github.com/gauthamnholla/coding-practice/tree/master/1585-check-if-string-is-transformable-with-substring-sort-operations) |
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/gauthamnholla/coding-practice/tree/master/1589-maximum-sum-obtained-of-any-permutation) |
 | [1612-avoid-flood-in-the-city](https://github.com/gauthamnholla/coding-practice/tree/master/1612-avoid-flood-in-the-city) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/gauthamnholla/coding-practice/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
@@ -918,6 +919,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/gauthamnholla/coding-practice/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1552-magnetic-force-between-two-balls](https://github.com/gauthamnholla/coding-practice/tree/master/1552-magnetic-force-between-two-balls) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/gauthamnholla/coding-practice/tree/master/1561-maximum-number-of-coins-you-can-get) |
+| [1585-check-if-string-is-transformable-with-substring-sort-operations](https://github.com/gauthamnholla/coding-practice/tree/master/1585-check-if-string-is-transformable-with-substring-sort-operations) |
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/gauthamnholla/coding-practice/tree/master/1589-maximum-sum-obtained-of-any-permutation) |
 | [1604-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period](https://github.com/gauthamnholla/coding-practice/tree/master/1604-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/gauthamnholla/coding-practice/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
@@ -2085,6 +2087,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1451-rearrange-words-in-a-sentence](https://github.com/gauthamnholla/coding-practice/tree/master/1451-rearrange-words-in-a-sentence) |
 | [1508-longest-happy-prefix](https://github.com/gauthamnholla/coding-practice/tree/master/1508-longest-happy-prefix) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/gauthamnholla/coding-practice/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
+| [1585-check-if-string-is-transformable-with-substring-sort-operations](https://github.com/gauthamnholla/coding-practice/tree/master/1585-check-if-string-is-transformable-with-substring-sort-operations) |
 | [1604-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period](https://github.com/gauthamnholla/coding-practice/tree/master/1604-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/gauthamnholla/coding-practice/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/gauthamnholla/coding-practice/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
