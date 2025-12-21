@@ -511,6 +511,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/gauthamnholla/coding-practice/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2952-minimum-number-of-coins-to-be-added](https://github.com/gauthamnholla/coding-practice/tree/master/2952-minimum-number-of-coins-to-be-added) |
 | [2967-minimum-cost-to-make-array-equalindromic](https://github.com/gauthamnholla/coding-practice/tree/master/2967-minimum-cost-to-make-array-equalindromic) |
+| [2968-apply-operations-to-maximize-frequency-score](https://github.com/gauthamnholla/coding-practice/tree/master/2968-apply-operations-to-maximize-frequency-score) |
 | [2974-minimum-number-game](https://github.com/gauthamnholla/coding-practice/tree/master/2974-minimum-number-game) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/gauthamnholla/coding-practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/gauthamnholla/coding-practice/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
@@ -1086,6 +1087,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/gauthamnholla/coding-practice/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2952-minimum-number-of-coins-to-be-added](https://github.com/gauthamnholla/coding-practice/tree/master/2952-minimum-number-of-coins-to-be-added) |
 | [2967-minimum-cost-to-make-array-equalindromic](https://github.com/gauthamnholla/coding-practice/tree/master/2967-minimum-cost-to-make-array-equalindromic) |
+| [2968-apply-operations-to-maximize-frequency-score](https://github.com/gauthamnholla/coding-practice/tree/master/2968-apply-operations-to-maximize-frequency-score) |
 | [2974-minimum-number-game](https://github.com/gauthamnholla/coding-practice/tree/master/2974-minimum-number-game) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/gauthamnholla/coding-practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/gauthamnholla/coding-practice/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
@@ -1273,6 +1275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2271-maximum-white-tiles-covered-by-a-carpet](https://github.com/gauthamnholla/coding-practice/tree/master/2271-maximum-white-tiles-covered-by-a-carpet) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/gauthamnholla/coding-practice/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/gauthamnholla/coding-practice/tree/master/2618-maximize-the-minimum-powered-city) |
+| [2968-apply-operations-to-maximize-frequency-score](https://github.com/gauthamnholla/coding-practice/tree/master/2968-apply-operations-to-maximize-frequency-score) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/gauthamnholla/coding-practice/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/gauthamnholla/coding-practice/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/gauthamnholla/coding-practice/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
@@ -2445,6 +2448,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2625-increment-submatrices-by-one](https://github.com/gauthamnholla/coding-practice/tree/master/2625-increment-submatrices-by-one) |
 | [2681-power-of-heroes](https://github.com/gauthamnholla/coding-practice/tree/master/2681-power-of-heroes) |
 | [2731-movement-of-robots](https://github.com/gauthamnholla/coding-practice/tree/master/2731-movement-of-robots) |
+| [2968-apply-operations-to-maximize-frequency-score](https://github.com/gauthamnholla/coding-practice/tree/master/2968-apply-operations-to-maximize-frequency-score) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/gauthamnholla/coding-practice/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/gauthamnholla/coding-practice/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/gauthamnholla/coding-practice/tree/master/3432-count-partitions-with-even-sum-difference) |
@@ -2585,6 +2589,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/gauthamnholla/coding-practice/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2830-maximize-the-profit-as-the-salesman](https://github.com/gauthamnholla/coding-practice/tree/master/2830-maximize-the-profit-as-the-salesman) |
 | [2967-minimum-cost-to-make-array-equalindromic](https://github.com/gauthamnholla/coding-practice/tree/master/2967-minimum-cost-to-make-array-equalindromic) |
+| [2968-apply-operations-to-maximize-frequency-score](https://github.com/gauthamnholla/coding-practice/tree/master/2968-apply-operations-to-maximize-frequency-score) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/gauthamnholla/coding-practice/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/gauthamnholla/coding-practice/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/gauthamnholla/coding-practice/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
