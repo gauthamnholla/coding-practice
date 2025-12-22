@@ -530,6 +530,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3080-mark-elements-on-array-by-performing-queries](https://github.com/gauthamnholla/coding-practice/tree/master/3080-mark-elements-on-array-by-performing-queries) |
 | [3098-find-the-sum-of-subsequence-powers](https://github.com/gauthamnholla/coding-practice/tree/master/3098-find-the-sum-of-subsequence-powers) |
 | [3102-minimize-manhattan-distances](https://github.com/gauthamnholla/coding-practice/tree/master/3102-minimize-manhattan-distances) |
+| [3107-minimum-operations-to-make-median-of-array-equal-to-k](https://github.com/gauthamnholla/coding-practice/tree/master/3107-minimum-operations-to-make-median-of-array-equal-to-k) |
 | [3159-find-occurrences-of-an-element-in-an-array](https://github.com/gauthamnholla/coding-practice/tree/master/3159-find-occurrences-of-an-element-in-an-array) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/gauthamnholla/coding-practice/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/gauthamnholla/coding-practice/tree/master/3241-divide-array-into-arrays-with-max-difference) |
@@ -770,6 +771,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3074-apple-redistribution-into-boxes](https://github.com/gauthamnholla/coding-practice/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/gauthamnholla/coding-practice/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3081-replace-question-marks-in-string-to-minimize-its-value](https://github.com/gauthamnholla/coding-practice/tree/master/3081-replace-question-marks-in-string-to-minimize-its-value) |
+| [3107-minimum-operations-to-make-median-of-array-equal-to-k](https://github.com/gauthamnholla/coding-practice/tree/master/3107-minimum-operations-to-make-median-of-array-equal-to-k) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/gauthamnholla/coding-practice/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/gauthamnholla/coding-practice/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/gauthamnholla/coding-practice/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
@@ -1128,6 +1130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3081-replace-question-marks-in-string-to-minimize-its-value](https://github.com/gauthamnholla/coding-practice/tree/master/3081-replace-question-marks-in-string-to-minimize-its-value) |
 | [3098-find-the-sum-of-subsequence-powers](https://github.com/gauthamnholla/coding-practice/tree/master/3098-find-the-sum-of-subsequence-powers) |
 | [3102-minimize-manhattan-distances](https://github.com/gauthamnholla/coding-practice/tree/master/3102-minimize-manhattan-distances) |
+| [3107-minimum-operations-to-make-median-of-array-equal-to-k](https://github.com/gauthamnholla/coding-practice/tree/master/3107-minimum-operations-to-make-median-of-array-equal-to-k) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/gauthamnholla/coding-practice/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/gauthamnholla/coding-practice/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/gauthamnholla/coding-practice/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
