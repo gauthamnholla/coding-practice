@@ -534,6 +534,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3132-find-the-integer-added-to-array-ii](https://github.com/gauthamnholla/coding-practice/tree/master/3132-find-the-integer-added-to-array-ii) |
 | [3143-maximum-points-inside-the-square](https://github.com/gauthamnholla/coding-practice/tree/master/3143-maximum-points-inside-the-square) |
 | [3159-find-occurrences-of-an-element-in-an-array](https://github.com/gauthamnholla/coding-practice/tree/master/3159-find-occurrences-of-an-element-in-an-array) |
+| [3169-count-days-without-meetings](https://github.com/gauthamnholla/coding-practice/tree/master/3169-count-days-without-meetings) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/gauthamnholla/coding-practice/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/gauthamnholla/coding-practice/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/gauthamnholla/coding-practice/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -1135,6 +1136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3107-minimum-operations-to-make-median-of-array-equal-to-k](https://github.com/gauthamnholla/coding-practice/tree/master/3107-minimum-operations-to-make-median-of-array-equal-to-k) |
 | [3132-find-the-integer-added-to-array-ii](https://github.com/gauthamnholla/coding-practice/tree/master/3132-find-the-integer-added-to-array-ii) |
 | [3143-maximum-points-inside-the-square](https://github.com/gauthamnholla/coding-practice/tree/master/3143-maximum-points-inside-the-square) |
+| [3169-count-days-without-meetings](https://github.com/gauthamnholla/coding-practice/tree/master/3169-count-days-without-meetings) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/gauthamnholla/coding-practice/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/gauthamnholla/coding-practice/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/gauthamnholla/coding-practice/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
