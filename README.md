@@ -566,6 +566,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3433-count-mentions-per-user](https://github.com/gauthamnholla/coding-practice/tree/master/3433-count-mentions-per-user) |
 | [3435-frequencies-of-shortest-supersequences](https://github.com/gauthamnholla/coding-practice/tree/master/3435-frequencies-of-shortest-supersequences) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/gauthamnholla/coding-practice/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3457-eat-pizzas](https://github.com/gauthamnholla/coding-practice/tree/master/3457-eat-pizzas) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/gauthamnholla/coding-practice/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/gauthamnholla/coding-practice/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3462-maximum-sum-with-at-most-k-elements](https://github.com/gauthamnholla/coding-practice/tree/master/3462-maximum-sum-with-at-most-k-elements) |
@@ -806,6 +807,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3413-maximum-coins-from-k-consecutive-bags](https://github.com/gauthamnholla/coding-practice/tree/master/3413-maximum-coins-from-k-consecutive-bags) |
 | [3424-minimum-cost-to-make-arrays-identical](https://github.com/gauthamnholla/coding-practice/tree/master/3424-minimum-cost-to-make-arrays-identical) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/gauthamnholla/coding-practice/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
+| [3457-eat-pizzas](https://github.com/gauthamnholla/coding-practice/tree/master/3457-eat-pizzas) |
 | [3458-select-k-disjoint-special-substrings](https://github.com/gauthamnholla/coding-practice/tree/master/3458-select-k-disjoint-special-substrings) |
 | [3462-maximum-sum-with-at-most-k-elements](https://github.com/gauthamnholla/coding-practice/tree/master/3462-maximum-sum-with-at-most-k-elements) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/gauthamnholla/coding-practice/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
@@ -1192,6 +1194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3428-maximum-and-minimum-sums-of-at-most-size-k-subsequences](https://github.com/gauthamnholla/coding-practice/tree/master/3428-maximum-and-minimum-sums-of-at-most-size-k-subsequences) |
 | [3433-count-mentions-per-user](https://github.com/gauthamnholla/coding-practice/tree/master/3433-count-mentions-per-user) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/gauthamnholla/coding-practice/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3457-eat-pizzas](https://github.com/gauthamnholla/coding-practice/tree/master/3457-eat-pizzas) |
 | [3458-select-k-disjoint-special-substrings](https://github.com/gauthamnholla/coding-practice/tree/master/3458-select-k-disjoint-special-substrings) |
 | [3462-maximum-sum-with-at-most-k-elements](https://github.com/gauthamnholla/coding-practice/tree/master/3462-maximum-sum-with-at-most-k-elements) |
 | [3467-transform-array-by-parity](https://github.com/gauthamnholla/coding-practice/tree/master/3467-transform-array-by-parity) |
