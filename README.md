@@ -2311,6 +2311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/gauthamnholla/coding-practice/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/gauthamnholla/coding-practice/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0133-clone-graph](https://github.com/gauthamnholla/coding-practice/tree/master/0133-clone-graph) |
+| [0144-binary-tree-preorder-traversal](https://github.com/gauthamnholla/coding-practice/tree/master/0144-binary-tree-preorder-traversal) |
 | [0207-course-schedule](https://github.com/gauthamnholla/coding-practice/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/gauthamnholla/coding-practice/tree/master/0210-course-schedule-ii) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/gauthamnholla/coding-practice/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -2394,6 +2395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/gauthamnholla/coding-practice/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/gauthamnholla/coding-practice/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0143-reorder-list](https://github.com/gauthamnholla/coding-practice/tree/master/0143-reorder-list) |
+| [0144-binary-tree-preorder-traversal](https://github.com/gauthamnholla/coding-practice/tree/master/0144-binary-tree-preorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/gauthamnholla/coding-practice/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0173-binary-search-tree-iterator](https://github.com/gauthamnholla/coding-practice/tree/master/0173-binary-search-tree-iterator) |
 | [0234-palindrome-linked-list](https://github.com/gauthamnholla/coding-practice/tree/master/0234-palindrome-linked-list) |
@@ -2503,6 +2505,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/gauthamnholla/coding-practice/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/gauthamnholla/coding-practice/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/gauthamnholla/coding-practice/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0144-binary-tree-preorder-traversal](https://github.com/gauthamnholla/coding-practice/tree/master/0144-binary-tree-preorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/gauthamnholla/coding-practice/tree/master/0173-binary-search-tree-iterator) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/gauthamnholla/coding-practice/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/gauthamnholla/coding-practice/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -3269,6 +3272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/gauthamnholla/coding-practice/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/gauthamnholla/coding-practice/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/gauthamnholla/coding-practice/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0144-binary-tree-preorder-traversal](https://github.com/gauthamnholla/coding-practice/tree/master/0144-binary-tree-preorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/gauthamnholla/coding-practice/tree/master/0173-binary-search-tree-iterator) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/gauthamnholla/coding-practice/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/gauthamnholla/coding-practice/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
