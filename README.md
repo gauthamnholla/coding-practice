@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0164-maximum-gap](https://github.com/gauthamnholla/coding-practice/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/gauthamnholla/coding-practice/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/gauthamnholla/coding-practice/tree/master/0179-largest-number) |
+| [0200-number-of-islands](https://github.com/gauthamnholla/coding-practice/tree/master/0200-number-of-islands) |
 | [0216-combination-sum-iii](https://github.com/gauthamnholla/coding-practice/tree/master/0216-combination-sum-iii) |
 | [0218-the-skyline-problem](https://github.com/gauthamnholla/coding-practice/tree/master/0218-the-skyline-problem) |
 | [0219-contains-duplicate-ii](https://github.com/gauthamnholla/coding-practice/tree/master/0219-contains-duplicate-ii) |
@@ -2314,6 +2315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/gauthamnholla/coding-practice/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/gauthamnholla/coding-practice/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/gauthamnholla/coding-practice/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/gauthamnholla/coding-practice/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/gauthamnholla/coding-practice/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/gauthamnholla/coding-practice/tree/master/0210-course-schedule-ii) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/gauthamnholla/coding-practice/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -2835,6 +2837,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/gauthamnholla/coding-practice/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/gauthamnholla/coding-practice/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/gauthamnholla/coding-practice/tree/master/0085-maximal-rectangle) |
+| [0200-number-of-islands](https://github.com/gauthamnholla/coding-practice/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/gauthamnholla/coding-practice/tree/master/0240-search-a-2d-matrix-ii) |
 | [0289-game-of-life](https://github.com/gauthamnholla/coding-practice/tree/master/0289-game-of-life) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/gauthamnholla/coding-practice/tree/master/0329-longest-increasing-path-in-a-matrix) |
@@ -3110,6 +3113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/gauthamnholla/coding-practice/tree/master/0127-word-ladder) |
 | [0133-clone-graph](https://github.com/gauthamnholla/coding-practice/tree/master/0133-clone-graph) |
 | [0199-binary-tree-right-side-view](https://github.com/gauthamnholla/coding-practice/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/gauthamnholla/coding-practice/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/gauthamnholla/coding-practice/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/gauthamnholla/coding-practice/tree/master/0210-course-schedule-ii) |
 | [0310-minimum-height-trees](https://github.com/gauthamnholla/coding-practice/tree/master/0310-minimum-height-trees) |
@@ -3159,6 +3163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/gauthamnholla/coding-practice/tree/master/0128-longest-consecutive-sequence) |
+| [0200-number-of-islands](https://github.com/gauthamnholla/coding-practice/tree/master/0200-number-of-islands) |
 | [0721-accounts-merge](https://github.com/gauthamnholla/coding-practice/tree/master/0721-accounts-merge) |
 | [0794-swim-in-rising-water](https://github.com/gauthamnholla/coding-practice/tree/master/0794-swim-in-rising-water) |
 | [0989-largest-component-size-by-common-factor](https://github.com/gauthamnholla/coding-practice/tree/master/0989-largest-component-size-by-common-factor) |
