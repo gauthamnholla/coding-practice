@@ -2313,6 +2313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/gauthamnholla/coding-practice/tree/master/0133-clone-graph) |
 | [0144-binary-tree-preorder-traversal](https://github.com/gauthamnholla/coding-practice/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/gauthamnholla/coding-practice/tree/master/0145-binary-tree-postorder-traversal) |
+| [0199-binary-tree-right-side-view](https://github.com/gauthamnholla/coding-practice/tree/master/0199-binary-tree-right-side-view) |
 | [0207-course-schedule](https://github.com/gauthamnholla/coding-practice/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/gauthamnholla/coding-practice/tree/master/0210-course-schedule-ii) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/gauthamnholla/coding-practice/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -2510,6 +2511,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/gauthamnholla/coding-practice/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/gauthamnholla/coding-practice/tree/master/0145-binary-tree-postorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/gauthamnholla/coding-practice/tree/master/0173-binary-search-tree-iterator) |
+| [0199-binary-tree-right-side-view](https://github.com/gauthamnholla/coding-practice/tree/master/0199-binary-tree-right-side-view) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/gauthamnholla/coding-practice/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/gauthamnholla/coding-practice/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0257-binary-tree-paths](https://github.com/gauthamnholla/coding-practice/tree/master/0257-binary-tree-paths) |
@@ -3107,6 +3109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0126-word-ladder-ii](https://github.com/gauthamnholla/coding-practice/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/gauthamnholla/coding-practice/tree/master/0127-word-ladder) |
 | [0133-clone-graph](https://github.com/gauthamnholla/coding-practice/tree/master/0133-clone-graph) |
+| [0199-binary-tree-right-side-view](https://github.com/gauthamnholla/coding-practice/tree/master/0199-binary-tree-right-side-view) |
 | [0207-course-schedule](https://github.com/gauthamnholla/coding-practice/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/gauthamnholla/coding-practice/tree/master/0210-course-schedule-ii) |
 | [0310-minimum-height-trees](https://github.com/gauthamnholla/coding-practice/tree/master/0310-minimum-height-trees) |
@@ -3278,6 +3281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/gauthamnholla/coding-practice/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/gauthamnholla/coding-practice/tree/master/0145-binary-tree-postorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/gauthamnholla/coding-practice/tree/master/0173-binary-search-tree-iterator) |
+| [0199-binary-tree-right-side-view](https://github.com/gauthamnholla/coding-practice/tree/master/0199-binary-tree-right-side-view) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/gauthamnholla/coding-practice/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/gauthamnholla/coding-practice/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0257-binary-tree-paths](https://github.com/gauthamnholla/coding-practice/tree/master/0257-binary-tree-paths) |
