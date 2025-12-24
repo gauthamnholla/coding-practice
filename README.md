@@ -2384,6 +2384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0530-minimum-absolute-difference-in-bst](https://github.com/gauthamnholla/coding-practice/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0538-convert-bst-to-greater-tree](https://github.com/gauthamnholla/coding-practice/tree/master/0538-convert-bst-to-greater-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/gauthamnholla/coding-practice/tree/master/0543-diameter-of-binary-tree) |
+| [0547-number-of-provinces](https://github.com/gauthamnholla/coding-practice/tree/master/0547-number-of-provinces) |
 | [0606-construct-string-from-binary-tree](https://github.com/gauthamnholla/coding-practice/tree/master/0606-construct-string-from-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/gauthamnholla/coding-practice/tree/master/0617-merge-two-binary-trees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/gauthamnholla/coding-practice/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -3203,6 +3204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0514-freedom-trail](https://github.com/gauthamnholla/coding-practice/tree/master/0514-freedom-trail) |
 | [0529-minesweeper](https://github.com/gauthamnholla/coding-practice/tree/master/0529-minesweeper) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/gauthamnholla/coding-practice/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0547-number-of-provinces](https://github.com/gauthamnholla/coding-practice/tree/master/0547-number-of-provinces) |
 | [0617-merge-two-binary-trees](https://github.com/gauthamnholla/coding-practice/tree/master/0617-merge-two-binary-trees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/gauthamnholla/coding-practice/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0675-cut-off-trees-for-golf-event](https://github.com/gauthamnholla/coding-practice/tree/master/0675-cut-off-trees-for-golf-event) |
@@ -3245,6 +3247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/gauthamnholla/coding-practice/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/gauthamnholla/coding-practice/tree/master/0200-number-of-islands) |
 | [0399-evaluate-division](https://github.com/gauthamnholla/coding-practice/tree/master/0399-evaluate-division) |
+| [0547-number-of-provinces](https://github.com/gauthamnholla/coding-practice/tree/master/0547-number-of-provinces) |
 | [0721-accounts-merge](https://github.com/gauthamnholla/coding-practice/tree/master/0721-accounts-merge) |
 | [0794-swim-in-rising-water](https://github.com/gauthamnholla/coding-practice/tree/master/0794-swim-in-rising-water) |
 | [0989-largest-component-size-by-common-factor](https://github.com/gauthamnholla/coding-practice/tree/master/0989-largest-component-size-by-common-factor) |
@@ -3287,6 +3290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/gauthamnholla/coding-practice/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0332-reconstruct-itinerary](https://github.com/gauthamnholla/coding-practice/tree/master/0332-reconstruct-itinerary) |
 | [0399-evaluate-division](https://github.com/gauthamnholla/coding-practice/tree/master/0399-evaluate-division) |
+| [0547-number-of-provinces](https://github.com/gauthamnholla/coding-practice/tree/master/0547-number-of-provinces) |
 | [0744-network-delay-time](https://github.com/gauthamnholla/coding-practice/tree/master/0744-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/gauthamnholla/coding-practice/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/gauthamnholla/coding-practice/tree/master/0802-find-eventual-safe-states) |
