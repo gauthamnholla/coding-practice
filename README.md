@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/gauthamnholla/coding-practice/tree/master/0506-relative-ranks) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/gauthamnholla/coding-practice/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/gauthamnholla/coding-practice/tree/master/0524-longest-word-in-dictionary-through-deleting) |
+| [0529-minesweeper](https://github.com/gauthamnholla/coding-practice/tree/master/0529-minesweeper) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/gauthamnholla/coding-practice/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0539-minimum-time-difference](https://github.com/gauthamnholla/coding-practice/tree/master/0539-minimum-time-difference) |
 | [0561-array-partition](https://github.com/gauthamnholla/coding-practice/tree/master/0561-array-partition) |
@@ -2379,6 +2380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0508-most-frequent-subtree-sum](https://github.com/gauthamnholla/coding-practice/tree/master/0508-most-frequent-subtree-sum) |
 | [0513-find-bottom-left-tree-value](https://github.com/gauthamnholla/coding-practice/tree/master/0513-find-bottom-left-tree-value) |
 | [0514-freedom-trail](https://github.com/gauthamnholla/coding-practice/tree/master/0514-freedom-trail) |
+| [0529-minesweeper](https://github.com/gauthamnholla/coding-practice/tree/master/0529-minesweeper) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/gauthamnholla/coding-practice/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0538-convert-bst-to-greater-tree](https://github.com/gauthamnholla/coding-practice/tree/master/0538-convert-bst-to-greater-tree) |
 | [0606-construct-string-from-binary-tree](https://github.com/gauthamnholla/coding-practice/tree/master/0606-construct-string-from-binary-tree) |
@@ -2911,6 +2913,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0419-battleships-in-a-board](https://github.com/gauthamnholla/coding-practice/tree/master/0419-battleships-in-a-board) |
 | [0463-island-perimeter](https://github.com/gauthamnholla/coding-practice/tree/master/0463-island-perimeter) |
 | [0498-diagonal-traverse](https://github.com/gauthamnholla/coding-practice/tree/master/0498-diagonal-traverse) |
+| [0529-minesweeper](https://github.com/gauthamnholla/coding-practice/tree/master/0529-minesweeper) |
 | [0566-reshape-the-matrix](https://github.com/gauthamnholla/coding-practice/tree/master/0566-reshape-the-matrix) |
 | [0661-image-smoother](https://github.com/gauthamnholla/coding-practice/tree/master/0661-image-smoother) |
 | [0675-cut-off-trees-for-golf-event](https://github.com/gauthamnholla/coding-practice/tree/master/0675-cut-off-trees-for-golf-event) |
@@ -3196,6 +3199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/gauthamnholla/coding-practice/tree/master/0463-island-perimeter) |
 | [0513-find-bottom-left-tree-value](https://github.com/gauthamnholla/coding-practice/tree/master/0513-find-bottom-left-tree-value) |
 | [0514-freedom-trail](https://github.com/gauthamnholla/coding-practice/tree/master/0514-freedom-trail) |
+| [0529-minesweeper](https://github.com/gauthamnholla/coding-practice/tree/master/0529-minesweeper) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/gauthamnholla/coding-practice/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0617-merge-two-binary-trees](https://github.com/gauthamnholla/coding-practice/tree/master/0617-merge-two-binary-trees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/gauthamnholla/coding-practice/tree/master/0653-two-sum-iv-input-is-a-bst) |
