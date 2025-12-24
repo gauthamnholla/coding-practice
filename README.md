@@ -1654,6 +1654,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/gauthamnholla/coding-practice/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0303-range-sum-query-immutable](https://github.com/gauthamnholla/coding-practice/tree/master/0303-range-sum-query-immutable) |
 | [0307-range-sum-query-mutable](https://github.com/gauthamnholla/coding-practice/tree/master/0307-range-sum-query-mutable) |
+| [0341-flatten-nested-list-iterator](https://github.com/gauthamnholla/coding-practice/tree/master/0341-flatten-nested-list-iterator) |
 | [0449-serialize-and-deserialize-bst](https://github.com/gauthamnholla/coding-practice/tree/master/0449-serialize-and-deserialize-bst) |
 | [0460-lfu-cache](https://github.com/gauthamnholla/coding-practice/tree/master/0460-lfu-cache) |
 | [0622-design-circular-queue](https://github.com/gauthamnholla/coding-practice/tree/master/0622-design-circular-queue) |
@@ -2353,6 +2354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/gauthamnholla/coding-practice/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0332-reconstruct-itinerary](https://github.com/gauthamnholla/coding-practice/tree/master/0332-reconstruct-itinerary) |
 | [0337-house-robber-iii](https://github.com/gauthamnholla/coding-practice/tree/master/0337-house-robber-iii) |
+| [0341-flatten-nested-list-iterator](https://github.com/gauthamnholla/coding-practice/tree/master/0341-flatten-nested-list-iterator) |
 | [0386-lexicographical-numbers](https://github.com/gauthamnholla/coding-practice/tree/master/0386-lexicographical-numbers) |
 | [0417-pacific-atlantic-water-flow](https://github.com/gauthamnholla/coding-practice/tree/master/0417-pacific-atlantic-water-flow) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/gauthamnholla/coding-practice/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
@@ -2436,6 +2438,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0173-binary-search-tree-iterator](https://github.com/gauthamnholla/coding-practice/tree/master/0173-binary-search-tree-iterator) |
 | [0234-palindrome-linked-list](https://github.com/gauthamnholla/coding-practice/tree/master/0234-palindrome-linked-list) |
 | [0321-create-maximum-number](https://github.com/gauthamnholla/coding-practice/tree/master/0321-create-maximum-number) |
+| [0341-flatten-nested-list-iterator](https://github.com/gauthamnholla/coding-practice/tree/master/0341-flatten-nested-list-iterator) |
 | [0394-decode-string](https://github.com/gauthamnholla/coding-practice/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/gauthamnholla/coding-practice/tree/master/0402-remove-k-digits) |
 | [0445-add-two-numbers-ii](https://github.com/gauthamnholla/coding-practice/tree/master/0445-add-two-numbers-ii) |
@@ -2552,6 +2555,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/gauthamnholla/coding-practice/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/gauthamnholla/coding-practice/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0337-house-robber-iii](https://github.com/gauthamnholla/coding-practice/tree/master/0337-house-robber-iii) |
+| [0341-flatten-nested-list-iterator](https://github.com/gauthamnholla/coding-practice/tree/master/0341-flatten-nested-list-iterator) |
 | [0449-serialize-and-deserialize-bst](https://github.com/gauthamnholla/coding-practice/tree/master/0449-serialize-and-deserialize-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/gauthamnholla/coding-practice/tree/master/0450-delete-node-in-a-bst) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/gauthamnholla/coding-practice/tree/master/0501-find-mode-in-binary-search-tree) |
@@ -3088,6 +3092,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/gauthamnholla/coding-practice/tree/master/0239-sliding-window-maximum) |
+| [0341-flatten-nested-list-iterator](https://github.com/gauthamnholla/coding-practice/tree/master/0341-flatten-nested-list-iterator) |
 | [0387-first-unique-character-in-a-string](https://github.com/gauthamnholla/coding-practice/tree/master/0387-first-unique-character-in-a-string) |
 | [0622-design-circular-queue](https://github.com/gauthamnholla/coding-practice/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/gauthamnholla/coding-practice/tree/master/0641-design-circular-deque) |
@@ -3541,6 +3546,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/gauthamnholla/coding-practice/tree/master/0173-binary-search-tree-iterator) |
+| [0341-flatten-nested-list-iterator](https://github.com/gauthamnholla/coding-practice/tree/master/0341-flatten-nested-list-iterator) |
 ## Rejection Sampling
 |  |
 | ------- |
