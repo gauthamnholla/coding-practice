@@ -1651,6 +1651,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/gauthamnholla/coding-practice/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/gauthamnholla/coding-practice/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0295-find-median-from-data-stream](https://github.com/gauthamnholla/coding-practice/tree/master/0295-find-median-from-data-stream) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/gauthamnholla/coding-practice/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0303-range-sum-query-immutable](https://github.com/gauthamnholla/coding-practice/tree/master/0303-range-sum-query-immutable) |
 | [0307-range-sum-query-mutable](https://github.com/gauthamnholla/coding-practice/tree/master/0307-range-sum-query-mutable) |
 | [0449-serialize-and-deserialize-bst](https://github.com/gauthamnholla/coding-practice/tree/master/0449-serialize-and-deserialize-bst) |
@@ -2184,6 +2185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/gauthamnholla/coding-practice/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/gauthamnholla/coding-practice/tree/master/0257-binary-tree-paths) |
 | [0290-word-pattern](https://github.com/gauthamnholla/coding-practice/tree/master/0290-word-pattern) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/gauthamnholla/coding-practice/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0299-bulls-and-cows](https://github.com/gauthamnholla/coding-practice/tree/master/0299-bulls-and-cows) |
 | [0306-additive-number](https://github.com/gauthamnholla/coding-practice/tree/master/0306-additive-number) |
 | [0336-palindrome-pairs](https://github.com/gauthamnholla/coding-practice/tree/master/0336-palindrome-pairs) |
@@ -2345,6 +2347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/gauthamnholla/coding-practice/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/gauthamnholla/coding-practice/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/gauthamnholla/coding-practice/tree/master/0257-binary-tree-paths) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/gauthamnholla/coding-practice/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0310-minimum-height-trees](https://github.com/gauthamnholla/coding-practice/tree/master/0310-minimum-height-trees) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/gauthamnholla/coding-practice/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0386-lexicographical-numbers](https://github.com/gauthamnholla/coding-practice/tree/master/0386-lexicographical-numbers) |
@@ -2544,6 +2547,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/gauthamnholla/coding-practice/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/gauthamnholla/coding-practice/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/gauthamnholla/coding-practice/tree/master/0257-binary-tree-paths) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/gauthamnholla/coding-practice/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0449-serialize-and-deserialize-bst](https://github.com/gauthamnholla/coding-practice/tree/master/0449-serialize-and-deserialize-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/gauthamnholla/coding-practice/tree/master/0450-delete-node-in-a-bst) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/gauthamnholla/coding-practice/tree/master/0501-find-mode-in-binary-search-tree) |
@@ -3148,6 +3152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/gauthamnholla/coding-practice/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/gauthamnholla/coding-practice/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/gauthamnholla/coding-practice/tree/master/0226-invert-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/gauthamnholla/coding-practice/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0310-minimum-height-trees](https://github.com/gauthamnholla/coding-practice/tree/master/0310-minimum-height-trees) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/gauthamnholla/coding-practice/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0407-trapping-rain-water-ii](https://github.com/gauthamnholla/coding-practice/tree/master/0407-trapping-rain-water-ii) |
@@ -3324,6 +3329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/gauthamnholla/coding-practice/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/gauthamnholla/coding-practice/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/gauthamnholla/coding-practice/tree/master/0257-binary-tree-paths) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/gauthamnholla/coding-practice/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0449-serialize-and-deserialize-bst](https://github.com/gauthamnholla/coding-practice/tree/master/0449-serialize-and-deserialize-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/gauthamnholla/coding-practice/tree/master/0450-delete-node-in-a-bst) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/gauthamnholla/coding-practice/tree/master/0501-find-mode-in-binary-search-tree) |
