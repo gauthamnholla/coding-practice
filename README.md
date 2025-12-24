@@ -1757,6 +1757,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0472-concatenated-words](https://github.com/gauthamnholla/coding-practice/tree/master/0472-concatenated-words) |
 | [0473-matchsticks-to-square](https://github.com/gauthamnholla/coding-practice/tree/master/0473-matchsticks-to-square) |
 | [0474-ones-and-zeroes](https://github.com/gauthamnholla/coding-practice/tree/master/0474-ones-and-zeroes) |
+| [0514-freedom-trail](https://github.com/gauthamnholla/coding-practice/tree/master/0514-freedom-trail) |
 | [0646-maximum-length-of-pair-chain](https://github.com/gauthamnholla/coding-practice/tree/master/0646-maximum-length-of-pair-chain) |
 | [0747-min-cost-climbing-stairs](https://github.com/gauthamnholla/coding-practice/tree/master/0747-min-cost-climbing-stairs) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/gauthamnholla/coding-practice/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -2212,6 +2213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0481-magical-string](https://github.com/gauthamnholla/coding-practice/tree/master/0481-magical-string) |
 | [0482-license-key-formatting](https://github.com/gauthamnholla/coding-practice/tree/master/0482-license-key-formatting) |
 | [0500-keyboard-row](https://github.com/gauthamnholla/coding-practice/tree/master/0500-keyboard-row) |
+| [0514-freedom-trail](https://github.com/gauthamnholla/coding-practice/tree/master/0514-freedom-trail) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/gauthamnholla/coding-practice/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/gauthamnholla/coding-practice/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0539-minimum-time-difference](https://github.com/gauthamnholla/coding-practice/tree/master/0539-minimum-time-difference) |
@@ -2376,6 +2378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0501-find-mode-in-binary-search-tree](https://github.com/gauthamnholla/coding-practice/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0508-most-frequent-subtree-sum](https://github.com/gauthamnholla/coding-practice/tree/master/0508-most-frequent-subtree-sum) |
 | [0513-find-bottom-left-tree-value](https://github.com/gauthamnholla/coding-practice/tree/master/0513-find-bottom-left-tree-value) |
+| [0514-freedom-trail](https://github.com/gauthamnholla/coding-practice/tree/master/0514-freedom-trail) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/gauthamnholla/coding-practice/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0538-convert-bst-to-greater-tree](https://github.com/gauthamnholla/coding-practice/tree/master/0538-convert-bst-to-greater-tree) |
 | [0606-construct-string-from-binary-tree](https://github.com/gauthamnholla/coding-practice/tree/master/0606-construct-string-from-binary-tree) |
@@ -3192,6 +3195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0449-serialize-and-deserialize-bst](https://github.com/gauthamnholla/coding-practice/tree/master/0449-serialize-and-deserialize-bst) |
 | [0463-island-perimeter](https://github.com/gauthamnholla/coding-practice/tree/master/0463-island-perimeter) |
 | [0513-find-bottom-left-tree-value](https://github.com/gauthamnholla/coding-practice/tree/master/0513-find-bottom-left-tree-value) |
+| [0514-freedom-trail](https://github.com/gauthamnholla/coding-practice/tree/master/0514-freedom-trail) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/gauthamnholla/coding-practice/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0617-merge-two-binary-trees](https://github.com/gauthamnholla/coding-practice/tree/master/0617-merge-two-binary-trees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/gauthamnholla/coding-practice/tree/master/0653-two-sum-iv-input-is-a-bst) |
