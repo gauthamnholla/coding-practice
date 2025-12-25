@@ -1493,6 +1493,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0652-find-duplicate-subtrees](https://github.com/gauthamnholla/coding-practice/tree/master/0652-find-duplicate-subtrees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/gauthamnholla/coding-practice/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/gauthamnholla/coding-practice/tree/master/0659-split-array-into-consecutive-subsequences) |
+| [0676-implement-magic-dictionary](https://github.com/gauthamnholla/coding-practice/tree/master/0676-implement-magic-dictionary) |
 | [0692-top-k-frequent-words](https://github.com/gauthamnholla/coding-practice/tree/master/0692-top-k-frequent-words) |
 | [0697-degree-of-an-array](https://github.com/gauthamnholla/coding-practice/tree/master/0697-degree-of-an-array) |
 | [0721-accounts-merge](https://github.com/gauthamnholla/coding-practice/tree/master/0721-accounts-merge) |
@@ -1665,6 +1666,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0460-lfu-cache](https://github.com/gauthamnholla/coding-practice/tree/master/0460-lfu-cache) |
 | [0622-design-circular-queue](https://github.com/gauthamnholla/coding-practice/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/gauthamnholla/coding-practice/tree/master/0641-design-circular-deque) |
+| [0676-implement-magic-dictionary](https://github.com/gauthamnholla/coding-practice/tree/master/0676-implement-magic-dictionary) |
 | [0707-design-linked-list](https://github.com/gauthamnholla/coding-practice/tree/master/0707-design-linked-list) |
 | [0816-design-hashset](https://github.com/gauthamnholla/coding-practice/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/gauthamnholla/coding-practice/tree/master/0817-design-hashmap) |
@@ -2225,6 +2227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0599-minimum-index-sum-of-two-lists](https://github.com/gauthamnholla/coding-practice/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0606-construct-string-from-binary-tree](https://github.com/gauthamnholla/coding-practice/tree/master/0606-construct-string-from-binary-tree) |
 | [0609-find-duplicate-file-in-system](https://github.com/gauthamnholla/coding-practice/tree/master/0609-find-duplicate-file-in-system) |
+| [0676-implement-magic-dictionary](https://github.com/gauthamnholla/coding-practice/tree/master/0676-implement-magic-dictionary) |
 | [0686-repeated-string-match](https://github.com/gauthamnholla/coding-practice/tree/master/0686-repeated-string-match) |
 | [0692-top-k-frequent-words](https://github.com/gauthamnholla/coding-practice/tree/master/0692-top-k-frequent-words) |
 | [0721-accounts-merge](https://github.com/gauthamnholla/coding-practice/tree/master/0721-accounts-merge) |
@@ -2406,6 +2409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0669-trim-a-binary-search-tree](https://github.com/gauthamnholla/coding-practice/tree/master/0669-trim-a-binary-search-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/gauthamnholla/coding-practice/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0672-bulb-switcher-ii](https://github.com/gauthamnholla/coding-practice/tree/master/0672-bulb-switcher-ii) |
+| [0676-implement-magic-dictionary](https://github.com/gauthamnholla/coding-practice/tree/master/0676-implement-magic-dictionary) |
 | [0721-accounts-merge](https://github.com/gauthamnholla/coding-practice/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/gauthamnholla/coding-practice/tree/master/0733-flood-fill) |
 | [0744-network-delay-time](https://github.com/gauthamnholla/coding-practice/tree/master/0744-network-delay-time) |
@@ -2457,6 +2461,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0386-lexicographical-numbers](https://github.com/gauthamnholla/coding-practice/tree/master/0386-lexicographical-numbers) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/gauthamnholla/coding-practice/tree/master/0440-k-th-smallest-in-lexicographical-order) |
 | [0472-concatenated-words](https://github.com/gauthamnholla/coding-practice/tree/master/0472-concatenated-words) |
+| [0676-implement-magic-dictionary](https://github.com/gauthamnholla/coding-practice/tree/master/0676-implement-magic-dictionary) |
 | [0692-top-k-frequent-words](https://github.com/gauthamnholla/coding-practice/tree/master/0692-top-k-frequent-words) |
 | [0792-number-of-matching-subsequences](https://github.com/gauthamnholla/coding-practice/tree/master/0792-number-of-matching-subsequences) |
 | [1268-search-suggestions-system](https://github.com/gauthamnholla/coding-practice/tree/master/1268-search-suggestions-system) |
