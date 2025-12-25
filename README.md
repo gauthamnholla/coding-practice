@@ -2048,6 +2048,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0598-range-addition-ii](https://github.com/gauthamnholla/coding-practice/tree/master/0598-range-addition-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/gauthamnholla/coding-practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0670-maximum-swap](https://github.com/gauthamnholla/coding-practice/tree/master/0670-maximum-swap) |
+| [0672-bulb-switcher-ii](https://github.com/gauthamnholla/coding-practice/tree/master/0672-bulb-switcher-ii) |
 | [0679-24-game](https://github.com/gauthamnholla/coding-practice/tree/master/0679-24-game) |
 | [0738-monotone-increasing-digits](https://github.com/gauthamnholla/coding-practice/tree/master/0738-monotone-increasing-digits) |
 | [0826-soup-servings](https://github.com/gauthamnholla/coding-practice/tree/master/0826-soup-servings) |
@@ -2404,6 +2405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/gauthamnholla/coding-practice/tree/master/0662-maximum-width-of-binary-tree) |
 | [0669-trim-a-binary-search-tree](https://github.com/gauthamnholla/coding-practice/tree/master/0669-trim-a-binary-search-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/gauthamnholla/coding-practice/tree/master/0671-second-minimum-node-in-a-binary-tree) |
+| [0672-bulb-switcher-ii](https://github.com/gauthamnholla/coding-practice/tree/master/0672-bulb-switcher-ii) |
 | [0721-accounts-merge](https://github.com/gauthamnholla/coding-practice/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/gauthamnholla/coding-practice/tree/master/0733-flood-fill) |
 | [0744-network-delay-time](https://github.com/gauthamnholla/coding-practice/tree/master/0744-network-delay-time) |
@@ -2533,6 +2535,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0473-matchsticks-to-square](https://github.com/gauthamnholla/coding-practice/tree/master/0473-matchsticks-to-square) |
 | [0491-non-decreasing-subsequences](https://github.com/gauthamnholla/coding-practice/tree/master/0491-non-decreasing-subsequences) |
 | [0645-set-mismatch](https://github.com/gauthamnholla/coding-practice/tree/master/0645-set-mismatch) |
+| [0672-bulb-switcher-ii](https://github.com/gauthamnholla/coding-practice/tree/master/0672-bulb-switcher-ii) |
 | [0861-flipping-an-image](https://github.com/gauthamnholla/coding-practice/tree/master/0861-flipping-an-image) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/gauthamnholla/coding-practice/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/gauthamnholla/coding-practice/tree/master/1018-binary-prefix-divisible-by-5) |
@@ -3239,6 +3242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/gauthamnholla/coding-practice/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0655-print-binary-tree](https://github.com/gauthamnholla/coding-practice/tree/master/0655-print-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/gauthamnholla/coding-practice/tree/master/0662-maximum-width-of-binary-tree) |
+| [0672-bulb-switcher-ii](https://github.com/gauthamnholla/coding-practice/tree/master/0672-bulb-switcher-ii) |
 | [0675-cut-off-trees-for-golf-event](https://github.com/gauthamnholla/coding-practice/tree/master/0675-cut-off-trees-for-golf-event) |
 | [0721-accounts-merge](https://github.com/gauthamnholla/coding-practice/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/gauthamnholla/coding-practice/tree/master/0733-flood-fill) |
