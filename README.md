@@ -2423,6 +2423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/gauthamnholla/coding-practice/tree/master/0733-flood-fill) |
 | [0744-network-delay-time](https://github.com/gauthamnholla/coding-practice/tree/master/0744-network-delay-time) |
 | [0749-contain-virus](https://github.com/gauthamnholla/coding-practice/tree/master/0749-contain-virus) |
+| [0753-cracking-the-safe](https://github.com/gauthamnholla/coding-practice/tree/master/0753-cracking-the-safe) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/gauthamnholla/coding-practice/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/gauthamnholla/coding-practice/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0794-swim-in-rising-water](https://github.com/gauthamnholla/coding-practice/tree/master/0794-swim-in-rising-water) |
@@ -3356,6 +3357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/gauthamnholla/coding-practice/tree/master/0684-redundant-connection) |
 | [0685-redundant-connection-ii](https://github.com/gauthamnholla/coding-practice/tree/master/0685-redundant-connection-ii) |
 | [0744-network-delay-time](https://github.com/gauthamnholla/coding-practice/tree/master/0744-network-delay-time) |
+| [0753-cracking-the-safe](https://github.com/gauthamnholla/coding-practice/tree/master/0753-cracking-the-safe) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/gauthamnholla/coding-practice/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/gauthamnholla/coding-practice/tree/master/0802-find-eventual-safe-states) |
 | [0813-all-paths-from-source-to-target](https://github.com/gauthamnholla/coding-practice/tree/master/0813-all-paths-from-source-to-target) |
@@ -3697,4 +3699,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0332-reconstruct-itinerary](https://github.com/gauthamnholla/coding-practice/tree/master/0332-reconstruct-itinerary) |
+| [0753-cracking-the-safe](https://github.com/gauthamnholla/coding-practice/tree/master/0753-cracking-the-safe) |
 <!---LeetCode Topics End-->
