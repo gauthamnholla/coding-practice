@@ -2400,6 +2400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0637-average-of-levels-in-binary-tree](https://github.com/gauthamnholla/coding-practice/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0652-find-duplicate-subtrees](https://github.com/gauthamnholla/coding-practice/tree/master/0652-find-duplicate-subtrees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/gauthamnholla/coding-practice/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0655-print-binary-tree](https://github.com/gauthamnholla/coding-practice/tree/master/0655-print-binary-tree) |
 | [0669-trim-a-binary-search-tree](https://github.com/gauthamnholla/coding-practice/tree/master/0669-trim-a-binary-search-tree) |
 | [0721-accounts-merge](https://github.com/gauthamnholla/coding-practice/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/gauthamnholla/coding-practice/tree/master/0733-flood-fill) |
@@ -2613,6 +2614,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0637-average-of-levels-in-binary-tree](https://github.com/gauthamnholla/coding-practice/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0652-find-duplicate-subtrees](https://github.com/gauthamnholla/coding-practice/tree/master/0652-find-duplicate-subtrees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/gauthamnholla/coding-practice/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0655-print-binary-tree](https://github.com/gauthamnholla/coding-practice/tree/master/0655-print-binary-tree) |
 | [0669-trim-a-binary-search-tree](https://github.com/gauthamnholla/coding-practice/tree/master/0669-trim-a-binary-search-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/gauthamnholla/coding-practice/tree/master/0783-search-in-a-binary-search-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/gauthamnholla/coding-practice/tree/master/0783-minimum-distance-between-bst-nodes) |
@@ -3231,6 +3233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0623-add-one-row-to-tree](https://github.com/gauthamnholla/coding-practice/tree/master/0623-add-one-row-to-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/gauthamnholla/coding-practice/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/gauthamnholla/coding-practice/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0655-print-binary-tree](https://github.com/gauthamnholla/coding-practice/tree/master/0655-print-binary-tree) |
 | [0675-cut-off-trees-for-golf-event](https://github.com/gauthamnholla/coding-practice/tree/master/0675-cut-off-trees-for-golf-event) |
 | [0721-accounts-merge](https://github.com/gauthamnholla/coding-practice/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/gauthamnholla/coding-practice/tree/master/0733-flood-fill) |
@@ -3423,6 +3426,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0637-average-of-levels-in-binary-tree](https://github.com/gauthamnholla/coding-practice/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0652-find-duplicate-subtrees](https://github.com/gauthamnholla/coding-practice/tree/master/0652-find-duplicate-subtrees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/gauthamnholla/coding-practice/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0655-print-binary-tree](https://github.com/gauthamnholla/coding-practice/tree/master/0655-print-binary-tree) |
 | [0669-trim-a-binary-search-tree](https://github.com/gauthamnholla/coding-practice/tree/master/0669-trim-a-binary-search-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/gauthamnholla/coding-practice/tree/master/0783-search-in-a-binary-search-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/gauthamnholla/coding-practice/tree/master/0783-minimum-distance-between-bst-nodes) |
