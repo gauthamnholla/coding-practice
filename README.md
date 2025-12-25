@@ -2441,6 +2441,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0827-making-a-large-island](https://github.com/gauthamnholla/coding-practice/tree/master/0827-making-a-large-island) |
 | [0834-sum-of-distances-in-tree](https://github.com/gauthamnholla/coding-practice/tree/master/0834-sum-of-distances-in-tree) |
 | [0839-similar-string-groups](https://github.com/gauthamnholla/coding-practice/tree/master/0839-similar-string-groups) |
+| [0841-keys-and-rooms](https://github.com/gauthamnholla/coding-practice/tree/master/0841-keys-and-rooms) |
 | [0851-loud-and-rich](https://github.com/gauthamnholla/coding-practice/tree/master/0851-loud-and-rich) |
 | [0897-increasing-order-search-tree](https://github.com/gauthamnholla/coding-practice/tree/master/0897-increasing-order-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/gauthamnholla/coding-practice/tree/master/0938-range-sum-of-bst) |
@@ -3296,6 +3297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0827-making-a-large-island](https://github.com/gauthamnholla/coding-practice/tree/master/0827-making-a-large-island) |
 | [0833-bus-routes](https://github.com/gauthamnholla/coding-practice/tree/master/0833-bus-routes) |
 | [0839-similar-string-groups](https://github.com/gauthamnholla/coding-practice/tree/master/0839-similar-string-groups) |
+| [0841-keys-and-rooms](https://github.com/gauthamnholla/coding-practice/tree/master/0841-keys-and-rooms) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/gauthamnholla/coding-practice/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1096-brace-expansion-ii](https://github.com/gauthamnholla/coding-practice/tree/master/1096-brace-expansion-ii) |
 | [1202-smallest-string-with-swaps](https://github.com/gauthamnholla/coding-practice/tree/master/1202-smallest-string-with-swaps) |
@@ -3387,6 +3389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0802-find-eventual-safe-states](https://github.com/gauthamnholla/coding-practice/tree/master/0802-find-eventual-safe-states) |
 | [0813-all-paths-from-source-to-target](https://github.com/gauthamnholla/coding-practice/tree/master/0813-all-paths-from-source-to-target) |
 | [0834-sum-of-distances-in-tree](https://github.com/gauthamnholla/coding-practice/tree/master/0834-sum-of-distances-in-tree) |
+| [0841-keys-and-rooms](https://github.com/gauthamnholla/coding-practice/tree/master/0841-keys-and-rooms) |
 | [0851-loud-and-rich](https://github.com/gauthamnholla/coding-practice/tree/master/0851-loud-and-rich) |
 | [0882-reachable-nodes-in-subdivided-graph](https://github.com/gauthamnholla/coding-practice/tree/master/0882-reachable-nodes-in-subdivided-graph) |
 | [0949-cat-and-mouse](https://github.com/gauthamnholla/coding-practice/tree/master/0949-cat-and-mouse) |
