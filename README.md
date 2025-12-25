@@ -1776,6 +1776,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-number-of-matching-subsequences](https://github.com/gauthamnholla/coding-practice/tree/master/0792-number-of-matching-subsequences) |
 | [0823-binary-trees-with-factors](https://github.com/gauthamnholla/coding-practice/tree/master/0823-binary-trees-with-factors) |
 | [0826-soup-servings](https://github.com/gauthamnholla/coding-practice/tree/master/0826-soup-servings) |
+| [0834-sum-of-distances-in-tree](https://github.com/gauthamnholla/coding-practice/tree/master/0834-sum-of-distances-in-tree) |
 | [0867-new-21-game](https://github.com/gauthamnholla/coding-practice/tree/master/0867-new-21-game) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/gauthamnholla/coding-practice/tree/master/0871-minimum-number-of-refueling-stops) |
 | [0909-stone-game](https://github.com/gauthamnholla/coding-practice/tree/master/0909-stone-game) |
@@ -2435,6 +2436,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0813-all-paths-from-source-to-target](https://github.com/gauthamnholla/coding-practice/tree/master/0813-all-paths-from-source-to-target) |
 | [0814-binary-tree-pruning](https://github.com/gauthamnholla/coding-practice/tree/master/0814-binary-tree-pruning) |
 | [0827-making-a-large-island](https://github.com/gauthamnholla/coding-practice/tree/master/0827-making-a-large-island) |
+| [0834-sum-of-distances-in-tree](https://github.com/gauthamnholla/coding-practice/tree/master/0834-sum-of-distances-in-tree) |
 | [0851-loud-and-rich](https://github.com/gauthamnholla/coding-practice/tree/master/0851-loud-and-rich) |
 | [0897-increasing-order-search-tree](https://github.com/gauthamnholla/coding-practice/tree/master/0897-increasing-order-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/gauthamnholla/coding-practice/tree/master/0938-range-sum-of-bst) |
@@ -2650,6 +2652,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0783-minimum-distance-between-bst-nodes](https://github.com/gauthamnholla/coding-practice/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/gauthamnholla/coding-practice/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0814-binary-tree-pruning](https://github.com/gauthamnholla/coding-practice/tree/master/0814-binary-tree-pruning) |
+| [0834-sum-of-distances-in-tree](https://github.com/gauthamnholla/coding-practice/tree/master/0834-sum-of-distances-in-tree) |
 | [0897-increasing-order-search-tree](https://github.com/gauthamnholla/coding-practice/tree/master/0897-increasing-order-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/gauthamnholla/coding-practice/tree/master/0938-range-sum-of-bst) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/gauthamnholla/coding-practice/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -3377,6 +3380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-cheapest-flights-within-k-stops](https://github.com/gauthamnholla/coding-practice/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/gauthamnholla/coding-practice/tree/master/0802-find-eventual-safe-states) |
 | [0813-all-paths-from-source-to-target](https://github.com/gauthamnholla/coding-practice/tree/master/0813-all-paths-from-source-to-target) |
+| [0834-sum-of-distances-in-tree](https://github.com/gauthamnholla/coding-practice/tree/master/0834-sum-of-distances-in-tree) |
 | [0851-loud-and-rich](https://github.com/gauthamnholla/coding-practice/tree/master/0851-loud-and-rich) |
 | [0882-reachable-nodes-in-subdivided-graph](https://github.com/gauthamnholla/coding-practice/tree/master/0882-reachable-nodes-in-subdivided-graph) |
 | [0949-cat-and-mouse](https://github.com/gauthamnholla/coding-practice/tree/master/0949-cat-and-mouse) |
