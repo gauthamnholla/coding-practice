@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/gauthamnholla/coding-practice/tree/master/0682-baseball-game) |
 | [0690-employee-importance](https://github.com/gauthamnholla/coding-practice/tree/master/0690-employee-importance) |
 | [0692-top-k-frequent-words](https://github.com/gauthamnholla/coding-practice/tree/master/0692-top-k-frequent-words) |
+| [0695-max-area-of-island](https://github.com/gauthamnholla/coding-practice/tree/master/0695-max-area-of-island) |
 | [0697-degree-of-an-array](https://github.com/gauthamnholla/coding-practice/tree/master/0697-degree-of-an-array) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/gauthamnholla/coding-practice/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/gauthamnholla/coding-practice/tree/master/0719-find-k-th-smallest-pair-distance) |
@@ -2415,6 +2416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/gauthamnholla/coding-practice/tree/master/0684-redundant-connection) |
 | [0685-redundant-connection-ii](https://github.com/gauthamnholla/coding-practice/tree/master/0685-redundant-connection-ii) |
 | [0690-employee-importance](https://github.com/gauthamnholla/coding-practice/tree/master/0690-employee-importance) |
+| [0695-max-area-of-island](https://github.com/gauthamnholla/coding-practice/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/gauthamnholla/coding-practice/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/gauthamnholla/coding-practice/tree/master/0733-flood-fill) |
 | [0744-network-delay-time](https://github.com/gauthamnholla/coding-practice/tree/master/0744-network-delay-time) |
@@ -2962,6 +2964,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0566-reshape-the-matrix](https://github.com/gauthamnholla/coding-practice/tree/master/0566-reshape-the-matrix) |
 | [0661-image-smoother](https://github.com/gauthamnholla/coding-practice/tree/master/0661-image-smoother) |
 | [0675-cut-off-trees-for-golf-event](https://github.com/gauthamnholla/coding-practice/tree/master/0675-cut-off-trees-for-golf-event) |
+| [0695-max-area-of-island](https://github.com/gauthamnholla/coding-practice/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/gauthamnholla/coding-practice/tree/master/0733-flood-fill) |
 | [0777-toeplitz-matrix](https://github.com/gauthamnholla/coding-practice/tree/master/0777-toeplitz-matrix) |
 | [0794-swim-in-rising-water](https://github.com/gauthamnholla/coding-practice/tree/master/0794-swim-in-rising-water) |
@@ -3258,6 +3261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/gauthamnholla/coding-practice/tree/master/0684-redundant-connection) |
 | [0685-redundant-connection-ii](https://github.com/gauthamnholla/coding-practice/tree/master/0685-redundant-connection-ii) |
 | [0690-employee-importance](https://github.com/gauthamnholla/coding-practice/tree/master/0690-employee-importance) |
+| [0695-max-area-of-island](https://github.com/gauthamnholla/coding-practice/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/gauthamnholla/coding-practice/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/gauthamnholla/coding-practice/tree/master/0733-flood-fill) |
 | [0744-network-delay-time](https://github.com/gauthamnholla/coding-practice/tree/master/0744-network-delay-time) |
@@ -3300,6 +3304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/gauthamnholla/coding-practice/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/gauthamnholla/coding-practice/tree/master/0684-redundant-connection) |
 | [0685-redundant-connection-ii](https://github.com/gauthamnholla/coding-practice/tree/master/0685-redundant-connection-ii) |
+| [0695-max-area-of-island](https://github.com/gauthamnholla/coding-practice/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/gauthamnholla/coding-practice/tree/master/0721-accounts-merge) |
 | [0794-swim-in-rising-water](https://github.com/gauthamnholla/coding-practice/tree/master/0794-swim-in-rising-water) |
 | [0989-largest-component-size-by-common-factor](https://github.com/gauthamnholla/coding-practice/tree/master/0989-largest-component-size-by-common-factor) |
