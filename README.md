@@ -2448,6 +2448,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0851-loud-and-rich](https://github.com/gauthamnholla/coding-practice/tree/master/0851-loud-and-rich) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/gauthamnholla/coding-practice/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/gauthamnholla/coding-practice/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [0872-leaf-similar-trees](https://github.com/gauthamnholla/coding-practice/tree/master/0872-leaf-similar-trees) |
 | [0897-increasing-order-search-tree](https://github.com/gauthamnholla/coding-practice/tree/master/0897-increasing-order-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/gauthamnholla/coding-practice/tree/master/0938-range-sum-of-bst) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/gauthamnholla/coding-practice/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -2665,6 +2666,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0834-sum-of-distances-in-tree](https://github.com/gauthamnholla/coding-practice/tree/master/0834-sum-of-distances-in-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/gauthamnholla/coding-practice/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/gauthamnholla/coding-practice/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [0872-leaf-similar-trees](https://github.com/gauthamnholla/coding-practice/tree/master/0872-leaf-similar-trees) |
 | [0897-increasing-order-search-tree](https://github.com/gauthamnholla/coding-practice/tree/master/0897-increasing-order-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/gauthamnholla/coding-practice/tree/master/0938-range-sum-of-bst) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/gauthamnholla/coding-practice/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -3514,6 +3516,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0814-binary-tree-pruning](https://github.com/gauthamnholla/coding-practice/tree/master/0814-binary-tree-pruning) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/gauthamnholla/coding-practice/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/gauthamnholla/coding-practice/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [0872-leaf-similar-trees](https://github.com/gauthamnholla/coding-practice/tree/master/0872-leaf-similar-trees) |
 | [0897-increasing-order-search-tree](https://github.com/gauthamnholla/coding-practice/tree/master/0897-increasing-order-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/gauthamnholla/coding-practice/tree/master/0938-range-sum-of-bst) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/gauthamnholla/coding-practice/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
