@@ -205,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0924-fair-candy-swap](https://github.com/gauthamnholla/coding-practice/tree/master/0924-fair-candy-swap) |
 | [0924-minimize-malware-spread](https://github.com/gauthamnholla/coding-practice/tree/master/0924-minimize-malware-spread) |
 | [0928-surface-area-of-3d-shapes](https://github.com/gauthamnholla/coding-practice/tree/master/0928-surface-area-of-3d-shapes) |
+| [0928-minimize-malware-spread-ii](https://github.com/gauthamnholla/coding-practice/tree/master/0928-minimize-malware-spread-ii) |
 | [0932-monotonic-array](https://github.com/gauthamnholla/coding-practice/tree/master/0932-monotonic-array) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/gauthamnholla/coding-practice/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0937-reorder-data-in-log-files](https://github.com/gauthamnholla/coding-practice/tree/master/0937-reorder-data-in-log-files) |
@@ -1528,6 +1529,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0923-3sum-with-multiplicity](https://github.com/gauthamnholla/coding-practice/tree/master/0923-3sum-with-multiplicity) |
 | [0924-fair-candy-swap](https://github.com/gauthamnholla/coding-practice/tree/master/0924-fair-candy-swap) |
 | [0924-minimize-malware-spread](https://github.com/gauthamnholla/coding-practice/tree/master/0924-minimize-malware-spread) |
+| [0928-minimize-malware-spread-ii](https://github.com/gauthamnholla/coding-practice/tree/master/0928-minimize-malware-spread-ii) |
 | [0939-minimum-area-rectangle](https://github.com/gauthamnholla/coding-practice/tree/master/0939-minimum-area-rectangle) |
 | [0940-fruit-into-baskets](https://github.com/gauthamnholla/coding-practice/tree/master/0940-fruit-into-baskets) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/gauthamnholla/coding-practice/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
@@ -2454,6 +2456,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0886-possible-bipartition](https://github.com/gauthamnholla/coding-practice/tree/master/0886-possible-bipartition) |
 | [0897-increasing-order-search-tree](https://github.com/gauthamnholla/coding-practice/tree/master/0897-increasing-order-search-tree) |
 | [0924-minimize-malware-spread](https://github.com/gauthamnholla/coding-practice/tree/master/0924-minimize-malware-spread) |
+| [0928-minimize-malware-spread-ii](https://github.com/gauthamnholla/coding-practice/tree/master/0928-minimize-malware-spread-ii) |
 | [0938-range-sum-of-bst](https://github.com/gauthamnholla/coding-practice/tree/master/0938-range-sum-of-bst) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/gauthamnholla/coding-practice/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/gauthamnholla/coding-practice/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
@@ -3316,6 +3319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/gauthamnholla/coding-practice/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0886-possible-bipartition](https://github.com/gauthamnholla/coding-practice/tree/master/0886-possible-bipartition) |
 | [0924-minimize-malware-spread](https://github.com/gauthamnholla/coding-practice/tree/master/0924-minimize-malware-spread) |
+| [0928-minimize-malware-spread-ii](https://github.com/gauthamnholla/coding-practice/tree/master/0928-minimize-malware-spread-ii) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/gauthamnholla/coding-practice/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1096-brace-expansion-ii](https://github.com/gauthamnholla/coding-practice/tree/master/1096-brace-expansion-ii) |
 | [1202-smallest-string-with-swaps](https://github.com/gauthamnholla/coding-practice/tree/master/1202-smallest-string-with-swaps) |
@@ -3358,6 +3362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0839-similar-string-groups](https://github.com/gauthamnholla/coding-practice/tree/master/0839-similar-string-groups) |
 | [0886-possible-bipartition](https://github.com/gauthamnholla/coding-practice/tree/master/0886-possible-bipartition) |
 | [0924-minimize-malware-spread](https://github.com/gauthamnholla/coding-practice/tree/master/0924-minimize-malware-spread) |
+| [0928-minimize-malware-spread-ii](https://github.com/gauthamnholla/coding-practice/tree/master/0928-minimize-malware-spread-ii) |
 | [0989-largest-component-size-by-common-factor](https://github.com/gauthamnholla/coding-practice/tree/master/0989-largest-component-size-by-common-factor) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/gauthamnholla/coding-practice/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1202-smallest-string-with-swaps](https://github.com/gauthamnholla/coding-practice/tree/master/1202-smallest-string-with-swaps) |
@@ -3414,6 +3419,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0882-reachable-nodes-in-subdivided-graph](https://github.com/gauthamnholla/coding-practice/tree/master/0882-reachable-nodes-in-subdivided-graph) |
 | [0886-possible-bipartition](https://github.com/gauthamnholla/coding-practice/tree/master/0886-possible-bipartition) |
 | [0924-minimize-malware-spread](https://github.com/gauthamnholla/coding-practice/tree/master/0924-minimize-malware-spread) |
+| [0928-minimize-malware-spread-ii](https://github.com/gauthamnholla/coding-practice/tree/master/0928-minimize-malware-spread-ii) |
 | [0949-cat-and-mouse](https://github.com/gauthamnholla/coding-practice/tree/master/0949-cat-and-mouse) |
 | [1039-find-the-town-judge](https://github.com/gauthamnholla/coding-practice/tree/master/1039-find-the-town-judge) |
 | [1203-sort-items-by-groups-respecting-dependencies](https://github.com/gauthamnholla/coding-practice/tree/master/1203-sort-items-by-groups-respecting-dependencies) |
