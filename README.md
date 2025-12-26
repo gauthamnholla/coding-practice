@@ -1533,6 +1533,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0928-minimize-malware-spread-ii](https://github.com/gauthamnholla/coding-practice/tree/master/0928-minimize-malware-spread-ii) |
 | [0939-minimum-area-rectangle](https://github.com/gauthamnholla/coding-practice/tree/master/0939-minimum-area-rectangle) |
 | [0940-fruit-into-baskets](https://github.com/gauthamnholla/coding-practice/tree/master/0940-fruit-into-baskets) |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/gauthamnholla/coding-practice/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/gauthamnholla/coding-practice/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [0954-array-of-doubled-pairs](https://github.com/gauthamnholla/coding-practice/tree/master/0954-array-of-doubled-pairs) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/gauthamnholla/coding-practice/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -2460,6 +2461,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0928-minimize-malware-spread-ii](https://github.com/gauthamnholla/coding-practice/tree/master/0928-minimize-malware-spread-ii) |
 | [0934-shortest-bridge](https://github.com/gauthamnholla/coding-practice/tree/master/0934-shortest-bridge) |
 | [0938-range-sum-of-bst](https://github.com/gauthamnholla/coding-practice/tree/master/0938-range-sum-of-bst) |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/gauthamnholla/coding-practice/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/gauthamnholla/coding-practice/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/gauthamnholla/coding-practice/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1202-smallest-string-with-swaps](https://github.com/gauthamnholla/coding-practice/tree/master/1202-smallest-string-with-swaps) |
@@ -3367,6 +3369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0886-possible-bipartition](https://github.com/gauthamnholla/coding-practice/tree/master/0886-possible-bipartition) |
 | [0924-minimize-malware-spread](https://github.com/gauthamnholla/coding-practice/tree/master/0924-minimize-malware-spread) |
 | [0928-minimize-malware-spread-ii](https://github.com/gauthamnholla/coding-practice/tree/master/0928-minimize-malware-spread-ii) |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/gauthamnholla/coding-practice/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [0989-largest-component-size-by-common-factor](https://github.com/gauthamnholla/coding-practice/tree/master/0989-largest-component-size-by-common-factor) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/gauthamnholla/coding-practice/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1202-smallest-string-with-swaps](https://github.com/gauthamnholla/coding-practice/tree/master/1202-smallest-string-with-swaps) |
@@ -3424,6 +3427,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0886-possible-bipartition](https://github.com/gauthamnholla/coding-practice/tree/master/0886-possible-bipartition) |
 | [0924-minimize-malware-spread](https://github.com/gauthamnholla/coding-practice/tree/master/0924-minimize-malware-spread) |
 | [0928-minimize-malware-spread-ii](https://github.com/gauthamnholla/coding-practice/tree/master/0928-minimize-malware-spread-ii) |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/gauthamnholla/coding-practice/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [0949-cat-and-mouse](https://github.com/gauthamnholla/coding-practice/tree/master/0949-cat-and-mouse) |
 | [1039-find-the-town-judge](https://github.com/gauthamnholla/coding-practice/tree/master/1039-find-the-town-judge) |
 | [1203-sort-items-by-groups-respecting-dependencies](https://github.com/gauthamnholla/coding-practice/tree/master/1203-sort-items-by-groups-respecting-dependencies) |
