@@ -2273,6 +2273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/gauthamnholla/coding-practice/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [0979-di-string-match](https://github.com/gauthamnholla/coding-practice/tree/master/0979-di-string-match) |
 | [0981-delete-columns-to-make-sorted](https://github.com/gauthamnholla/coding-practice/tree/master/0981-delete-columns-to-make-sorted) |
+| [0988-smallest-string-starting-from-leaf](https://github.com/gauthamnholla/coding-practice/tree/master/0988-smallest-string-starting-from-leaf) |
 | [0990-verifying-an-alien-dictionary](https://github.com/gauthamnholla/coding-practice/tree/master/0990-verifying-an-alien-dictionary) |
 | [1006-vowel-spellchecker](https://github.com/gauthamnholla/coding-practice/tree/master/1006-vowel-spellchecker) |
 | [1044-find-common-characters](https://github.com/gauthamnholla/coding-practice/tree/master/1044-find-common-characters) |
@@ -2471,6 +2472,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0971-flip-binary-tree-to-match-preorder-traversal](https://github.com/gauthamnholla/coding-practice/tree/master/0971-flip-binary-tree-to-match-preorder-traversal) |
 | [0979-distribute-coins-in-binary-tree](https://github.com/gauthamnholla/coding-practice/tree/master/0979-distribute-coins-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/gauthamnholla/coding-practice/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [0988-smallest-string-starting-from-leaf](https://github.com/gauthamnholla/coding-practice/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/gauthamnholla/coding-practice/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1202-smallest-string-with-swaps](https://github.com/gauthamnholla/coding-practice/tree/master/1202-smallest-string-with-swaps) |
 | [1203-sort-items-by-groups-respecting-dependencies](https://github.com/gauthamnholla/coding-practice/tree/master/1203-sort-items-by-groups-respecting-dependencies) |
@@ -2693,6 +2695,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0971-flip-binary-tree-to-match-preorder-traversal](https://github.com/gauthamnholla/coding-practice/tree/master/0971-flip-binary-tree-to-match-preorder-traversal) |
 | [0979-distribute-coins-in-binary-tree](https://github.com/gauthamnholla/coding-practice/tree/master/0979-distribute-coins-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/gauthamnholla/coding-practice/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [0988-smallest-string-starting-from-leaf](https://github.com/gauthamnholla/coding-practice/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/gauthamnholla/coding-practice/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/gauthamnholla/coding-practice/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/gauthamnholla/coding-practice/tree/master/1305-all-elements-in-two-binary-search-trees) |
@@ -2814,6 +2817,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0491-non-decreasing-subsequences](https://github.com/gauthamnholla/coding-practice/tree/master/0491-non-decreasing-subsequences) |
 | [0679-24-game](https://github.com/gauthamnholla/coding-practice/tree/master/0679-24-game) |
 | [0813-all-paths-from-source-to-target](https://github.com/gauthamnholla/coding-practice/tree/master/0813-all-paths-from-source-to-target) |
+| [0988-smallest-string-starting-from-leaf](https://github.com/gauthamnholla/coding-practice/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1096-brace-expansion-ii](https://github.com/gauthamnholla/coding-practice/tree/master/1096-brace-expansion-ii) |
 | [1467-probability-of-a-two-boxes-having-the-same-number-of-distinct-balls](https://github.com/gauthamnholla/coding-practice/tree/master/1467-probability-of-a-two-boxes-having-the-same-number-of-distinct-balls) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/gauthamnholla/coding-practice/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
@@ -3564,6 +3568,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0971-flip-binary-tree-to-match-preorder-traversal](https://github.com/gauthamnholla/coding-practice/tree/master/0971-flip-binary-tree-to-match-preorder-traversal) |
 | [0979-distribute-coins-in-binary-tree](https://github.com/gauthamnholla/coding-practice/tree/master/0979-distribute-coins-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/gauthamnholla/coding-practice/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [0988-smallest-string-starting-from-leaf](https://github.com/gauthamnholla/coding-practice/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/gauthamnholla/coding-practice/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/gauthamnholla/coding-practice/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/gauthamnholla/coding-practice/tree/master/1305-all-elements-in-two-binary-search-trees) |
