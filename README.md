@@ -2477,6 +2477,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0993-cousins-in-binary-tree](https://github.com/gauthamnholla/coding-practice/tree/master/0993-cousins-in-binary-tree) |
 | [1020-number-of-enclaves](https://github.com/gauthamnholla/coding-practice/tree/master/1020-number-of-enclaves) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/gauthamnholla/coding-practice/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
+| [1026-maximum-difference-between-node-and-ancestor](https://github.com/gauthamnholla/coding-practice/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/gauthamnholla/coding-practice/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1202-smallest-string-with-swaps](https://github.com/gauthamnholla/coding-practice/tree/master/1202-smallest-string-with-swaps) |
 | [1203-sort-items-by-groups-respecting-dependencies](https://github.com/gauthamnholla/coding-practice/tree/master/1203-sort-items-by-groups-respecting-dependencies) |
@@ -2703,6 +2704,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0993-cousins-in-binary-tree](https://github.com/gauthamnholla/coding-practice/tree/master/0993-cousins-in-binary-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/gauthamnholla/coding-practice/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/gauthamnholla/coding-practice/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
+| [1026-maximum-difference-between-node-and-ancestor](https://github.com/gauthamnholla/coding-practice/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/gauthamnholla/coding-practice/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/gauthamnholla/coding-practice/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1367-linked-list-in-binary-tree](https://github.com/gauthamnholla/coding-practice/tree/master/1367-linked-list-in-binary-tree) |
@@ -3582,6 +3584,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0993-cousins-in-binary-tree](https://github.com/gauthamnholla/coding-practice/tree/master/0993-cousins-in-binary-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/gauthamnholla/coding-practice/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/gauthamnholla/coding-practice/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
+| [1026-maximum-difference-between-node-and-ancestor](https://github.com/gauthamnholla/coding-practice/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/gauthamnholla/coding-practice/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/gauthamnholla/coding-practice/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1367-linked-list-in-binary-tree](https://github.com/gauthamnholla/coding-practice/tree/master/1367-linked-list-in-binary-tree) |
