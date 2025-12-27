@@ -268,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1254-number-of-closed-islands](https://github.com/gauthamnholla/coding-practice/tree/master/1254-number-of-closed-islands) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/gauthamnholla/coding-practice/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1263-minimum-moves-to-move-a-box-to-their-target-location](https://github.com/gauthamnholla/coding-practice/tree/master/1263-minimum-moves-to-move-a-box-to-their-target-location) |
+| [1267-count-servers-that-communicate](https://github.com/gauthamnholla/coding-practice/tree/master/1267-count-servers-that-communicate) |
 | [1268-search-suggestions-system](https://github.com/gauthamnholla/coding-practice/tree/master/1268-search-suggestions-system) |
 | [1288-remove-covered-intervals](https://github.com/gauthamnholla/coding-practice/tree/master/1288-remove-covered-intervals) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/gauthamnholla/coding-practice/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
@@ -2504,6 +2505,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1203-sort-items-by-groups-respecting-dependencies](https://github.com/gauthamnholla/coding-practice/tree/master/1203-sort-items-by-groups-respecting-dependencies) |
 | [1254-number-of-closed-islands](https://github.com/gauthamnholla/coding-practice/tree/master/1254-number-of-closed-islands) |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/gauthamnholla/coding-practice/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
+| [1267-count-servers-that-communicate](https://github.com/gauthamnholla/coding-practice/tree/master/1267-count-servers-that-communicate) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/gauthamnholla/coding-practice/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1306-jump-game-iii](https://github.com/gauthamnholla/coding-practice/tree/master/1306-jump-game-iii) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/gauthamnholla/coding-practice/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
@@ -3095,6 +3097,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1094-matrix-cells-in-distance-order](https://github.com/gauthamnholla/coding-practice/tree/master/1094-matrix-cells-in-distance-order) |
 | [1254-number-of-closed-islands](https://github.com/gauthamnholla/coding-practice/tree/master/1254-number-of-closed-islands) |
 | [1263-minimum-moves-to-move-a-box-to-their-target-location](https://github.com/gauthamnholla/coding-practice/tree/master/1263-minimum-moves-to-move-a-box-to-their-target-location) |
+| [1267-count-servers-that-communicate](https://github.com/gauthamnholla/coding-practice/tree/master/1267-count-servers-that-communicate) |
 | [1329-sort-the-matrix-diagonally](https://github.com/gauthamnholla/coding-practice/tree/master/1329-sort-the-matrix-diagonally) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/gauthamnholla/coding-practice/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/gauthamnholla/coding-practice/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
@@ -3194,6 +3197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/gauthamnholla/coding-practice/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [1054-distant-barcodes](https://github.com/gauthamnholla/coding-practice/tree/master/1054-distant-barcodes) |
 | [1090-largest-values-from-labels](https://github.com/gauthamnholla/coding-practice/tree/master/1090-largest-values-from-labels) |
+| [1267-count-servers-that-communicate](https://github.com/gauthamnholla/coding-practice/tree/master/1267-count-servers-that-communicate) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/gauthamnholla/coding-practice/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1366-rank-teams-by-votes](https://github.com/gauthamnholla/coding-practice/tree/master/1366-rank-teams-by-votes) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/gauthamnholla/coding-practice/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
@@ -3419,6 +3423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1254-number-of-closed-islands](https://github.com/gauthamnholla/coding-practice/tree/master/1254-number-of-closed-islands) |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/gauthamnholla/coding-practice/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [1263-minimum-moves-to-move-a-box-to-their-target-location](https://github.com/gauthamnholla/coding-practice/tree/master/1263-minimum-moves-to-move-a-box-to-their-target-location) |
+| [1267-count-servers-that-communicate](https://github.com/gauthamnholla/coding-practice/tree/master/1267-count-servers-that-communicate) |
 | [1306-jump-game-iii](https://github.com/gauthamnholla/coding-practice/tree/master/1306-jump-game-iii) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/gauthamnholla/coding-practice/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/gauthamnholla/coding-practice/tree/master/1319-number-of-operations-to-make-network-connected) |
@@ -3471,6 +3476,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/gauthamnholla/coding-practice/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1202-smallest-string-with-swaps](https://github.com/gauthamnholla/coding-practice/tree/master/1202-smallest-string-with-swaps) |
 | [1254-number-of-closed-islands](https://github.com/gauthamnholla/coding-practice/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/gauthamnholla/coding-practice/tree/master/1267-count-servers-that-communicate) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/gauthamnholla/coding-practice/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1361-validate-binary-tree-nodes](https://github.com/gauthamnholla/coding-practice/tree/master/1361-validate-binary-tree-nodes) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/gauthamnholla/coding-practice/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
