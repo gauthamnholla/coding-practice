@@ -2500,6 +2500,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1367-linked-list-in-binary-tree](https://github.com/gauthamnholla/coding-practice/tree/master/1367-linked-list-in-binary-tree) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/gauthamnholla/coding-practice/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/gauthamnholla/coding-practice/tree/master/1373-maximum-sum-bst-in-binary-tree) |
+| [1376-time-needed-to-inform-all-employees](https://github.com/gauthamnholla/coding-practice/tree/master/1376-time-needed-to-inform-all-employees) |
 | [1382-balance-a-binary-search-tree](https://github.com/gauthamnholla/coding-practice/tree/master/1382-balance-a-binary-search-tree) |
 | [1462-course-schedule-iv](https://github.com/gauthamnholla/coding-practice/tree/master/1462-course-schedule-iv) |
 | [1631-path-with-minimum-effort](https://github.com/gauthamnholla/coding-practice/tree/master/1631-path-with-minimum-effort) |
@@ -2731,6 +2732,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1367-linked-list-in-binary-tree](https://github.com/gauthamnholla/coding-practice/tree/master/1367-linked-list-in-binary-tree) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/gauthamnholla/coding-practice/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/gauthamnholla/coding-practice/tree/master/1373-maximum-sum-bst-in-binary-tree) |
+| [1376-time-needed-to-inform-all-employees](https://github.com/gauthamnholla/coding-practice/tree/master/1376-time-needed-to-inform-all-employees) |
 | [1382-balance-a-binary-search-tree](https://github.com/gauthamnholla/coding-practice/tree/master/1382-balance-a-binary-search-tree) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/gauthamnholla/coding-practice/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1916-count-ways-to-build-rooms-in-an-ant-colony](https://github.com/gauthamnholla/coding-practice/tree/master/1916-count-ways-to-build-rooms-in-an-ant-colony) |
@@ -3390,6 +3392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1319-number-of-operations-to-make-network-connected](https://github.com/gauthamnholla/coding-practice/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1361-validate-binary-tree-nodes](https://github.com/gauthamnholla/coding-practice/tree/master/1361-validate-binary-tree-nodes) |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/gauthamnholla/coding-practice/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [1376-time-needed-to-inform-all-employees](https://github.com/gauthamnholla/coding-practice/tree/master/1376-time-needed-to-inform-all-employees) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/gauthamnholla/coding-practice/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1436-get-watched-videos-by-your-friends](https://github.com/gauthamnholla/coding-practice/tree/master/1436-get-watched-videos-by-your-friends) |
 | [1462-course-schedule-iv](https://github.com/gauthamnholla/coding-practice/tree/master/1462-course-schedule-iv) |
