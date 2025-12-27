@@ -2495,6 +2495,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1325-delete-leaves-with-a-given-value](https://github.com/gauthamnholla/coding-practice/tree/master/1325-delete-leaves-with-a-given-value) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/gauthamnholla/coding-practice/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/gauthamnholla/coding-practice/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1361-validate-binary-tree-nodes](https://github.com/gauthamnholla/coding-practice/tree/master/1361-validate-binary-tree-nodes) |
 | [1367-linked-list-in-binary-tree](https://github.com/gauthamnholla/coding-practice/tree/master/1367-linked-list-in-binary-tree) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/gauthamnholla/coding-practice/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/gauthamnholla/coding-practice/tree/master/1382-balance-a-binary-search-tree) |
@@ -2724,6 +2725,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/gauthamnholla/coding-practice/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/gauthamnholla/coding-practice/tree/master/1325-delete-leaves-with-a-given-value) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/gauthamnholla/coding-practice/tree/master/1339-maximum-product-of-splitted-binary-tree) |
+| [1361-validate-binary-tree-nodes](https://github.com/gauthamnholla/coding-practice/tree/master/1361-validate-binary-tree-nodes) |
 | [1367-linked-list-in-binary-tree](https://github.com/gauthamnholla/coding-practice/tree/master/1367-linked-list-in-binary-tree) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/gauthamnholla/coding-practice/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/gauthamnholla/coding-practice/tree/master/1382-balance-a-binary-search-tree) |
@@ -3383,6 +3385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1306-jump-game-iii](https://github.com/gauthamnholla/coding-practice/tree/master/1306-jump-game-iii) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/gauthamnholla/coding-practice/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/gauthamnholla/coding-practice/tree/master/1319-number-of-operations-to-make-network-connected) |
+| [1361-validate-binary-tree-nodes](https://github.com/gauthamnholla/coding-practice/tree/master/1361-validate-binary-tree-nodes) |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/gauthamnholla/coding-practice/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/gauthamnholla/coding-practice/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1436-get-watched-videos-by-your-friends](https://github.com/gauthamnholla/coding-practice/tree/master/1436-get-watched-videos-by-your-friends) |
@@ -3427,6 +3430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/gauthamnholla/coding-practice/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1202-smallest-string-with-swaps](https://github.com/gauthamnholla/coding-practice/tree/master/1202-smallest-string-with-swaps) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/gauthamnholla/coding-practice/tree/master/1319-number-of-operations-to-make-network-connected) |
+| [1361-validate-binary-tree-nodes](https://github.com/gauthamnholla/coding-practice/tree/master/1361-validate-binary-tree-nodes) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/gauthamnholla/coding-practice/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1613-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/gauthamnholla/coding-practice/tree/master/1613-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
 | [1631-path-with-minimum-effort](https://github.com/gauthamnholla/coding-practice/tree/master/1631-path-with-minimum-effort) |
@@ -3487,6 +3491,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1203-sort-items-by-groups-respecting-dependencies](https://github.com/gauthamnholla/coding-practice/tree/master/1203-sort-items-by-groups-respecting-dependencies) |
 | [1229-shortest-path-with-alternating-colors](https://github.com/gauthamnholla/coding-practice/tree/master/1229-shortest-path-with-alternating-colors) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/gauthamnholla/coding-practice/tree/master/1319-number-of-operations-to-make-network-connected) |
+| [1361-validate-binary-tree-nodes](https://github.com/gauthamnholla/coding-practice/tree/master/1361-validate-binary-tree-nodes) |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/gauthamnholla/coding-practice/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/gauthamnholla/coding-practice/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1436-get-watched-videos-by-your-friends](https://github.com/gauthamnholla/coding-practice/tree/master/1436-get-watched-videos-by-your-friends) |
@@ -3615,6 +3620,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/gauthamnholla/coding-practice/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/gauthamnholla/coding-practice/tree/master/1325-delete-leaves-with-a-given-value) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/gauthamnholla/coding-practice/tree/master/1339-maximum-product-of-splitted-binary-tree) |
+| [1361-validate-binary-tree-nodes](https://github.com/gauthamnholla/coding-practice/tree/master/1361-validate-binary-tree-nodes) |
 | [1367-linked-list-in-binary-tree](https://github.com/gauthamnholla/coding-practice/tree/master/1367-linked-list-in-binary-tree) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/gauthamnholla/coding-practice/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/gauthamnholla/coding-practice/tree/master/1382-balance-a-binary-search-tree) |
