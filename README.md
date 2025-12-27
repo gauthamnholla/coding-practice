@@ -2493,6 +2493,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/gauthamnholla/coding-practice/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/gauthamnholla/coding-practice/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/gauthamnholla/coding-practice/tree/master/1325-delete-leaves-with-a-given-value) |
+| [1339-maximum-product-of-splitted-binary-tree](https://github.com/gauthamnholla/coding-practice/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/gauthamnholla/coding-practice/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1367-linked-list-in-binary-tree](https://github.com/gauthamnholla/coding-practice/tree/master/1367-linked-list-in-binary-tree) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/gauthamnholla/coding-practice/tree/master/1373-maximum-sum-bst-in-binary-tree) |
@@ -2722,6 +2723,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/gauthamnholla/coding-practice/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/gauthamnholla/coding-practice/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/gauthamnholla/coding-practice/tree/master/1325-delete-leaves-with-a-given-value) |
+| [1339-maximum-product-of-splitted-binary-tree](https://github.com/gauthamnholla/coding-practice/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1367-linked-list-in-binary-tree](https://github.com/gauthamnholla/coding-practice/tree/master/1367-linked-list-in-binary-tree) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/gauthamnholla/coding-practice/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/gauthamnholla/coding-practice/tree/master/1382-balance-a-binary-search-tree) |
@@ -3612,6 +3614,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/gauthamnholla/coding-practice/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/gauthamnholla/coding-practice/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/gauthamnholla/coding-practice/tree/master/1325-delete-leaves-with-a-given-value) |
+| [1339-maximum-product-of-splitted-binary-tree](https://github.com/gauthamnholla/coding-practice/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1367-linked-list-in-binary-tree](https://github.com/gauthamnholla/coding-practice/tree/master/1367-linked-list-in-binary-tree) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/gauthamnholla/coding-practice/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/gauthamnholla/coding-practice/tree/master/1382-balance-a-binary-search-tree) |
