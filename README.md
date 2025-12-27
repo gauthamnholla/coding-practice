@@ -1559,6 +1559,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1096-brace-expansion-ii](https://github.com/gauthamnholla/coding-practice/tree/master/1096-brace-expansion-ii) |
 | [1110-delete-nodes-and-return-forest](https://github.com/gauthamnholla/coding-practice/tree/master/1110-delete-nodes-and-return-forest) |
 | [1122-relative-sort-array](https://github.com/gauthamnholla/coding-practice/tree/master/1122-relative-sort-array) |
+| [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/gauthamnholla/coding-practice/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1169-invalid-transactions](https://github.com/gauthamnholla/coding-practice/tree/master/1169-invalid-transactions) |
 | [1170-compare-strings-by-frequency-of-the-smallest-character](https://github.com/gauthamnholla/coding-practice/tree/master/1170-compare-strings-by-frequency-of-the-smallest-character) |
 | [1171-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/gauthamnholla/coding-practice/tree/master/1171-remove-zero-sum-consecutive-nodes-from-linked-list) |
@@ -2492,6 +2493,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/gauthamnholla/coding-practice/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1080-insufficient-nodes-in-root-to-leaf-paths](https://github.com/gauthamnholla/coding-practice/tree/master/1080-insufficient-nodes-in-root-to-leaf-paths) |
 | [1110-delete-nodes-and-return-forest](https://github.com/gauthamnholla/coding-practice/tree/master/1110-delete-nodes-and-return-forest) |
+| [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/gauthamnholla/coding-practice/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1202-smallest-string-with-swaps](https://github.com/gauthamnholla/coding-practice/tree/master/1202-smallest-string-with-swaps) |
 | [1203-sort-items-by-groups-respecting-dependencies](https://github.com/gauthamnholla/coding-practice/tree/master/1203-sort-items-by-groups-respecting-dependencies) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/gauthamnholla/coding-practice/tree/master/1305-all-elements-in-two-binary-search-trees) |
@@ -2734,6 +2736,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/gauthamnholla/coding-practice/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1080-insufficient-nodes-in-root-to-leaf-paths](https://github.com/gauthamnholla/coding-practice/tree/master/1080-insufficient-nodes-in-root-to-leaf-paths) |
 | [1110-delete-nodes-and-return-forest](https://github.com/gauthamnholla/coding-practice/tree/master/1110-delete-nodes-and-return-forest) |
+| [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/gauthamnholla/coding-practice/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/gauthamnholla/coding-practice/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/gauthamnholla/coding-practice/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/gauthamnholla/coding-practice/tree/master/1325-delete-leaves-with-a-given-value) |
@@ -3396,6 +3399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-number-of-enclaves](https://github.com/gauthamnholla/coding-practice/tree/master/1020-number-of-enclaves) |
 | [1036-escape-a-large-maze](https://github.com/gauthamnholla/coding-practice/tree/master/1036-escape-a-large-maze) |
 | [1096-brace-expansion-ii](https://github.com/gauthamnholla/coding-practice/tree/master/1096-brace-expansion-ii) |
+| [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/gauthamnholla/coding-practice/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1202-smallest-string-with-swaps](https://github.com/gauthamnholla/coding-practice/tree/master/1202-smallest-string-with-swaps) |
 | [1203-sort-items-by-groups-respecting-dependencies](https://github.com/gauthamnholla/coding-practice/tree/master/1203-sort-items-by-groups-respecting-dependencies) |
 | [1229-shortest-path-with-alternating-colors](https://github.com/gauthamnholla/coding-practice/tree/master/1229-shortest-path-with-alternating-colors) |
@@ -3642,6 +3646,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/gauthamnholla/coding-practice/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1080-insufficient-nodes-in-root-to-leaf-paths](https://github.com/gauthamnholla/coding-practice/tree/master/1080-insufficient-nodes-in-root-to-leaf-paths) |
 | [1110-delete-nodes-and-return-forest](https://github.com/gauthamnholla/coding-practice/tree/master/1110-delete-nodes-and-return-forest) |
+| [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/gauthamnholla/coding-practice/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/gauthamnholla/coding-practice/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/gauthamnholla/coding-practice/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/gauthamnholla/coding-practice/tree/master/1325-delete-leaves-with-a-given-value) |
