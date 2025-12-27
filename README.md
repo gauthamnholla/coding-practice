@@ -242,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-number-of-enclaves](https://github.com/gauthamnholla/coding-practice/tree/master/1020-number-of-enclaves) |
 | [1029-two-city-scheduling](https://github.com/gauthamnholla/coding-practice/tree/master/1029-two-city-scheduling) |
 | [1031-add-to-array-form-of-integer](https://github.com/gauthamnholla/coding-practice/tree/master/1031-add-to-array-form-of-integer) |
+| [1034-coloring-a-border](https://github.com/gauthamnholla/coding-practice/tree/master/1034-coloring-a-border) |
 | [1036-escape-a-large-maze](https://github.com/gauthamnholla/coding-practice/tree/master/1036-escape-a-large-maze) |
 | [1039-find-the-town-judge](https://github.com/gauthamnholla/coding-practice/tree/master/1039-find-the-town-judge) |
 | [1040-moving-stones-until-consecutive-ii](https://github.com/gauthamnholla/coding-practice/tree/master/1040-moving-stones-until-consecutive-ii) |
@@ -2498,6 +2499,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/gauthamnholla/coding-practice/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/gauthamnholla/coding-practice/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1028-recover-a-tree-from-preorder-traversal](https://github.com/gauthamnholla/coding-practice/tree/master/1028-recover-a-tree-from-preorder-traversal) |
+| [1034-coloring-a-border](https://github.com/gauthamnholla/coding-practice/tree/master/1034-coloring-a-border) |
 | [1036-escape-a-large-maze](https://github.com/gauthamnholla/coding-practice/tree/master/1036-escape-a-large-maze) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/gauthamnholla/coding-practice/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1080-insufficient-nodes-in-root-to-leaf-paths](https://github.com/gauthamnholla/coding-practice/tree/master/1080-insufficient-nodes-in-root-to-leaf-paths) |
@@ -3098,6 +3100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0934-shortest-bridge](https://github.com/gauthamnholla/coding-practice/tree/master/0934-shortest-bridge) |
 | [0959-regions-cut-by-slashes](https://github.com/gauthamnholla/coding-practice/tree/master/0959-regions-cut-by-slashes) |
 | [1020-number-of-enclaves](https://github.com/gauthamnholla/coding-practice/tree/master/1020-number-of-enclaves) |
+| [1034-coloring-a-border](https://github.com/gauthamnholla/coding-practice/tree/master/1034-coloring-a-border) |
 | [1041-available-captures-for-rook](https://github.com/gauthamnholla/coding-practice/tree/master/1041-available-captures-for-rook) |
 | [1094-matrix-cells-in-distance-order](https://github.com/gauthamnholla/coding-practice/tree/master/1094-matrix-cells-in-distance-order) |
 | [1254-number-of-closed-islands](https://github.com/gauthamnholla/coding-practice/tree/master/1254-number-of-closed-islands) |
@@ -3418,6 +3421,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/gauthamnholla/coding-practice/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/gauthamnholla/coding-practice/tree/master/0993-cousins-in-binary-tree) |
 | [1020-number-of-enclaves](https://github.com/gauthamnholla/coding-practice/tree/master/1020-number-of-enclaves) |
+| [1034-coloring-a-border](https://github.com/gauthamnholla/coding-practice/tree/master/1034-coloring-a-border) |
 | [1036-escape-a-large-maze](https://github.com/gauthamnholla/coding-practice/tree/master/1036-escape-a-large-maze) |
 | [1096-brace-expansion-ii](https://github.com/gauthamnholla/coding-practice/tree/master/1096-brace-expansion-ii) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/gauthamnholla/coding-practice/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
