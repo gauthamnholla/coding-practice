@@ -407,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2023-design-movie-rental-system](https://github.com/gauthamnholla/coding-practice/tree/master/2023-design-movie-rental-system) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/gauthamnholla/coding-practice/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/gauthamnholla/coding-practice/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
+| [2049-count-nodes-with-the-highest-score](https://github.com/gauthamnholla/coding-practice/tree/master/2049-count-nodes-with-the-highest-score) |
 | [2050-parallel-courses-iii](https://github.com/gauthamnholla/coding-practice/tree/master/2050-parallel-courses-iii) |
 | [2054-two-best-non-overlapping-events](https://github.com/gauthamnholla/coding-practice/tree/master/2054-two-best-non-overlapping-events) |
 | [2058-concatenation-of-array](https://github.com/gauthamnholla/coding-practice/tree/master/2058-concatenation-of-array) |
@@ -2566,6 +2567,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1970-last-day-where-you-can-still-cross](https://github.com/gauthamnholla/coding-practice/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1992-find-all-groups-of-farmland](https://github.com/gauthamnholla/coding-practice/tree/master/1992-find-all-groups-of-farmland) |
 | [1993-operations-on-tree](https://github.com/gauthamnholla/coding-practice/tree/master/1993-operations-on-tree) |
+| [2049-count-nodes-with-the-highest-score](https://github.com/gauthamnholla/coding-practice/tree/master/2049-count-nodes-with-the-highest-score) |
 | [2092-find-all-people-with-secret](https://github.com/gauthamnholla/coding-practice/tree/master/2092-find-all-people-with-secret) |
 | [2121-find-if-path-exists-in-graph](https://github.com/gauthamnholla/coding-practice/tree/master/2121-find-if-path-exists-in-graph) |
 | [2127-maximum-employees-to-be-invited-to-a-meeting](https://github.com/gauthamnholla/coding-practice/tree/master/2127-maximum-employees-to-be-invited-to-a-meeting) |
@@ -2817,6 +2819,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1916-count-ways-to-build-rooms-in-an-ant-colony](https://github.com/gauthamnholla/coding-practice/tree/master/1916-count-ways-to-build-rooms-in-an-ant-colony) |
 | [1932-merge-bsts-to-create-single-bst](https://github.com/gauthamnholla/coding-practice/tree/master/1932-merge-bsts-to-create-single-bst) |
 | [1993-operations-on-tree](https://github.com/gauthamnholla/coding-practice/tree/master/1993-operations-on-tree) |
+| [2049-count-nodes-with-the-highest-score](https://github.com/gauthamnholla/coding-practice/tree/master/2049-count-nodes-with-the-highest-score) |
 | [2246-longest-path-with-different-adjacent-characters](https://github.com/gauthamnholla/coding-practice/tree/master/2246-longest-path-with-different-adjacent-characters) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/gauthamnholla/coding-practice/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2421-number-of-good-paths](https://github.com/gauthamnholla/coding-practice/tree/master/2421-number-of-good-paths) |
@@ -3766,6 +3769,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1530-number-of-good-leaf-nodes-pairs](https://github.com/gauthamnholla/coding-practice/tree/master/1530-number-of-good-leaf-nodes-pairs) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/gauthamnholla/coding-practice/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1932-merge-bsts-to-create-single-bst](https://github.com/gauthamnholla/coding-practice/tree/master/1932-merge-bsts-to-create-single-bst) |
+| [2049-count-nodes-with-the-highest-score](https://github.com/gauthamnholla/coding-practice/tree/master/2049-count-nodes-with-the-highest-score) |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/gauthamnholla/coding-practice/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/gauthamnholla/coding-practice/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 | [3319-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/gauthamnholla/coding-practice/tree/master/3319-k-th-largest-perfect-subtree-size-in-binary-tree) |
