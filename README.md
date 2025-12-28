@@ -2535,6 +2535,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/gauthamnholla/coding-practice/tree/master/1443-minimum-time-to-collect-all-apples-in-a-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/gauthamnholla/coding-practice/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1462-course-schedule-iv](https://github.com/gauthamnholla/coding-practice/tree/master/1462-course-schedule-iv) |
+| [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/gauthamnholla/coding-practice/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1631-path-with-minimum-effort](https://github.com/gauthamnholla/coding-practice/tree/master/1631-path-with-minimum-effort) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/gauthamnholla/coding-practice/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [2092-find-all-people-with-secret](https://github.com/gauthamnholla/coding-practice/tree/master/2092-find-all-people-with-secret) |
@@ -3458,6 +3459,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/gauthamnholla/coding-practice/tree/master/1443-minimum-time-to-collect-all-apples-in-a-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/gauthamnholla/coding-practice/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1462-course-schedule-iv](https://github.com/gauthamnholla/coding-practice/tree/master/1462-course-schedule-iv) |
+| [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/gauthamnholla/coding-practice/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1631-path-with-minimum-effort](https://github.com/gauthamnholla/coding-practice/tree/master/1631-path-with-minimum-effort) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/gauthamnholla/coding-practice/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1876-map-of-highest-peak](https://github.com/gauthamnholla/coding-practice/tree/master/1876-map-of-highest-peak) |
@@ -3570,6 +3572,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1436-get-watched-videos-by-your-friends](https://github.com/gauthamnholla/coding-practice/tree/master/1436-get-watched-videos-by-your-friends) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/gauthamnholla/coding-practice/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1462-course-schedule-iv](https://github.com/gauthamnholla/coding-practice/tree/master/1462-course-schedule-iv) |
+| [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/gauthamnholla/coding-practice/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1514-path-with-maximum-probability](https://github.com/gauthamnholla/coding-practice/tree/master/1514-path-with-maximum-probability) |
 | [1591-strange-printer-ii](https://github.com/gauthamnholla/coding-practice/tree/master/1591-strange-printer-ii) |
 | [1613-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/gauthamnholla/coding-practice/tree/master/1613-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
