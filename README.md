@@ -2603,6 +2603,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2467-most-profitable-path-in-a-tree](https://github.com/gauthamnholla/coding-practice/tree/master/2467-most-profitable-path-in-a-tree) |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/gauthamnholla/coding-practice/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 | [2477-minimum-fuel-cost-to-report-to-the-capital](https://github.com/gauthamnholla/coding-practice/tree/master/2477-minimum-fuel-cost-to-report-to-the-capital) |
+| [2493-divide-nodes-into-the-maximum-number-of-groups](https://github.com/gauthamnholla/coding-practice/tree/master/2493-divide-nodes-into-the-maximum-number-of-groups) |
 | [2582-minimum-score-of-a-path-between-two-cities](https://github.com/gauthamnholla/coding-practice/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
 | [2793-count-the-number-of-complete-components](https://github.com/gauthamnholla/coding-practice/tree/master/2793-count-the-number-of-complete-components) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/gauthamnholla/coding-practice/tree/master/2872-maximum-number-of-k-divisible-components) |
@@ -3570,6 +3571,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2458-height-of-binary-tree-after-subtree-removal-queries](https://github.com/gauthamnholla/coding-practice/tree/master/2458-height-of-binary-tree-after-subtree-removal-queries) |
 | [2467-most-profitable-path-in-a-tree](https://github.com/gauthamnholla/coding-practice/tree/master/2467-most-profitable-path-in-a-tree) |
 | [2477-minimum-fuel-cost-to-report-to-the-capital](https://github.com/gauthamnholla/coding-practice/tree/master/2477-minimum-fuel-cost-to-report-to-the-capital) |
+| [2493-divide-nodes-into-the-maximum-number-of-groups](https://github.com/gauthamnholla/coding-practice/tree/master/2493-divide-nodes-into-the-maximum-number-of-groups) |
 | [2503-maximum-number-of-points-from-grid-queries](https://github.com/gauthamnholla/coding-practice/tree/master/2503-maximum-number-of-points-from-grid-queries) |
 | [2582-minimum-score-of-a-path-between-two-cities](https://github.com/gauthamnholla/coding-practice/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/gauthamnholla/coding-practice/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
@@ -3619,6 +3621,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2198-process-restricted-friend-requests](https://github.com/gauthamnholla/coding-practice/tree/master/2198-process-restricted-friend-requests) |
 | [2368-reachable-nodes-with-restrictions](https://github.com/gauthamnholla/coding-practice/tree/master/2368-reachable-nodes-with-restrictions) |
 | [2421-number-of-good-paths](https://github.com/gauthamnholla/coding-practice/tree/master/2421-number-of-good-paths) |
+| [2493-divide-nodes-into-the-maximum-number-of-groups](https://github.com/gauthamnholla/coding-practice/tree/master/2493-divide-nodes-into-the-maximum-number-of-groups) |
 | [2503-maximum-number-of-points-from-grid-queries](https://github.com/gauthamnholla/coding-practice/tree/master/2503-maximum-number-of-points-from-grid-queries) |
 | [2582-minimum-score-of-a-path-between-two-cities](https://github.com/gauthamnholla/coding-practice/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
 | [2793-count-the-number-of-complete-components](https://github.com/gauthamnholla/coding-practice/tree/master/2793-count-the-number-of-complete-components) |
@@ -3711,6 +3714,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2421-number-of-good-paths](https://github.com/gauthamnholla/coding-practice/tree/master/2421-number-of-good-paths) |
 | [2467-most-profitable-path-in-a-tree](https://github.com/gauthamnholla/coding-practice/tree/master/2467-most-profitable-path-in-a-tree) |
 | [2477-minimum-fuel-cost-to-report-to-the-capital](https://github.com/gauthamnholla/coding-practice/tree/master/2477-minimum-fuel-cost-to-report-to-the-capital) |
+| [2493-divide-nodes-into-the-maximum-number-of-groups](https://github.com/gauthamnholla/coding-practice/tree/master/2493-divide-nodes-into-the-maximum-number-of-groups) |
 | [2497-maximum-star-sum-of-a-graph](https://github.com/gauthamnholla/coding-practice/tree/master/2497-maximum-star-sum-of-a-graph) |
 | [2582-minimum-score-of-a-path-between-two-cities](https://github.com/gauthamnholla/coding-practice/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
 | [2596-add-edges-to-make-degrees-of-all-nodes-even](https://github.com/gauthamnholla/coding-practice/tree/master/2596-add-edges-to-make-degrees-of-all-nodes-even) |
