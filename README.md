@@ -494,6 +494,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2458-height-of-binary-tree-after-subtree-removal-queries](https://github.com/gauthamnholla/coding-practice/tree/master/2458-height-of-binary-tree-after-subtree-removal-queries) |
 | [2463-minimum-total-distance-traveled](https://github.com/gauthamnholla/coding-practice/tree/master/2463-minimum-total-distance-traveled) |
 | [2465-number-of-distinct-averages](https://github.com/gauthamnholla/coding-practice/tree/master/2465-number-of-distinct-averages) |
+| [2467-most-profitable-path-in-a-tree](https://github.com/gauthamnholla/coding-practice/tree/master/2467-most-profitable-path-in-a-tree) |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/gauthamnholla/coding-practice/tree/master/2475-number-of-unequal-triplets-in-array) |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/gauthamnholla/coding-practice/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 | [2479-meeting-rooms-iii](https://github.com/gauthamnholla/coding-practice/tree/master/2479-meeting-rooms-iii) |
@@ -2599,6 +2600,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/gauthamnholla/coding-practice/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2440-create-components-with-same-value](https://github.com/gauthamnholla/coding-practice/tree/master/2440-create-components-with-same-value) |
 | [2458-height-of-binary-tree-after-subtree-removal-queries](https://github.com/gauthamnholla/coding-practice/tree/master/2458-height-of-binary-tree-after-subtree-removal-queries) |
+| [2467-most-profitable-path-in-a-tree](https://github.com/gauthamnholla/coding-practice/tree/master/2467-most-profitable-path-in-a-tree) |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/gauthamnholla/coding-practice/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 | [2582-minimum-score-of-a-path-between-two-cities](https://github.com/gauthamnholla/coding-practice/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
 | [2793-count-the-number-of-complete-components](https://github.com/gauthamnholla/coding-practice/tree/master/2793-count-the-number-of-complete-components) |
@@ -2854,6 +2856,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2421-number-of-good-paths](https://github.com/gauthamnholla/coding-practice/tree/master/2421-number-of-good-paths) |
 | [2440-create-components-with-same-value](https://github.com/gauthamnholla/coding-practice/tree/master/2440-create-components-with-same-value) |
 | [2458-height-of-binary-tree-after-subtree-removal-queries](https://github.com/gauthamnholla/coding-practice/tree/master/2458-height-of-binary-tree-after-subtree-removal-queries) |
+| [2467-most-profitable-path-in-a-tree](https://github.com/gauthamnholla/coding-practice/tree/master/2467-most-profitable-path-in-a-tree) |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/gauthamnholla/coding-practice/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/gauthamnholla/coding-practice/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 | [2603-collect-coins-in-a-tree](https://github.com/gauthamnholla/coding-practice/tree/master/2603-collect-coins-in-a-tree) |
@@ -3563,6 +3566,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2368-reachable-nodes-with-restrictions](https://github.com/gauthamnholla/coding-practice/tree/master/2368-reachable-nodes-with-restrictions) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/gauthamnholla/coding-practice/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2458-height-of-binary-tree-after-subtree-removal-queries](https://github.com/gauthamnholla/coding-practice/tree/master/2458-height-of-binary-tree-after-subtree-removal-queries) |
+| [2467-most-profitable-path-in-a-tree](https://github.com/gauthamnholla/coding-practice/tree/master/2467-most-profitable-path-in-a-tree) |
 | [2503-maximum-number-of-points-from-grid-queries](https://github.com/gauthamnholla/coding-practice/tree/master/2503-maximum-number-of-points-from-grid-queries) |
 | [2582-minimum-score-of-a-path-between-two-cities](https://github.com/gauthamnholla/coding-practice/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/gauthamnholla/coding-practice/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
@@ -3702,6 +3706,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2368-reachable-nodes-with-restrictions](https://github.com/gauthamnholla/coding-practice/tree/master/2368-reachable-nodes-with-restrictions) |
 | [2392-build-a-matrix-with-conditions](https://github.com/gauthamnholla/coding-practice/tree/master/2392-build-a-matrix-with-conditions) |
 | [2421-number-of-good-paths](https://github.com/gauthamnholla/coding-practice/tree/master/2421-number-of-good-paths) |
+| [2467-most-profitable-path-in-a-tree](https://github.com/gauthamnholla/coding-practice/tree/master/2467-most-profitable-path-in-a-tree) |
 | [2497-maximum-star-sum-of-a-graph](https://github.com/gauthamnholla/coding-practice/tree/master/2497-maximum-star-sum-of-a-graph) |
 | [2582-minimum-score-of-a-path-between-two-cities](https://github.com/gauthamnholla/coding-practice/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
 | [2596-add-edges-to-make-degrees-of-all-nodes-even](https://github.com/gauthamnholla/coding-practice/tree/master/2596-add-edges-to-make-degrees-of-all-nodes-even) |
