@@ -522,6 +522,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2587-rearrange-array-to-maximize-prefix-score](https://github.com/gauthamnholla/coding-practice/tree/master/2587-rearrange-array-to-maximize-prefix-score) |
 | [2589-minimum-time-to-complete-all-tasks](https://github.com/gauthamnholla/coding-practice/tree/master/2589-minimum-time-to-complete-all-tasks) |
 | [2592-maximize-greatness-of-an-array](https://github.com/gauthamnholla/coding-practice/tree/master/2592-maximize-greatness-of-an-array) |
+| [2596-check-knight-tour-configuration](https://github.com/gauthamnholla/coding-practice/tree/master/2596-check-knight-tour-configuration) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/gauthamnholla/coding-practice/tree/master/2597-the-number-of-beautiful-subsets) |
 | [2602-minimum-operations-to-make-all-array-elements-equal](https://github.com/gauthamnholla/coding-practice/tree/master/2602-minimum-operations-to-make-all-array-elements-equal) |
 | [2603-collect-coins-in-a-tree](https://github.com/gauthamnholla/coding-practice/tree/master/2603-collect-coins-in-a-tree) |
@@ -1787,6 +1788,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2402-meeting-rooms-iii](https://github.com/gauthamnholla/coding-practice/tree/master/2402-meeting-rooms-iii) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/gauthamnholla/coding-practice/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2479-meeting-rooms-iii](https://github.com/gauthamnholla/coding-practice/tree/master/2479-meeting-rooms-iii) |
+| [2596-check-knight-tour-configuration](https://github.com/gauthamnholla/coding-practice/tree/master/2596-check-knight-tour-configuration) |
 | [2751-robot-collisions](https://github.com/gauthamnholla/coding-practice/tree/master/2751-robot-collisions) |
 | [2974-minimum-number-game](https://github.com/gauthamnholla/coding-practice/tree/master/2974-minimum-number-game) |
 | [3080-mark-elements-on-array-by-performing-queries](https://github.com/gauthamnholla/coding-practice/tree/master/3080-mark-elements-on-array-by-performing-queries) |
@@ -2615,6 +2617,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2556-disconnect-path-in-a-binary-matrix-by-at-most-one-flip](https://github.com/gauthamnholla/coding-practice/tree/master/2556-disconnect-path-in-a-binary-matrix-by-at-most-one-flip) |
 | [2581-count-number-of-possible-root-nodes](https://github.com/gauthamnholla/coding-practice/tree/master/2581-count-number-of-possible-root-nodes) |
 | [2582-minimum-score-of-a-path-between-two-cities](https://github.com/gauthamnholla/coding-practice/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
+| [2596-check-knight-tour-configuration](https://github.com/gauthamnholla/coding-practice/tree/master/2596-check-knight-tour-configuration) |
 | [2793-count-the-number-of-complete-components](https://github.com/gauthamnholla/coding-practice/tree/master/2793-count-the-number-of-complete-components) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/gauthamnholla/coding-practice/tree/master/2872-maximum-number-of-k-divisible-components) |
 | [2973-find-number-of-coins-to-place-in-tree-nodes](https://github.com/gauthamnholla/coding-practice/tree/master/2973-find-number-of-coins-to-place-in-tree-nodes) |
@@ -3239,6 +3242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2503-maximum-number-of-points-from-grid-queries](https://github.com/gauthamnholla/coding-practice/tree/master/2503-maximum-number-of-points-from-grid-queries) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/gauthamnholla/coding-practice/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [2556-disconnect-path-in-a-binary-matrix-by-at-most-one-flip](https://github.com/gauthamnholla/coding-practice/tree/master/2556-disconnect-path-in-a-binary-matrix-by-at-most-one-flip) |
+| [2596-check-knight-tour-configuration](https://github.com/gauthamnholla/coding-practice/tree/master/2596-check-knight-tour-configuration) |
 | [2625-increment-submatrices-by-one](https://github.com/gauthamnholla/coding-practice/tree/master/2625-increment-submatrices-by-one) |
 | [2713-maximum-strictly-increasing-cells-in-a-matrix](https://github.com/gauthamnholla/coding-practice/tree/master/2713-maximum-strictly-increasing-cells-in-a-matrix) |
 | [2931-maximum-spending-after-buying-items](https://github.com/gauthamnholla/coding-practice/tree/master/2931-maximum-spending-after-buying-items) |
@@ -3589,6 +3593,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2556-disconnect-path-in-a-binary-matrix-by-at-most-one-flip](https://github.com/gauthamnholla/coding-practice/tree/master/2556-disconnect-path-in-a-binary-matrix-by-at-most-one-flip) |
 | [2582-minimum-score-of-a-path-between-two-cities](https://github.com/gauthamnholla/coding-practice/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/gauthamnholla/coding-practice/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
+| [2596-check-knight-tour-configuration](https://github.com/gauthamnholla/coding-practice/tree/master/2596-check-knight-tour-configuration) |
 | [2793-count-the-number-of-complete-components](https://github.com/gauthamnholla/coding-practice/tree/master/2793-count-the-number-of-complete-components) |
 | [3863-power-grid-maintenance](https://github.com/gauthamnholla/coding-practice/tree/master/3863-power-grid-maintenance) |
 ## Union Find
