@@ -2376,6 +2376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1859-sorting-the-sentence](https://github.com/gauthamnholla/coding-practice/tree/master/1859-sorting-the-sentence) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/gauthamnholla/coding-practice/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/gauthamnholla/coding-practice/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/gauthamnholla/coding-practice/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/gauthamnholla/coding-practice/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 | [2135-count-words-obtained-after-adding-a-letter](https://github.com/gauthamnholla/coding-practice/tree/master/2135-count-words-obtained-after-adding-a-letter) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/gauthamnholla/coding-practice/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -2600,6 +2601,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1993-operations-on-tree](https://github.com/gauthamnholla/coding-practice/tree/master/1993-operations-on-tree) |
 | [2049-count-nodes-with-the-highest-score](https://github.com/gauthamnholla/coding-practice/tree/master/2049-count-nodes-with-the-highest-score) |
 | [2092-find-all-people-with-secret](https://github.com/gauthamnholla/coding-practice/tree/master/2092-find-all-people-with-secret) |
+| [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/gauthamnholla/coding-practice/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2101-detonate-the-maximum-bombs](https://github.com/gauthamnholla/coding-practice/tree/master/2101-detonate-the-maximum-bombs) |
 | [2121-find-if-path-exists-in-graph](https://github.com/gauthamnholla/coding-practice/tree/master/2121-find-if-path-exists-in-graph) |
 | [2127-maximum-employees-to-be-invited-to-a-meeting](https://github.com/gauthamnholla/coding-practice/tree/master/2127-maximum-employees-to-be-invited-to-a-meeting) |
@@ -2874,6 +2876,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1932-merge-bsts-to-create-single-bst](https://github.com/gauthamnholla/coding-practice/tree/master/1932-merge-bsts-to-create-single-bst) |
 | [1993-operations-on-tree](https://github.com/gauthamnholla/coding-practice/tree/master/1993-operations-on-tree) |
 | [2049-count-nodes-with-the-highest-score](https://github.com/gauthamnholla/coding-practice/tree/master/2049-count-nodes-with-the-highest-score) |
+| [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/gauthamnholla/coding-practice/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2246-longest-path-with-different-adjacent-characters](https://github.com/gauthamnholla/coding-practice/tree/master/2246-longest-path-with-different-adjacent-characters) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/gauthamnholla/coding-practice/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2331-evaluate-boolean-binary-tree](https://github.com/gauthamnholla/coding-practice/tree/master/2331-evaluate-boolean-binary-tree) |
@@ -3871,6 +3874,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/gauthamnholla/coding-practice/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1932-merge-bsts-to-create-single-bst](https://github.com/gauthamnholla/coding-practice/tree/master/1932-merge-bsts-to-create-single-bst) |
 | [2049-count-nodes-with-the-highest-score](https://github.com/gauthamnholla/coding-practice/tree/master/2049-count-nodes-with-the-highest-score) |
+| [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/gauthamnholla/coding-practice/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/gauthamnholla/coding-practice/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2331-evaluate-boolean-binary-tree](https://github.com/gauthamnholla/coding-practice/tree/master/2331-evaluate-boolean-binary-tree) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/gauthamnholla/coding-practice/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
