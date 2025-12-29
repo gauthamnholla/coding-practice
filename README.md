@@ -518,6 +518,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2575-find-the-divisibility-array-of-a-string](https://github.com/gauthamnholla/coding-practice/tree/master/2575-find-the-divisibility-array-of-a-string) |
 | [2576-find-the-maximum-number-of-marked-indices](https://github.com/gauthamnholla/coding-practice/tree/master/2576-find-the-maximum-number-of-marked-indices) |
 | [2580-count-ways-to-group-overlapping-ranges](https://github.com/gauthamnholla/coding-practice/tree/master/2580-count-ways-to-group-overlapping-ranges) |
+| [2581-count-number-of-possible-root-nodes](https://github.com/gauthamnholla/coding-practice/tree/master/2581-count-number-of-possible-root-nodes) |
 | [2587-rearrange-array-to-maximize-prefix-score](https://github.com/gauthamnholla/coding-practice/tree/master/2587-rearrange-array-to-maximize-prefix-score) |
 | [2589-minimum-time-to-complete-all-tasks](https://github.com/gauthamnholla/coding-practice/tree/master/2589-minimum-time-to-complete-all-tasks) |
 | [2592-maximize-greatness-of-an-array](https://github.com/gauthamnholla/coding-practice/tree/master/2592-maximize-greatness-of-an-array) |
@@ -1661,6 +1662,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2501-longest-square-streak-in-an-array](https://github.com/gauthamnholla/coding-practice/tree/master/2501-longest-square-streak-in-an-array) |
 | [2512-reward-top-k-students](https://github.com/gauthamnholla/coding-practice/tree/master/2512-reward-top-k-students) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/gauthamnholla/coding-practice/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
+| [2581-count-number-of-possible-root-nodes](https://github.com/gauthamnholla/coding-practice/tree/master/2581-count-number-of-possible-root-nodes) |
 | [2596-add-edges-to-make-degrees-of-all-nodes-even](https://github.com/gauthamnholla/coding-practice/tree/master/2596-add-edges-to-make-degrees-of-all-nodes-even) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/gauthamnholla/coding-practice/tree/master/2597-the-number-of-beautiful-subsets) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/gauthamnholla/coding-practice/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
@@ -1893,6 +1895,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2501-longest-square-streak-in-an-array](https://github.com/gauthamnholla/coding-practice/tree/master/2501-longest-square-streak-in-an-array) |
 | [2538-difference-between-maximum-and-minimum-price-sum](https://github.com/gauthamnholla/coding-practice/tree/master/2538-difference-between-maximum-and-minimum-price-sum) |
 | [2556-disconnect-path-in-a-binary-matrix-by-at-most-one-flip](https://github.com/gauthamnholla/coding-practice/tree/master/2556-disconnect-path-in-a-binary-matrix-by-at-most-one-flip) |
+| [2581-count-number-of-possible-root-nodes](https://github.com/gauthamnholla/coding-practice/tree/master/2581-count-number-of-possible-root-nodes) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/gauthamnholla/coding-practice/tree/master/2597-the-number-of-beautiful-subsets) |
 | [2681-power-of-heroes](https://github.com/gauthamnholla/coding-practice/tree/master/2681-power-of-heroes) |
 | [2713-maximum-strictly-increasing-cells-in-a-matrix](https://github.com/gauthamnholla/coding-practice/tree/master/2713-maximum-strictly-increasing-cells-in-a-matrix) |
@@ -2610,6 +2613,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2493-divide-nodes-into-the-maximum-number-of-groups](https://github.com/gauthamnholla/coding-practice/tree/master/2493-divide-nodes-into-the-maximum-number-of-groups) |
 | [2538-difference-between-maximum-and-minimum-price-sum](https://github.com/gauthamnholla/coding-practice/tree/master/2538-difference-between-maximum-and-minimum-price-sum) |
 | [2556-disconnect-path-in-a-binary-matrix-by-at-most-one-flip](https://github.com/gauthamnholla/coding-practice/tree/master/2556-disconnect-path-in-a-binary-matrix-by-at-most-one-flip) |
+| [2581-count-number-of-possible-root-nodes](https://github.com/gauthamnholla/coding-practice/tree/master/2581-count-number-of-possible-root-nodes) |
 | [2582-minimum-score-of-a-path-between-two-cities](https://github.com/gauthamnholla/coding-practice/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
 | [2793-count-the-number-of-complete-components](https://github.com/gauthamnholla/coding-practice/tree/master/2793-count-the-number-of-complete-components) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/gauthamnholla/coding-practice/tree/master/2872-maximum-number-of-k-divisible-components) |
@@ -2868,6 +2872,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/gauthamnholla/coding-practice/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 | [2477-minimum-fuel-cost-to-report-to-the-capital](https://github.com/gauthamnholla/coding-practice/tree/master/2477-minimum-fuel-cost-to-report-to-the-capital) |
 | [2538-difference-between-maximum-and-minimum-price-sum](https://github.com/gauthamnholla/coding-practice/tree/master/2538-difference-between-maximum-and-minimum-price-sum) |
+| [2581-count-number-of-possible-root-nodes](https://github.com/gauthamnholla/coding-practice/tree/master/2581-count-number-of-possible-root-nodes) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/gauthamnholla/coding-practice/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 | [2603-collect-coins-in-a-tree](https://github.com/gauthamnholla/coding-practice/tree/master/2603-collect-coins-in-a-tree) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/gauthamnholla/coding-practice/tree/master/2872-maximum-number-of-k-divisible-components) |
