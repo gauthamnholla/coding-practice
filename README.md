@@ -600,6 +600,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3281-maximize-score-of-numbers-in-ranges](https://github.com/gauthamnholla/coding-practice/tree/master/3281-maximize-score-of-numbers-in-ranges) |
 | [3288-length-of-the-longest-increasing-path](https://github.com/gauthamnholla/coding-practice/tree/master/3288-length-of-the-longest-increasing-path) |
 | [3301-maximize-the-total-height-of-unique-towers](https://github.com/gauthamnholla/coding-practice/tree/master/3301-maximize-the-total-height-of-unique-towers) |
+| [3327-check-if-dfs-strings-are-palindromes](https://github.com/gauthamnholla/coding-practice/tree/master/3327-check-if-dfs-strings-are-palindromes) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/gauthamnholla/coding-practice/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3362-zero-array-transformation-iii](https://github.com/gauthamnholla/coding-practice/tree/master/3362-zero-array-transformation-iii) |
 | [3376-minimum-time-to-break-locks-i](https://github.com/gauthamnholla/coding-practice/tree/master/3376-minimum-time-to-break-locks-i) |
@@ -1706,6 +1707,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3242-count-elements-with-maximum-frequency](https://github.com/gauthamnholla/coding-practice/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3265-count-almost-equal-pairs-i](https://github.com/gauthamnholla/coding-practice/tree/master/3265-count-almost-equal-pairs-i) |
 | [3267-count-almost-equal-pairs-ii](https://github.com/gauthamnholla/coding-practice/tree/master/3267-count-almost-equal-pairs-ii) |
+| [3327-check-if-dfs-strings-are-palindromes](https://github.com/gauthamnholla/coding-practice/tree/master/3327-check-if-dfs-strings-are-palindromes) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/gauthamnholla/coding-practice/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/gauthamnholla/coding-practice/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3365-rearrange-k-substrings-to-form-target-string](https://github.com/gauthamnholla/coding-practice/tree/master/3365-rearrange-k-substrings-to-form-target-string) |
@@ -2439,6 +2441,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3143-maximum-points-inside-the-square](https://github.com/gauthamnholla/coding-practice/tree/master/3143-maximum-points-inside-the-square) |
 | [3223-minimum-length-of-string-after-operations](https://github.com/gauthamnholla/coding-practice/tree/master/3223-minimum-length-of-string-after-operations) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/gauthamnholla/coding-practice/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
+| [3327-check-if-dfs-strings-are-palindromes](https://github.com/gauthamnholla/coding-practice/tree/master/3327-check-if-dfs-strings-are-palindromes) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/gauthamnholla/coding-practice/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/gauthamnholla/coding-practice/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3365-rearrange-k-substrings-to-form-target-string](https://github.com/gauthamnholla/coding-practice/tree/master/3365-rearrange-k-substrings-to-form-target-string) |
@@ -2679,6 +2682,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3241-time-taken-to-mark-all-nodes](https://github.com/gauthamnholla/coding-practice/tree/master/3241-time-taken-to-mark-all-nodes) |
 | [3249-count-the-number-of-good-nodes](https://github.com/gauthamnholla/coding-practice/tree/master/3249-count-the-number-of-good-nodes) |
 | [3319-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/gauthamnholla/coding-practice/tree/master/3319-k-th-largest-perfect-subtree-size-in-binary-tree) |
+| [3327-check-if-dfs-strings-are-palindromes](https://github.com/gauthamnholla/coding-practice/tree/master/3327-check-if-dfs-strings-are-palindromes) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/gauthamnholla/coding-practice/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3367-maximize-sum-of-weights-after-edge-removals](https://github.com/gauthamnholla/coding-practice/tree/master/3367-maximize-sum-of-weights-after-edge-removals) |
 | [3372-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/gauthamnholla/coding-practice/tree/master/3372-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
@@ -2966,6 +2970,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3241-time-taken-to-mark-all-nodes](https://github.com/gauthamnholla/coding-practice/tree/master/3241-time-taken-to-mark-all-nodes) |
 | [3249-count-the-number-of-good-nodes](https://github.com/gauthamnholla/coding-practice/tree/master/3249-count-the-number-of-good-nodes) |
 | [3319-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/gauthamnholla/coding-practice/tree/master/3319-k-th-largest-perfect-subtree-size-in-binary-tree) |
+| [3327-check-if-dfs-strings-are-palindromes](https://github.com/gauthamnholla/coding-practice/tree/master/3327-check-if-dfs-strings-are-palindromes) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/gauthamnholla/coding-practice/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3367-maximize-sum-of-weights-after-edge-removals](https://github.com/gauthamnholla/coding-practice/tree/master/3367-maximize-sum-of-weights-after-edge-removals) |
 | [3372-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/gauthamnholla/coding-practice/tree/master/3372-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
@@ -4084,6 +4089,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0817-design-hashmap](https://github.com/gauthamnholla/coding-practice/tree/master/0817-design-hashmap) |
 | [1508-longest-happy-prefix](https://github.com/gauthamnholla/coding-practice/tree/master/1508-longest-happy-prefix) |
 | [2326-sum-of-scores-of-built-strings](https://github.com/gauthamnholla/coding-practice/tree/master/2326-sum-of-scores-of-built-strings) |
+| [3327-check-if-dfs-strings-are-palindromes](https://github.com/gauthamnholla/coding-practice/tree/master/3327-check-if-dfs-strings-are-palindromes) |
 ## String Matching
 |  |
 | ------- |
