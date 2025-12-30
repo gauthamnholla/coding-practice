@@ -555,6 +555,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/gauthamnholla/coding-practice/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2830-maximize-the-profit-as-the-salesman](https://github.com/gauthamnholla/coding-practice/tree/master/2830-maximize-the-profit-as-the-salesman) |
 | [2860-happy-students](https://github.com/gauthamnholla/coding-practice/tree/master/2860-happy-students) |
+| [2920-maximum-points-after-collecting-coins-from-all-nodes](https://github.com/gauthamnholla/coding-practice/tree/master/2920-maximum-points-after-collecting-coins-from-all-nodes) |
 | [2931-maximum-spending-after-buying-items](https://github.com/gauthamnholla/coding-practice/tree/master/2931-maximum-spending-after-buying-items) |
 | [2933-high-access-employees](https://github.com/gauthamnholla/coding-practice/tree/master/2933-high-access-employees) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/gauthamnholla/coding-practice/tree/master/2943-maximize-area-of-square-hole-in-grid) |
@@ -1914,6 +1915,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2858-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/gauthamnholla/coding-practice/tree/master/2858-minimum-edge-reversals-so-every-node-is-reachable) |
 | [2867-count-valid-paths-in-a-tree](https://github.com/gauthamnholla/coding-practice/tree/master/2867-count-valid-paths-in-a-tree) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/gauthamnholla/coding-practice/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
+| [2920-maximum-points-after-collecting-coins-from-all-nodes](https://github.com/gauthamnholla/coding-practice/tree/master/2920-maximum-points-after-collecting-coins-from-all-nodes) |
 | [2973-find-number-of-coins-to-place-in-tree-nodes](https://github.com/gauthamnholla/coding-practice/tree/master/2973-find-number-of-coins-to-place-in-tree-nodes) |
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/gauthamnholla/coding-practice/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3068-find-the-maximum-sum-of-node-values](https://github.com/gauthamnholla/coding-practice/tree/master/3068-find-the-maximum-sum-of-node-values) |
@@ -1953,6 +1955,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/gauthamnholla/coding-practice/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/gauthamnholla/coding-practice/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2713-maximum-strictly-increasing-cells-in-a-matrix](https://github.com/gauthamnholla/coding-practice/tree/master/2713-maximum-strictly-increasing-cells-in-a-matrix) |
+| [2920-maximum-points-after-collecting-coins-from-all-nodes](https://github.com/gauthamnholla/coding-practice/tree/master/2920-maximum-points-after-collecting-coins-from-all-nodes) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/gauthamnholla/coding-practice/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 ## Two Pointers
 |  |
@@ -2641,6 +2644,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2858-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/gauthamnholla/coding-practice/tree/master/2858-minimum-edge-reversals-so-every-node-is-reachable) |
 | [2867-count-valid-paths-in-a-tree](https://github.com/gauthamnholla/coding-practice/tree/master/2867-count-valid-paths-in-a-tree) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/gauthamnholla/coding-practice/tree/master/2872-maximum-number-of-k-divisible-components) |
+| [2920-maximum-points-after-collecting-coins-from-all-nodes](https://github.com/gauthamnholla/coding-practice/tree/master/2920-maximum-points-after-collecting-coins-from-all-nodes) |
 | [2973-find-number-of-coins-to-place-in-tree-nodes](https://github.com/gauthamnholla/coding-practice/tree/master/2973-find-number-of-coins-to-place-in-tree-nodes) |
 | [3319-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/gauthamnholla/coding-practice/tree/master/3319-k-th-largest-perfect-subtree-size-in-binary-tree) |
 | [3553-minimum-weighted-subgraph-with-the-required-paths-ii](https://github.com/gauthamnholla/coding-practice/tree/master/3553-minimum-weighted-subgraph-with-the-required-paths-ii) |
@@ -2759,6 +2763,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2529-range-product-queries-of-powers](https://github.com/gauthamnholla/coding-practice/tree/master/2529-range-product-queries-of-powers) |
 | [2791-count-paths-that-can-form-a-palindrome-in-a-tree](https://github.com/gauthamnholla/coding-practice/tree/master/2791-count-paths-that-can-form-a-palindrome-in-a-tree) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/gauthamnholla/coding-practice/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
+| [2920-maximum-points-after-collecting-coins-from-all-nodes](https://github.com/gauthamnholla/coding-practice/tree/master/2920-maximum-points-after-collecting-coins-from-all-nodes) |
 | [3011-find-if-array-can-be-sorted](https://github.com/gauthamnholla/coding-practice/tree/master/3011-find-if-array-can-be-sorted) |
 | [3068-find-the-maximum-sum-of-node-values](https://github.com/gauthamnholla/coding-practice/tree/master/3068-find-the-maximum-sum-of-node-values) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/gauthamnholla/coding-practice/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
@@ -2906,6 +2911,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2791-count-paths-that-can-form-a-palindrome-in-a-tree](https://github.com/gauthamnholla/coding-practice/tree/master/2791-count-paths-that-can-form-a-palindrome-in-a-tree) |
 | [2867-count-valid-paths-in-a-tree](https://github.com/gauthamnholla/coding-practice/tree/master/2867-count-valid-paths-in-a-tree) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/gauthamnholla/coding-practice/tree/master/2872-maximum-number-of-k-divisible-components) |
+| [2920-maximum-points-after-collecting-coins-from-all-nodes](https://github.com/gauthamnholla/coding-practice/tree/master/2920-maximum-points-after-collecting-coins-from-all-nodes) |
 | [2973-find-number-of-coins-to-place-in-tree-nodes](https://github.com/gauthamnholla/coding-practice/tree/master/2973-find-number-of-coins-to-place-in-tree-nodes) |
 | [3068-find-the-maximum-sum-of-node-values](https://github.com/gauthamnholla/coding-practice/tree/master/3068-find-the-maximum-sum-of-node-values) |
 | [3319-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/gauthamnholla/coding-practice/tree/master/3319-k-th-largest-perfect-subtree-size-in-binary-tree) |
