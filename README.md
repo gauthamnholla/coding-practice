@@ -666,6 +666,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3685-subsequence-sum-after-capping-elements](https://github.com/gauthamnholla/coding-practice/tree/master/3685-subsequence-sum-after-capping-elements) |
 | [3695-maximize-alternating-sum-using-swaps](https://github.com/gauthamnholla/coding-practice/tree/master/3695-maximize-alternating-sum-using-swaps) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/gauthamnholla/coding-practice/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
+| [3715-sum-of-perfect-square-ancestors](https://github.com/gauthamnholla/coding-practice/tree/master/3715-sum-of-perfect-square-ancestors) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/gauthamnholla/coding-practice/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/gauthamnholla/coding-practice/tree/master/3731-find-missing-elements) |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/gauthamnholla/coding-practice/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
@@ -1726,6 +1727,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3678-design-task-manager](https://github.com/gauthamnholla/coding-practice/tree/master/3678-design-task-manager) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/gauthamnholla/coding-practice/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/gauthamnholla/coding-practice/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
+| [3715-sum-of-perfect-square-ancestors](https://github.com/gauthamnholla/coding-practice/tree/master/3715-sum-of-perfect-square-ancestors) |
 | [3731-find-missing-elements](https://github.com/gauthamnholla/coding-practice/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/gauthamnholla/coding-practice/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/gauthamnholla/coding-practice/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -2267,6 +2269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3649-number-of-perfect-pairs](https://github.com/gauthamnholla/coding-practice/tree/master/3649-number-of-perfect-pairs) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/gauthamnholla/coding-practice/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/gauthamnholla/coding-practice/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
+| [3715-sum-of-perfect-square-ancestors](https://github.com/gauthamnholla/coding-practice/tree/master/3715-sum-of-perfect-square-ancestors) |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/gauthamnholla/coding-practice/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/gauthamnholla/coding-practice/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3752-lexicographically-smallest-negated-permutation-that-sums-to-target](https://github.com/gauthamnholla/coding-practice/tree/master/3752-lexicographically-smallest-negated-permutation-that-sums-to-target) |
@@ -2682,6 +2685,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3486-longest-special-path-ii](https://github.com/gauthamnholla/coding-practice/tree/master/3486-longest-special-path-ii) |
 | [3553-minimum-weighted-subgraph-with-the-required-paths-ii](https://github.com/gauthamnholla/coding-practice/tree/master/3553-minimum-weighted-subgraph-with-the-required-paths-ii) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/gauthamnholla/coding-practice/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
+| [3715-sum-of-perfect-square-ancestors](https://github.com/gauthamnholla/coding-practice/tree/master/3715-sum-of-perfect-square-ancestors) |
 | [3772-maximum-subgraph-score-in-a-tree](https://github.com/gauthamnholla/coding-practice/tree/master/3772-maximum-subgraph-score-in-a-tree) |
 | [3786-total-sum-of-interaction-cost-in-tree-groups](https://github.com/gauthamnholla/coding-practice/tree/master/3786-total-sum-of-interaction-cost-in-tree-groups) |
 | [3863-power-grid-maintenance](https://github.com/gauthamnholla/coding-practice/tree/master/3863-power-grid-maintenance) |
@@ -2963,6 +2967,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3486-longest-special-path-ii](https://github.com/gauthamnholla/coding-practice/tree/master/3486-longest-special-path-ii) |
 | [3553-minimum-weighted-subgraph-with-the-required-paths-ii](https://github.com/gauthamnholla/coding-practice/tree/master/3553-minimum-weighted-subgraph-with-the-required-paths-ii) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/gauthamnholla/coding-practice/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
+| [3715-sum-of-perfect-square-ancestors](https://github.com/gauthamnholla/coding-practice/tree/master/3715-sum-of-perfect-square-ancestors) |
 | [3772-maximum-subgraph-score-in-a-tree](https://github.com/gauthamnholla/coding-practice/tree/master/3772-maximum-subgraph-score-in-a-tree) |
 | [3786-total-sum-of-interaction-cost-in-tree-groups](https://github.com/gauthamnholla/coding-practice/tree/master/3786-total-sum-of-interaction-cost-in-tree-groups) |
 ## Segment Tree
@@ -3434,6 +3439,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/gauthamnholla/coding-practice/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/gauthamnholla/coding-practice/tree/master/3545-minimum-deletions-for-at-most-k-distinct-characters) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/gauthamnholla/coding-practice/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
+| [3715-sum-of-perfect-square-ancestors](https://github.com/gauthamnholla/coding-practice/tree/master/3715-sum-of-perfect-square-ancestors) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/gauthamnholla/coding-practice/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/gauthamnholla/coding-practice/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/gauthamnholla/coding-practice/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
@@ -3539,6 +3545,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2818-apply-operations-to-maximize-score](https://github.com/gauthamnholla/coding-practice/tree/master/2818-apply-operations-to-maximize-score) |
 | [2867-count-valid-paths-in-a-tree](https://github.com/gauthamnholla/coding-practice/tree/master/2867-count-valid-paths-in-a-tree) |
 | [3556-sum-of-largest-prime-substrings](https://github.com/gauthamnholla/coding-practice/tree/master/3556-sum-of-largest-prime-substrings) |
+| [3715-sum-of-perfect-square-ancestors](https://github.com/gauthamnholla/coding-practice/tree/master/3715-sum-of-perfect-square-ancestors) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/gauthamnholla/coding-practice/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Combinatorics
 |  |
