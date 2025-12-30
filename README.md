@@ -665,6 +665,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/gauthamnholla/coding-practice/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 | [3685-subsequence-sum-after-capping-elements](https://github.com/gauthamnholla/coding-practice/tree/master/3685-subsequence-sum-after-capping-elements) |
 | [3695-maximize-alternating-sum-using-swaps](https://github.com/gauthamnholla/coding-practice/tree/master/3695-maximize-alternating-sum-using-swaps) |
+| [3710-maximum-partition-factor](https://github.com/gauthamnholla/coding-practice/tree/master/3710-maximum-partition-factor) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/gauthamnholla/coding-practice/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3715-sum-of-perfect-square-ancestors](https://github.com/gauthamnholla/coding-practice/tree/master/3715-sum-of-perfect-square-ancestors) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/gauthamnholla/coding-practice/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -2685,6 +2686,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3486-longest-special-path-ii](https://github.com/gauthamnholla/coding-practice/tree/master/3486-longest-special-path-ii) |
 | [3553-minimum-weighted-subgraph-with-the-required-paths-ii](https://github.com/gauthamnholla/coding-practice/tree/master/3553-minimum-weighted-subgraph-with-the-required-paths-ii) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/gauthamnholla/coding-practice/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
+| [3710-maximum-partition-factor](https://github.com/gauthamnholla/coding-practice/tree/master/3710-maximum-partition-factor) |
 | [3715-sum-of-perfect-square-ancestors](https://github.com/gauthamnholla/coding-practice/tree/master/3715-sum-of-perfect-square-ancestors) |
 | [3772-maximum-subgraph-score-in-a-tree](https://github.com/gauthamnholla/coding-practice/tree/master/3772-maximum-subgraph-score-in-a-tree) |
 | [3786-total-sum-of-interaction-cost-in-tree-groups](https://github.com/gauthamnholla/coding-practice/tree/master/3786-total-sum-of-interaction-cost-in-tree-groups) |
@@ -3195,6 +3197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/gauthamnholla/coding-practice/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/gauthamnholla/coding-practice/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/gauthamnholla/coding-practice/tree/master/3661-maximum-walls-destroyed-by-robots) |
+| [3710-maximum-partition-factor](https://github.com/gauthamnholla/coding-practice/tree/master/3710-maximum-partition-factor) |
 | [3759-count-elements-with-at-least-k-greater-values](https://github.com/gauthamnholla/coding-practice/tree/master/3759-count-elements-with-at-least-k-greater-values) |
 | [3790-fruits-into-baskets-ii](https://github.com/gauthamnholla/coding-practice/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/gauthamnholla/coding-practice/tree/master/3791-fruits-into-baskets-iii) |
@@ -3700,6 +3703,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3373-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/gauthamnholla/coding-practice/tree/master/3373-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
 | [3387-maximize-amount-after-two-days-of-conversions](https://github.com/gauthamnholla/coding-practice/tree/master/3387-maximize-amount-after-two-days-of-conversions) |
 | [3419-minimize-the-maximum-edge-weight-of-graph](https://github.com/gauthamnholla/coding-practice/tree/master/3419-minimize-the-maximum-edge-weight-of-graph) |
+| [3710-maximum-partition-factor](https://github.com/gauthamnholla/coding-practice/tree/master/3710-maximum-partition-factor) |
 | [3863-power-grid-maintenance](https://github.com/gauthamnholla/coding-practice/tree/master/3863-power-grid-maintenance) |
 ## Union Find
 |  |
@@ -3756,6 +3760,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3608-minimum-time-for-k-connected-components](https://github.com/gauthamnholla/coding-practice/tree/master/3608-minimum-time-for-k-connected-components) |
 | [3613-minimize-maximum-component-cost](https://github.com/gauthamnholla/coding-practice/tree/master/3613-minimize-maximum-component-cost) |
 | [3695-maximize-alternating-sum-using-swaps](https://github.com/gauthamnholla/coding-practice/tree/master/3695-maximize-alternating-sum-using-swaps) |
+| [3710-maximum-partition-factor](https://github.com/gauthamnholla/coding-practice/tree/master/3710-maximum-partition-factor) |
 | [3863-power-grid-maintenance](https://github.com/gauthamnholla/coding-practice/tree/master/3863-power-grid-maintenance) |
 ## Bitmask
 |  |
@@ -3864,6 +3869,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3608-minimum-time-for-k-connected-components](https://github.com/gauthamnholla/coding-practice/tree/master/3608-minimum-time-for-k-connected-components) |
 | [3613-minimize-maximum-component-cost](https://github.com/gauthamnholla/coding-practice/tree/master/3613-minimize-maximum-component-cost) |
 | [3620-network-recovery-pathways](https://github.com/gauthamnholla/coding-practice/tree/master/3620-network-recovery-pathways) |
+| [3710-maximum-partition-factor](https://github.com/gauthamnholla/coding-practice/tree/master/3710-maximum-partition-factor) |
 | [3863-power-grid-maintenance](https://github.com/gauthamnholla/coding-practice/tree/master/3863-power-grid-maintenance) |
 ## Binary Tree
 |  |
