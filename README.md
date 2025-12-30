@@ -588,6 +588,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/gauthamnholla/coding-practice/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3218-minimum-cost-for-cutting-cake-i](https://github.com/gauthamnholla/coding-practice/tree/master/3218-minimum-cost-for-cutting-cake-i) |
 | [3219-minimum-cost-for-cutting-cake-ii](https://github.com/gauthamnholla/coding-practice/tree/master/3219-minimum-cost-for-cutting-cake-ii) |
+| [3235-check-if-the-rectangle-corner-is-reachable](https://github.com/gauthamnholla/coding-practice/tree/master/3235-check-if-the-rectangle-corner-is-reachable) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/gauthamnholla/coding-practice/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/gauthamnholla/coding-practice/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/gauthamnholla/coding-practice/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
@@ -2248,6 +2249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3024-type-of-triangle](https://github.com/gauthamnholla/coding-practice/tree/master/3024-type-of-triangle) |
 | [3102-minimize-manhattan-distances](https://github.com/gauthamnholla/coding-practice/tree/master/3102-minimize-manhattan-distances) |
 | [3201-distribute-candies-among-children-ii](https://github.com/gauthamnholla/coding-practice/tree/master/3201-distribute-candies-among-children-ii) |
+| [3235-check-if-the-rectangle-corner-is-reachable](https://github.com/gauthamnholla/coding-practice/tree/master/3235-check-if-the-rectangle-corner-is-reachable) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/gauthamnholla/coding-practice/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/gauthamnholla/coding-practice/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/gauthamnholla/coding-practice/tree/master/3279-alice-and-bob-playing-flower-game) |
@@ -2673,6 +2675,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2973-find-number-of-coins-to-place-in-tree-nodes](https://github.com/gauthamnholla/coding-practice/tree/master/2973-find-number-of-coins-to-place-in-tree-nodes) |
 | [3067-count-pairs-of-connectable-servers-in-a-weighted-tree-network](https://github.com/gauthamnholla/coding-practice/tree/master/3067-count-pairs-of-connectable-servers-in-a-weighted-tree-network) |
 | [3123-find-edges-in-shortest-paths](https://github.com/gauthamnholla/coding-practice/tree/master/3123-find-edges-in-shortest-paths) |
+| [3235-check-if-the-rectangle-corner-is-reachable](https://github.com/gauthamnholla/coding-practice/tree/master/3235-check-if-the-rectangle-corner-is-reachable) |
 | [3241-time-taken-to-mark-all-nodes](https://github.com/gauthamnholla/coding-practice/tree/master/3241-time-taken-to-mark-all-nodes) |
 | [3249-count-the-number-of-good-nodes](https://github.com/gauthamnholla/coding-practice/tree/master/3249-count-the-number-of-good-nodes) |
 | [3319-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/gauthamnholla/coding-practice/tree/master/3319-k-th-largest-perfect-subtree-size-in-binary-tree) |
@@ -3503,6 +3506,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2101-detonate-the-maximum-bombs](https://github.com/gauthamnholla/coding-practice/tree/master/2101-detonate-the-maximum-bombs) |
 | [2280-minimum-lines-to-represent-a-line-chart](https://github.com/gauthamnholla/coding-practice/tree/master/2280-minimum-lines-to-represent-a-line-chart) |
 | [3102-minimize-manhattan-distances](https://github.com/gauthamnholla/coding-practice/tree/master/3102-minimize-manhattan-distances) |
+| [3235-check-if-the-rectangle-corner-is-reachable](https://github.com/gauthamnholla/coding-practice/tree/master/3235-check-if-the-rectangle-corner-is-reachable) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/gauthamnholla/coding-practice/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/gauthamnholla/coding-practice/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3380-maximum-area-rectangle-with-point-constraints-i](https://github.com/gauthamnholla/coding-practice/tree/master/3380-maximum-area-rectangle-with-point-constraints-i) |
@@ -3702,6 +3706,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2793-count-the-number-of-complete-components](https://github.com/gauthamnholla/coding-practice/tree/master/2793-count-the-number-of-complete-components) |
 | [2858-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/gauthamnholla/coding-practice/tree/master/2858-minimum-edge-reversals-so-every-node-is-reachable) |
 | [3123-find-edges-in-shortest-paths](https://github.com/gauthamnholla/coding-practice/tree/master/3123-find-edges-in-shortest-paths) |
+| [3235-check-if-the-rectangle-corner-is-reachable](https://github.com/gauthamnholla/coding-practice/tree/master/3235-check-if-the-rectangle-corner-is-reachable) |
 | [3372-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/gauthamnholla/coding-practice/tree/master/3372-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3373-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/gauthamnholla/coding-practice/tree/master/3373-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
 | [3387-maximize-amount-after-two-days-of-conversions](https://github.com/gauthamnholla/coding-practice/tree/master/3387-maximize-amount-after-two-days-of-conversions) |
@@ -3760,6 +3765,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/gauthamnholla/coding-practice/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 | [2793-count-the-number-of-complete-components](https://github.com/gauthamnholla/coding-practice/tree/master/2793-count-the-number-of-complete-components) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/gauthamnholla/coding-practice/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
+| [3235-check-if-the-rectangle-corner-is-reachable](https://github.com/gauthamnholla/coding-practice/tree/master/3235-check-if-the-rectangle-corner-is-reachable) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/gauthamnholla/coding-practice/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3608-minimum-time-for-k-connected-components](https://github.com/gauthamnholla/coding-practice/tree/master/3608-minimum-time-for-k-connected-components) |
 | [3613-minimize-maximum-component-cost](https://github.com/gauthamnholla/coding-practice/tree/master/3613-minimize-maximum-component-cost) |
