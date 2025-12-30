@@ -2661,6 +2661,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3331-find-subtree-sizes-after-changes](https://github.com/gauthamnholla/coding-practice/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3367-maximize-sum-of-weights-after-edge-removals](https://github.com/gauthamnholla/coding-practice/tree/master/3367-maximize-sum-of-weights-after-edge-removals) |
 | [3372-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/gauthamnholla/coding-practice/tree/master/3372-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
+| [3373-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/gauthamnholla/coding-practice/tree/master/3373-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
 | [3553-minimum-weighted-subgraph-with-the-required-paths-ii](https://github.com/gauthamnholla/coding-practice/tree/master/3553-minimum-weighted-subgraph-with-the-required-paths-ii) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/gauthamnholla/coding-practice/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 | [3863-power-grid-maintenance](https://github.com/gauthamnholla/coding-practice/tree/master/3863-power-grid-maintenance) |
@@ -2935,6 +2936,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3331-find-subtree-sizes-after-changes](https://github.com/gauthamnholla/coding-practice/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3367-maximize-sum-of-weights-after-edge-removals](https://github.com/gauthamnholla/coding-practice/tree/master/3367-maximize-sum-of-weights-after-edge-removals) |
 | [3372-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/gauthamnholla/coding-practice/tree/master/3372-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
+| [3373-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/gauthamnholla/coding-practice/tree/master/3373-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
 | [3553-minimum-weighted-subgraph-with-the-required-paths-ii](https://github.com/gauthamnholla/coding-practice/tree/master/3553-minimum-weighted-subgraph-with-the-required-paths-ii) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/gauthamnholla/coding-practice/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 ## Segment Tree
@@ -3658,6 +3660,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2858-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/gauthamnholla/coding-practice/tree/master/2858-minimum-edge-reversals-so-every-node-is-reachable) |
 | [3123-find-edges-in-shortest-paths](https://github.com/gauthamnholla/coding-practice/tree/master/3123-find-edges-in-shortest-paths) |
 | [3372-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/gauthamnholla/coding-practice/tree/master/3372-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
+| [3373-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/gauthamnholla/coding-practice/tree/master/3373-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
 | [3863-power-grid-maintenance](https://github.com/gauthamnholla/coding-practice/tree/master/3863-power-grid-maintenance) |
 ## Union Find
 |  |
