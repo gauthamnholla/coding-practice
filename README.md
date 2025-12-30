@@ -1384,6 +1384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2974-minimum-number-game](https://github.com/gauthamnholla/coding-practice/tree/master/2974-minimum-number-game) |
 | [3080-mark-elements-on-array-by-performing-queries](https://github.com/gauthamnholla/coding-practice/tree/master/3080-mark-elements-on-array-by-performing-queries) |
 | [3081-replace-question-marks-in-string-to-minimize-its-value](https://github.com/gauthamnholla/coding-practice/tree/master/3081-replace-question-marks-in-string-to-minimize-its-value) |
+| [3123-find-edges-in-shortest-paths](https://github.com/gauthamnholla/coding-practice/tree/master/3123-find-edges-in-shortest-paths) |
 | [3362-zero-array-transformation-iii](https://github.com/gauthamnholla/coding-practice/tree/master/3362-zero-array-transformation-iii) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/gauthamnholla/coding-practice/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3462-maximum-sum-with-at-most-k-elements](https://github.com/gauthamnholla/coding-practice/tree/master/3462-maximum-sum-with-at-most-k-elements) |
@@ -2648,6 +2649,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2920-maximum-points-after-collecting-coins-from-all-nodes](https://github.com/gauthamnholla/coding-practice/tree/master/2920-maximum-points-after-collecting-coins-from-all-nodes) |
 | [2925-maximum-score-after-applying-operations-on-a-tree](https://github.com/gauthamnholla/coding-practice/tree/master/2925-maximum-score-after-applying-operations-on-a-tree) |
 | [2973-find-number-of-coins-to-place-in-tree-nodes](https://github.com/gauthamnholla/coding-practice/tree/master/2973-find-number-of-coins-to-place-in-tree-nodes) |
+| [3123-find-edges-in-shortest-paths](https://github.com/gauthamnholla/coding-practice/tree/master/3123-find-edges-in-shortest-paths) |
 | [3319-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/gauthamnholla/coding-practice/tree/master/3319-k-th-largest-perfect-subtree-size-in-binary-tree) |
 | [3553-minimum-weighted-subgraph-with-the-required-paths-ii](https://github.com/gauthamnholla/coding-practice/tree/master/3553-minimum-weighted-subgraph-with-the-required-paths-ii) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/gauthamnholla/coding-practice/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
@@ -3639,6 +3641,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/gauthamnholla/coding-practice/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 | [2793-count-the-number-of-complete-components](https://github.com/gauthamnholla/coding-practice/tree/master/2793-count-the-number-of-complete-components) |
 | [2858-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/gauthamnholla/coding-practice/tree/master/2858-minimum-edge-reversals-so-every-node-is-reachable) |
+| [3123-find-edges-in-shortest-paths](https://github.com/gauthamnholla/coding-practice/tree/master/3123-find-edges-in-shortest-paths) |
 | [3863-power-grid-maintenance](https://github.com/gauthamnholla/coding-practice/tree/master/3863-power-grid-maintenance) |
 ## Union Find
 |  |
@@ -3791,6 +3794,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2678-design-graph-with-shortest-path-calculator](https://github.com/gauthamnholla/coding-practice/tree/master/2678-design-graph-with-shortest-path-calculator) |
 | [2793-count-the-number-of-complete-components](https://github.com/gauthamnholla/coding-practice/tree/master/2793-count-the-number-of-complete-components) |
 | [2858-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/gauthamnholla/coding-practice/tree/master/2858-minimum-edge-reversals-so-every-node-is-reachable) |
+| [3123-find-edges-in-shortest-paths](https://github.com/gauthamnholla/coding-practice/tree/master/3123-find-edges-in-shortest-paths) |
 | [3435-frequencies-of-shortest-supersequences](https://github.com/gauthamnholla/coding-practice/tree/master/3435-frequencies-of-shortest-supersequences) |
 | [3530-maximum-profit-from-valid-topological-order-in-dag](https://github.com/gauthamnholla/coding-practice/tree/master/3530-maximum-profit-from-valid-topological-order-in-dag) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/gauthamnholla/coding-practice/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -4040,6 +4044,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/gauthamnholla/coding-practice/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2321-minimum-weighted-subgraph-with-the-required-paths](https://github.com/gauthamnholla/coding-practice/tree/master/2321-minimum-weighted-subgraph-with-the-required-paths) |
 | [2678-design-graph-with-shortest-path-calculator](https://github.com/gauthamnholla/coding-practice/tree/master/2678-design-graph-with-shortest-path-calculator) |
+| [3123-find-edges-in-shortest-paths](https://github.com/gauthamnholla/coding-practice/tree/master/3123-find-edges-in-shortest-paths) |
 | [3620-network-recovery-pathways](https://github.com/gauthamnholla/coding-practice/tree/master/3620-network-recovery-pathways) |
 ## Minimum Spanning Tree
 |  |
