@@ -644,6 +644,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/gauthamnholla/coding-practice/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/gauthamnholla/coding-practice/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/gauthamnholla/coding-practice/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
+| [3593-minimum-increments-to-equalize-leaf-paths](https://github.com/gauthamnholla/coding-practice/tree/master/3593-minimum-increments-to-equalize-leaf-paths) |
 | [3606-coupon-code-validator](https://github.com/gauthamnholla/coding-practice/tree/master/3606-coupon-code-validator) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/gauthamnholla/coding-practice/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/gauthamnholla/coding-practice/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
@@ -1959,6 +1960,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/gauthamnholla/coding-practice/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/gauthamnholla/coding-practice/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/gauthamnholla/coding-practice/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
+| [3593-minimum-increments-to-equalize-leaf-paths](https://github.com/gauthamnholla/coding-practice/tree/master/3593-minimum-increments-to-equalize-leaf-paths) |
 | [3618-find-the-original-typed-string-ii](https://github.com/gauthamnholla/coding-practice/tree/master/3618-find-the-original-typed-string-ii) |
 | [3620-network-recovery-pathways](https://github.com/gauthamnholla/coding-practice/tree/master/3620-network-recovery-pathways) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/gauthamnholla/coding-practice/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
@@ -2701,6 +2703,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3486-longest-special-path-ii](https://github.com/gauthamnholla/coding-practice/tree/master/3486-longest-special-path-ii) |
 | [3553-minimum-weighted-subgraph-with-the-required-paths-ii](https://github.com/gauthamnholla/coding-practice/tree/master/3553-minimum-weighted-subgraph-with-the-required-paths-ii) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/gauthamnholla/coding-practice/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
+| [3593-minimum-increments-to-equalize-leaf-paths](https://github.com/gauthamnholla/coding-practice/tree/master/3593-minimum-increments-to-equalize-leaf-paths) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/gauthamnholla/coding-practice/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3710-maximum-partition-factor](https://github.com/gauthamnholla/coding-practice/tree/master/3710-maximum-partition-factor) |
 | [3715-sum-of-perfect-square-ancestors](https://github.com/gauthamnholla/coding-practice/tree/master/3715-sum-of-perfect-square-ancestors) |
@@ -2986,6 +2989,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3486-longest-special-path-ii](https://github.com/gauthamnholla/coding-practice/tree/master/3486-longest-special-path-ii) |
 | [3553-minimum-weighted-subgraph-with-the-required-paths-ii](https://github.com/gauthamnholla/coding-practice/tree/master/3553-minimum-weighted-subgraph-with-the-required-paths-ii) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/gauthamnholla/coding-practice/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
+| [3593-minimum-increments-to-equalize-leaf-paths](https://github.com/gauthamnholla/coding-practice/tree/master/3593-minimum-increments-to-equalize-leaf-paths) |
 | [3715-sum-of-perfect-square-ancestors](https://github.com/gauthamnholla/coding-practice/tree/master/3715-sum-of-perfect-square-ancestors) |
 | [3772-maximum-subgraph-score-in-a-tree](https://github.com/gauthamnholla/coding-practice/tree/master/3772-maximum-subgraph-score-in-a-tree) |
 | [3786-total-sum-of-interaction-cost-in-tree-groups](https://github.com/gauthamnholla/coding-practice/tree/master/3786-total-sum-of-interaction-cost-in-tree-groups) |
