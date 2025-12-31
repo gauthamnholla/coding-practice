@@ -635,6 +635,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3493-properties-graph](https://github.com/gauthamnholla/coding-practice/tree/master/3493-properties-graph) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/gauthamnholla/coding-practice/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/gauthamnholla/coding-practice/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3515-shortest-path-in-a-weighted-tree](https://github.com/gauthamnholla/coding-practice/tree/master/3515-shortest-path-in-a-weighted-tree) |
 | [3530-maximum-profit-from-valid-topological-order-in-dag](https://github.com/gauthamnholla/coding-practice/tree/master/3530-maximum-profit-from-valid-topological-order-in-dag) |
 | [3531-count-covered-buildings](https://github.com/gauthamnholla/coding-practice/tree/master/3531-count-covered-buildings) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/gauthamnholla/coding-practice/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -2723,6 +2724,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3425-longest-special-path](https://github.com/gauthamnholla/coding-practice/tree/master/3425-longest-special-path) |
 | [3486-longest-special-path-ii](https://github.com/gauthamnholla/coding-practice/tree/master/3486-longest-special-path-ii) |
 | [3493-properties-graph](https://github.com/gauthamnholla/coding-practice/tree/master/3493-properties-graph) |
+| [3515-shortest-path-in-a-weighted-tree](https://github.com/gauthamnholla/coding-practice/tree/master/3515-shortest-path-in-a-weighted-tree) |
 | [3528-unit-conversion-i](https://github.com/gauthamnholla/coding-practice/tree/master/3528-unit-conversion-i) |
 | [3544-subtree-inversion-sum](https://github.com/gauthamnholla/coding-practice/tree/master/3544-subtree-inversion-sum) |
 | [3553-minimum-weighted-subgraph-with-the-required-paths-ii](https://github.com/gauthamnholla/coding-practice/tree/master/3553-minimum-weighted-subgraph-with-the-required-paths-ii) |
@@ -3018,6 +3020,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3373-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/gauthamnholla/coding-practice/tree/master/3373-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
 | [3425-longest-special-path](https://github.com/gauthamnholla/coding-practice/tree/master/3425-longest-special-path) |
 | [3486-longest-special-path-ii](https://github.com/gauthamnholla/coding-practice/tree/master/3486-longest-special-path-ii) |
+| [3515-shortest-path-in-a-weighted-tree](https://github.com/gauthamnholla/coding-practice/tree/master/3515-shortest-path-in-a-weighted-tree) |
 | [3544-subtree-inversion-sum](https://github.com/gauthamnholla/coding-practice/tree/master/3544-subtree-inversion-sum) |
 | [3553-minimum-weighted-subgraph-with-the-required-paths-ii](https://github.com/gauthamnholla/coding-practice/tree/master/3553-minimum-weighted-subgraph-with-the-required-paths-ii) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/gauthamnholla/coding-practice/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
@@ -3045,6 +3048,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2736-maximum-sum-queries](https://github.com/gauthamnholla/coding-practice/tree/master/2736-maximum-sum-queries) |
 | [3380-maximum-area-rectangle-with-point-constraints-i](https://github.com/gauthamnholla/coding-practice/tree/master/3380-maximum-area-rectangle-with-point-constraints-i) |
 | [3382-maximum-area-rectangle-with-point-constraints-ii](https://github.com/gauthamnholla/coding-practice/tree/master/3382-maximum-area-rectangle-with-point-constraints-ii) |
+| [3515-shortest-path-in-a-weighted-tree](https://github.com/gauthamnholla/coding-practice/tree/master/3515-shortest-path-in-a-weighted-tree) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/gauthamnholla/coding-practice/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/gauthamnholla/coding-practice/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/gauthamnholla/coding-practice/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
@@ -4077,6 +4081,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2736-maximum-sum-queries](https://github.com/gauthamnholla/coding-practice/tree/master/2736-maximum-sum-queries) |
 | [3380-maximum-area-rectangle-with-point-constraints-i](https://github.com/gauthamnholla/coding-practice/tree/master/3380-maximum-area-rectangle-with-point-constraints-i) |
 | [3382-maximum-area-rectangle-with-point-constraints-ii](https://github.com/gauthamnholla/coding-practice/tree/master/3382-maximum-area-rectangle-with-point-constraints-ii) |
+| [3515-shortest-path-in-a-weighted-tree](https://github.com/gauthamnholla/coding-practice/tree/master/3515-shortest-path-in-a-weighted-tree) |
 ## Line Sweep
 |  |
 | ------- |
