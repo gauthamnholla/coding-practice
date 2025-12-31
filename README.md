@@ -640,6 +640,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/gauthamnholla/coding-practice/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3572-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues](https://github.com/gauthamnholla/coding-practice/tree/master/3572-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/gauthamnholla/coding-practice/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
+| [3575-maximum-good-subtree-score](https://github.com/gauthamnholla/coding-practice/tree/master/3575-maximum-good-subtree-score) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/gauthamnholla/coding-practice/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/gauthamnholla/coding-practice/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/gauthamnholla/coding-practice/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -1961,6 +1962,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/gauthamnholla/coding-practice/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/gauthamnholla/coding-practice/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/gauthamnholla/coding-practice/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
+| [3575-maximum-good-subtree-score](https://github.com/gauthamnholla/coding-practice/tree/master/3575-maximum-good-subtree-score) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/gauthamnholla/coding-practice/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3585-find-weighted-median-node-in-tree](https://github.com/gauthamnholla/coding-practice/tree/master/3585-find-weighted-median-node-in-tree) |
 | [3593-minimum-increments-to-equalize-leaf-paths](https://github.com/gauthamnholla/coding-practice/tree/master/3593-minimum-increments-to-equalize-leaf-paths) |
@@ -2706,6 +2708,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3486-longest-special-path-ii](https://github.com/gauthamnholla/coding-practice/tree/master/3486-longest-special-path-ii) |
 | [3553-minimum-weighted-subgraph-with-the-required-paths-ii](https://github.com/gauthamnholla/coding-practice/tree/master/3553-minimum-weighted-subgraph-with-the-required-paths-ii) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/gauthamnholla/coding-practice/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
+| [3575-maximum-good-subtree-score](https://github.com/gauthamnholla/coding-practice/tree/master/3575-maximum-good-subtree-score) |
 | [3585-find-weighted-median-node-in-tree](https://github.com/gauthamnholla/coding-practice/tree/master/3585-find-weighted-median-node-in-tree) |
 | [3590-kth-smallest-path-xor-sum](https://github.com/gauthamnholla/coding-practice/tree/master/3590-kth-smallest-path-xor-sum) |
 | [3593-minimum-increments-to-equalize-leaf-paths](https://github.com/gauthamnholla/coding-practice/tree/master/3593-minimum-increments-to-equalize-leaf-paths) |
@@ -2836,6 +2839,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3435-frequencies-of-shortest-supersequences](https://github.com/gauthamnholla/coding-practice/tree/master/3435-frequencies-of-shortest-supersequences) |
 | [3530-maximum-profit-from-valid-topological-order-in-dag](https://github.com/gauthamnholla/coding-practice/tree/master/3530-maximum-profit-from-valid-topological-order-in-dag) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/gauthamnholla/coding-practice/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [3575-maximum-good-subtree-score](https://github.com/gauthamnholla/coding-practice/tree/master/3575-maximum-good-subtree-score) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/gauthamnholla/coding-practice/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/gauthamnholla/coding-practice/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/gauthamnholla/coding-practice/tree/master/3644-maximum-k-to-sort-a-permutation) |
@@ -2994,6 +2998,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3486-longest-special-path-ii](https://github.com/gauthamnholla/coding-practice/tree/master/3486-longest-special-path-ii) |
 | [3553-minimum-weighted-subgraph-with-the-required-paths-ii](https://github.com/gauthamnholla/coding-practice/tree/master/3553-minimum-weighted-subgraph-with-the-required-paths-ii) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/gauthamnholla/coding-practice/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
+| [3575-maximum-good-subtree-score](https://github.com/gauthamnholla/coding-practice/tree/master/3575-maximum-good-subtree-score) |
 | [3585-find-weighted-median-node-in-tree](https://github.com/gauthamnholla/coding-practice/tree/master/3585-find-weighted-median-node-in-tree) |
 | [3590-kth-smallest-path-xor-sum](https://github.com/gauthamnholla/coding-practice/tree/master/3590-kth-smallest-path-xor-sum) |
 | [3593-minimum-increments-to-equalize-leaf-paths](https://github.com/gauthamnholla/coding-practice/tree/master/3593-minimum-increments-to-equalize-leaf-paths) |
@@ -3811,6 +3816,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/gauthamnholla/coding-practice/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3376-minimum-time-to-break-locks-i](https://github.com/gauthamnholla/coding-practice/tree/master/3376-minimum-time-to-break-locks-i) |
 | [3530-maximum-profit-from-valid-topological-order-in-dag](https://github.com/gauthamnholla/coding-practice/tree/master/3530-maximum-profit-from-valid-topological-order-in-dag) |
+| [3575-maximum-good-subtree-score](https://github.com/gauthamnholla/coding-practice/tree/master/3575-maximum-good-subtree-score) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/gauthamnholla/coding-practice/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Graph
 |  |
