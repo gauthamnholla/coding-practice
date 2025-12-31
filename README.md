@@ -2160,6 +2160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/gauthamnholla/coding-practice/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/gauthamnholla/coding-practice/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0470-implement-rand10-using-rand7](https://github.com/gauthamnholla/coding-practice/tree/master/0470-implement-rand10-using-rand7) |
+| [0478-generate-random-point-in-a-circle](https://github.com/gauthamnholla/coding-practice/tree/master/0478-generate-random-point-in-a-circle) |
 | [0539-minimum-time-difference](https://github.com/gauthamnholla/coding-practice/tree/master/0539-minimum-time-difference) |
 | [0598-range-addition-ii](https://github.com/gauthamnholla/coding-practice/tree/master/0598-range-addition-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/gauthamnholla/coding-practice/tree/master/0628-maximum-product-of-three-numbers) |
@@ -3500,6 +3501,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/gauthamnholla/coding-practice/tree/master/0149-max-points-on-a-line) |
+| [0478-generate-random-point-in-a-circle](https://github.com/gauthamnholla/coding-practice/tree/master/0478-generate-random-point-in-a-circle) |
 | [0830-largest-triangle-area](https://github.com/gauthamnholla/coding-practice/tree/master/0830-largest-triangle-area) |
 | [0919-projection-area-of-3d-shapes](https://github.com/gauthamnholla/coding-practice/tree/master/0919-projection-area-of-3d-shapes) |
 | [0928-surface-area-of-3d-shapes](https://github.com/gauthamnholla/coding-practice/tree/master/0928-surface-area-of-3d-shapes) |
@@ -4036,6 +4038,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0382-linked-list-random-node](https://github.com/gauthamnholla/coding-practice/tree/master/0382-linked-list-random-node) |
 | [0470-implement-rand10-using-rand7](https://github.com/gauthamnholla/coding-practice/tree/master/0470-implement-rand10-using-rand7) |
+| [0478-generate-random-point-in-a-circle](https://github.com/gauthamnholla/coding-practice/tree/master/0478-generate-random-point-in-a-circle) |
 | [0894-random-pick-with-blacklist](https://github.com/gauthamnholla/coding-practice/tree/master/0894-random-pick-with-blacklist) |
 ## Binary Search Tree
 |  |
@@ -4188,6 +4191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0470-implement-rand10-using-rand7](https://github.com/gauthamnholla/coding-practice/tree/master/0470-implement-rand10-using-rand7) |
+| [0478-generate-random-point-in-a-circle](https://github.com/gauthamnholla/coding-practice/tree/master/0478-generate-random-point-in-a-circle) |
 ## Quickselect
 |  |
 | ------- |
