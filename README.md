@@ -2156,6 +2156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/gauthamnholla/coding-practice/tree/master/0013-roman-to-integer) |
 | [0043-multiply-strings](https://github.com/gauthamnholla/coding-practice/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/gauthamnholla/coding-practice/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/gauthamnholla/coding-practice/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/gauthamnholla/coding-practice/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/gauthamnholla/coding-practice/tree/master/0066-plus-one) |
 | [0089-gray-code](https://github.com/gauthamnholla/coding-practice/tree/master/0089-gray-code) |
@@ -3287,6 +3288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0024-swap-nodes-in-pairs](https://github.com/gauthamnholla/coding-practice/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/gauthamnholla/coding-practice/tree/master/0025-reverse-nodes-in-k-group) |
 | [0044-wildcard-matching](https://github.com/gauthamnholla/coding-practice/tree/master/0044-wildcard-matching) |
+| [0050-powx-n](https://github.com/gauthamnholla/coding-practice/tree/master/0050-powx-n) |
 | [0143-reorder-list](https://github.com/gauthamnholla/coding-practice/tree/master/0143-reorder-list) |
 | [0203-remove-linked-list-elements](https://github.com/gauthamnholla/coding-practice/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/gauthamnholla/coding-practice/tree/master/0206-reverse-linked-list) |
