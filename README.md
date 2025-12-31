@@ -2281,6 +2281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/gauthamnholla/coding-practice/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3536-maximum-product-of-two-digits](https://github.com/gauthamnholla/coding-practice/tree/master/3536-maximum-product-of-two-digits) |
 | [3556-sum-of-largest-prime-substrings](https://github.com/gauthamnholla/coding-practice/tree/master/3556-sum-of-largest-prime-substrings) |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/gauthamnholla/coding-practice/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/gauthamnholla/coding-practice/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/gauthamnholla/coding-practice/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/gauthamnholla/coding-practice/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -2710,6 +2711,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3425-longest-special-path](https://github.com/gauthamnholla/coding-practice/tree/master/3425-longest-special-path) |
 | [3486-longest-special-path-ii](https://github.com/gauthamnholla/coding-practice/tree/master/3486-longest-special-path-ii) |
 | [3553-minimum-weighted-subgraph-with-the-required-paths-ii](https://github.com/gauthamnholla/coding-practice/tree/master/3553-minimum-weighted-subgraph-with-the-required-paths-ii) |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/gauthamnholla/coding-practice/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/gauthamnholla/coding-practice/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/gauthamnholla/coding-practice/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 | [3575-maximum-good-subtree-score](https://github.com/gauthamnholla/coding-practice/tree/master/3575-maximum-good-subtree-score) |
@@ -3002,6 +3004,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3425-longest-special-path](https://github.com/gauthamnholla/coding-practice/tree/master/3425-longest-special-path) |
 | [3486-longest-special-path-ii](https://github.com/gauthamnholla/coding-practice/tree/master/3486-longest-special-path-ii) |
 | [3553-minimum-weighted-subgraph-with-the-required-paths-ii](https://github.com/gauthamnholla/coding-practice/tree/master/3553-minimum-weighted-subgraph-with-the-required-paths-ii) |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/gauthamnholla/coding-practice/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/gauthamnholla/coding-practice/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/gauthamnholla/coding-practice/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 | [3575-maximum-good-subtree-score](https://github.com/gauthamnholla/coding-practice/tree/master/3575-maximum-good-subtree-score) |
