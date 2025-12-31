@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/gauthamnholla/coding-practice/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/gauthamnholla/coding-practice/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/gauthamnholla/coding-practice/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/gauthamnholla/coding-practice/tree/master/0055-jump-game) |
 | [0059-spiral-matrix-ii](https://github.com/gauthamnholla/coding-practice/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/gauthamnholla/coding-practice/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/gauthamnholla/coding-practice/tree/master/0064-minimum-path-sum) |
@@ -715,6 +716,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/gauthamnholla/coding-practice/tree/master/0011-container-with-most-water) |
 | [0044-wildcard-matching](https://github.com/gauthamnholla/coding-practice/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/gauthamnholla/coding-practice/tree/master/0045-jump-game-ii) |
+| [0055-jump-game](https://github.com/gauthamnholla/coding-practice/tree/master/0055-jump-game) |
 | [0135-candy](https://github.com/gauthamnholla/coding-practice/tree/master/0135-candy) |
 | [0179-largest-number](https://github.com/gauthamnholla/coding-practice/tree/master/0179-largest-number) |
 | [0321-create-maximum-number](https://github.com/gauthamnholla/coding-practice/tree/master/0321-create-maximum-number) |
@@ -1850,6 +1852,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/gauthamnholla/coding-practice/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/gauthamnholla/coding-practice/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/gauthamnholla/coding-practice/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/gauthamnholla/coding-practice/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/gauthamnholla/coding-practice/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/gauthamnholla/coding-practice/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/gauthamnholla/coding-practice/tree/master/0064-minimum-path-sum) |
