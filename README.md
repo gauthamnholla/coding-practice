@@ -2169,6 +2169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/gauthamnholla/coding-practice/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/gauthamnholla/coding-practice/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/gauthamnholla/coding-practice/tree/master/0067-add-binary) |
+| [0069-sqrtx](https://github.com/gauthamnholla/coding-practice/tree/master/0069-sqrtx) |
 | [0089-gray-code](https://github.com/gauthamnholla/coding-practice/tree/master/0089-gray-code) |
 | [0096-unique-binary-search-trees](https://github.com/gauthamnholla/coding-practice/tree/master/0096-unique-binary-search-trees) |
 | [0149-max-points-on-a-line](https://github.com/gauthamnholla/coding-practice/tree/master/0149-max-points-on-a-line) |
@@ -3179,6 +3180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/gauthamnholla/coding-practice/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/gauthamnholla/coding-practice/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/gauthamnholla/coding-practice/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/gauthamnholla/coding-practice/tree/master/0069-sqrtx) |
 | [0240-search-a-2d-matrix-ii](https://github.com/gauthamnholla/coding-practice/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/gauthamnholla/coding-practice/tree/master/0268-missing-number) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/gauthamnholla/coding-practice/tree/master/0315-count-of-smaller-numbers-after-self) |
