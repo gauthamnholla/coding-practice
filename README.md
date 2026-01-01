@@ -1801,6 +1801,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/gauthamnholla/coding-practice/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/gauthamnholla/coding-practice/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/gauthamnholla/coding-practice/tree/master/0059-spiral-matrix-ii) |
+| [0067-add-binary](https://github.com/gauthamnholla/coding-practice/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/gauthamnholla/coding-practice/tree/master/0258-add-digits) |
 | [0289-game-of-life](https://github.com/gauthamnholla/coding-practice/tree/master/0289-game-of-life) |
 | [0412-fizz-buzz](https://github.com/gauthamnholla/coding-practice/tree/master/0412-fizz-buzz) |
@@ -2167,6 +2168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0060-permutation-sequence](https://github.com/gauthamnholla/coding-practice/tree/master/0060-permutation-sequence) |
 | [0062-unique-paths](https://github.com/gauthamnholla/coding-practice/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/gauthamnholla/coding-practice/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/gauthamnholla/coding-practice/tree/master/0067-add-binary) |
 | [0089-gray-code](https://github.com/gauthamnholla/coding-practice/tree/master/0089-gray-code) |
 | [0096-unique-binary-search-trees](https://github.com/gauthamnholla/coding-practice/tree/master/0096-unique-binary-search-trees) |
 | [0149-max-points-on-a-line](https://github.com/gauthamnholla/coding-practice/tree/master/0149-max-points-on-a-line) |
@@ -2344,6 +2346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/gauthamnholla/coding-practice/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/gauthamnholla/coding-practice/tree/master/0058-length-of-last-word) |
 | [0065-valid-number](https://github.com/gauthamnholla/coding-practice/tree/master/0065-valid-number) |
+| [0067-add-binary](https://github.com/gauthamnholla/coding-practice/tree/master/0067-add-binary) |
 | [0076-minimum-window-substring](https://github.com/gauthamnholla/coding-practice/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/gauthamnholla/coding-practice/tree/master/0079-word-search) |
 | [0087-scramble-string](https://github.com/gauthamnholla/coding-practice/tree/master/0087-scramble-string) |
@@ -2833,6 +2836,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/gauthamnholla/coding-practice/tree/master/0029-divide-two-integers) |
+| [0067-add-binary](https://github.com/gauthamnholla/coding-practice/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/gauthamnholla/coding-practice/tree/master/0078-subsets) |
 | [0089-gray-code](https://github.com/gauthamnholla/coding-practice/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/gauthamnholla/coding-practice/tree/master/0090-subsets-ii) |
