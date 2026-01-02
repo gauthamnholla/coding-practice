@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0140-word-break-ii](https://github.com/gauthamnholla/coding-practice/tree/master/0140-word-break-ii) |
 | [0149-max-points-on-a-line](https://github.com/gauthamnholla/coding-practice/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/gauthamnholla/coding-practice/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0152-maximum-product-subarray](https://github.com/gauthamnholla/coding-practice/tree/master/0152-maximum-product-subarray) |
 | [0164-maximum-gap](https://github.com/gauthamnholla/coding-practice/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/gauthamnholla/coding-practice/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/gauthamnholla/coding-practice/tree/master/0179-largest-number) |
@@ -1886,6 +1887,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/gauthamnholla/coding-practice/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/gauthamnholla/coding-practice/tree/master/0132-palindrome-partitioning-ii) |
 | [0140-word-break-ii](https://github.com/gauthamnholla/coding-practice/tree/master/0140-word-break-ii) |
+| [0152-maximum-product-subarray](https://github.com/gauthamnholla/coding-practice/tree/master/0152-maximum-product-subarray) |
 | [0264-ugly-number-ii](https://github.com/gauthamnholla/coding-practice/tree/master/0264-ugly-number-ii) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/gauthamnholla/coding-practice/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0337-house-robber-iii](https://github.com/gauthamnholla/coding-practice/tree/master/0337-house-robber-iii) |
