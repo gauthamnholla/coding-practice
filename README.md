@@ -1721,6 +1721,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/gauthamnholla/coding-practice/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2689-rearranging-fruits](https://github.com/gauthamnholla/coding-practice/tree/master/2689-rearranging-fruits) |
 | [2713-maximum-strictly-increasing-cells-in-a-matrix](https://github.com/gauthamnholla/coding-practice/tree/master/2713-maximum-strictly-increasing-cells-in-a-matrix) |
+| [2729-check-if-the-number-is-fascinating](https://github.com/gauthamnholla/coding-practice/tree/master/2729-check-if-the-number-is-fascinating) |
 | [2780-minimum-index-of-a-valid-split](https://github.com/gauthamnholla/coding-practice/tree/master/2780-minimum-index-of-a-valid-split) |
 | [2784-check-if-array-is-good](https://github.com/gauthamnholla/coding-practice/tree/master/2784-check-if-array-is-good) |
 | [2813-maximum-elegance-of-a-k-length-subsequence](https://github.com/gauthamnholla/coding-practice/tree/master/2813-maximum-elegance-of-a-k-length-subsequence) |
@@ -2313,6 +2314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/gauthamnholla/coding-practice/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2681-power-of-heroes](https://github.com/gauthamnholla/coding-practice/tree/master/2681-power-of-heroes) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/gauthamnholla/coding-practice/tree/master/2704-maximum-difference-by-remapping-a-digit) |
+| [2729-check-if-the-number-is-fascinating](https://github.com/gauthamnholla/coding-practice/tree/master/2729-check-if-the-number-is-fascinating) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/gauthamnholla/coding-practice/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [2790-maximum-number-of-groups-with-increasing-length](https://github.com/gauthamnholla/coding-practice/tree/master/2790-maximum-number-of-groups-with-increasing-length) |
 | [2818-apply-operations-to-maximize-score](https://github.com/gauthamnholla/coding-practice/tree/master/2818-apply-operations-to-maximize-score) |
