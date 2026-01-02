@@ -604,6 +604,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3143-maximum-points-inside-the-square](https://github.com/gauthamnholla/coding-practice/tree/master/3143-maximum-points-inside-the-square) |
 | [3159-find-occurrences-of-an-element-in-an-array](https://github.com/gauthamnholla/coding-practice/tree/master/3159-find-occurrences-of-an-element-in-an-array) |
 | [3169-count-days-without-meetings](https://github.com/gauthamnholla/coding-practice/tree/master/3169-count-days-without-meetings) |
+| [3179-find-the-n-th-value-after-k-seconds](https://github.com/gauthamnholla/coding-practice/tree/master/3179-find-the-n-th-value-after-k-seconds) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/gauthamnholla/coding-practice/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3218-minimum-cost-for-cutting-cake-i](https://github.com/gauthamnholla/coding-practice/tree/master/3218-minimum-cost-for-cutting-cake-i) |
 | [3219-minimum-cost-for-cutting-cake-ii](https://github.com/gauthamnholla/coding-practice/tree/master/3219-minimum-cost-for-cutting-cake-ii) |
@@ -1855,6 +1856,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2751-robot-collisions](https://github.com/gauthamnholla/coding-practice/tree/master/2751-robot-collisions) |
 | [2974-minimum-number-game](https://github.com/gauthamnholla/coding-practice/tree/master/2974-minimum-number-game) |
 | [3080-mark-elements-on-array-by-performing-queries](https://github.com/gauthamnholla/coding-practice/tree/master/3080-mark-elements-on-array-by-performing-queries) |
+| [3179-find-the-n-th-value-after-k-seconds](https://github.com/gauthamnholla/coding-practice/tree/master/3179-find-the-n-th-value-after-k-seconds) |
 | [3336-water-bottles-ii](https://github.com/gauthamnholla/coding-practice/tree/master/3336-water-bottles-ii) |
 | [3433-count-mentions-per-user](https://github.com/gauthamnholla/coding-practice/tree/master/3433-count-mentions-per-user) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/gauthamnholla/coding-practice/tree/master/3600-find-the-k-th-character-in-string-game-i) |
@@ -2323,6 +2325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2967-minimum-cost-to-make-array-equalindromic](https://github.com/gauthamnholla/coding-practice/tree/master/2967-minimum-cost-to-make-array-equalindromic) |
 | [3024-type-of-triangle](https://github.com/gauthamnholla/coding-practice/tree/master/3024-type-of-triangle) |
 | [3102-minimize-manhattan-distances](https://github.com/gauthamnholla/coding-practice/tree/master/3102-minimize-manhattan-distances) |
+| [3179-find-the-n-th-value-after-k-seconds](https://github.com/gauthamnholla/coding-practice/tree/master/3179-find-the-n-th-value-after-k-seconds) |
 | [3201-distribute-candies-among-children-ii](https://github.com/gauthamnholla/coding-practice/tree/master/3201-distribute-candies-among-children-ii) |
 | [3235-check-if-the-rectangle-corner-is-reachable](https://github.com/gauthamnholla/coding-practice/tree/master/3235-check-if-the-rectangle-corner-is-reachable) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/gauthamnholla/coding-practice/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
@@ -3160,6 +3163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2731-movement-of-robots](https://github.com/gauthamnholla/coding-practice/tree/master/2731-movement-of-robots) |
 | [2968-apply-operations-to-maximize-frequency-score](https://github.com/gauthamnholla/coding-practice/tree/master/2968-apply-operations-to-maximize-frequency-score) |
 | [2971-find-polygon-with-the-largest-perimeter](https://github.com/gauthamnholla/coding-practice/tree/master/2971-find-polygon-with-the-largest-perimeter) |
+| [3179-find-the-n-th-value-after-k-seconds](https://github.com/gauthamnholla/coding-practice/tree/master/3179-find-the-n-th-value-after-k-seconds) |
 | [3362-zero-array-transformation-iii](https://github.com/gauthamnholla/coding-practice/tree/master/3362-zero-array-transformation-iii) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/gauthamnholla/coding-practice/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/gauthamnholla/coding-practice/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
@@ -3715,6 +3719,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1916-count-ways-to-build-rooms-in-an-ant-colony](https://github.com/gauthamnholla/coding-practice/tree/master/1916-count-ways-to-build-rooms-in-an-ant-colony) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/gauthamnholla/coding-practice/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/gauthamnholla/coding-practice/tree/master/2597-the-number-of-beautiful-subsets) |
+| [3179-find-the-n-th-value-after-k-seconds](https://github.com/gauthamnholla/coding-practice/tree/master/3179-find-the-n-th-value-after-k-seconds) |
 | [3201-distribute-candies-among-children-ii](https://github.com/gauthamnholla/coding-practice/tree/master/3201-distribute-candies-among-children-ii) |
 | [3426-manhattan-distances-of-all-arrangements-of-pieces](https://github.com/gauthamnholla/coding-practice/tree/master/3426-manhattan-distances-of-all-arrangements-of-pieces) |
 | [3428-maximum-and-minimum-sums-of-at-most-size-k-subsequences](https://github.com/gauthamnholla/coding-practice/tree/master/3428-maximum-and-minimum-sums-of-at-most-size-k-subsequences) |
