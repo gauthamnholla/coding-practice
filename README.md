@@ -2202,6 +2202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/gauthamnholla/coding-practice/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0166-fraction-to-recurring-decimal](https://github.com/gauthamnholla/coding-practice/tree/master/0166-fraction-to-recurring-decimal) |
 | [0171-excel-sheet-column-number](https://github.com/gauthamnholla/coding-practice/tree/master/0171-excel-sheet-column-number) |
+| [0172-factorial-trailing-zeroes](https://github.com/gauthamnholla/coding-practice/tree/master/0172-factorial-trailing-zeroes) |
 | [0202-happy-number](https://github.com/gauthamnholla/coding-practice/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/gauthamnholla/coding-practice/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/gauthamnholla/coding-practice/tree/master/0258-add-digits) |
