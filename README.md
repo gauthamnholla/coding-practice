@@ -903,6 +903,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/gauthamnholla/coding-practice/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/gauthamnholla/coding-practice/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/gauthamnholla/coding-practice/tree/master/3545-minimum-deletions-for-at-most-k-distinct-characters) |
+| [3547-maximum-sum-of-edge-values-in-a-graph](https://github.com/gauthamnholla/coding-practice/tree/master/3547-maximum-sum-of-edge-values-in-a-graph) |
 | [3572-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues](https://github.com/gauthamnholla/coding-practice/tree/master/3572-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/gauthamnholla/coding-practice/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/gauthamnholla/coding-practice/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
@@ -2337,6 +2338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3462-vowels-game-in-a-string](https://github.com/gauthamnholla/coding-practice/tree/master/3462-vowels-game-in-a-string) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/gauthamnholla/coding-practice/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3536-maximum-product-of-two-digits](https://github.com/gauthamnholla/coding-practice/tree/master/3536-maximum-product-of-two-digits) |
+| [3547-maximum-sum-of-edge-values-in-a-graph](https://github.com/gauthamnholla/coding-practice/tree/master/3547-maximum-sum-of-edge-values-in-a-graph) |
 | [3556-sum-of-largest-prime-substrings](https://github.com/gauthamnholla/coding-practice/tree/master/3556-sum-of-largest-prime-substrings) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/gauthamnholla/coding-practice/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/gauthamnholla/coding-practice/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
@@ -4034,6 +4036,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3528-unit-conversion-i](https://github.com/gauthamnholla/coding-practice/tree/master/3528-unit-conversion-i) |
 | [3530-maximum-profit-from-valid-topological-order-in-dag](https://github.com/gauthamnholla/coding-practice/tree/master/3530-maximum-profit-from-valid-topological-order-in-dag) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/gauthamnholla/coding-practice/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [3547-maximum-sum-of-edge-values-in-a-graph](https://github.com/gauthamnholla/coding-practice/tree/master/3547-maximum-sum-of-edge-values-in-a-graph) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/gauthamnholla/coding-practice/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3608-minimum-time-for-k-connected-components](https://github.com/gauthamnholla/coding-practice/tree/master/3608-minimum-time-for-k-connected-components) |
 | [3613-minimize-maximum-component-cost](https://github.com/gauthamnholla/coding-practice/tree/master/3613-minimize-maximum-component-cost) |
