@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0174-dungeon-game](https://github.com/gauthamnholla/coding-practice/tree/master/0174-dungeon-game) |
 | [0179-largest-number](https://github.com/gauthamnholla/coding-practice/tree/master/0179-largest-number) |
 | [0200-number-of-islands](https://github.com/gauthamnholla/coding-practice/tree/master/0200-number-of-islands) |
+| [0212-word-search-ii](https://github.com/gauthamnholla/coding-practice/tree/master/0212-word-search-ii) |
 | [0216-combination-sum-iii](https://github.com/gauthamnholla/coding-practice/tree/master/0216-combination-sum-iii) |
 | [0218-the-skyline-problem](https://github.com/gauthamnholla/coding-practice/tree/master/0218-the-skyline-problem) |
 | [0219-contains-duplicate-ii](https://github.com/gauthamnholla/coding-practice/tree/master/0219-contains-duplicate-ii) |
@@ -2421,6 +2422,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/gauthamnholla/coding-practice/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/gauthamnholla/coding-practice/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/gauthamnholla/coding-practice/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0212-word-search-ii](https://github.com/gauthamnholla/coding-practice/tree/master/0212-word-search-ii) |
 | [0242-valid-anagram](https://github.com/gauthamnholla/coding-practice/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/gauthamnholla/coding-practice/tree/master/0257-binary-tree-paths) |
 | [0290-word-pattern](https://github.com/gauthamnholla/coding-practice/tree/master/0290-word-pattern) |
@@ -2823,6 +2825,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0140-word-break-ii](https://github.com/gauthamnholla/coding-practice/tree/master/0140-word-break-ii) |
 | [0208-implement-trie-prefix-tree](https://github.com/gauthamnholla/coding-practice/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/gauthamnholla/coding-practice/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0212-word-search-ii](https://github.com/gauthamnholla/coding-practice/tree/master/0212-word-search-ii) |
 | [0336-palindrome-pairs](https://github.com/gauthamnholla/coding-practice/tree/master/0336-palindrome-pairs) |
 | [0386-lexicographical-numbers](https://github.com/gauthamnholla/coding-practice/tree/master/0386-lexicographical-numbers) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/gauthamnholla/coding-practice/tree/master/0440-k-th-smallest-in-lexicographical-order) |
@@ -3220,6 +3223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0126-word-ladder-ii](https://github.com/gauthamnholla/coding-practice/tree/master/0126-word-ladder-ii) |
 | [0131-palindrome-partitioning](https://github.com/gauthamnholla/coding-practice/tree/master/0131-palindrome-partitioning) |
 | [0140-word-break-ii](https://github.com/gauthamnholla/coding-practice/tree/master/0140-word-break-ii) |
+| [0212-word-search-ii](https://github.com/gauthamnholla/coding-practice/tree/master/0212-word-search-ii) |
 | [0216-combination-sum-iii](https://github.com/gauthamnholla/coding-practice/tree/master/0216-combination-sum-iii) |
 | [0257-binary-tree-paths](https://github.com/gauthamnholla/coding-practice/tree/master/0257-binary-tree-paths) |
 | [0306-additive-number](https://github.com/gauthamnholla/coding-practice/tree/master/0306-additive-number) |
@@ -3442,6 +3446,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/gauthamnholla/coding-practice/tree/master/0085-maximal-rectangle) |
 | [0174-dungeon-game](https://github.com/gauthamnholla/coding-practice/tree/master/0174-dungeon-game) |
 | [0200-number-of-islands](https://github.com/gauthamnholla/coding-practice/tree/master/0200-number-of-islands) |
+| [0212-word-search-ii](https://github.com/gauthamnholla/coding-practice/tree/master/0212-word-search-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/gauthamnholla/coding-practice/tree/master/0240-search-a-2d-matrix-ii) |
 | [0289-game-of-life](https://github.com/gauthamnholla/coding-practice/tree/master/0289-game-of-life) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/gauthamnholla/coding-practice/tree/master/0329-longest-increasing-path-in-a-matrix) |
