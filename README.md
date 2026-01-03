@@ -1795,6 +1795,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0173-binary-search-tree-iterator](https://github.com/gauthamnholla/coding-practice/tree/master/0173-binary-search-tree-iterator) |
 | [0208-implement-trie-prefix-tree](https://github.com/gauthamnholla/coding-practice/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/gauthamnholla/coding-practice/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0225-implement-stack-using-queues](https://github.com/gauthamnholla/coding-practice/tree/master/0225-implement-stack-using-queues) |
 | [0295-find-median-from-data-stream](https://github.com/gauthamnholla/coding-practice/tree/master/0295-find-median-from-data-stream) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/gauthamnholla/coding-practice/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0303-range-sum-query-immutable](https://github.com/gauthamnholla/coding-practice/tree/master/0303-range-sum-query-immutable) |
@@ -2858,6 +2859,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/gauthamnholla/coding-practice/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/gauthamnholla/coding-practice/tree/master/0173-binary-search-tree-iterator) |
 | [0224-basic-calculator](https://github.com/gauthamnholla/coding-practice/tree/master/0224-basic-calculator) |
+| [0225-implement-stack-using-queues](https://github.com/gauthamnholla/coding-practice/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/gauthamnholla/coding-practice/tree/master/0234-palindrome-linked-list) |
 | [0321-create-maximum-number](https://github.com/gauthamnholla/coding-practice/tree/master/0321-create-maximum-number) |
 | [0341-flatten-nested-list-iterator](https://github.com/gauthamnholla/coding-practice/tree/master/0341-flatten-nested-list-iterator) |
@@ -3701,6 +3703,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/gauthamnholla/coding-practice/tree/master/0225-implement-stack-using-queues) |
 | [0239-sliding-window-maximum](https://github.com/gauthamnholla/coding-practice/tree/master/0239-sliding-window-maximum) |
 | [0341-flatten-nested-list-iterator](https://github.com/gauthamnholla/coding-practice/tree/master/0341-flatten-nested-list-iterator) |
 | [0387-first-unique-character-in-a-string](https://github.com/gauthamnholla/coding-practice/tree/master/0387-first-unique-character-in-a-string) |
