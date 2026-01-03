@@ -1911,6 +1911,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/gauthamnholla/coding-practice/tree/master/0152-maximum-product-subarray) |
 | [0174-dungeon-game](https://github.com/gauthamnholla/coding-practice/tree/master/0174-dungeon-game) |
 | [0221-maximal-square](https://github.com/gauthamnholla/coding-practice/tree/master/0221-maximal-square) |
+| [0233-number-of-digit-one](https://github.com/gauthamnholla/coding-practice/tree/master/0233-number-of-digit-one) |
 | [0264-ugly-number-ii](https://github.com/gauthamnholla/coding-practice/tree/master/0264-ugly-number-ii) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/gauthamnholla/coding-practice/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0337-house-robber-iii](https://github.com/gauthamnholla/coding-practice/tree/master/0337-house-robber-iii) |
@@ -2228,6 +2229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/gauthamnholla/coding-practice/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/gauthamnholla/coding-practice/tree/master/0227-basic-calculator-ii) |
 | [0231-power-of-two](https://github.com/gauthamnholla/coding-practice/tree/master/0231-power-of-two) |
+| [0233-number-of-digit-one](https://github.com/gauthamnholla/coding-practice/tree/master/0233-number-of-digit-one) |
 | [0258-add-digits](https://github.com/gauthamnholla/coding-practice/tree/master/0258-add-digits) |
 | [0264-ugly-number-ii](https://github.com/gauthamnholla/coding-practice/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/gauthamnholla/coding-practice/tree/master/0268-missing-number) |
@@ -3409,6 +3411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/gauthamnholla/coding-practice/tree/master/0206-reverse-linked-list) |
 | [0224-basic-calculator](https://github.com/gauthamnholla/coding-practice/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/gauthamnholla/coding-practice/tree/master/0231-power-of-two) |
+| [0233-number-of-digit-one](https://github.com/gauthamnholla/coding-practice/tree/master/0233-number-of-digit-one) |
 | [0234-palindrome-linked-list](https://github.com/gauthamnholla/coding-practice/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/gauthamnholla/coding-practice/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/gauthamnholla/coding-practice/tree/master/0342-power-of-four) |
