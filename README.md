@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0274-h-index](https://github.com/gauthamnholla/coding-practice/tree/master/0274-h-index) |
 | [0275-h-index-ii](https://github.com/gauthamnholla/coding-practice/tree/master/0275-h-index-ii) |
 | [0283-move-zeroes](https://github.com/gauthamnholla/coding-practice/tree/master/0283-move-zeroes) |
+| [0284-peeking-iterator](https://github.com/gauthamnholla/coding-practice/tree/master/0284-peeking-iterator) |
 | [0289-game-of-life](https://github.com/gauthamnholla/coding-practice/tree/master/0289-game-of-life) |
 | [0303-range-sum-query-immutable](https://github.com/gauthamnholla/coding-practice/tree/master/0303-range-sum-query-immutable) |
 | [0307-range-sum-query-mutable](https://github.com/gauthamnholla/coding-practice/tree/master/0307-range-sum-query-mutable) |
@@ -1797,6 +1798,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/gauthamnholla/coding-practice/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/gauthamnholla/coding-practice/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0225-implement-stack-using-queues](https://github.com/gauthamnholla/coding-practice/tree/master/0225-implement-stack-using-queues) |
+| [0284-peeking-iterator](https://github.com/gauthamnholla/coding-practice/tree/master/0284-peeking-iterator) |
 | [0295-find-median-from-data-stream](https://github.com/gauthamnholla/coding-practice/tree/master/0295-find-median-from-data-stream) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/gauthamnholla/coding-practice/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0303-range-sum-query-immutable](https://github.com/gauthamnholla/coding-practice/tree/master/0303-range-sum-query-immutable) |
@@ -4412,6 +4414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/gauthamnholla/coding-practice/tree/master/0173-binary-search-tree-iterator) |
+| [0284-peeking-iterator](https://github.com/gauthamnholla/coding-practice/tree/master/0284-peeking-iterator) |
 | [0341-flatten-nested-list-iterator](https://github.com/gauthamnholla/coding-practice/tree/master/0341-flatten-nested-list-iterator) |
 ## Rejection Sampling
 |  |
