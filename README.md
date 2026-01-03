@@ -2453,6 +2453,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/gauthamnholla/coding-practice/tree/master/0290-word-pattern) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/gauthamnholla/coding-practice/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0299-bulls-and-cows](https://github.com/gauthamnholla/coding-practice/tree/master/0299-bulls-and-cows) |
+| [0301-remove-invalid-parentheses](https://github.com/gauthamnholla/coding-practice/tree/master/0301-remove-invalid-parentheses) |
 | [0306-additive-number](https://github.com/gauthamnholla/coding-practice/tree/master/0306-additive-number) |
 | [0336-palindrome-pairs](https://github.com/gauthamnholla/coding-practice/tree/master/0336-palindrome-pairs) |
 | [0383-ransom-note](https://github.com/gauthamnholla/coding-practice/tree/master/0383-ransom-note) |
@@ -3257,6 +3258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0212-word-search-ii](https://github.com/gauthamnholla/coding-practice/tree/master/0212-word-search-ii) |
 | [0216-combination-sum-iii](https://github.com/gauthamnholla/coding-practice/tree/master/0216-combination-sum-iii) |
 | [0257-binary-tree-paths](https://github.com/gauthamnholla/coding-practice/tree/master/0257-binary-tree-paths) |
+| [0301-remove-invalid-parentheses](https://github.com/gauthamnholla/coding-practice/tree/master/0301-remove-invalid-parentheses) |
 | [0306-additive-number](https://github.com/gauthamnholla/coding-practice/tree/master/0306-additive-number) |
 | [0357-count-numbers-with-unique-digits](https://github.com/gauthamnholla/coding-practice/tree/master/0357-count-numbers-with-unique-digits) |
 | [0401-binary-watch](https://github.com/gauthamnholla/coding-practice/tree/master/0401-binary-watch) |
@@ -3811,6 +3813,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/gauthamnholla/coding-practice/tree/master/0226-invert-binary-tree) |
 | [0279-perfect-squares](https://github.com/gauthamnholla/coding-practice/tree/master/0279-perfect-squares) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/gauthamnholla/coding-practice/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0301-remove-invalid-parentheses](https://github.com/gauthamnholla/coding-practice/tree/master/0301-remove-invalid-parentheses) |
 | [0310-minimum-height-trees](https://github.com/gauthamnholla/coding-practice/tree/master/0310-minimum-height-trees) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/gauthamnholla/coding-practice/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0365-water-and-jug-problem](https://github.com/gauthamnholla/coding-practice/tree/master/0365-water-and-jug-problem) |
