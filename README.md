@@ -2224,6 +2224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0172-factorial-trailing-zeroes](https://github.com/gauthamnholla/coding-practice/tree/master/0172-factorial-trailing-zeroes) |
 | [0202-happy-number](https://github.com/gauthamnholla/coding-practice/tree/master/0202-happy-number) |
 | [0223-rectangle-area](https://github.com/gauthamnholla/coding-practice/tree/master/0223-rectangle-area) |
+| [0224-basic-calculator](https://github.com/gauthamnholla/coding-practice/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/gauthamnholla/coding-practice/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/gauthamnholla/coding-practice/tree/master/0258-add-digits) |
 | [0264-ugly-number-ii](https://github.com/gauthamnholla/coding-practice/tree/master/0264-ugly-number-ii) |
@@ -2426,6 +2427,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/gauthamnholla/coding-practice/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/gauthamnholla/coding-practice/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0212-word-search-ii](https://github.com/gauthamnholla/coding-practice/tree/master/0212-word-search-ii) |
+| [0224-basic-calculator](https://github.com/gauthamnholla/coding-practice/tree/master/0224-basic-calculator) |
 | [0242-valid-anagram](https://github.com/gauthamnholla/coding-practice/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/gauthamnholla/coding-practice/tree/master/0257-binary-tree-paths) |
 | [0290-word-pattern](https://github.com/gauthamnholla/coding-practice/tree/master/0290-word-pattern) |
@@ -2855,6 +2857,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/gauthamnholla/coding-practice/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/gauthamnholla/coding-practice/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/gauthamnholla/coding-practice/tree/master/0173-binary-search-tree-iterator) |
+| [0224-basic-calculator](https://github.com/gauthamnholla/coding-practice/tree/master/0224-basic-calculator) |
 | [0234-palindrome-linked-list](https://github.com/gauthamnholla/coding-practice/tree/master/0234-palindrome-linked-list) |
 | [0321-create-maximum-number](https://github.com/gauthamnholla/coding-practice/tree/master/0321-create-maximum-number) |
 | [0341-flatten-nested-list-iterator](https://github.com/gauthamnholla/coding-practice/tree/master/0341-flatten-nested-list-iterator) |
@@ -3399,6 +3402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/gauthamnholla/coding-practice/tree/master/0143-reorder-list) |
 | [0203-remove-linked-list-elements](https://github.com/gauthamnholla/coding-practice/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/gauthamnholla/coding-practice/tree/master/0206-reverse-linked-list) |
+| [0224-basic-calculator](https://github.com/gauthamnholla/coding-practice/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/gauthamnholla/coding-practice/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/gauthamnholla/coding-practice/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/gauthamnholla/coding-practice/tree/master/0326-power-of-three) |
