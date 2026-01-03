@@ -2226,6 +2226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/gauthamnholla/coding-practice/tree/master/0202-happy-number) |
 | [0223-rectangle-area](https://github.com/gauthamnholla/coding-practice/tree/master/0223-rectangle-area) |
 | [0224-basic-calculator](https://github.com/gauthamnholla/coding-practice/tree/master/0224-basic-calculator) |
+| [0227-basic-calculator-ii](https://github.com/gauthamnholla/coding-practice/tree/master/0227-basic-calculator-ii) |
 | [0231-power-of-two](https://github.com/gauthamnholla/coding-practice/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/gauthamnholla/coding-practice/tree/master/0258-add-digits) |
 | [0264-ugly-number-ii](https://github.com/gauthamnholla/coding-practice/tree/master/0264-ugly-number-ii) |
@@ -2429,6 +2430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0211-design-add-and-search-words-data-structure](https://github.com/gauthamnholla/coding-practice/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0212-word-search-ii](https://github.com/gauthamnholla/coding-practice/tree/master/0212-word-search-ii) |
 | [0224-basic-calculator](https://github.com/gauthamnholla/coding-practice/tree/master/0224-basic-calculator) |
+| [0227-basic-calculator-ii](https://github.com/gauthamnholla/coding-practice/tree/master/0227-basic-calculator-ii) |
 | [0242-valid-anagram](https://github.com/gauthamnholla/coding-practice/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/gauthamnholla/coding-practice/tree/master/0257-binary-tree-paths) |
 | [0290-word-pattern](https://github.com/gauthamnholla/coding-practice/tree/master/0290-word-pattern) |
@@ -2860,6 +2862,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0173-binary-search-tree-iterator](https://github.com/gauthamnholla/coding-practice/tree/master/0173-binary-search-tree-iterator) |
 | [0224-basic-calculator](https://github.com/gauthamnholla/coding-practice/tree/master/0224-basic-calculator) |
 | [0225-implement-stack-using-queues](https://github.com/gauthamnholla/coding-practice/tree/master/0225-implement-stack-using-queues) |
+| [0227-basic-calculator-ii](https://github.com/gauthamnholla/coding-practice/tree/master/0227-basic-calculator-ii) |
 | [0234-palindrome-linked-list](https://github.com/gauthamnholla/coding-practice/tree/master/0234-palindrome-linked-list) |
 | [0321-create-maximum-number](https://github.com/gauthamnholla/coding-practice/tree/master/0321-create-maximum-number) |
 | [0341-flatten-nested-list-iterator](https://github.com/gauthamnholla/coding-practice/tree/master/0341-flatten-nested-list-iterator) |
