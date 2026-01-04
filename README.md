@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/gauthamnholla/coding-practice/tree/master/0229-majority-element-ii) |
 | [0239-sliding-window-maximum](https://github.com/gauthamnholla/coding-practice/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/gauthamnholla/coding-practice/tree/master/0240-search-a-2d-matrix-ii) |
+| [0260-single-number-iii](https://github.com/gauthamnholla/coding-practice/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/gauthamnholla/coding-practice/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/gauthamnholla/coding-practice/tree/master/0274-h-index) |
 | [0275-h-index-ii](https://github.com/gauthamnholla/coding-practice/tree/master/0275-h-index-ii) |
@@ -2959,6 +2960,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0201-bitwise-and-of-numbers-range](https://github.com/gauthamnholla/coding-practice/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0222-count-complete-tree-nodes](https://github.com/gauthamnholla/coding-practice/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/gauthamnholla/coding-practice/tree/master/0231-power-of-two) |
+| [0260-single-number-iii](https://github.com/gauthamnholla/coding-practice/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/gauthamnholla/coding-practice/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/gauthamnholla/coding-practice/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/gauthamnholla/coding-practice/tree/master/0342-power-of-four) |
