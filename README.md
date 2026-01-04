@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/gauthamnholla/coding-practice/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0189-rotate-array](https://github.com/gauthamnholla/coding-practice/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/gauthamnholla/coding-practice/tree/master/0200-number-of-islands) |
+| [0204-count-primes](https://github.com/gauthamnholla/coding-practice/tree/master/0204-count-primes) |
 | [0212-word-search-ii](https://github.com/gauthamnholla/coding-practice/tree/master/0212-word-search-ii) |
 | [0216-combination-sum-iii](https://github.com/gauthamnholla/coding-practice/tree/master/0216-combination-sum-iii) |
 | [0218-the-skyline-problem](https://github.com/gauthamnholla/coding-practice/tree/master/0218-the-skyline-problem) |
@@ -1500,6 +1501,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/gauthamnholla/coding-practice/tree/master/0204-count-primes) |
 | [0900-reordered-power-of-2](https://github.com/gauthamnholla/coding-practice/tree/master/0900-reordered-power-of-2) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/gauthamnholla/coding-practice/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/gauthamnholla/coding-practice/tree/master/1863-sum-of-all-subset-xor-totals) |
@@ -2243,6 +2245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0172-factorial-trailing-zeroes](https://github.com/gauthamnholla/coding-practice/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/gauthamnholla/coding-practice/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/gauthamnholla/coding-practice/tree/master/0202-happy-number) |
+| [0204-count-primes](https://github.com/gauthamnholla/coding-practice/tree/master/0204-count-primes) |
 | [0223-rectangle-area](https://github.com/gauthamnholla/coding-practice/tree/master/0223-rectangle-area) |
 | [0224-basic-calculator](https://github.com/gauthamnholla/coding-practice/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/gauthamnholla/coding-practice/tree/master/0227-basic-calculator-ii) |
@@ -3775,6 +3778,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/gauthamnholla/coding-practice/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/gauthamnholla/coding-practice/tree/master/0258-add-digits) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/gauthamnholla/coding-practice/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [0989-largest-component-size-by-common-factor](https://github.com/gauthamnholla/coding-practice/tree/master/0989-largest-component-size-by-common-factor) |
