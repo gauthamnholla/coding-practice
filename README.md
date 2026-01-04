@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/gauthamnholla/coding-practice/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/gauthamnholla/coding-practice/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/gauthamnholla/coding-practice/tree/master/0204-count-primes) |
+| [0209-minimum-size-subarray-sum](https://github.com/gauthamnholla/coding-practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0212-word-search-ii](https://github.com/gauthamnholla/coding-practice/tree/master/0212-word-search-ii) |
 | [0216-combination-sum-iii](https://github.com/gauthamnholla/coding-practice/tree/master/0216-combination-sum-iii) |
 | [0218-the-skyline-problem](https://github.com/gauthamnholla/coding-practice/tree/master/0218-the-skyline-problem) |
@@ -1465,6 +1466,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0030-substring-with-concatenation-of-all-words](https://github.com/gauthamnholla/coding-practice/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0076-minimum-window-substring](https://github.com/gauthamnholla/coding-practice/tree/master/0076-minimum-window-substring) |
 | [0187-repeated-dna-sequences](https://github.com/gauthamnholla/coding-practice/tree/master/0187-repeated-dna-sequences) |
+| [0209-minimum-size-subarray-sum](https://github.com/gauthamnholla/coding-practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/gauthamnholla/coding-practice/tree/master/0219-contains-duplicate-ii) |
 | [0220-contains-duplicate-iii](https://github.com/gauthamnholla/coding-practice/tree/master/0220-contains-duplicate-iii) |
 | [0239-sliding-window-maximum](https://github.com/gauthamnholla/coding-practice/tree/master/0239-sliding-window-maximum) |
@@ -3192,6 +3194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/gauthamnholla/coding-practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0303-range-sum-query-immutable](https://github.com/gauthamnholla/coding-practice/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/gauthamnholla/coding-practice/tree/master/0304-range-sum-query-2d-immutable) |
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/gauthamnholla/coding-practice/tree/master/0497-random-point-in-non-overlapping-rectangles) |
@@ -3309,6 +3312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/gauthamnholla/coding-practice/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/gauthamnholla/coding-practice/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/gauthamnholla/coding-practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/gauthamnholla/coding-practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/gauthamnholla/coding-practice/tree/master/0222-count-complete-tree-nodes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/gauthamnholla/coding-practice/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/gauthamnholla/coding-practice/tree/master/0268-missing-number) |
