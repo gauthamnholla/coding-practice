@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0307-range-sum-query-mutable](https://github.com/gauthamnholla/coding-practice/tree/master/0307-range-sum-query-mutable) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/gauthamnholla/coding-practice/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0312-burst-balloons](https://github.com/gauthamnholla/coding-practice/tree/master/0312-burst-balloons) |
+| [0313-super-ugly-number](https://github.com/gauthamnholla/coding-practice/tree/master/0313-super-ugly-number) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/gauthamnholla/coding-practice/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0318-maximum-product-of-word-lengths](https://github.com/gauthamnholla/coding-practice/tree/master/0318-maximum-product-of-word-lengths) |
 | [0321-create-maximum-number](https://github.com/gauthamnholla/coding-practice/tree/master/0321-create-maximum-number) |
@@ -1945,6 +1946,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/gauthamnholla/coding-practice/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/gauthamnholla/coding-practice/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0312-burst-balloons](https://github.com/gauthamnholla/coding-practice/tree/master/0312-burst-balloons) |
+| [0313-super-ugly-number](https://github.com/gauthamnholla/coding-practice/tree/master/0313-super-ugly-number) |
 | [0322-coin-change](https://github.com/gauthamnholla/coding-practice/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/gauthamnholla/coding-practice/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0337-house-robber-iii](https://github.com/gauthamnholla/coding-practice/tree/master/0337-house-robber-iii) |
@@ -2280,6 +2282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0279-perfect-squares](https://github.com/gauthamnholla/coding-practice/tree/master/0279-perfect-squares) |
 | [0282-expression-add-operators](https://github.com/gauthamnholla/coding-practice/tree/master/0282-expression-add-operators) |
 | [0292-nim-game](https://github.com/gauthamnholla/coding-practice/tree/master/0292-nim-game) |
+| [0313-super-ugly-number](https://github.com/gauthamnholla/coding-practice/tree/master/0313-super-ugly-number) |
 | [0319-bulb-switcher](https://github.com/gauthamnholla/coding-practice/tree/master/0319-bulb-switcher) |
 | [0326-power-of-three](https://github.com/gauthamnholla/coding-practice/tree/master/0326-power-of-three) |
 | [0335-self-crossing](https://github.com/gauthamnholla/coding-practice/tree/master/0335-self-crossing) |
