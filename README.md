@@ -2122,6 +2122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/gauthamnholla/coding-practice/tree/master/0287-find-the-duplicate-number) |
 | [0295-find-median-from-data-stream](https://github.com/gauthamnholla/coding-practice/tree/master/0295-find-median-from-data-stream) |
 | [0321-create-maximum-number](https://github.com/gauthamnholla/coding-practice/tree/master/0321-create-maximum-number) |
+| [0344-reverse-string](https://github.com/gauthamnholla/coding-practice/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/gauthamnholla/coding-practice/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/gauthamnholla/coding-practice/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/gauthamnholla/coding-practice/tree/master/0455-assign-cookies) |
@@ -2495,6 +2496,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0318-maximum-product-of-word-lengths](https://github.com/gauthamnholla/coding-practice/tree/master/0318-maximum-product-of-word-lengths) |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/gauthamnholla/coding-practice/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0336-palindrome-pairs](https://github.com/gauthamnholla/coding-practice/tree/master/0336-palindrome-pairs) |
+| [0344-reverse-string](https://github.com/gauthamnholla/coding-practice/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/gauthamnholla/coding-practice/tree/master/0383-ransom-note) |
 | [0385-mini-parser](https://github.com/gauthamnholla/coding-practice/tree/master/0385-mini-parser) |
 | [0387-first-unique-character-in-a-string](https://github.com/gauthamnholla/coding-practice/tree/master/0387-first-unique-character-in-a-string) |
