@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/gauthamnholla/coding-practice/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0330-patching-array](https://github.com/gauthamnholla/coding-practice/tree/master/0330-patching-array) |
 | [0334-increasing-triplet-subsequence](https://github.com/gauthamnholla/coding-practice/tree/master/0334-increasing-triplet-subsequence) |
+| [0335-self-crossing](https://github.com/gauthamnholla/coding-practice/tree/master/0335-self-crossing) |
 | [0336-palindrome-pairs](https://github.com/gauthamnholla/coding-practice/tree/master/0336-palindrome-pairs) |
 | [0347-top-k-frequent-elements](https://github.com/gauthamnholla/coding-practice/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/gauthamnholla/coding-practice/tree/master/0349-intersection-of-two-arrays) |
@@ -2278,6 +2279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0292-nim-game](https://github.com/gauthamnholla/coding-practice/tree/master/0292-nim-game) |
 | [0319-bulb-switcher](https://github.com/gauthamnholla/coding-practice/tree/master/0319-bulb-switcher) |
 | [0326-power-of-three](https://github.com/gauthamnholla/coding-practice/tree/master/0326-power-of-three) |
+| [0335-self-crossing](https://github.com/gauthamnholla/coding-practice/tree/master/0335-self-crossing) |
 | [0342-power-of-four](https://github.com/gauthamnholla/coding-practice/tree/master/0342-power-of-four) |
 | [0357-count-numbers-with-unique-digits](https://github.com/gauthamnholla/coding-practice/tree/master/0357-count-numbers-with-unique-digits) |
 | [0365-water-and-jug-problem](https://github.com/gauthamnholla/coding-practice/tree/master/0365-water-and-jug-problem) |
@@ -3755,6 +3757,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/gauthamnholla/coding-practice/tree/master/0149-max-points-on-a-line) |
 | [0223-rectangle-area](https://github.com/gauthamnholla/coding-practice/tree/master/0223-rectangle-area) |
+| [0335-self-crossing](https://github.com/gauthamnholla/coding-practice/tree/master/0335-self-crossing) |
 | [0478-generate-random-point-in-a-circle](https://github.com/gauthamnholla/coding-practice/tree/master/0478-generate-random-point-in-a-circle) |
 | [0830-largest-triangle-area](https://github.com/gauthamnholla/coding-practice/tree/master/0830-largest-triangle-area) |
 | [0919-projection-area-of-3d-shapes](https://github.com/gauthamnholla/coding-practice/tree/master/0919-projection-area-of-3d-shapes) |
