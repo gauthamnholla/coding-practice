@@ -941,6 +941,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/gauthamnholla/coding-practice/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/gauthamnholla/coding-practice/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/gauthamnholla/coding-practice/tree/master/3627-maximum-median-sum-of-subsequences-of-size-3) |
+| [3628-maximum-number-of-subsequences-after-one-inserting](https://github.com/gauthamnholla/coding-practice/tree/master/3628-maximum-number-of-subsequences-after-one-inserting) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/gauthamnholla/coding-practice/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/gauthamnholla/coding-practice/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3645-maximum-total-from-optimal-activation-order](https://github.com/gauthamnholla/coding-practice/tree/master/3645-maximum-total-from-optimal-activation-order) |
@@ -2085,6 +2086,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3593-minimum-increments-to-equalize-leaf-paths](https://github.com/gauthamnholla/coding-practice/tree/master/3593-minimum-increments-to-equalize-leaf-paths) |
 | [3618-find-the-original-typed-string-ii](https://github.com/gauthamnholla/coding-practice/tree/master/3618-find-the-original-typed-string-ii) |
 | [3620-network-recovery-pathways](https://github.com/gauthamnholla/coding-practice/tree/master/3620-network-recovery-pathways) |
+| [3628-maximum-number-of-subsequences-after-one-inserting](https://github.com/gauthamnholla/coding-practice/tree/master/3628-maximum-number-of-subsequences-after-one-inserting) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/gauthamnholla/coding-practice/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/gauthamnholla/coding-practice/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3685-subsequence-sum-after-capping-elements](https://github.com/gauthamnholla/coding-practice/tree/master/3685-subsequence-sum-after-capping-elements) |
@@ -2663,6 +2665,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3606-coupon-code-validator](https://github.com/gauthamnholla/coding-practice/tree/master/3606-coupon-code-validator) |
 | [3617-find-the-original-typed-string-i](https://github.com/gauthamnholla/coding-practice/tree/master/3617-find-the-original-typed-string-i) |
 | [3618-find-the-original-typed-string-ii](https://github.com/gauthamnholla/coding-practice/tree/master/3618-find-the-original-typed-string-ii) |
+| [3628-maximum-number-of-subsequences-after-one-inserting](https://github.com/gauthamnholla/coding-practice/tree/master/3628-maximum-number-of-subsequences-after-one-inserting) |
 | [3664-two-letter-card-game](https://github.com/gauthamnholla/coding-practice/tree/master/3664-two-letter-card-game) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/gauthamnholla/coding-practice/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 | [3675-minimum-operations-to-transform-string](https://github.com/gauthamnholla/coding-practice/tree/master/3675-minimum-operations-to-transform-string) |
@@ -3326,6 +3329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3616-make-array-elements-equal-to-zero](https://github.com/gauthamnholla/coding-practice/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3618-find-the-original-typed-string-ii](https://github.com/gauthamnholla/coding-practice/tree/master/3618-find-the-original-typed-string-ii) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/gauthamnholla/coding-practice/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
+| [3628-maximum-number-of-subsequences-after-one-inserting](https://github.com/gauthamnholla/coding-practice/tree/master/3628-maximum-number-of-subsequences-after-one-inserting) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/gauthamnholla/coding-practice/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/gauthamnholla/coding-practice/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 | [3707-equal-score-substrings](https://github.com/gauthamnholla/coding-practice/tree/master/3707-equal-score-substrings) |
