@@ -1810,6 +1810,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3625-count-number-of-trapezoids-ii](https://github.com/gauthamnholla/coding-practice/tree/master/3625-count-number-of-trapezoids-ii) |
 | [3678-design-task-manager](https://github.com/gauthamnholla/coding-practice/tree/master/3678-design-task-manager) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/gauthamnholla/coding-practice/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
+| [3692-majority-frequency-characters](https://github.com/gauthamnholla/coding-practice/tree/master/3692-majority-frequency-characters) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/gauthamnholla/coding-practice/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3713-longest-balanced-substring-i](https://github.com/gauthamnholla/coding-practice/tree/master/3713-longest-balanced-substring-i) |
 | [3714-longest-balanced-substring-ii](https://github.com/gauthamnholla/coding-practice/tree/master/3714-longest-balanced-substring-ii) |
@@ -2658,6 +2659,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3617-find-the-original-typed-string-i](https://github.com/gauthamnholla/coding-practice/tree/master/3617-find-the-original-typed-string-i) |
 | [3618-find-the-original-typed-string-ii](https://github.com/gauthamnholla/coding-practice/tree/master/3618-find-the-original-typed-string-ii) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/gauthamnholla/coding-practice/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
+| [3692-majority-frequency-characters](https://github.com/gauthamnholla/coding-practice/tree/master/3692-majority-frequency-characters) |
 | [3703-remove-k-balanced-substrings](https://github.com/gauthamnholla/coding-practice/tree/master/3703-remove-k-balanced-substrings) |
 | [3707-equal-score-substrings](https://github.com/gauthamnholla/coding-practice/tree/master/3707-equal-score-substrings) |
 | [3713-longest-balanced-substring-i](https://github.com/gauthamnholla/coding-practice/tree/master/3713-longest-balanced-substring-i) |
@@ -3758,6 +3760,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3467-transform-array-by-parity](https://github.com/gauthamnholla/coding-practice/tree/master/3467-transform-array-by-parity) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/gauthamnholla/coding-practice/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/gauthamnholla/coding-practice/tree/master/3545-minimum-deletions-for-at-most-k-distinct-characters) |
+| [3692-majority-frequency-characters](https://github.com/gauthamnholla/coding-practice/tree/master/3692-majority-frequency-characters) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/gauthamnholla/coding-practice/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3713-longest-balanced-substring-i](https://github.com/gauthamnholla/coding-practice/tree/master/3713-longest-balanced-substring-i) |
 | [3715-sum-of-perfect-square-ancestors](https://github.com/gauthamnholla/coding-practice/tree/master/3715-sum-of-perfect-square-ancestors) |
