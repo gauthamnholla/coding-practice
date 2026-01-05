@@ -720,6 +720,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3649-number-of-perfect-pairs](https://github.com/gauthamnholla/coding-practice/tree/master/3649-number-of-perfect-pairs) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/gauthamnholla/coding-practice/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/gauthamnholla/coding-practice/tree/master/3661-maximum-walls-destroyed-by-robots) |
+| [3664-two-letter-card-game](https://github.com/gauthamnholla/coding-practice/tree/master/3664-two-letter-card-game) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/gauthamnholla/coding-practice/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 | [3685-subsequence-sum-after-capping-elements](https://github.com/gauthamnholla/coding-practice/tree/master/3685-subsequence-sum-after-capping-elements) |
 | [3695-maximize-alternating-sum-using-swaps](https://github.com/gauthamnholla/coding-practice/tree/master/3695-maximize-alternating-sum-using-swaps) |
@@ -1549,6 +1550,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3435-frequencies-of-shortest-supersequences](https://github.com/gauthamnholla/coding-practice/tree/master/3435-frequencies-of-shortest-supersequences) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/gauthamnholla/coding-practice/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/gauthamnholla/coding-practice/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
+| [3664-two-letter-card-game](https://github.com/gauthamnholla/coding-practice/tree/master/3664-two-letter-card-game) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/gauthamnholla/coding-practice/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3713-longest-balanced-substring-i](https://github.com/gauthamnholla/coding-practice/tree/master/3713-longest-balanced-substring-i) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/gauthamnholla/coding-practice/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
@@ -1809,6 +1811,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/gauthamnholla/coding-practice/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3623-count-number-of-trapezoids-i](https://github.com/gauthamnholla/coding-practice/tree/master/3623-count-number-of-trapezoids-i) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/gauthamnholla/coding-practice/tree/master/3625-count-number-of-trapezoids-ii) |
+| [3664-two-letter-card-game](https://github.com/gauthamnholla/coding-practice/tree/master/3664-two-letter-card-game) |
 | [3678-design-task-manager](https://github.com/gauthamnholla/coding-practice/tree/master/3678-design-task-manager) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/gauthamnholla/coding-practice/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 | [3692-majority-frequency-characters](https://github.com/gauthamnholla/coding-practice/tree/master/3692-majority-frequency-characters) |
@@ -2660,6 +2663,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3606-coupon-code-validator](https://github.com/gauthamnholla/coding-practice/tree/master/3606-coupon-code-validator) |
 | [3617-find-the-original-typed-string-i](https://github.com/gauthamnholla/coding-practice/tree/master/3617-find-the-original-typed-string-i) |
 | [3618-find-the-original-typed-string-ii](https://github.com/gauthamnholla/coding-practice/tree/master/3618-find-the-original-typed-string-ii) |
+| [3664-two-letter-card-game](https://github.com/gauthamnholla/coding-practice/tree/master/3664-two-letter-card-game) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/gauthamnholla/coding-practice/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 | [3675-minimum-operations-to-transform-string](https://github.com/gauthamnholla/coding-practice/tree/master/3675-minimum-operations-to-transform-string) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/gauthamnholla/coding-practice/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
@@ -3765,6 +3769,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3467-transform-array-by-parity](https://github.com/gauthamnholla/coding-practice/tree/master/3467-transform-array-by-parity) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/gauthamnholla/coding-practice/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/gauthamnholla/coding-practice/tree/master/3545-minimum-deletions-for-at-most-k-distinct-characters) |
+| [3664-two-letter-card-game](https://github.com/gauthamnholla/coding-practice/tree/master/3664-two-letter-card-game) |
 | [3692-majority-frequency-characters](https://github.com/gauthamnholla/coding-practice/tree/master/3692-majority-frequency-characters) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/gauthamnholla/coding-practice/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3713-longest-balanced-substring-i](https://github.com/gauthamnholla/coding-practice/tree/master/3713-longest-balanced-substring-i) |
