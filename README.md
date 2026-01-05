@@ -1905,6 +1905,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/gauthamnholla/coding-practice/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/gauthamnholla/coding-practice/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/gauthamnholla/coding-practice/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
+| [3775-reverse-words-with-same-vowel-count](https://github.com/gauthamnholla/coding-practice/tree/master/3775-reverse-words-with-same-vowel-count) |
 | [3790-fruits-into-baskets-ii](https://github.com/gauthamnholla/coding-practice/tree/master/3790-fruits-into-baskets-ii) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/gauthamnholla/coding-practice/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Dynamic Programming
@@ -2197,6 +2198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/gauthamnholla/coding-practice/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3685-subsequence-sum-after-capping-elements](https://github.com/gauthamnholla/coding-practice/tree/master/3685-subsequence-sum-after-capping-elements) |
 | [3752-lexicographically-smallest-negated-permutation-that-sums-to-target](https://github.com/gauthamnholla/coding-practice/tree/master/3752-lexicographically-smallest-negated-permutation-that-sums-to-target) |
+| [3775-reverse-words-with-same-vowel-count](https://github.com/gauthamnholla/coding-practice/tree/master/3775-reverse-words-with-same-vowel-count) |
 ## Linked List
 |  |
 | ------- |
@@ -2647,6 +2649,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/gauthamnholla/coding-practice/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/gauthamnholla/coding-practice/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/gauthamnholla/coding-practice/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
+| [3775-reverse-words-with-same-vowel-count](https://github.com/gauthamnholla/coding-practice/tree/master/3775-reverse-words-with-same-vowel-count) |
 | [3777-minimum-deletions-to-make-alternating-substring](https://github.com/gauthamnholla/coding-practice/tree/master/3777-minimum-deletions-to-make-alternating-substring) |
 | [3781-maximum-score-after-binary-swaps](https://github.com/gauthamnholla/coding-practice/tree/master/3781-maximum-score-after-binary-swaps) |
 | [3784-minimum-deletion-cost-to-make-all-characters-equal](https://github.com/gauthamnholla/coding-practice/tree/master/3784-minimum-deletion-cost-to-make-all-characters-equal) |
