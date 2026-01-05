@@ -743,6 +743,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3767-maximize-points-after-choosing-k-tasks](https://github.com/gauthamnholla/coding-practice/tree/master/3767-maximize-points-after-choosing-k-tasks) |
 | [3769-sort-integers-by-binary-reflection](https://github.com/gauthamnholla/coding-practice/tree/master/3769-sort-integers-by-binary-reflection) |
 | [3772-maximum-subgraph-score-in-a-tree](https://github.com/gauthamnholla/coding-practice/tree/master/3772-maximum-subgraph-score-in-a-tree) |
+| [3784-minimum-deletion-cost-to-make-all-characters-equal](https://github.com/gauthamnholla/coding-practice/tree/master/3784-minimum-deletion-cost-to-make-all-characters-equal) |
 | [3786-total-sum-of-interaction-cost-in-tree-groups](https://github.com/gauthamnholla/coding-practice/tree/master/3786-total-sum-of-interaction-cost-in-tree-groups) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/gauthamnholla/coding-practice/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/gauthamnholla/coding-practice/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
@@ -1547,6 +1548,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/gauthamnholla/coding-practice/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3745-maximize-expression-of-three-elements](https://github.com/gauthamnholla/coding-practice/tree/master/3745-maximize-expression-of-three-elements) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/gauthamnholla/coding-practice/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
+| [3784-minimum-deletion-cost-to-make-all-characters-equal](https://github.com/gauthamnholla/coding-practice/tree/master/3784-minimum-deletion-cost-to-make-all-characters-equal) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/gauthamnholla/coding-practice/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 ## Hash Table
 |  |
@@ -1808,6 +1810,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/gauthamnholla/coding-practice/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/gauthamnholla/coding-practice/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/gauthamnholla/coding-practice/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
+| [3784-minimum-deletion-cost-to-make-all-characters-equal](https://github.com/gauthamnholla/coding-practice/tree/master/3784-minimum-deletion-cost-to-make-all-characters-equal) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/gauthamnholla/coding-practice/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/gauthamnholla/coding-practice/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [3863-power-grid-maintenance](https://github.com/gauthamnholla/coding-practice/tree/master/3863-power-grid-maintenance) |
@@ -2641,6 +2644,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/gauthamnholla/coding-practice/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/gauthamnholla/coding-practice/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/gauthamnholla/coding-practice/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
+| [3784-minimum-deletion-cost-to-make-all-characters-equal](https://github.com/gauthamnholla/coding-practice/tree/master/3784-minimum-deletion-cost-to-make-all-characters-equal) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/gauthamnholla/coding-practice/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Depth-First Search
 |  |
