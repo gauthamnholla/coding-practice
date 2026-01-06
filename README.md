@@ -2323,6 +2323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0343-integer-break](https://github.com/gauthamnholla/coding-practice/tree/master/0343-integer-break) |
 | [0357-count-numbers-with-unique-digits](https://github.com/gauthamnholla/coding-practice/tree/master/0357-count-numbers-with-unique-digits) |
 | [0365-water-and-jug-problem](https://github.com/gauthamnholla/coding-practice/tree/master/0365-water-and-jug-problem) |
+| [0367-valid-perfect-square](https://github.com/gauthamnholla/coding-practice/tree/master/0367-valid-perfect-square) |
 | [0368-largest-divisible-subset](https://github.com/gauthamnholla/coding-practice/tree/master/0368-largest-divisible-subset) |
 | [0372-super-pow](https://github.com/gauthamnholla/coding-practice/tree/master/0372-super-pow) |
 | [0382-linked-list-random-node](https://github.com/gauthamnholla/coding-practice/tree/master/0382-linked-list-random-node) |
@@ -3427,6 +3428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/gauthamnholla/coding-practice/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/gauthamnholla/coding-practice/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0354-russian-doll-envelopes](https://github.com/gauthamnholla/coding-practice/tree/master/0354-russian-doll-envelopes) |
+| [0367-valid-perfect-square](https://github.com/gauthamnholla/coding-practice/tree/master/0367-valid-perfect-square) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/gauthamnholla/coding-practice/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0475-heaters](https://github.com/gauthamnholla/coding-practice/tree/master/0475-heaters) |
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/gauthamnholla/coding-practice/tree/master/0497-random-point-in-non-overlapping-rectangles) |
