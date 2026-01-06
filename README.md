@@ -2331,6 +2331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0375-guess-number-higher-or-lower-ii](https://github.com/gauthamnholla/coding-practice/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0382-linked-list-random-node](https://github.com/gauthamnholla/coding-practice/tree/master/0382-linked-list-random-node) |
 | [0384-shuffle-an-array](https://github.com/gauthamnholla/coding-practice/tree/master/0384-shuffle-an-array) |
+| [0390-elimination-game](https://github.com/gauthamnholla/coding-practice/tree/master/0390-elimination-game) |
 | [0398-random-pick-index](https://github.com/gauthamnholla/coding-practice/tree/master/0398-random-pick-index) |
 | [0412-fizz-buzz](https://github.com/gauthamnholla/coding-practice/tree/master/0412-fizz-buzz) |
 | [0445-add-two-numbers-ii](https://github.com/gauthamnholla/coding-practice/tree/master/0445-add-two-numbers-ii) |
@@ -3569,6 +3570,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0273-integer-to-english-words](https://github.com/gauthamnholla/coding-practice/tree/master/0273-integer-to-english-words) |
 | [0326-power-of-three](https://github.com/gauthamnholla/coding-practice/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/gauthamnholla/coding-practice/tree/master/0342-power-of-four) |
+| [0390-elimination-game](https://github.com/gauthamnholla/coding-practice/tree/master/0390-elimination-game) |
 | [0394-decode-string](https://github.com/gauthamnholla/coding-practice/tree/master/0394-decode-string) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/gauthamnholla/coding-practice/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [2094-finding-3-digit-even-numbers](https://github.com/gauthamnholla/coding-practice/tree/master/2094-finding-3-digit-even-numbers) |
