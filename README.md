@@ -2363,6 +2363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0477-total-hamming-distance](https://github.com/gauthamnholla/coding-practice/tree/master/0477-total-hamming-distance) |
 | [0478-generate-random-point-in-a-circle](https://github.com/gauthamnholla/coding-practice/tree/master/0478-generate-random-point-in-a-circle) |
 | [0483-smallest-good-base](https://github.com/gauthamnholla/coding-practice/tree/master/0483-smallest-good-base) |
+| [0492-construct-the-rectangle](https://github.com/gauthamnholla/coding-practice/tree/master/0492-construct-the-rectangle) |
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/gauthamnholla/coding-practice/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 | [0519-random-flip-matrix](https://github.com/gauthamnholla/coding-practice/tree/master/0519-random-flip-matrix) |
 | [0528-random-pick-with-weight](https://github.com/gauthamnholla/coding-practice/tree/master/0528-random-pick-with-weight) |
