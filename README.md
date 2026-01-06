@@ -1897,6 +1897,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/gauthamnholla/coding-practice/tree/master/0415-add-strings) |
 | [0495-teemo-attacking](https://github.com/gauthamnholla/coding-practice/tree/master/0495-teemo-attacking) |
 | [0498-diagonal-traverse](https://github.com/gauthamnholla/coding-practice/tree/master/0498-diagonal-traverse) |
+| [0537-complex-number-multiplication](https://github.com/gauthamnholla/coding-practice/tree/master/0537-complex-number-multiplication) |
 | [0566-reshape-the-matrix](https://github.com/gauthamnholla/coding-practice/tree/master/0566-reshape-the-matrix) |
 | [0682-baseball-game](https://github.com/gauthamnholla/coding-practice/tree/master/0682-baseball-game) |
 | [0749-contain-virus](https://github.com/gauthamnholla/coding-practice/tree/master/0749-contain-virus) |
@@ -2375,6 +2376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0519-random-flip-matrix](https://github.com/gauthamnholla/coding-practice/tree/master/0519-random-flip-matrix) |
 | [0523-continuous-subarray-sum](https://github.com/gauthamnholla/coding-practice/tree/master/0523-continuous-subarray-sum) |
 | [0528-random-pick-with-weight](https://github.com/gauthamnholla/coding-practice/tree/master/0528-random-pick-with-weight) |
+| [0537-complex-number-multiplication](https://github.com/gauthamnholla/coding-practice/tree/master/0537-complex-number-multiplication) |
 | [0539-minimum-time-difference](https://github.com/gauthamnholla/coding-practice/tree/master/0539-minimum-time-difference) |
 | [0598-range-addition-ii](https://github.com/gauthamnholla/coding-practice/tree/master/0598-range-addition-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/gauthamnholla/coding-practice/tree/master/0628-maximum-product-of-three-numbers) |
@@ -2599,6 +2601,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0514-freedom-trail](https://github.com/gauthamnholla/coding-practice/tree/master/0514-freedom-trail) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/gauthamnholla/coding-practice/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/gauthamnholla/coding-practice/tree/master/0524-longest-word-in-dictionary-through-deleting) |
+| [0537-complex-number-multiplication](https://github.com/gauthamnholla/coding-practice/tree/master/0537-complex-number-multiplication) |
 | [0539-minimum-time-difference](https://github.com/gauthamnholla/coding-practice/tree/master/0539-minimum-time-difference) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/gauthamnholla/coding-practice/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0606-construct-string-from-binary-tree](https://github.com/gauthamnholla/coding-practice/tree/master/0606-construct-string-from-binary-tree) |
