@@ -1983,6 +1983,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0354-russian-doll-envelopes](https://github.com/gauthamnholla/coding-practice/tree/master/0354-russian-doll-envelopes) |
 | [0357-count-numbers-with-unique-digits](https://github.com/gauthamnholla/coding-practice/tree/master/0357-count-numbers-with-unique-digits) |
 | [0368-largest-divisible-subset](https://github.com/gauthamnholla/coding-practice/tree/master/0368-largest-divisible-subset) |
+| [0375-guess-number-higher-or-lower-ii](https://github.com/gauthamnholla/coding-practice/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0435-non-overlapping-intervals](https://github.com/gauthamnholla/coding-practice/tree/master/0435-non-overlapping-intervals) |
 | [0472-concatenated-words](https://github.com/gauthamnholla/coding-practice/tree/master/0472-concatenated-words) |
 | [0473-matchsticks-to-square](https://github.com/gauthamnholla/coding-practice/tree/master/0473-matchsticks-to-square) |
@@ -2327,6 +2328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/gauthamnholla/coding-practice/tree/master/0368-largest-divisible-subset) |
 | [0371-sum-of-two-integers](https://github.com/gauthamnholla/coding-practice/tree/master/0371-sum-of-two-integers) |
 | [0372-super-pow](https://github.com/gauthamnholla/coding-practice/tree/master/0372-super-pow) |
+| [0375-guess-number-higher-or-lower-ii](https://github.com/gauthamnholla/coding-practice/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0382-linked-list-random-node](https://github.com/gauthamnholla/coding-practice/tree/master/0382-linked-list-random-node) |
 | [0384-shuffle-an-array](https://github.com/gauthamnholla/coding-practice/tree/master/0384-shuffle-an-array) |
 | [0398-random-pick-index](https://github.com/gauthamnholla/coding-practice/tree/master/0398-random-pick-index) |
@@ -3887,6 +3889,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/gauthamnholla/coding-practice/tree/master/0292-nim-game) |
+| [0375-guess-number-higher-or-lower-ii](https://github.com/gauthamnholla/coding-practice/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0909-stone-game](https://github.com/gauthamnholla/coding-practice/tree/master/0909-stone-game) |
 | [0949-cat-and-mouse](https://github.com/gauthamnholla/coding-practice/tree/master/0949-cat-and-mouse) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/gauthamnholla/coding-practice/tree/master/1561-maximum-number-of-coins-you-can-get) |
