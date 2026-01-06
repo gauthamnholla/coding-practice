@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/gauthamnholla/coding-practice/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0384-shuffle-an-array](https://github.com/gauthamnholla/coding-practice/tree/master/0384-shuffle-an-array) |
 | [0391-perfect-rectangle](https://github.com/gauthamnholla/coding-practice/tree/master/0391-perfect-rectangle) |
+| [0396-rotate-function](https://github.com/gauthamnholla/coding-practice/tree/master/0396-rotate-function) |
 | [0399-evaluate-division](https://github.com/gauthamnholla/coding-practice/tree/master/0399-evaluate-division) |
 | [0406-queue-reconstruction-by-height](https://github.com/gauthamnholla/coding-practice/tree/master/0406-queue-reconstruction-by-height) |
 | [0407-trapping-rain-water-ii](https://github.com/gauthamnholla/coding-practice/tree/master/0407-trapping-rain-water-ii) |
@@ -1986,6 +1987,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0357-count-numbers-with-unique-digits](https://github.com/gauthamnholla/coding-practice/tree/master/0357-count-numbers-with-unique-digits) |
 | [0368-largest-divisible-subset](https://github.com/gauthamnholla/coding-practice/tree/master/0368-largest-divisible-subset) |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/gauthamnholla/coding-practice/tree/master/0375-guess-number-higher-or-lower-ii) |
+| [0396-rotate-function](https://github.com/gauthamnholla/coding-practice/tree/master/0396-rotate-function) |
 | [0435-non-overlapping-intervals](https://github.com/gauthamnholla/coding-practice/tree/master/0435-non-overlapping-intervals) |
 | [0472-concatenated-words](https://github.com/gauthamnholla/coding-practice/tree/master/0472-concatenated-words) |
 | [0473-matchsticks-to-square](https://github.com/gauthamnholla/coding-practice/tree/master/0473-matchsticks-to-square) |
@@ -2335,6 +2337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0384-shuffle-an-array](https://github.com/gauthamnholla/coding-practice/tree/master/0384-shuffle-an-array) |
 | [0390-elimination-game](https://github.com/gauthamnholla/coding-practice/tree/master/0390-elimination-game) |
 | [0391-perfect-rectangle](https://github.com/gauthamnholla/coding-practice/tree/master/0391-perfect-rectangle) |
+| [0396-rotate-function](https://github.com/gauthamnholla/coding-practice/tree/master/0396-rotate-function) |
 | [0398-random-pick-index](https://github.com/gauthamnholla/coding-practice/tree/master/0398-random-pick-index) |
 | [0412-fizz-buzz](https://github.com/gauthamnholla/coding-practice/tree/master/0412-fizz-buzz) |
 | [0445-add-two-numbers-ii](https://github.com/gauthamnholla/coding-practice/tree/master/0445-add-two-numbers-ii) |
