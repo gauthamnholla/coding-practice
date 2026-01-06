@@ -2362,6 +2362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0470-implement-rand10-using-rand7](https://github.com/gauthamnholla/coding-practice/tree/master/0470-implement-rand10-using-rand7) |
 | [0477-total-hamming-distance](https://github.com/gauthamnholla/coding-practice/tree/master/0477-total-hamming-distance) |
 | [0478-generate-random-point-in-a-circle](https://github.com/gauthamnholla/coding-practice/tree/master/0478-generate-random-point-in-a-circle) |
+| [0483-smallest-good-base](https://github.com/gauthamnholla/coding-practice/tree/master/0483-smallest-good-base) |
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/gauthamnholla/coding-practice/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 | [0519-random-flip-matrix](https://github.com/gauthamnholla/coding-practice/tree/master/0519-random-flip-matrix) |
 | [0528-random-pick-with-weight](https://github.com/gauthamnholla/coding-practice/tree/master/0528-random-pick-with-weight) |
@@ -3467,6 +3468,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0400-nth-digit](https://github.com/gauthamnholla/coding-practice/tree/master/0400-nth-digit) |
 | [0441-arranging-coins](https://github.com/gauthamnholla/coding-practice/tree/master/0441-arranging-coins) |
 | [0475-heaters](https://github.com/gauthamnholla/coding-practice/tree/master/0475-heaters) |
+| [0483-smallest-good-base](https://github.com/gauthamnholla/coding-practice/tree/master/0483-smallest-good-base) |
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/gauthamnholla/coding-practice/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 | [0528-random-pick-with-weight](https://github.com/gauthamnholla/coding-practice/tree/master/0528-random-pick-with-weight) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/gauthamnholla/coding-practice/tree/master/0532-k-diff-pairs-in-an-array) |
