@@ -170,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0566-reshape-the-matrix](https://github.com/gauthamnholla/coding-practice/tree/master/0566-reshape-the-matrix) |
 | [0575-distribute-candies](https://github.com/gauthamnholla/coding-practice/tree/master/0575-distribute-candies) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/gauthamnholla/coding-practice/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0587-erect-the-fence](https://github.com/gauthamnholla/coding-practice/tree/master/0587-erect-the-fence) |
 | [0594-longest-harmonious-subsequence](https://github.com/gauthamnholla/coding-practice/tree/master/0594-longest-harmonious-subsequence) |
 | [0598-range-addition-ii](https://github.com/gauthamnholla/coding-practice/tree/master/0598-range-addition-ii) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/gauthamnholla/coding-practice/tree/master/0599-minimum-index-sum-of-two-lists) |
@@ -2384,6 +2385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0553-optimal-division](https://github.com/gauthamnholla/coding-practice/tree/master/0553-optimal-division) |
 | [0556-next-greater-element-iii](https://github.com/gauthamnholla/coding-practice/tree/master/0556-next-greater-element-iii) |
 | [0564-find-the-closest-palindrome](https://github.com/gauthamnholla/coding-practice/tree/master/0564-find-the-closest-palindrome) |
+| [0587-erect-the-fence](https://github.com/gauthamnholla/coding-practice/tree/master/0587-erect-the-fence) |
 | [0598-range-addition-ii](https://github.com/gauthamnholla/coding-practice/tree/master/0598-range-addition-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/gauthamnholla/coding-practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0670-maximum-swap](https://github.com/gauthamnholla/coding-practice/tree/master/0670-maximum-swap) |
@@ -3909,6 +3911,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0335-self-crossing](https://github.com/gauthamnholla/coding-practice/tree/master/0335-self-crossing) |
 | [0391-perfect-rectangle](https://github.com/gauthamnholla/coding-practice/tree/master/0391-perfect-rectangle) |
 | [0478-generate-random-point-in-a-circle](https://github.com/gauthamnholla/coding-practice/tree/master/0478-generate-random-point-in-a-circle) |
+| [0587-erect-the-fence](https://github.com/gauthamnholla/coding-practice/tree/master/0587-erect-the-fence) |
 | [0830-largest-triangle-area](https://github.com/gauthamnholla/coding-practice/tree/master/0830-largest-triangle-area) |
 | [0919-projection-area-of-3d-shapes](https://github.com/gauthamnholla/coding-practice/tree/master/0919-projection-area-of-3d-shapes) |
 | [0928-surface-area-of-3d-shapes](https://github.com/gauthamnholla/coding-practice/tree/master/0928-surface-area-of-3d-shapes) |
