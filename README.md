@@ -2365,6 +2365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0483-smallest-good-base](https://github.com/gauthamnholla/coding-practice/tree/master/0483-smallest-good-base) |
 | [0492-construct-the-rectangle](https://github.com/gauthamnholla/coding-practice/tree/master/0492-construct-the-rectangle) |
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/gauthamnholla/coding-practice/tree/master/0497-random-point-in-non-overlapping-rectangles) |
+| [0504-base-7](https://github.com/gauthamnholla/coding-practice/tree/master/0504-base-7) |
 | [0519-random-flip-matrix](https://github.com/gauthamnholla/coding-practice/tree/master/0519-random-flip-matrix) |
 | [0528-random-pick-with-weight](https://github.com/gauthamnholla/coding-practice/tree/master/0528-random-pick-with-weight) |
 | [0539-minimum-time-difference](https://github.com/gauthamnholla/coding-practice/tree/master/0539-minimum-time-difference) |
@@ -2587,6 +2588,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0481-magical-string](https://github.com/gauthamnholla/coding-practice/tree/master/0481-magical-string) |
 | [0482-license-key-formatting](https://github.com/gauthamnholla/coding-practice/tree/master/0482-license-key-formatting) |
 | [0500-keyboard-row](https://github.com/gauthamnholla/coding-practice/tree/master/0500-keyboard-row) |
+| [0504-base-7](https://github.com/gauthamnholla/coding-practice/tree/master/0504-base-7) |
 | [0514-freedom-trail](https://github.com/gauthamnholla/coding-practice/tree/master/0514-freedom-trail) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/gauthamnholla/coding-practice/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/gauthamnholla/coding-practice/tree/master/0524-longest-word-in-dictionary-through-deleting) |
