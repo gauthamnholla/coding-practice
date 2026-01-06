@@ -2346,6 +2346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/gauthamnholla/coding-practice/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/gauthamnholla/coding-practice/tree/master/0415-add-strings) |
 | [0423-reconstruct-original-digits-from-english](https://github.com/gauthamnholla/coding-practice/tree/master/0423-reconstruct-original-digits-from-english) |
+| [0441-arranging-coins](https://github.com/gauthamnholla/coding-practice/tree/master/0441-arranging-coins) |
 | [0445-add-two-numbers-ii](https://github.com/gauthamnholla/coding-practice/tree/master/0445-add-two-numbers-ii) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/gauthamnholla/coding-practice/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/gauthamnholla/coding-practice/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -3452,6 +3453,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/gauthamnholla/coding-practice/tree/master/0367-valid-perfect-square) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/gauthamnholla/coding-practice/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0400-nth-digit](https://github.com/gauthamnholla/coding-practice/tree/master/0400-nth-digit) |
+| [0441-arranging-coins](https://github.com/gauthamnholla/coding-practice/tree/master/0441-arranging-coins) |
 | [0475-heaters](https://github.com/gauthamnholla/coding-practice/tree/master/0475-heaters) |
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/gauthamnholla/coding-practice/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 | [0528-random-pick-with-weight](https://github.com/gauthamnholla/coding-practice/tree/master/0528-random-pick-with-weight) |
