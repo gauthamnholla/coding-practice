@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/gauthamnholla/coding-practice/tree/master/0368-largest-divisible-subset) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/gauthamnholla/coding-practice/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0384-shuffle-an-array](https://github.com/gauthamnholla/coding-practice/tree/master/0384-shuffle-an-array) |
+| [0391-perfect-rectangle](https://github.com/gauthamnholla/coding-practice/tree/master/0391-perfect-rectangle) |
 | [0399-evaluate-division](https://github.com/gauthamnholla/coding-practice/tree/master/0399-evaluate-division) |
 | [0406-queue-reconstruction-by-height](https://github.com/gauthamnholla/coding-practice/tree/master/0406-queue-reconstruction-by-height) |
 | [0407-trapping-rain-water-ii](https://github.com/gauthamnholla/coding-practice/tree/master/0407-trapping-rain-water-ii) |
@@ -1611,6 +1612,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/gauthamnholla/coding-practice/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/gauthamnholla/coding-practice/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/gauthamnholla/coding-practice/tree/master/0389-find-the-difference) |
+| [0391-perfect-rectangle](https://github.com/gauthamnholla/coding-practice/tree/master/0391-perfect-rectangle) |
 | [0398-random-pick-index](https://github.com/gauthamnholla/coding-practice/tree/master/0398-random-pick-index) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/gauthamnholla/coding-practice/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/gauthamnholla/coding-practice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -2332,6 +2334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0382-linked-list-random-node](https://github.com/gauthamnholla/coding-practice/tree/master/0382-linked-list-random-node) |
 | [0384-shuffle-an-array](https://github.com/gauthamnholla/coding-practice/tree/master/0384-shuffle-an-array) |
 | [0390-elimination-game](https://github.com/gauthamnholla/coding-practice/tree/master/0390-elimination-game) |
+| [0391-perfect-rectangle](https://github.com/gauthamnholla/coding-practice/tree/master/0391-perfect-rectangle) |
 | [0398-random-pick-index](https://github.com/gauthamnholla/coding-practice/tree/master/0398-random-pick-index) |
 | [0412-fizz-buzz](https://github.com/gauthamnholla/coding-practice/tree/master/0412-fizz-buzz) |
 | [0445-add-two-numbers-ii](https://github.com/gauthamnholla/coding-practice/tree/master/0445-add-two-numbers-ii) |
@@ -3851,6 +3854,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0149-max-points-on-a-line](https://github.com/gauthamnholla/coding-practice/tree/master/0149-max-points-on-a-line) |
 | [0223-rectangle-area](https://github.com/gauthamnholla/coding-practice/tree/master/0223-rectangle-area) |
 | [0335-self-crossing](https://github.com/gauthamnholla/coding-practice/tree/master/0335-self-crossing) |
+| [0391-perfect-rectangle](https://github.com/gauthamnholla/coding-practice/tree/master/0391-perfect-rectangle) |
 | [0478-generate-random-point-in-a-circle](https://github.com/gauthamnholla/coding-practice/tree/master/0478-generate-random-point-in-a-circle) |
 | [0830-largest-triangle-area](https://github.com/gauthamnholla/coding-practice/tree/master/0830-largest-triangle-area) |
 | [0919-projection-area-of-3d-shapes](https://github.com/gauthamnholla/coding-practice/tree/master/0919-projection-area-of-3d-shapes) |
@@ -4399,6 +4403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0218-the-skyline-problem](https://github.com/gauthamnholla/coding-practice/tree/master/0218-the-skyline-problem) |
+| [0391-perfect-rectangle](https://github.com/gauthamnholla/coding-practice/tree/master/0391-perfect-rectangle) |
 | [1851-minimum-interval-to-include-each-query](https://github.com/gauthamnholla/coding-practice/tree/master/1851-minimum-interval-to-include-each-query) |
 ## Bucket Sort
 |  |
