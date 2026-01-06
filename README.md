@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0477-total-hamming-distance](https://github.com/gauthamnholla/coding-practice/tree/master/0477-total-hamming-distance) |
 | [0480-sliding-window-median](https://github.com/gauthamnholla/coding-practice/tree/master/0480-sliding-window-median) |
 | [0485-max-consecutive-ones](https://github.com/gauthamnholla/coding-practice/tree/master/0485-max-consecutive-ones) |
+| [0486-predict-the-winner](https://github.com/gauthamnholla/coding-practice/tree/master/0486-predict-the-winner) |
 | [0491-non-decreasing-subsequences](https://github.com/gauthamnholla/coding-practice/tree/master/0491-non-decreasing-subsequences) |
 | [0495-teemo-attacking](https://github.com/gauthamnholla/coding-practice/tree/master/0495-teemo-attacking) |
 | [0496-next-greater-element-i](https://github.com/gauthamnholla/coding-practice/tree/master/0496-next-greater-element-i) |
@@ -2005,6 +2006,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0472-concatenated-words](https://github.com/gauthamnholla/coding-practice/tree/master/0472-concatenated-words) |
 | [0473-matchsticks-to-square](https://github.com/gauthamnholla/coding-practice/tree/master/0473-matchsticks-to-square) |
 | [0474-ones-and-zeroes](https://github.com/gauthamnholla/coding-practice/tree/master/0474-ones-and-zeroes) |
+| [0486-predict-the-winner](https://github.com/gauthamnholla/coding-practice/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/gauthamnholla/coding-practice/tree/master/0509-fibonacci-number) |
 | [0514-freedom-trail](https://github.com/gauthamnholla/coding-practice/tree/master/0514-freedom-trail) |
 | [0553-optimal-division](https://github.com/gauthamnholla/coding-practice/tree/master/0553-optimal-division) |
@@ -2374,6 +2376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0478-generate-random-point-in-a-circle](https://github.com/gauthamnholla/coding-practice/tree/master/0478-generate-random-point-in-a-circle) |
 | [0479-largest-palindrome-product](https://github.com/gauthamnholla/coding-practice/tree/master/0479-largest-palindrome-product) |
 | [0483-smallest-good-base](https://github.com/gauthamnholla/coding-practice/tree/master/0483-smallest-good-base) |
+| [0486-predict-the-winner](https://github.com/gauthamnholla/coding-practice/tree/master/0486-predict-the-winner) |
 | [0492-construct-the-rectangle](https://github.com/gauthamnholla/coding-practice/tree/master/0492-construct-the-rectangle) |
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/gauthamnholla/coding-practice/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 | [0504-base-7](https://github.com/gauthamnholla/coding-practice/tree/master/0504-base-7) |
@@ -3632,6 +3635,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/gauthamnholla/coding-practice/tree/master/0342-power-of-four) |
 | [0390-elimination-game](https://github.com/gauthamnholla/coding-practice/tree/master/0390-elimination-game) |
 | [0394-decode-string](https://github.com/gauthamnholla/coding-practice/tree/master/0394-decode-string) |
+| [0486-predict-the-winner](https://github.com/gauthamnholla/coding-practice/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/gauthamnholla/coding-practice/tree/master/0509-fibonacci-number) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/gauthamnholla/coding-practice/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [2094-finding-3-digit-even-numbers](https://github.com/gauthamnholla/coding-practice/tree/master/2094-finding-3-digit-even-numbers) |
@@ -3957,6 +3961,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0292-nim-game](https://github.com/gauthamnholla/coding-practice/tree/master/0292-nim-game) |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/gauthamnholla/coding-practice/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0464-can-i-win](https://github.com/gauthamnholla/coding-practice/tree/master/0464-can-i-win) |
+| [0486-predict-the-winner](https://github.com/gauthamnholla/coding-practice/tree/master/0486-predict-the-winner) |
 | [0909-stone-game](https://github.com/gauthamnholla/coding-practice/tree/master/0909-stone-game) |
 | [0949-cat-and-mouse](https://github.com/gauthamnholla/coding-practice/tree/master/0949-cat-and-mouse) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/gauthamnholla/coding-practice/tree/master/1561-maximum-number-of-coins-you-can-get) |
