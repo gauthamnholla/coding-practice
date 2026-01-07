@@ -2415,6 +2415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0770-basic-calculator-iv](https://github.com/gauthamnholla/coding-practice/tree/master/0770-basic-calculator-iv) |
 | [0775-global-and-local-inversions](https://github.com/gauthamnholla/coding-practice/tree/master/0775-global-and-local-inversions) |
 | [0779-k-th-symbol-in-grammar](https://github.com/gauthamnholla/coding-practice/tree/master/0779-k-th-symbol-in-grammar) |
+| [0780-reaching-points](https://github.com/gauthamnholla/coding-practice/tree/master/0780-reaching-points) |
 | [0826-soup-servings](https://github.com/gauthamnholla/coding-practice/tree/master/0826-soup-servings) |
 | [0830-largest-triangle-area](https://github.com/gauthamnholla/coding-practice/tree/master/0830-largest-triangle-area) |
 | [0840-magic-squares-in-grid](https://github.com/gauthamnholla/coding-practice/tree/master/0840-magic-squares-in-grid) |
