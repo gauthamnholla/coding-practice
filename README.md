@@ -1547,6 +1547,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0479-largest-palindrome-product](https://github.com/gauthamnholla/coding-practice/tree/master/0479-largest-palindrome-product) |
 | [0829-consecutive-numbers-sum](https://github.com/gauthamnholla/coding-practice/tree/master/0829-consecutive-numbers-sum) |
 | [0900-reordered-power-of-2](https://github.com/gauthamnholla/coding-practice/tree/master/0900-reordered-power-of-2) |
+| [0906-super-palindromes](https://github.com/gauthamnholla/coding-practice/tree/master/0906-super-palindromes) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/gauthamnholla/coding-practice/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/gauthamnholla/coding-practice/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1925-count-square-sum-triples](https://github.com/gauthamnholla/coding-practice/tree/master/1925-count-square-sum-triples) |
@@ -2449,6 +2450,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0899-orderly-queue](https://github.com/gauthamnholla/coding-practice/tree/master/0899-orderly-queue) |
 | [0900-reordered-power-of-2](https://github.com/gauthamnholla/coding-practice/tree/master/0900-reordered-power-of-2) |
 | [0902-numbers-at-most-n-given-digit-set](https://github.com/gauthamnholla/coding-practice/tree/master/0902-numbers-at-most-n-given-digit-set) |
+| [0906-super-palindromes](https://github.com/gauthamnholla/coding-practice/tree/master/0906-super-palindromes) |
 | [0909-stone-game](https://github.com/gauthamnholla/coding-practice/tree/master/0909-stone-game) |
 | [0910-smallest-range-ii](https://github.com/gauthamnholla/coding-practice/tree/master/0910-smallest-range-ii) |
 | [0919-projection-area-of-3d-shapes](https://github.com/gauthamnholla/coding-practice/tree/master/0919-projection-area-of-3d-shapes) |
@@ -2690,6 +2692,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0893-groups-of-special-equivalent-strings](https://github.com/gauthamnholla/coding-practice/tree/master/0893-groups-of-special-equivalent-strings) |
 | [0899-orderly-queue](https://github.com/gauthamnholla/coding-practice/tree/master/0899-orderly-queue) |
 | [0902-numbers-at-most-n-given-digit-set](https://github.com/gauthamnholla/coding-practice/tree/master/0902-numbers-at-most-n-given-digit-set) |
+| [0906-super-palindromes](https://github.com/gauthamnholla/coding-practice/tree/master/0906-super-palindromes) |
 | [0937-reorder-data-in-log-files](https://github.com/gauthamnholla/coding-practice/tree/master/0937-reorder-data-in-log-files) |
 | [0944-delete-columns-to-make-sorted](https://github.com/gauthamnholla/coding-practice/tree/master/0944-delete-columns-to-make-sorted) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/gauthamnholla/coding-practice/tree/master/0955-delete-columns-to-make-sorted-ii) |
