@@ -2437,6 +2437,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0840-magic-squares-in-grid](https://github.com/gauthamnholla/coding-practice/tree/master/0840-magic-squares-in-grid) |
 | [0843-guess-the-word](https://github.com/gauthamnholla/coding-practice/tree/master/0843-guess-the-word) |
 | [0858-mirror-reflection](https://github.com/gauthamnholla/coding-practice/tree/master/0858-mirror-reflection) |
+| [0866-prime-palindrome](https://github.com/gauthamnholla/coding-practice/tree/master/0866-prime-palindrome) |
 | [0867-new-21-game](https://github.com/gauthamnholla/coding-practice/tree/master/0867-new-21-game) |
 | [0891-sum-of-subsequence-widths](https://github.com/gauthamnholla/coding-practice/tree/master/0891-sum-of-subsequence-widths) |
 | [0894-random-pick-with-blacklist](https://github.com/gauthamnholla/coding-practice/tree/master/0894-random-pick-with-blacklist) |
@@ -4030,6 +4031,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/gauthamnholla/coding-practice/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/gauthamnholla/coding-practice/tree/master/0258-add-digits) |
 | [0858-mirror-reflection](https://github.com/gauthamnholla/coding-practice/tree/master/0858-mirror-reflection) |
+| [0866-prime-palindrome](https://github.com/gauthamnholla/coding-practice/tree/master/0866-prime-palindrome) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/gauthamnholla/coding-practice/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [0989-largest-component-size-by-common-factor](https://github.com/gauthamnholla/coding-practice/tree/master/0989-largest-component-size-by-common-factor) |
 | [1766-tree-of-coprimes](https://github.com/gauthamnholla/coding-practice/tree/master/1766-tree-of-coprimes) |
