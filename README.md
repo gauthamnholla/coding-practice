@@ -2432,6 +2432,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0826-soup-servings](https://github.com/gauthamnholla/coding-practice/tree/master/0826-soup-servings) |
 | [0829-consecutive-numbers-sum](https://github.com/gauthamnholla/coding-practice/tree/master/0829-consecutive-numbers-sum) |
 | [0830-largest-triangle-area](https://github.com/gauthamnholla/coding-practice/tree/master/0830-largest-triangle-area) |
+| [0836-rectangle-overlap](https://github.com/gauthamnholla/coding-practice/tree/master/0836-rectangle-overlap) |
 | [0840-magic-squares-in-grid](https://github.com/gauthamnholla/coding-practice/tree/master/0840-magic-squares-in-grid) |
 | [0867-new-21-game](https://github.com/gauthamnholla/coding-practice/tree/master/0867-new-21-game) |
 | [0891-sum-of-subsequence-widths](https://github.com/gauthamnholla/coding-practice/tree/master/0891-sum-of-subsequence-widths) |
@@ -3967,6 +3968,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0587-erect-the-fence](https://github.com/gauthamnholla/coding-practice/tree/master/0587-erect-the-fence) |
 | [0593-valid-square](https://github.com/gauthamnholla/coding-practice/tree/master/0593-valid-square) |
 | [0830-largest-triangle-area](https://github.com/gauthamnholla/coding-practice/tree/master/0830-largest-triangle-area) |
+| [0836-rectangle-overlap](https://github.com/gauthamnholla/coding-practice/tree/master/0836-rectangle-overlap) |
 | [0919-projection-area-of-3d-shapes](https://github.com/gauthamnholla/coding-practice/tree/master/0919-projection-area-of-3d-shapes) |
 | [0928-surface-area-of-3d-shapes](https://github.com/gauthamnholla/coding-practice/tree/master/0928-surface-area-of-3d-shapes) |
 | [0939-minimum-area-rectangle](https://github.com/gauthamnholla/coding-practice/tree/master/0939-minimum-area-rectangle) |
