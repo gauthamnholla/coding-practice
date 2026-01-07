@@ -2013,6 +2013,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0514-freedom-trail](https://github.com/gauthamnholla/coding-practice/tree/master/0514-freedom-trail) |
 | [0553-optimal-division](https://github.com/gauthamnholla/coding-practice/tree/master/0553-optimal-division) |
 | [0646-maximum-length-of-pair-chain](https://github.com/gauthamnholla/coding-practice/tree/master/0646-maximum-length-of-pair-chain) |
+| [0650-2-keys-keyboard](https://github.com/gauthamnholla/coding-practice/tree/master/0650-2-keys-keyboard) |
 | [0747-min-cost-climbing-stairs](https://github.com/gauthamnholla/coding-practice/tree/master/0747-min-cost-climbing-stairs) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/gauthamnholla/coding-practice/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0792-number-of-matching-subsequences](https://github.com/gauthamnholla/coding-practice/tree/master/0792-number-of-matching-subsequences) |
@@ -2398,6 +2399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0598-range-addition-ii](https://github.com/gauthamnholla/coding-practice/tree/master/0598-range-addition-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/gauthamnholla/coding-practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0640-solve-the-equation](https://github.com/gauthamnholla/coding-practice/tree/master/0640-solve-the-equation) |
+| [0650-2-keys-keyboard](https://github.com/gauthamnholla/coding-practice/tree/master/0650-2-keys-keyboard) |
 | [0670-maximum-swap](https://github.com/gauthamnholla/coding-practice/tree/master/0670-maximum-swap) |
 | [0672-bulb-switcher-ii](https://github.com/gauthamnholla/coding-practice/tree/master/0672-bulb-switcher-ii) |
 | [0679-24-game](https://github.com/gauthamnholla/coding-practice/tree/master/0679-24-game) |
