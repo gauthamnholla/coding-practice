@@ -2034,6 +2034,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0834-sum-of-distances-in-tree](https://github.com/gauthamnholla/coding-practice/tree/master/0834-sum-of-distances-in-tree) |
 | [0867-new-21-game](https://github.com/gauthamnholla/coding-practice/tree/master/0867-new-21-game) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/gauthamnholla/coding-practice/tree/master/0871-minimum-number-of-refueling-stops) |
+| [0887-super-egg-drop](https://github.com/gauthamnholla/coding-practice/tree/master/0887-super-egg-drop) |
 | [0909-stone-game](https://github.com/gauthamnholla/coding-practice/tree/master/0909-stone-game) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/gauthamnholla/coding-practice/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0949-cat-and-mouse](https://github.com/gauthamnholla/coding-practice/tree/master/0949-cat-and-mouse) |
@@ -2440,6 +2441,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0866-prime-palindrome](https://github.com/gauthamnholla/coding-practice/tree/master/0866-prime-palindrome) |
 | [0867-new-21-game](https://github.com/gauthamnholla/coding-practice/tree/master/0867-new-21-game) |
 | [0878-nth-magical-number](https://github.com/gauthamnholla/coding-practice/tree/master/0878-nth-magical-number) |
+| [0887-super-egg-drop](https://github.com/gauthamnholla/coding-practice/tree/master/0887-super-egg-drop) |
 | [0891-sum-of-subsequence-widths](https://github.com/gauthamnholla/coding-practice/tree/master/0891-sum-of-subsequence-widths) |
 | [0894-random-pick-with-blacklist](https://github.com/gauthamnholla/coding-practice/tree/master/0894-random-pick-with-blacklist) |
 | [0899-orderly-queue](https://github.com/gauthamnholla/coding-practice/tree/master/0899-orderly-queue) |
@@ -3562,6 +3564,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0825-friends-of-appropriate-ages](https://github.com/gauthamnholla/coding-practice/tree/master/0825-friends-of-appropriate-ages) |
 | [0826-most-profit-assigning-work](https://github.com/gauthamnholla/coding-practice/tree/master/0826-most-profit-assigning-work) |
 | [0878-nth-magical-number](https://github.com/gauthamnholla/coding-practice/tree/master/0878-nth-magical-number) |
+| [0887-super-egg-drop](https://github.com/gauthamnholla/coding-practice/tree/master/0887-super-egg-drop) |
 | [0894-random-pick-with-blacklist](https://github.com/gauthamnholla/coding-practice/tree/master/0894-random-pick-with-blacklist) |
 | [0924-fair-candy-swap](https://github.com/gauthamnholla/coding-practice/tree/master/0924-fair-candy-swap) |
 | [1170-compare-strings-by-frequency-of-the-smallest-character](https://github.com/gauthamnholla/coding-practice/tree/master/1170-compare-strings-by-frequency-of-the-smallest-character) |
