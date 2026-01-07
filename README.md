@@ -1657,6 +1657,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0749-shortest-completing-word](https://github.com/gauthamnholla/coding-practice/tree/master/0749-shortest-completing-word) |
 | [0756-pyramid-transition-matrix](https://github.com/gauthamnholla/coding-practice/tree/master/0756-pyramid-transition-matrix) |
 | [0767-reorganize-string](https://github.com/gauthamnholla/coding-practice/tree/master/0767-reorganize-string) |
+| [0770-basic-calculator-iv](https://github.com/gauthamnholla/coding-practice/tree/master/0770-basic-calculator-iv) |
 | [0791-custom-sort-string](https://github.com/gauthamnholla/coding-practice/tree/master/0791-custom-sort-string) |
 | [0792-number-of-matching-subsequences](https://github.com/gauthamnholla/coding-practice/tree/master/0792-number-of-matching-subsequences) |
 | [0816-design-hashset](https://github.com/gauthamnholla/coding-practice/tree/master/0816-design-hashset) |
@@ -2410,6 +2411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0738-monotone-increasing-digits](https://github.com/gauthamnholla/coding-practice/tree/master/0738-monotone-increasing-digits) |
 | [0754-reach-a-number](https://github.com/gauthamnholla/coding-practice/tree/master/0754-reach-a-number) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/gauthamnholla/coding-practice/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+| [0770-basic-calculator-iv](https://github.com/gauthamnholla/coding-practice/tree/master/0770-basic-calculator-iv) |
 | [0826-soup-servings](https://github.com/gauthamnholla/coding-practice/tree/master/0826-soup-servings) |
 | [0830-largest-triangle-area](https://github.com/gauthamnholla/coding-practice/tree/master/0830-largest-triangle-area) |
 | [0840-magic-squares-in-grid](https://github.com/gauthamnholla/coding-practice/tree/master/0840-magic-squares-in-grid) |
@@ -2644,6 +2646,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0749-shortest-completing-word](https://github.com/gauthamnholla/coding-practice/tree/master/0749-shortest-completing-word) |
 | [0756-pyramid-transition-matrix](https://github.com/gauthamnholla/coding-practice/tree/master/0756-pyramid-transition-matrix) |
 | [0767-reorganize-string](https://github.com/gauthamnholla/coding-practice/tree/master/0767-reorganize-string) |
+| [0770-basic-calculator-iv](https://github.com/gauthamnholla/coding-practice/tree/master/0770-basic-calculator-iv) |
 | [0791-custom-sort-string](https://github.com/gauthamnholla/coding-practice/tree/master/0791-custom-sort-string) |
 | [0792-number-of-matching-subsequences](https://github.com/gauthamnholla/coding-practice/tree/master/0792-number-of-matching-subsequences) |
 | [0812-rotate-string](https://github.com/gauthamnholla/coding-practice/tree/master/0812-rotate-string) |
@@ -3077,6 +3080,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0726-number-of-atoms](https://github.com/gauthamnholla/coding-practice/tree/master/0726-number-of-atoms) |
 | [0739-daily-temperatures](https://github.com/gauthamnholla/coding-practice/tree/master/0739-daily-temperatures) |
 | [0768-max-chunks-to-make-sorted-ii](https://github.com/gauthamnholla/coding-practice/tree/master/0768-max-chunks-to-make-sorted-ii) |
+| [0770-basic-calculator-iv](https://github.com/gauthamnholla/coding-practice/tree/master/0770-basic-calculator-iv) |
 | [0853-car-fleet](https://github.com/gauthamnholla/coding-practice/tree/master/0853-car-fleet) |
 | [0897-increasing-order-search-tree](https://github.com/gauthamnholla/coding-practice/tree/master/0897-increasing-order-search-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/gauthamnholla/coding-practice/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -3654,6 +3658,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/gauthamnholla/coding-practice/tree/master/0394-decode-string) |
 | [0486-predict-the-winner](https://github.com/gauthamnholla/coding-practice/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/gauthamnholla/coding-practice/tree/master/0509-fibonacci-number) |
+| [0770-basic-calculator-iv](https://github.com/gauthamnholla/coding-practice/tree/master/0770-basic-calculator-iv) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/gauthamnholla/coding-practice/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [2094-finding-3-digit-even-numbers](https://github.com/gauthamnholla/coding-practice/tree/master/2094-finding-3-digit-even-numbers) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/gauthamnholla/coding-practice/tree/master/3600-find-the-k-th-character-in-string-game-i) |
