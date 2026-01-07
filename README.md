@@ -1543,6 +1543,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0204-count-primes](https://github.com/gauthamnholla/coding-practice/tree/master/0204-count-primes) |
 | [0479-largest-palindrome-product](https://github.com/gauthamnholla/coding-practice/tree/master/0479-largest-palindrome-product) |
+| [0829-consecutive-numbers-sum](https://github.com/gauthamnholla/coding-practice/tree/master/0829-consecutive-numbers-sum) |
 | [0900-reordered-power-of-2](https://github.com/gauthamnholla/coding-practice/tree/master/0900-reordered-power-of-2) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/gauthamnholla/coding-practice/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/gauthamnholla/coding-practice/tree/master/1863-sum-of-all-subset-xor-totals) |
@@ -2429,6 +2430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0789-escape-the-ghosts](https://github.com/gauthamnholla/coding-practice/tree/master/0789-escape-the-ghosts) |
 | [0810-chalkboard-xor-game](https://github.com/gauthamnholla/coding-practice/tree/master/0810-chalkboard-xor-game) |
 | [0826-soup-servings](https://github.com/gauthamnholla/coding-practice/tree/master/0826-soup-servings) |
+| [0829-consecutive-numbers-sum](https://github.com/gauthamnholla/coding-practice/tree/master/0829-consecutive-numbers-sum) |
 | [0830-largest-triangle-area](https://github.com/gauthamnholla/coding-practice/tree/master/0830-largest-triangle-area) |
 | [0840-magic-squares-in-grid](https://github.com/gauthamnholla/coding-practice/tree/master/0840-magic-squares-in-grid) |
 | [0867-new-21-game](https://github.com/gauthamnholla/coding-practice/tree/master/0867-new-21-game) |
