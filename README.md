@@ -215,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0768-max-chunks-to-make-sorted-ii](https://github.com/gauthamnholla/coding-practice/tree/master/0768-max-chunks-to-make-sorted-ii) |
 | [0775-global-and-local-inversions](https://github.com/gauthamnholla/coding-practice/tree/master/0775-global-and-local-inversions) |
 | [0777-toeplitz-matrix](https://github.com/gauthamnholla/coding-practice/tree/master/0777-toeplitz-matrix) |
+| [0781-rabbits-in-forest](https://github.com/gauthamnholla/coding-practice/tree/master/0781-rabbits-in-forest) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/gauthamnholla/coding-practice/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0792-binary-search](https://github.com/gauthamnholla/coding-practice/tree/master/0792-binary-search) |
 | [0792-number-of-matching-subsequences](https://github.com/gauthamnholla/coding-practice/tree/master/0792-number-of-matching-subsequences) |
@@ -802,6 +803,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0765-couples-holding-hands](https://github.com/gauthamnholla/coding-practice/tree/master/0765-couples-holding-hands) |
 | [0767-reorganize-string](https://github.com/gauthamnholla/coding-practice/tree/master/0767-reorganize-string) |
 | [0768-max-chunks-to-make-sorted-ii](https://github.com/gauthamnholla/coding-practice/tree/master/0768-max-chunks-to-make-sorted-ii) |
+| [0781-rabbits-in-forest](https://github.com/gauthamnholla/coding-practice/tree/master/0781-rabbits-in-forest) |
 | [0826-most-profit-assigning-work](https://github.com/gauthamnholla/coding-practice/tree/master/0826-most-profit-assigning-work) |
 | [0846-hand-of-straights](https://github.com/gauthamnholla/coding-practice/tree/master/0846-hand-of-straights) |
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/gauthamnholla/coding-practice/tree/master/0857-minimum-cost-to-hire-k-workers) |
@@ -1659,6 +1661,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0756-pyramid-transition-matrix](https://github.com/gauthamnholla/coding-practice/tree/master/0756-pyramid-transition-matrix) |
 | [0767-reorganize-string](https://github.com/gauthamnholla/coding-practice/tree/master/0767-reorganize-string) |
 | [0770-basic-calculator-iv](https://github.com/gauthamnholla/coding-practice/tree/master/0770-basic-calculator-iv) |
+| [0781-rabbits-in-forest](https://github.com/gauthamnholla/coding-practice/tree/master/0781-rabbits-in-forest) |
 | [0791-custom-sort-string](https://github.com/gauthamnholla/coding-practice/tree/master/0791-custom-sort-string) |
 | [0792-number-of-matching-subsequences](https://github.com/gauthamnholla/coding-practice/tree/master/0792-number-of-matching-subsequences) |
 | [0816-design-hashset](https://github.com/gauthamnholla/coding-practice/tree/master/0816-design-hashset) |
@@ -2416,6 +2419,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0775-global-and-local-inversions](https://github.com/gauthamnholla/coding-practice/tree/master/0775-global-and-local-inversions) |
 | [0779-k-th-symbol-in-grammar](https://github.com/gauthamnholla/coding-practice/tree/master/0779-k-th-symbol-in-grammar) |
 | [0780-reaching-points](https://github.com/gauthamnholla/coding-practice/tree/master/0780-reaching-points) |
+| [0781-rabbits-in-forest](https://github.com/gauthamnholla/coding-practice/tree/master/0781-rabbits-in-forest) |
 | [0826-soup-servings](https://github.com/gauthamnholla/coding-practice/tree/master/0826-soup-servings) |
 | [0830-largest-triangle-area](https://github.com/gauthamnholla/coding-practice/tree/master/0830-largest-triangle-area) |
 | [0840-magic-squares-in-grid](https://github.com/gauthamnholla/coding-practice/tree/master/0840-magic-squares-in-grid) |
