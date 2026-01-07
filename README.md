@@ -1904,6 +1904,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0537-complex-number-multiplication](https://github.com/gauthamnholla/coding-practice/tree/master/0537-complex-number-multiplication) |
 | [0566-reshape-the-matrix](https://github.com/gauthamnholla/coding-practice/tree/master/0566-reshape-the-matrix) |
 | [0592-fraction-addition-and-subtraction](https://github.com/gauthamnholla/coding-practice/tree/master/0592-fraction-addition-and-subtraction) |
+| [0640-solve-the-equation](https://github.com/gauthamnholla/coding-practice/tree/master/0640-solve-the-equation) |
 | [0682-baseball-game](https://github.com/gauthamnholla/coding-practice/tree/master/0682-baseball-game) |
 | [0749-contain-virus](https://github.com/gauthamnholla/coding-practice/tree/master/0749-contain-virus) |
 | [0861-flipping-an-image](https://github.com/gauthamnholla/coding-practice/tree/master/0861-flipping-an-image) |
@@ -2396,6 +2397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0593-valid-square](https://github.com/gauthamnholla/coding-practice/tree/master/0593-valid-square) |
 | [0598-range-addition-ii](https://github.com/gauthamnholla/coding-practice/tree/master/0598-range-addition-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/gauthamnholla/coding-practice/tree/master/0628-maximum-product-of-three-numbers) |
+| [0640-solve-the-equation](https://github.com/gauthamnholla/coding-practice/tree/master/0640-solve-the-equation) |
 | [0670-maximum-swap](https://github.com/gauthamnholla/coding-practice/tree/master/0670-maximum-swap) |
 | [0672-bulb-switcher-ii](https://github.com/gauthamnholla/coding-practice/tree/master/0672-bulb-switcher-ii) |
 | [0679-24-game](https://github.com/gauthamnholla/coding-practice/tree/master/0679-24-game) |
@@ -2625,6 +2627,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0599-minimum-index-sum-of-two-lists](https://github.com/gauthamnholla/coding-practice/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0606-construct-string-from-binary-tree](https://github.com/gauthamnholla/coding-practice/tree/master/0606-construct-string-from-binary-tree) |
 | [0609-find-duplicate-file-in-system](https://github.com/gauthamnholla/coding-practice/tree/master/0609-find-duplicate-file-in-system) |
+| [0640-solve-the-equation](https://github.com/gauthamnholla/coding-practice/tree/master/0640-solve-the-equation) |
 | [0676-implement-magic-dictionary](https://github.com/gauthamnholla/coding-practice/tree/master/0676-implement-magic-dictionary) |
 | [0686-repeated-string-match](https://github.com/gauthamnholla/coding-practice/tree/master/0686-repeated-string-match) |
 | [0692-top-k-frequent-words](https://github.com/gauthamnholla/coding-practice/tree/master/0692-top-k-frequent-words) |
