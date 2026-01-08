@@ -804,6 +804,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0630-course-schedule-iii](https://github.com/gauthamnholla/coding-practice/tree/master/0630-course-schedule-iii) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/gauthamnholla/coding-practice/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0646-maximum-length-of-pair-chain](https://github.com/gauthamnholla/coding-practice/tree/master/0646-maximum-length-of-pair-chain) |
+| [0649-dota2-senate](https://github.com/gauthamnholla/coding-practice/tree/master/0649-dota2-senate) |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/gauthamnholla/coding-practice/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [0670-maximum-swap](https://github.com/gauthamnholla/coding-practice/tree/master/0670-maximum-swap) |
 | [0738-monotone-increasing-digits](https://github.com/gauthamnholla/coding-practice/tree/master/0738-monotone-increasing-digits) |
@@ -2688,6 +2689,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0609-find-duplicate-file-in-system](https://github.com/gauthamnholla/coding-practice/tree/master/0609-find-duplicate-file-in-system) |
 | [0640-solve-the-equation](https://github.com/gauthamnholla/coding-practice/tree/master/0640-solve-the-equation) |
 | [0648-replace-words](https://github.com/gauthamnholla/coding-practice/tree/master/0648-replace-words) |
+| [0649-dota2-senate](https://github.com/gauthamnholla/coding-practice/tree/master/0649-dota2-senate) |
 | [0676-implement-magic-dictionary](https://github.com/gauthamnholla/coding-practice/tree/master/0676-implement-magic-dictionary) |
 | [0686-repeated-string-match](https://github.com/gauthamnholla/coding-practice/tree/master/0686-repeated-string-match) |
 | [0692-top-k-frequent-words](https://github.com/gauthamnholla/coding-practice/tree/master/0692-top-k-frequent-words) |
@@ -4037,6 +4039,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/gauthamnholla/coding-practice/tree/master/0387-first-unique-character-in-a-string) |
 | [0622-design-circular-queue](https://github.com/gauthamnholla/coding-practice/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/gauthamnholla/coding-practice/tree/master/0641-design-circular-deque) |
+| [0649-dota2-senate](https://github.com/gauthamnholla/coding-practice/tree/master/0649-dota2-senate) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/gauthamnholla/coding-practice/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/gauthamnholla/coding-practice/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1696-jump-game-vi](https://github.com/gauthamnholla/coding-practice/tree/master/1696-jump-game-vi) |
