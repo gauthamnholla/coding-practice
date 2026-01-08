@@ -2035,6 +2035,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0583-delete-operation-for-two-strings](https://github.com/gauthamnholla/coding-practice/tree/master/0583-delete-operation-for-two-strings) |
 | [0646-maximum-length-of-pair-chain](https://github.com/gauthamnholla/coding-practice/tree/master/0646-maximum-length-of-pair-chain) |
 | [0650-2-keys-keyboard](https://github.com/gauthamnholla/coding-practice/tree/master/0650-2-keys-keyboard) |
+| [0664-strange-printer](https://github.com/gauthamnholla/coding-practice/tree/master/0664-strange-printer) |
 | [0747-min-cost-climbing-stairs](https://github.com/gauthamnholla/coding-practice/tree/master/0747-min-cost-climbing-stairs) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/gauthamnholla/coding-practice/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0788-rotated-digits](https://github.com/gauthamnholla/coding-practice/tree/master/0788-rotated-digits) |
@@ -2690,6 +2691,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0640-solve-the-equation](https://github.com/gauthamnholla/coding-practice/tree/master/0640-solve-the-equation) |
 | [0648-replace-words](https://github.com/gauthamnholla/coding-practice/tree/master/0648-replace-words) |
 | [0649-dota2-senate](https://github.com/gauthamnholla/coding-practice/tree/master/0649-dota2-senate) |
+| [0664-strange-printer](https://github.com/gauthamnholla/coding-practice/tree/master/0664-strange-printer) |
 | [0676-implement-magic-dictionary](https://github.com/gauthamnholla/coding-practice/tree/master/0676-implement-magic-dictionary) |
 | [0686-repeated-string-match](https://github.com/gauthamnholla/coding-practice/tree/master/0686-repeated-string-match) |
 | [0692-top-k-frequent-words](https://github.com/gauthamnholla/coding-practice/tree/master/0692-top-k-frequent-words) |
