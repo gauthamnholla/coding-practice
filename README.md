@@ -362,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/gauthamnholla/coding-practice/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1436-get-watched-videos-by-your-friends](https://github.com/gauthamnholla/coding-practice/tree/master/1436-get-watched-videos-by-your-friends) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/gauthamnholla/coding-practice/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+| [1458-max-dot-product-of-two-subsequences](https://github.com/gauthamnholla/coding-practice/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/gauthamnholla/coding-practice/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/gauthamnholla/coding-practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1465-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts](https://github.com/gauthamnholla/coding-practice/tree/master/1465-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts) |
@@ -2062,6 +2063,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1402-reducing-dishes](https://github.com/gauthamnholla/coding-practice/tree/master/1402-reducing-dishes) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/gauthamnholla/coding-practice/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/gauthamnholla/coding-practice/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [1458-max-dot-product-of-two-subsequences](https://github.com/gauthamnholla/coding-practice/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1467-probability-of-a-two-boxes-having-the-same-number-of-distinct-balls](https://github.com/gauthamnholla/coding-practice/tree/master/1467-probability-of-a-two-boxes-having-the-same-number-of-distinct-balls) |
 | [1478-allocate-mailboxes](https://github.com/gauthamnholla/coding-practice/tree/master/1478-allocate-mailboxes) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/gauthamnholla/coding-practice/tree/master/1547-minimum-cost-to-cut-a-stick) |
