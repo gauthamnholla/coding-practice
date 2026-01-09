@@ -1643,6 +1643,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0398-random-pick-index](https://github.com/gauthamnholla/coding-practice/tree/master/0398-random-pick-index) |
 | [0409-longest-palindrome](https://github.com/gauthamnholla/coding-practice/tree/master/0409-longest-palindrome) |
 | [0423-reconstruct-original-digits-from-english](https://github.com/gauthamnholla/coding-practice/tree/master/0423-reconstruct-original-digits-from-english) |
+| [0433-minimum-genetic-mutation](https://github.com/gauthamnholla/coding-practice/tree/master/0433-minimum-genetic-mutation) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/gauthamnholla/coding-practice/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0447-number-of-boomerangs](https://github.com/gauthamnholla/coding-practice/tree/master/0447-number-of-boomerangs) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/gauthamnholla/coding-practice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -2676,6 +2677,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/gauthamnholla/coding-practice/tree/master/0415-add-strings) |
 | [0420-strong-password-checker](https://github.com/gauthamnholla/coding-practice/tree/master/0420-strong-password-checker) |
 | [0423-reconstruct-original-digits-from-english](https://github.com/gauthamnholla/coding-practice/tree/master/0423-reconstruct-original-digits-from-english) |
+| [0433-minimum-genetic-mutation](https://github.com/gauthamnholla/coding-practice/tree/master/0433-minimum-genetic-mutation) |
 | [0449-serialize-and-deserialize-bst](https://github.com/gauthamnholla/coding-practice/tree/master/0449-serialize-and-deserialize-bst) |
 | [0451-sort-characters-by-frequency](https://github.com/gauthamnholla/coding-practice/tree/master/0451-sort-characters-by-frequency) |
 | [0459-repeated-substring-pattern](https://github.com/gauthamnholla/coding-practice/tree/master/0459-repeated-substring-pattern) |
@@ -4150,6 +4152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0404-sum-of-left-leaves](https://github.com/gauthamnholla/coding-practice/tree/master/0404-sum-of-left-leaves) |
 | [0407-trapping-rain-water-ii](https://github.com/gauthamnholla/coding-practice/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/gauthamnholla/coding-practice/tree/master/0417-pacific-atlantic-water-flow) |
+| [0433-minimum-genetic-mutation](https://github.com/gauthamnholla/coding-practice/tree/master/0433-minimum-genetic-mutation) |
 | [0449-serialize-and-deserialize-bst](https://github.com/gauthamnholla/coding-practice/tree/master/0449-serialize-and-deserialize-bst) |
 | [0463-island-perimeter](https://github.com/gauthamnholla/coding-practice/tree/master/0463-island-perimeter) |
 | [0513-find-bottom-left-tree-value](https://github.com/gauthamnholla/coding-practice/tree/master/0513-find-bottom-left-tree-value) |
