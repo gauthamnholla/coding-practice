@@ -2678,6 +2678,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0420-strong-password-checker](https://github.com/gauthamnholla/coding-practice/tree/master/0420-strong-password-checker) |
 | [0423-reconstruct-original-digits-from-english](https://github.com/gauthamnholla/coding-practice/tree/master/0423-reconstruct-original-digits-from-english) |
 | [0433-minimum-genetic-mutation](https://github.com/gauthamnholla/coding-practice/tree/master/0433-minimum-genetic-mutation) |
+| [0434-number-of-segments-in-a-string](https://github.com/gauthamnholla/coding-practice/tree/master/0434-number-of-segments-in-a-string) |
 | [0449-serialize-and-deserialize-bst](https://github.com/gauthamnholla/coding-practice/tree/master/0449-serialize-and-deserialize-bst) |
 | [0451-sort-characters-by-frequency](https://github.com/gauthamnholla/coding-practice/tree/master/0451-sort-characters-by-frequency) |
 | [0459-repeated-substring-pattern](https://github.com/gauthamnholla/coding-practice/tree/master/0459-repeated-substring-pattern) |
