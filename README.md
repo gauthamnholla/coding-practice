@@ -1513,6 +1513,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/gauthamnholla/coding-practice/tree/master/0219-contains-duplicate-ii) |
 | [0220-contains-duplicate-iii](https://github.com/gauthamnholla/coding-practice/tree/master/0220-contains-duplicate-iii) |
 | [0239-sliding-window-maximum](https://github.com/gauthamnholla/coding-practice/tree/master/0239-sliding-window-maximum) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/gauthamnholla/coding-practice/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0480-sliding-window-median](https://github.com/gauthamnholla/coding-practice/tree/master/0480-sliding-window-median) |
 | [0567-permutation-in-string](https://github.com/gauthamnholla/coding-practice/tree/master/0567-permutation-in-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/gauthamnholla/coding-practice/tree/master/0594-longest-harmonious-subsequence) |
@@ -1637,6 +1638,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/gauthamnholla/coding-practice/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/gauthamnholla/coding-practice/tree/master/0389-find-the-difference) |
 | [0391-perfect-rectangle](https://github.com/gauthamnholla/coding-practice/tree/master/0391-perfect-rectangle) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/gauthamnholla/coding-practice/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0398-random-pick-index](https://github.com/gauthamnholla/coding-practice/tree/master/0398-random-pick-index) |
 | [0423-reconstruct-original-digits-from-english](https://github.com/gauthamnholla/coding-practice/tree/master/0423-reconstruct-original-digits-from-english) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/gauthamnholla/coding-practice/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -2663,6 +2665,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/gauthamnholla/coding-practice/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/gauthamnholla/coding-practice/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/gauthamnholla/coding-practice/tree/master/0394-decode-string) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/gauthamnholla/coding-practice/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0399-evaluate-division](https://github.com/gauthamnholla/coding-practice/tree/master/0399-evaluate-division) |
 | [0402-remove-k-digits](https://github.com/gauthamnholla/coding-practice/tree/master/0402-remove-k-digits) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/gauthamnholla/coding-practice/tree/master/0405-convert-a-number-to-hexadecimal) |
@@ -3896,6 +3899,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0327-count-of-range-sum](https://github.com/gauthamnholla/coding-practice/tree/master/0327-count-of-range-sum) |
 | [0347-top-k-frequent-elements](https://github.com/gauthamnholla/coding-practice/tree/master/0347-top-k-frequent-elements) |
 | [0372-super-pow](https://github.com/gauthamnholla/coding-practice/tree/master/0372-super-pow) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/gauthamnholla/coding-practice/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0948-sort-an-array](https://github.com/gauthamnholla/coding-practice/tree/master/0948-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/gauthamnholla/coding-practice/tree/master/0973-k-closest-points-to-origin) |
 | [1382-balance-a-binary-search-tree](https://github.com/gauthamnholla/coding-practice/tree/master/1382-balance-a-binary-search-tree) |
