@@ -2077,6 +2077,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0920-number-of-music-playlists](https://github.com/gauthamnholla/coding-practice/tree/master/0920-number-of-music-playlists) |
 | [0926-flip-string-to-monotone-increasing](https://github.com/gauthamnholla/coding-practice/tree/master/0926-flip-string-to-monotone-increasing) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/gauthamnholla/coding-practice/tree/master/0934-bitwise-ors-of-subarrays) |
+| [0940-distinct-subsequences-ii](https://github.com/gauthamnholla/coding-practice/tree/master/0940-distinct-subsequences-ii) |
 | [0949-cat-and-mouse](https://github.com/gauthamnholla/coding-practice/tree/master/0949-cat-and-mouse) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/gauthamnholla/coding-practice/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [0968-binary-tree-cameras](https://github.com/gauthamnholla/coding-practice/tree/master/0968-binary-tree-cameras) |
@@ -2778,6 +2779,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0926-flip-string-to-monotone-increasing](https://github.com/gauthamnholla/coding-practice/tree/master/0926-flip-string-to-monotone-increasing) |
 | [0936-stamping-the-sequence](https://github.com/gauthamnholla/coding-practice/tree/master/0936-stamping-the-sequence) |
 | [0937-reorder-data-in-log-files](https://github.com/gauthamnholla/coding-practice/tree/master/0937-reorder-data-in-log-files) |
+| [0940-distinct-subsequences-ii](https://github.com/gauthamnholla/coding-practice/tree/master/0940-distinct-subsequences-ii) |
 | [0944-delete-columns-to-make-sorted](https://github.com/gauthamnholla/coding-practice/tree/master/0944-delete-columns-to-make-sorted) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/gauthamnholla/coding-practice/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/gauthamnholla/coding-practice/tree/master/0960-delete-columns-to-make-sorted-iii) |
