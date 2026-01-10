@@ -2750,6 +2750,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0843-guess-the-word](https://github.com/gauthamnholla/coding-practice/tree/master/0843-guess-the-word) |
 | [0844-backspace-string-compare](https://github.com/gauthamnholla/coding-practice/tree/master/0844-backspace-string-compare) |
 | [0848-shifting-letters](https://github.com/gauthamnholla/coding-practice/tree/master/0848-shifting-letters) |
+| [0856-score-of-parentheses](https://github.com/gauthamnholla/coding-practice/tree/master/0856-score-of-parentheses) |
 | [0858-masking-personal-information](https://github.com/gauthamnholla/coding-practice/tree/master/0858-masking-personal-information) |
 | [0893-groups-of-special-equivalent-strings](https://github.com/gauthamnholla/coding-practice/tree/master/0893-groups-of-special-equivalent-strings) |
 | [0899-orderly-queue](https://github.com/gauthamnholla/coding-practice/tree/master/0899-orderly-queue) |
@@ -3182,6 +3183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0770-basic-calculator-iv](https://github.com/gauthamnholla/coding-practice/tree/master/0770-basic-calculator-iv) |
 | [0844-backspace-string-compare](https://github.com/gauthamnholla/coding-practice/tree/master/0844-backspace-string-compare) |
 | [0853-car-fleet](https://github.com/gauthamnholla/coding-practice/tree/master/0853-car-fleet) |
+| [0856-score-of-parentheses](https://github.com/gauthamnholla/coding-practice/tree/master/0856-score-of-parentheses) |
 | [0897-increasing-order-search-tree](https://github.com/gauthamnholla/coding-practice/tree/master/0897-increasing-order-search-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/gauthamnholla/coding-practice/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1019-next-greater-node-in-linked-list](https://github.com/gauthamnholla/coding-practice/tree/master/1019-next-greater-node-in-linked-list) |
