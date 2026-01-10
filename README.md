@@ -825,6 +825,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/gauthamnholla/coding-practice/tree/master/0881-boats-to-save-people) |
 | [0890-lemonade-change](https://github.com/gauthamnholla/coding-practice/tree/master/0890-lemonade-change) |
 | [0910-smallest-range-ii](https://github.com/gauthamnholla/coding-practice/tree/master/0910-smallest-range-ii) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/gauthamnholla/coding-practice/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/gauthamnholla/coding-practice/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [0948-bag-of-tokens](https://github.com/gauthamnholla/coding-practice/tree/master/0948-bag-of-tokens) |
 | [0954-array-of-doubled-pairs](https://github.com/gauthamnholla/coding-practice/tree/master/0954-array-of-doubled-pairs) |
@@ -2769,6 +2770,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0906-super-palindromes](https://github.com/gauthamnholla/coding-practice/tree/master/0906-super-palindromes) |
 | [0916-word-subsets](https://github.com/gauthamnholla/coding-practice/tree/master/0916-word-subsets) |
 | [0917-reverse-only-letters](https://github.com/gauthamnholla/coding-practice/tree/master/0917-reverse-only-letters) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/gauthamnholla/coding-practice/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0937-reorder-data-in-log-files](https://github.com/gauthamnholla/coding-practice/tree/master/0937-reorder-data-in-log-files) |
 | [0944-delete-columns-to-make-sorted](https://github.com/gauthamnholla/coding-practice/tree/master/0944-delete-columns-to-make-sorted) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/gauthamnholla/coding-practice/tree/master/0955-delete-columns-to-make-sorted-ii) |
@@ -3199,6 +3201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0856-score-of-parentheses](https://github.com/gauthamnholla/coding-practice/tree/master/0856-score-of-parentheses) |
 | [0880-decoded-string-at-index](https://github.com/gauthamnholla/coding-practice/tree/master/0880-decoded-string-at-index) |
 | [0897-increasing-order-search-tree](https://github.com/gauthamnholla/coding-practice/tree/master/0897-increasing-order-search-tree) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/gauthamnholla/coding-practice/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/gauthamnholla/coding-practice/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1019-next-greater-node-in-linked-list](https://github.com/gauthamnholla/coding-practice/tree/master/1019-next-greater-node-in-linked-list) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/gauthamnholla/coding-practice/tree/master/1081-smallest-subsequence-of-distinct-characters) |
