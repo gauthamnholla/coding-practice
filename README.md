@@ -2242,6 +2242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/gauthamnholla/coding-practice/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0658-find-k-closest-elements](https://github.com/gauthamnholla/coding-practice/tree/master/0658-find-k-closest-elements) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/gauthamnholla/coding-practice/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [0777-swap-adjacent-in-lr-string](https://github.com/gauthamnholla/coding-practice/tree/master/0777-swap-adjacent-in-lr-string) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/gauthamnholla/coding-practice/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0825-friends-of-appropriate-ages](https://github.com/gauthamnholla/coding-practice/tree/master/0825-friends-of-appropriate-ages) |
 | [0826-most-profit-assigning-work](https://github.com/gauthamnholla/coding-practice/tree/master/0826-most-profit-assigning-work) |
@@ -2730,6 +2731,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0761-special-binary-string](https://github.com/gauthamnholla/coding-practice/tree/master/0761-special-binary-string) |
 | [0767-reorganize-string](https://github.com/gauthamnholla/coding-practice/tree/master/0767-reorganize-string) |
 | [0770-basic-calculator-iv](https://github.com/gauthamnholla/coding-practice/tree/master/0770-basic-calculator-iv) |
+| [0777-swap-adjacent-in-lr-string](https://github.com/gauthamnholla/coding-practice/tree/master/0777-swap-adjacent-in-lr-string) |
 | [0791-custom-sort-string](https://github.com/gauthamnholla/coding-practice/tree/master/0791-custom-sort-string) |
 | [0792-number-of-matching-subsequences](https://github.com/gauthamnholla/coding-practice/tree/master/0792-number-of-matching-subsequences) |
 | [0812-rotate-string](https://github.com/gauthamnholla/coding-practice/tree/master/0812-rotate-string) |
