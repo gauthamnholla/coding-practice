@@ -243,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0841-shortest-distance-to-a-character](https://github.com/gauthamnholla/coding-practice/tree/master/0841-shortest-distance-to-a-character) |
 | [0843-guess-the-word](https://github.com/gauthamnholla/coding-practice/tree/master/0843-guess-the-word) |
 | [0846-hand-of-straights](https://github.com/gauthamnholla/coding-practice/tree/master/0846-hand-of-straights) |
+| [0848-shifting-letters](https://github.com/gauthamnholla/coding-practice/tree/master/0848-shifting-letters) |
 | [0851-loud-and-rich](https://github.com/gauthamnholla/coding-practice/tree/master/0851-loud-and-rich) |
 | [0853-car-fleet](https://github.com/gauthamnholla/coding-practice/tree/master/0853-car-fleet) |
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/gauthamnholla/coding-practice/tree/master/0857-minimum-cost-to-hire-k-workers) |
@@ -2748,6 +2749,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0841-shortest-distance-to-a-character](https://github.com/gauthamnholla/coding-practice/tree/master/0841-shortest-distance-to-a-character) |
 | [0843-guess-the-word](https://github.com/gauthamnholla/coding-practice/tree/master/0843-guess-the-word) |
 | [0844-backspace-string-compare](https://github.com/gauthamnholla/coding-practice/tree/master/0844-backspace-string-compare) |
+| [0848-shifting-letters](https://github.com/gauthamnholla/coding-practice/tree/master/0848-shifting-letters) |
 | [0858-masking-personal-information](https://github.com/gauthamnholla/coding-practice/tree/master/0858-masking-personal-information) |
 | [0893-groups-of-special-equivalent-strings](https://github.com/gauthamnholla/coding-practice/tree/master/0893-groups-of-special-equivalent-strings) |
 | [0899-orderly-queue](https://github.com/gauthamnholla/coding-practice/tree/master/0899-orderly-queue) |
@@ -3484,6 +3486,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/gauthamnholla/coding-practice/tree/master/0523-continuous-subarray-sum) |
 | [0528-random-pick-with-weight](https://github.com/gauthamnholla/coding-practice/tree/master/0528-random-pick-with-weight) |
 | [0724-find-pivot-index](https://github.com/gauthamnholla/coding-practice/tree/master/0724-find-pivot-index) |
+| [0848-shifting-letters](https://github.com/gauthamnholla/coding-practice/tree/master/0848-shifting-letters) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/gauthamnholla/coding-practice/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1094-car-pooling](https://github.com/gauthamnholla/coding-practice/tree/master/1094-car-pooling) |
 | [1124-longest-well-performing-interval](https://github.com/gauthamnholla/coding-practice/tree/master/1124-longest-well-performing-interval) |
