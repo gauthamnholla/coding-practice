@@ -2264,6 +2264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/gauthamnholla/coding-practice/tree/master/0881-boats-to-save-people) |
 | [0917-reverse-only-letters](https://github.com/gauthamnholla/coding-practice/tree/master/0917-reverse-only-letters) |
 | [0923-3sum-with-multiplicity](https://github.com/gauthamnholla/coding-practice/tree/master/0923-3sum-with-multiplicity) |
+| [0925-long-pressed-name](https://github.com/gauthamnholla/coding-practice/tree/master/0925-long-pressed-name) |
 | [0941-sort-array-by-parity](https://github.com/gauthamnholla/coding-practice/tree/master/0941-sort-array-by-parity) |
 | [0948-bag-of-tokens](https://github.com/gauthamnholla/coding-practice/tree/master/0948-bag-of-tokens) |
 | [0958-sort-array-by-parity-ii](https://github.com/gauthamnholla/coding-practice/tree/master/0958-sort-array-by-parity-ii) |
@@ -2771,6 +2772,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0916-word-subsets](https://github.com/gauthamnholla/coding-practice/tree/master/0916-word-subsets) |
 | [0917-reverse-only-letters](https://github.com/gauthamnholla/coding-practice/tree/master/0917-reverse-only-letters) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/gauthamnholla/coding-practice/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [0925-long-pressed-name](https://github.com/gauthamnholla/coding-practice/tree/master/0925-long-pressed-name) |
 | [0937-reorder-data-in-log-files](https://github.com/gauthamnholla/coding-practice/tree/master/0937-reorder-data-in-log-files) |
 | [0944-delete-columns-to-make-sorted](https://github.com/gauthamnholla/coding-practice/tree/master/0944-delete-columns-to-make-sorted) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/gauthamnholla/coding-practice/tree/master/0955-delete-columns-to-make-sorted-ii) |
