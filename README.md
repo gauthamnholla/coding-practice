@@ -228,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0816-design-hashset](https://github.com/gauthamnholla/coding-practice/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/gauthamnholla/coding-practice/tree/master/0817-design-hashmap) |
 | [0817-linked-list-components](https://github.com/gauthamnholla/coding-practice/tree/master/0817-linked-list-components) |
+| [0820-short-encoding-of-words](https://github.com/gauthamnholla/coding-practice/tree/master/0820-short-encoding-of-words) |
 | [0822-unique-morse-code-words](https://github.com/gauthamnholla/coding-practice/tree/master/0822-unique-morse-code-words) |
 | [0823-binary-trees-with-factors](https://github.com/gauthamnholla/coding-practice/tree/master/0823-binary-trees-with-factors) |
 | [0824-number-of-lines-to-write-string](https://github.com/gauthamnholla/coding-practice/tree/master/0824-number-of-lines-to-write-string) |
@@ -1699,6 +1700,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0816-design-hashset](https://github.com/gauthamnholla/coding-practice/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/gauthamnholla/coding-practice/tree/master/0817-design-hashmap) |
 | [0817-linked-list-components](https://github.com/gauthamnholla/coding-practice/tree/master/0817-linked-list-components) |
+| [0820-short-encoding-of-words](https://github.com/gauthamnholla/coding-practice/tree/master/0820-short-encoding-of-words) |
 | [0822-unique-morse-code-words](https://github.com/gauthamnholla/coding-practice/tree/master/0822-unique-morse-code-words) |
 | [0823-binary-trees-with-factors](https://github.com/gauthamnholla/coding-practice/tree/master/0823-binary-trees-with-factors) |
 | [0833-bus-routes](https://github.com/gauthamnholla/coding-practice/tree/master/0833-bus-routes) |
@@ -2759,6 +2761,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-number-of-matching-subsequences](https://github.com/gauthamnholla/coding-practice/tree/master/0792-number-of-matching-subsequences) |
 | [0812-rotate-string](https://github.com/gauthamnholla/coding-practice/tree/master/0812-rotate-string) |
 | [0816-ambiguous-coordinates](https://github.com/gauthamnholla/coding-practice/tree/master/0816-ambiguous-coordinates) |
+| [0820-short-encoding-of-words](https://github.com/gauthamnholla/coding-practice/tree/master/0820-short-encoding-of-words) |
 | [0822-unique-morse-code-words](https://github.com/gauthamnholla/coding-practice/tree/master/0822-unique-morse-code-words) |
 | [0824-number-of-lines-to-write-string](https://github.com/gauthamnholla/coding-practice/tree/master/0824-number-of-lines-to-write-string) |
 | [0824-goat-latin](https://github.com/gauthamnholla/coding-practice/tree/master/0824-goat-latin) |
@@ -3173,6 +3176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0677-map-sum-pairs](https://github.com/gauthamnholla/coding-practice/tree/master/0677-map-sum-pairs) |
 | [0692-top-k-frequent-words](https://github.com/gauthamnholla/coding-practice/tree/master/0692-top-k-frequent-words) |
 | [0792-number-of-matching-subsequences](https://github.com/gauthamnholla/coding-practice/tree/master/0792-number-of-matching-subsequences) |
+| [0820-short-encoding-of-words](https://github.com/gauthamnholla/coding-practice/tree/master/0820-short-encoding-of-words) |
 | [1268-search-suggestions-system](https://github.com/gauthamnholla/coding-practice/tree/master/1268-search-suggestions-system) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/gauthamnholla/coding-practice/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1938-maximum-genetic-difference-query](https://github.com/gauthamnholla/coding-practice/tree/master/1938-maximum-genetic-difference-query) |
