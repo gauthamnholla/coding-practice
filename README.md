@@ -2739,6 +2739,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0816-ambiguous-coordinates](https://github.com/gauthamnholla/coding-practice/tree/master/0816-ambiguous-coordinates) |
 | [0822-unique-morse-code-words](https://github.com/gauthamnholla/coding-practice/tree/master/0822-unique-morse-code-words) |
 | [0824-number-of-lines-to-write-string](https://github.com/gauthamnholla/coding-practice/tree/master/0824-number-of-lines-to-write-string) |
+| [0824-goat-latin](https://github.com/gauthamnholla/coding-practice/tree/master/0824-goat-latin) |
 | [0833-find-and-replace-in-string](https://github.com/gauthamnholla/coding-practice/tree/master/0833-find-and-replace-in-string) |
 | [0837-most-common-word](https://github.com/gauthamnholla/coding-practice/tree/master/0837-most-common-word) |
 | [0839-similar-string-groups](https://github.com/gauthamnholla/coding-practice/tree/master/0839-similar-string-groups) |
