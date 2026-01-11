@@ -233,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0798-smallest-rotation-with-highest-score](https://github.com/gauthamnholla/coding-practice/tree/master/0798-smallest-rotation-with-highest-score) |
 | [0805-split-array-with-same-average](https://github.com/gauthamnholla/coding-practice/tree/master/0805-split-array-with-same-average) |
 | [0810-chalkboard-xor-game](https://github.com/gauthamnholla/coding-practice/tree/master/0810-chalkboard-xor-game) |
+| [0813-largest-sum-of-averages](https://github.com/gauthamnholla/coding-practice/tree/master/0813-largest-sum-of-averages) |
 | [0816-design-hashset](https://github.com/gauthamnholla/coding-practice/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/gauthamnholla/coding-practice/tree/master/0817-design-hashmap) |
 | [0817-linked-list-components](https://github.com/gauthamnholla/coding-practice/tree/master/0817-linked-list-components) |
@@ -2091,6 +2092,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0788-rotated-digits](https://github.com/gauthamnholla/coding-practice/tree/master/0788-rotated-digits) |
 | [0792-number-of-matching-subsequences](https://github.com/gauthamnholla/coding-practice/tree/master/0792-number-of-matching-subsequences) |
 | [0805-split-array-with-same-average](https://github.com/gauthamnholla/coding-practice/tree/master/0805-split-array-with-same-average) |
+| [0813-largest-sum-of-averages](https://github.com/gauthamnholla/coding-practice/tree/master/0813-largest-sum-of-averages) |
 | [0823-binary-trees-with-factors](https://github.com/gauthamnholla/coding-practice/tree/master/0823-binary-trees-with-factors) |
 | [0826-soup-servings](https://github.com/gauthamnholla/coding-practice/tree/master/0826-soup-servings) |
 | [0828-count-unique-characters-of-all-substrings-of-a-given-string](https://github.com/gauthamnholla/coding-practice/tree/master/0828-count-unique-characters-of-all-substrings-of-a-given-string) |
@@ -3563,6 +3565,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/gauthamnholla/coding-practice/tree/master/0724-find-pivot-index) |
 | [0732-my-calendar-iii](https://github.com/gauthamnholla/coding-practice/tree/master/0732-my-calendar-iii) |
 | [0798-smallest-rotation-with-highest-score](https://github.com/gauthamnholla/coding-practice/tree/master/0798-smallest-rotation-with-highest-score) |
+| [0813-largest-sum-of-averages](https://github.com/gauthamnholla/coding-practice/tree/master/0813-largest-sum-of-averages) |
 | [0848-shifting-letters](https://github.com/gauthamnholla/coding-practice/tree/master/0848-shifting-letters) |
 | [0903-valid-permutations-for-di-sequence](https://github.com/gauthamnholla/coding-practice/tree/master/0903-valid-permutations-for-di-sequence) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/gauthamnholla/coding-practice/tree/master/0974-subarray-sums-divisible-by-k) |
