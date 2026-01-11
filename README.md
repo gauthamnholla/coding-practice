@@ -170,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0532-k-diff-pairs-in-an-array](https://github.com/gauthamnholla/coding-practice/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0539-minimum-time-difference](https://github.com/gauthamnholla/coding-practice/tree/master/0539-minimum-time-difference) |
 | [0553-optimal-division](https://github.com/gauthamnholla/coding-practice/tree/master/0553-optimal-division) |
+| [0560-subarray-sum-equals-k](https://github.com/gauthamnholla/coding-practice/tree/master/0560-subarray-sum-equals-k) |
 | [0561-array-partition](https://github.com/gauthamnholla/coding-practice/tree/master/0561-array-partition) |
 | [0565-array-nesting](https://github.com/gauthamnholla/coding-practice/tree/master/0565-array-nesting) |
 | [0566-reshape-the-matrix](https://github.com/gauthamnholla/coding-practice/tree/master/0566-reshape-the-matrix) |
@@ -1676,6 +1677,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/gauthamnholla/coding-practice/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/gauthamnholla/coding-practice/tree/master/0525-contiguous-array) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/gauthamnholla/coding-practice/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0560-subarray-sum-equals-k](https://github.com/gauthamnholla/coding-practice/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/gauthamnholla/coding-practice/tree/master/0567-permutation-in-string) |
 | [0575-distribute-candies](https://github.com/gauthamnholla/coding-practice/tree/master/0575-distribute-candies) |
 | [0594-longest-harmonious-subsequence](https://github.com/gauthamnholla/coding-practice/tree/master/0594-longest-harmonious-subsequence) |
@@ -3547,6 +3549,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/gauthamnholla/coding-practice/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/gauthamnholla/coding-practice/tree/master/0525-contiguous-array) |
 | [0528-random-pick-with-weight](https://github.com/gauthamnholla/coding-practice/tree/master/0528-random-pick-with-weight) |
+| [0560-subarray-sum-equals-k](https://github.com/gauthamnholla/coding-practice/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/gauthamnholla/coding-practice/tree/master/0724-find-pivot-index) |
 | [0848-shifting-letters](https://github.com/gauthamnholla/coding-practice/tree/master/0848-shifting-letters) |
 | [0903-valid-permutations-for-di-sequence](https://github.com/gauthamnholla/coding-practice/tree/master/0903-valid-permutations-for-di-sequence) |
