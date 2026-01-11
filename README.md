@@ -1556,6 +1556,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/gauthamnholla/coding-practice/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
 | [1004-max-consecutive-ones-iii](https://github.com/gauthamnholla/coding-practice/tree/master/1004-max-consecutive-ones-iii) |
 | [1040-moving-stones-until-consecutive-ii](https://github.com/gauthamnholla/coding-practice/tree/master/1040-moving-stones-until-consecutive-ii) |
+| [1208-get-equal-substrings-within-budget](https://github.com/gauthamnholla/coding-practice/tree/master/1208-get-equal-substrings-within-budget) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/gauthamnholla/coding-practice/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/gauthamnholla/coding-practice/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1610-maximum-number-of-visible-points](https://github.com/gauthamnholla/coding-practice/tree/master/1610-maximum-number-of-visible-points) |
@@ -2854,6 +2855,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1170-compare-strings-by-frequency-of-the-smallest-character](https://github.com/gauthamnholla/coding-practice/tree/master/1170-compare-strings-by-frequency-of-the-smallest-character) |
 | [1177-can-make-palindrome-from-substring](https://github.com/gauthamnholla/coding-practice/tree/master/1177-can-make-palindrome-from-substring) |
 | [1202-smallest-string-with-swaps](https://github.com/gauthamnholla/coding-practice/tree/master/1202-smallest-string-with-swaps) |
+| [1208-get-equal-substrings-within-budget](https://github.com/gauthamnholla/coding-practice/tree/master/1208-get-equal-substrings-within-budget) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/gauthamnholla/coding-practice/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1268-search-suggestions-system](https://github.com/gauthamnholla/coding-practice/tree/master/1268-search-suggestions-system) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/gauthamnholla/coding-practice/tree/master/1302-delete-characters-to-make-fancy-string) |
@@ -3599,6 +3601,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1124-longest-well-performing-interval](https://github.com/gauthamnholla/coding-practice/tree/master/1124-longest-well-performing-interval) |
 | [1140-stone-game-ii](https://github.com/gauthamnholla/coding-practice/tree/master/1140-stone-game-ii) |
 | [1177-can-make-palindrome-from-substring](https://github.com/gauthamnholla/coding-practice/tree/master/1177-can-make-palindrome-from-substring) |
+| [1208-get-equal-substrings-within-budget](https://github.com/gauthamnholla/coding-practice/tree/master/1208-get-equal-substrings-within-budget) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/gauthamnholla/coding-practice/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/gauthamnholla/coding-practice/tree/master/1589-maximum-sum-obtained-of-any-permutation) |
 | [1590-make-sum-divisible-by-p](https://github.com/gauthamnholla/coding-practice/tree/master/1590-make-sum-divisible-by-p) |
@@ -3763,6 +3766,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/gauthamnholla/coding-practice/tree/master/1004-max-consecutive-ones-iii) |
 | [1170-compare-strings-by-frequency-of-the-smallest-character](https://github.com/gauthamnholla/coding-practice/tree/master/1170-compare-strings-by-frequency-of-the-smallest-character) |
 | [1187-make-array-strictly-increasing](https://github.com/gauthamnholla/coding-practice/tree/master/1187-make-array-strictly-increasing) |
+| [1208-get-equal-substrings-within-budget](https://github.com/gauthamnholla/coding-practice/tree/master/1208-get-equal-substrings-within-budget) |
 | [1268-search-suggestions-system](https://github.com/gauthamnholla/coding-practice/tree/master/1268-search-suggestions-system) |
 | [1300-sum-of-mutated-array-closest-to-target](https://github.com/gauthamnholla/coding-practice/tree/master/1300-sum-of-mutated-array-closest-to-target) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/gauthamnholla/coding-practice/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
