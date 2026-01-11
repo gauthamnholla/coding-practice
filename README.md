@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0399-evaluate-division](https://github.com/gauthamnholla/coding-practice/tree/master/0399-evaluate-division) |
 | [0406-queue-reconstruction-by-height](https://github.com/gauthamnholla/coding-practice/tree/master/0406-queue-reconstruction-by-height) |
 | [0407-trapping-rain-water-ii](https://github.com/gauthamnholla/coding-practice/tree/master/0407-trapping-rain-water-ii) |
+| [0410-split-array-largest-sum](https://github.com/gauthamnholla/coding-practice/tree/master/0410-split-array-largest-sum) |
 | [0414-third-maximum-number](https://github.com/gauthamnholla/coding-practice/tree/master/0414-third-maximum-number) |
 | [0417-pacific-atlantic-water-flow](https://github.com/gauthamnholla/coding-practice/tree/master/0417-pacific-atlantic-water-flow) |
 | [0419-battleships-in-a-board](https://github.com/gauthamnholla/coding-practice/tree/master/0419-battleships-in-a-board) |
@@ -800,6 +801,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0334-increasing-triplet-subsequence](https://github.com/gauthamnholla/coding-practice/tree/master/0334-increasing-triplet-subsequence) |
 | [0402-remove-k-digits](https://github.com/gauthamnholla/coding-practice/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/gauthamnholla/coding-practice/tree/master/0409-longest-palindrome) |
+| [0410-split-array-largest-sum](https://github.com/gauthamnholla/coding-practice/tree/master/0410-split-array-largest-sum) |
 | [0420-strong-password-checker](https://github.com/gauthamnholla/coding-practice/tree/master/0420-strong-password-checker) |
 | [0435-non-overlapping-intervals](https://github.com/gauthamnholla/coding-practice/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/gauthamnholla/coding-practice/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
@@ -2054,6 +2056,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0375-guess-number-higher-or-lower-ii](https://github.com/gauthamnholla/coding-practice/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0392-is-subsequence](https://github.com/gauthamnholla/coding-practice/tree/master/0392-is-subsequence) |
 | [0396-rotate-function](https://github.com/gauthamnholla/coding-practice/tree/master/0396-rotate-function) |
+| [0410-split-array-largest-sum](https://github.com/gauthamnholla/coding-practice/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/gauthamnholla/coding-practice/tree/master/0435-non-overlapping-intervals) |
 | [0458-poor-pigs](https://github.com/gauthamnholla/coding-practice/tree/master/0458-poor-pigs) |
 | [0464-can-i-win](https://github.com/gauthamnholla/coding-practice/tree/master/0464-can-i-win) |
@@ -3537,6 +3540,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/gauthamnholla/coding-practice/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/gauthamnholla/coding-practice/tree/master/0304-range-sum-query-2d-immutable) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/gauthamnholla/coding-practice/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
+| [0410-split-array-largest-sum](https://github.com/gauthamnholla/coding-practice/tree/master/0410-split-array-largest-sum) |
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/gauthamnholla/coding-practice/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 | [0523-continuous-subarray-sum](https://github.com/gauthamnholla/coding-practice/tree/master/0523-continuous-subarray-sum) |
 | [0528-random-pick-with-weight](https://github.com/gauthamnholla/coding-practice/tree/master/0528-random-pick-with-weight) |
@@ -3679,6 +3683,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/gauthamnholla/coding-practice/tree/master/0367-valid-perfect-square) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/gauthamnholla/coding-practice/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0400-nth-digit](https://github.com/gauthamnholla/coding-practice/tree/master/0400-nth-digit) |
+| [0410-split-array-largest-sum](https://github.com/gauthamnholla/coding-practice/tree/master/0410-split-array-largest-sum) |
 | [0441-arranging-coins](https://github.com/gauthamnholla/coding-practice/tree/master/0441-arranging-coins) |
 | [0475-heaters](https://github.com/gauthamnholla/coding-practice/tree/master/0475-heaters) |
 | [0483-smallest-good-base](https://github.com/gauthamnholla/coding-practice/tree/master/0483-smallest-good-base) |
