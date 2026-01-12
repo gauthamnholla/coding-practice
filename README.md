@@ -415,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-find-lucky-integer-in-an-array](https://github.com/gauthamnholla/coding-practice/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1514-path-with-maximum-probability](https://github.com/gauthamnholla/coding-practice/tree/master/1514-path-with-maximum-probability) |
 | [1515-best-position-for-a-service-centre](https://github.com/gauthamnholla/coding-practice/tree/master/1515-best-position-for-a-service-centre) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/gauthamnholla/coding-practice/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1539-kth-missing-positive-number](https://github.com/gauthamnholla/coding-practice/tree/master/1539-kth-missing-positive-number) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/gauthamnholla/coding-practice/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/gauthamnholla/coding-practice/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
@@ -2166,6 +2167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1458-max-dot-product-of-two-subsequences](https://github.com/gauthamnholla/coding-practice/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1467-probability-of-a-two-boxes-having-the-same-number-of-distinct-balls](https://github.com/gauthamnholla/coding-practice/tree/master/1467-probability-of-a-two-boxes-having-the-same-number-of-distinct-balls) |
 | [1478-allocate-mailboxes](https://github.com/gauthamnholla/coding-practice/tree/master/1478-allocate-mailboxes) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/gauthamnholla/coding-practice/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/gauthamnholla/coding-practice/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/gauthamnholla/coding-practice/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/gauthamnholla/coding-practice/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
@@ -2601,6 +2603,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1478-allocate-mailboxes](https://github.com/gauthamnholla/coding-practice/tree/master/1478-allocate-mailboxes) |
 | [1515-best-position-for-a-service-centre](https://github.com/gauthamnholla/coding-practice/tree/master/1515-best-position-for-a-service-centre) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/gauthamnholla/coding-practice/tree/master/1523-count-odd-numbers-in-an-interval-range) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/gauthamnholla/coding-practice/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/gauthamnholla/coding-practice/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/gauthamnholla/coding-practice/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/gauthamnholla/coding-practice/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
@@ -3643,6 +3646,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1444-number-of-ways-of-cutting-a-pizza](https://github.com/gauthamnholla/coding-practice/tree/master/1444-number-of-ways-of-cutting-a-pizza) |
 | [1480-running-sum-of-1d-array](https://github.com/gauthamnholla/coding-practice/tree/master/1480-running-sum-of-1d-array) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/gauthamnholla/coding-practice/tree/master/1508-range-sum-of-sorted-subarray-sums) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/gauthamnholla/coding-practice/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/gauthamnholla/coding-practice/tree/master/1589-maximum-sum-obtained-of-any-permutation) |
 | [1590-make-sum-divisible-by-p](https://github.com/gauthamnholla/coding-practice/tree/master/1590-make-sum-divisible-by-p) |
 | [1738-find-kth-largest-xor-coordinate-value](https://github.com/gauthamnholla/coding-practice/tree/master/1738-find-kth-largest-xor-coordinate-value) |
