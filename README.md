@@ -364,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1306-minimum-absolute-difference](https://github.com/gauthamnholla/coding-practice/tree/master/1306-minimum-absolute-difference) |
 | [1306-jump-game-iii](https://github.com/gauthamnholla/coding-practice/tree/master/1306-jump-game-iii) |
 | [1310-xor-queries-of-a-subarray](https://github.com/gauthamnholla/coding-practice/tree/master/1310-xor-queries-of-a-subarray) |
+| [1314-matrix-block-sum](https://github.com/gauthamnholla/coding-practice/tree/master/1314-matrix-block-sum) |
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/gauthamnholla/coding-practice/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1329-sort-the-matrix-diagonally](https://github.com/gauthamnholla/coding-practice/tree/master/1329-sort-the-matrix-diagonally) |
 | [1331-rank-transform-of-an-array](https://github.com/gauthamnholla/coding-practice/tree/master/1331-rank-transform-of-an-array) |
@@ -3614,6 +3615,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/gauthamnholla/coding-practice/tree/master/1248-count-number-of-nice-subarrays) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/gauthamnholla/coding-practice/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1310-xor-queries-of-a-subarray](https://github.com/gauthamnholla/coding-practice/tree/master/1310-xor-queries-of-a-subarray) |
+| [1314-matrix-block-sum](https://github.com/gauthamnholla/coding-practice/tree/master/1314-matrix-block-sum) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/gauthamnholla/coding-practice/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/gauthamnholla/coding-practice/tree/master/1589-maximum-sum-obtained-of-any-permutation) |
 | [1590-make-sum-divisible-by-p](https://github.com/gauthamnholla/coding-practice/tree/master/1590-make-sum-divisible-by-p) |
@@ -3997,6 +3999,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1263-minimum-moves-to-move-a-box-to-their-target-location](https://github.com/gauthamnholla/coding-practice/tree/master/1263-minimum-moves-to-move-a-box-to-their-target-location) |
 | [1267-count-servers-that-communicate](https://github.com/gauthamnholla/coding-practice/tree/master/1267-count-servers-that-communicate) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/gauthamnholla/coding-practice/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
+| [1314-matrix-block-sum](https://github.com/gauthamnholla/coding-practice/tree/master/1314-matrix-block-sum) |
 | [1329-sort-the-matrix-diagonally](https://github.com/gauthamnholla/coding-practice/tree/master/1329-sort-the-matrix-diagonally) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/gauthamnholla/coding-practice/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/gauthamnholla/coding-practice/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
