@@ -405,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1472-design-browser-history](https://github.com/gauthamnholla/coding-practice/tree/master/1472-design-browser-history) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/gauthamnholla/coding-practice/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1478-allocate-mailboxes](https://github.com/gauthamnholla/coding-practice/tree/master/1478-allocate-mailboxes) |
+| [1480-running-sum-of-1d-array](https://github.com/gauthamnholla/coding-practice/tree/master/1480-running-sum-of-1d-array) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/gauthamnholla/coding-practice/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/gauthamnholla/coding-practice/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/gauthamnholla/coding-practice/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
@@ -3640,6 +3641,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/gauthamnholla/coding-practice/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/gauthamnholla/coding-practice/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1444-number-of-ways-of-cutting-a-pizza](https://github.com/gauthamnholla/coding-practice/tree/master/1444-number-of-ways-of-cutting-a-pizza) |
+| [1480-running-sum-of-1d-array](https://github.com/gauthamnholla/coding-practice/tree/master/1480-running-sum-of-1d-array) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/gauthamnholla/coding-practice/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/gauthamnholla/coding-practice/tree/master/1589-maximum-sum-obtained-of-any-permutation) |
 | [1590-make-sum-divisible-by-p](https://github.com/gauthamnholla/coding-practice/tree/master/1590-make-sum-divisible-by-p) |
