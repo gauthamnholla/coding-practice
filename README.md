@@ -499,6 +499,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1882-process-tasks-using-servers](https://github.com/gauthamnholla/coding-practice/tree/master/1882-process-tasks-using-servers) |
 | [1889-minimum-space-wasted-from-packaging](https://github.com/gauthamnholla/coding-practice/tree/master/1889-minimum-space-wasted-from-packaging) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/gauthamnholla/coding-practice/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
+| [1894-find-the-student-that-will-replace-the-chalk](https://github.com/gauthamnholla/coding-practice/tree/master/1894-find-the-student-that-will-replace-the-chalk) |
 | [1905-count-sub-islands](https://github.com/gauthamnholla/coding-practice/tree/master/1905-count-sub-islands) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/gauthamnholla/coding-practice/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [1917-maximum-average-pass-ratio](https://github.com/gauthamnholla/coding-practice/tree/master/1917-maximum-average-pass-ratio) |
@@ -2040,6 +2041,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1642-water-bottles](https://github.com/gauthamnholla/coding-practice/tree/master/1642-water-bottles) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/gauthamnholla/coding-practice/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1801-number-of-orders-in-the-backlog](https://github.com/gauthamnholla/coding-practice/tree/master/1801-number-of-orders-in-the-backlog) |
+| [1894-find-the-student-that-will-replace-the-chalk](https://github.com/gauthamnholla/coding-practice/tree/master/1894-find-the-student-that-will-replace-the-chalk) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/gauthamnholla/coding-practice/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2058-concatenation-of-array](https://github.com/gauthamnholla/coding-practice/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/gauthamnholla/coding-practice/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -3710,6 +3712,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/gauthamnholla/coding-practice/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1889-minimum-space-wasted-from-packaging](https://github.com/gauthamnholla/coding-practice/tree/master/1889-minimum-space-wasted-from-packaging) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/gauthamnholla/coding-practice/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
+| [1894-find-the-student-that-will-replace-the-chalk](https://github.com/gauthamnholla/coding-practice/tree/master/1894-find-the-student-that-will-replace-the-chalk) |
 | [1943-describe-the-painting](https://github.com/gauthamnholla/coding-practice/tree/master/1943-describe-the-painting) |
 | [1991-find-the-middle-index-in-array](https://github.com/gauthamnholla/coding-practice/tree/master/1991-find-the-middle-index-in-array) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/gauthamnholla/coding-practice/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -3893,6 +3896,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1851-minimum-interval-to-include-each-query](https://github.com/gauthamnholla/coding-practice/tree/master/1851-minimum-interval-to-include-each-query) |
 | [1862-sum-of-floored-pairs](https://github.com/gauthamnholla/coding-practice/tree/master/1862-sum-of-floored-pairs) |
 | [1889-minimum-space-wasted-from-packaging](https://github.com/gauthamnholla/coding-practice/tree/master/1889-minimum-space-wasted-from-packaging) |
+| [1894-find-the-student-that-will-replace-the-chalk](https://github.com/gauthamnholla/coding-practice/tree/master/1894-find-the-student-that-will-replace-the-chalk) |
 | [1932-merge-bsts-to-create-single-bst](https://github.com/gauthamnholla/coding-practice/tree/master/1932-merge-bsts-to-create-single-bst) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/gauthamnholla/coding-practice/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2008-maximum-earnings-from-taxi](https://github.com/gauthamnholla/coding-practice/tree/master/2008-maximum-earnings-from-taxi) |
