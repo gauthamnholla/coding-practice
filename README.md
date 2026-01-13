@@ -542,6 +542,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2121-intervals-between-identical-elements](https://github.com/gauthamnholla/coding-practice/tree/master/2121-intervals-between-identical-elements) |
 | [2122-recover-the-original-array](https://github.com/gauthamnholla/coding-practice/tree/master/2122-recover-the-original-array) |
 | [2126-destroying-asteroids](https://github.com/gauthamnholla/coding-practice/tree/master/2126-destroying-asteroids) |
+| [2132-stamping-the-grid](https://github.com/gauthamnholla/coding-practice/tree/master/2132-stamping-the-grid) |
 | [2135-count-words-obtained-after-adding-a-letter](https://github.com/gauthamnholla/coding-practice/tree/master/2135-count-words-obtained-after-adding-a-letter) |
 | [2136-earliest-possible-day-of-full-bloom](https://github.com/gauthamnholla/coding-practice/tree/master/2136-earliest-possible-day-of-full-bloom) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/gauthamnholla/coding-practice/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -948,6 +949,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/gauthamnholla/coding-practice/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2071-maximum-number-of-tasks-you-can-assign](https://github.com/gauthamnholla/coding-practice/tree/master/2071-maximum-number-of-tasks-you-can-assign) |
 | [2126-destroying-asteroids](https://github.com/gauthamnholla/coding-practice/tree/master/2126-destroying-asteroids) |
+| [2132-stamping-the-grid](https://github.com/gauthamnholla/coding-practice/tree/master/2132-stamping-the-grid) |
 | [2136-earliest-possible-day-of-full-bloom](https://github.com/gauthamnholla/coding-practice/tree/master/2136-earliest-possible-day-of-full-bloom) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/gauthamnholla/coding-practice/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/gauthamnholla/coding-practice/tree/master/2141-maximum-running-time-of-n-computers) |
@@ -3738,6 +3740,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/gauthamnholla/coding-practice/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2100-find-good-days-to-rob-the-bank](https://github.com/gauthamnholla/coding-practice/tree/master/2100-find-good-days-to-rob-the-bank) |
 | [2121-intervals-between-identical-elements](https://github.com/gauthamnholla/coding-practice/tree/master/2121-intervals-between-identical-elements) |
+| [2132-stamping-the-grid](https://github.com/gauthamnholla/coding-practice/tree/master/2132-stamping-the-grid) |
 | [2171-removing-minimum-number-of-magic-beans](https://github.com/gauthamnholla/coding-practice/tree/master/2171-removing-minimum-number-of-magic-beans) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/gauthamnholla/coding-practice/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2234-maximum-total-beauty-of-the-gardens](https://github.com/gauthamnholla/coding-practice/tree/master/2234-maximum-total-beauty-of-the-gardens) |
@@ -4144,6 +4147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2017-grid-game](https://github.com/gauthamnholla/coding-practice/tree/master/2017-grid-game) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/gauthamnholla/coding-practice/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/gauthamnholla/coding-practice/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
+| [2132-stamping-the-grid](https://github.com/gauthamnholla/coding-practice/tree/master/2132-stamping-the-grid) |
 | [2146-k-highest-ranked-items-within-a-price-range](https://github.com/gauthamnholla/coding-practice/tree/master/2146-k-highest-ranked-items-within-a-price-range) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/gauthamnholla/coding-practice/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/gauthamnholla/coding-practice/tree/master/2328-number-of-increasing-paths-in-a-grid) |
