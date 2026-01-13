@@ -729,6 +729,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3433-count-mentions-per-user](https://github.com/gauthamnholla/coding-practice/tree/master/3433-count-mentions-per-user) |
 | [3435-frequencies-of-shortest-supersequences](https://github.com/gauthamnholla/coding-practice/tree/master/3435-frequencies-of-shortest-supersequences) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/gauthamnholla/coding-practice/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3453-separate-squares-i](https://github.com/gauthamnholla/coding-practice/tree/master/3453-separate-squares-i) |
 | [3457-eat-pizzas](https://github.com/gauthamnholla/coding-practice/tree/master/3457-eat-pizzas) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/gauthamnholla/coding-practice/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/gauthamnholla/coding-practice/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
@@ -3911,6 +3912,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/gauthamnholla/coding-practice/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3419-minimize-the-maximum-edge-weight-of-graph](https://github.com/gauthamnholla/coding-practice/tree/master/3419-minimize-the-maximum-edge-weight-of-graph) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/gauthamnholla/coding-practice/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3453-separate-squares-i](https://github.com/gauthamnholla/coding-practice/tree/master/3453-separate-squares-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/gauthamnholla/coding-practice/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3585-find-weighted-median-node-in-tree](https://github.com/gauthamnholla/coding-practice/tree/master/3585-find-weighted-median-node-in-tree) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/gauthamnholla/coding-practice/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
