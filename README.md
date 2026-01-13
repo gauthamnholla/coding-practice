@@ -1596,6 +1596,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1703-minimum-adjacent-swaps-for-k-consecutive-ones](https://github.com/gauthamnholla/coding-practice/tree/master/1703-minimum-adjacent-swaps-for-k-consecutive-ones) |
 | [1813-maximum-erasure-value](https://github.com/gauthamnholla/coding-practice/tree/master/1813-maximum-erasure-value) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/gauthamnholla/coding-practice/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [1871-jump-game-vii](https://github.com/gauthamnholla/coding-practice/tree/master/1871-jump-game-vii) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/gauthamnholla/coding-practice/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/gauthamnholla/coding-practice/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2271-maximum-white-tiles-covered-by-a-carpet](https://github.com/gauthamnholla/coding-practice/tree/master/2271-maximum-white-tiles-covered-by-a-carpet) |
@@ -2206,6 +2207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1755-closest-subsequence-sum](https://github.com/gauthamnholla/coding-practice/tree/master/1755-closest-subsequence-sum) |
 | [1786-number-of-restricted-paths-from-first-to-last-node](https://github.com/gauthamnholla/coding-practice/tree/master/1786-number-of-restricted-paths-from-first-to-last-node) |
 | [1857-largest-color-value-in-a-directed-graph](https://github.com/gauthamnholla/coding-practice/tree/master/1857-largest-color-value-in-a-directed-graph) |
+| [1871-jump-game-vii](https://github.com/gauthamnholla/coding-practice/tree/master/1871-jump-game-vii) |
 | [1916-count-ways-to-build-rooms-in-an-ant-colony](https://github.com/gauthamnholla/coding-practice/tree/master/1916-count-ways-to-build-rooms-in-an-ant-colony) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/gauthamnholla/coding-practice/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2008-maximum-earnings-from-taxi](https://github.com/gauthamnholla/coding-practice/tree/master/2008-maximum-earnings-from-taxi) |
@@ -2935,6 +2937,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/gauthamnholla/coding-practice/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/gauthamnholla/coding-practice/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1859-sorting-the-sentence](https://github.com/gauthamnholla/coding-practice/tree/master/1859-sorting-the-sentence) |
+| [1871-jump-game-vii](https://github.com/gauthamnholla/coding-practice/tree/master/1871-jump-game-vii) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/gauthamnholla/coding-practice/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/gauthamnholla/coding-practice/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/gauthamnholla/coding-practice/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
@@ -3697,6 +3700,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1854-maximum-population-year](https://github.com/gauthamnholla/coding-practice/tree/master/1854-maximum-population-year) |
 | [1856-maximum-subarray-min-product](https://github.com/gauthamnholla/coding-practice/tree/master/1856-maximum-subarray-min-product) |
 | [1862-sum-of-floored-pairs](https://github.com/gauthamnholla/coding-practice/tree/master/1862-sum-of-floored-pairs) |
+| [1871-jump-game-vii](https://github.com/gauthamnholla/coding-practice/tree/master/1871-jump-game-vii) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/gauthamnholla/coding-practice/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1889-minimum-space-wasted-from-packaging](https://github.com/gauthamnholla/coding-practice/tree/master/1889-minimum-space-wasted-from-packaging) |
 | [1943-describe-the-painting](https://github.com/gauthamnholla/coding-practice/tree/master/1943-describe-the-painting) |
