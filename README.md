@@ -479,6 +479,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1801-number-of-orders-in-the-backlog](https://github.com/gauthamnholla/coding-practice/tree/master/1801-number-of-orders-in-the-backlog) |
 | [1813-maximum-erasure-value](https://github.com/gauthamnholla/coding-practice/tree/master/1813-maximum-erasure-value) |
 | [1818-minimum-absolute-sum-difference](https://github.com/gauthamnholla/coding-practice/tree/master/1818-minimum-absolute-sum-difference) |
+| [1829-maximum-xor-for-each-query](https://github.com/gauthamnholla/coding-practice/tree/master/1829-maximum-xor-for-each-query) |
 | [1833-maximum-ice-cream-bars](https://github.com/gauthamnholla/coding-practice/tree/master/1833-maximum-ice-cream-bars) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/gauthamnholla/coding-practice/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1834-single-threaded-cpu](https://github.com/gauthamnholla/coding-practice/tree/master/1834-single-threaded-cpu) |
@@ -3403,6 +3404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/gauthamnholla/coding-practice/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [1738-find-kth-largest-xor-coordinate-value](https://github.com/gauthamnholla/coding-practice/tree/master/1738-find-kth-largest-xor-coordinate-value) |
 | [1755-closest-subsequence-sum](https://github.com/gauthamnholla/coding-practice/tree/master/1755-closest-subsequence-sum) |
+| [1829-maximum-xor-for-each-query](https://github.com/gauthamnholla/coding-practice/tree/master/1829-maximum-xor-for-each-query) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/gauthamnholla/coding-practice/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1938-maximum-genetic-difference-query](https://github.com/gauthamnholla/coding-practice/tree/master/1938-maximum-genetic-difference-query) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/gauthamnholla/coding-practice/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -3685,6 +3687,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1738-find-kth-largest-xor-coordinate-value](https://github.com/gauthamnholla/coding-practice/tree/master/1738-find-kth-largest-xor-coordinate-value) |
 | [1744-can-you-eat-your-favorite-candy-on-your-favorite-day](https://github.com/gauthamnholla/coding-practice/tree/master/1744-can-you-eat-your-favorite-candy-on-your-favorite-day) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/gauthamnholla/coding-practice/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [1829-maximum-xor-for-each-query](https://github.com/gauthamnholla/coding-practice/tree/master/1829-maximum-xor-for-each-query) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/gauthamnholla/coding-practice/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/gauthamnholla/coding-practice/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1889-minimum-space-wasted-from-packaging](https://github.com/gauthamnholla/coding-practice/tree/master/1889-minimum-space-wasted-from-packaging) |
