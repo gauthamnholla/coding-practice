@@ -549,6 +549,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2141-maximum-running-time-of-n-computers](https://github.com/gauthamnholla/coding-practice/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/gauthamnholla/coding-practice/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/gauthamnholla/coding-practice/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2145-count-the-hidden-sequences](https://github.com/gauthamnholla/coding-practice/tree/master/2145-count-the-hidden-sequences) |
 | [2146-k-highest-ranked-items-within-a-price-range](https://github.com/gauthamnholla/coding-practice/tree/master/2146-k-highest-ranked-items-within-a-price-range) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/gauthamnholla/coding-practice/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/gauthamnholla/coding-practice/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
@@ -3741,6 +3742,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2100-find-good-days-to-rob-the-bank](https://github.com/gauthamnholla/coding-practice/tree/master/2100-find-good-days-to-rob-the-bank) |
 | [2121-intervals-between-identical-elements](https://github.com/gauthamnholla/coding-practice/tree/master/2121-intervals-between-identical-elements) |
 | [2132-stamping-the-grid](https://github.com/gauthamnholla/coding-practice/tree/master/2132-stamping-the-grid) |
+| [2145-count-the-hidden-sequences](https://github.com/gauthamnholla/coding-practice/tree/master/2145-count-the-hidden-sequences) |
 | [2171-removing-minimum-number-of-magic-beans](https://github.com/gauthamnholla/coding-practice/tree/master/2171-removing-minimum-number-of-magic-beans) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/gauthamnholla/coding-practice/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2234-maximum-total-beauty-of-the-gardens](https://github.com/gauthamnholla/coding-practice/tree/master/2234-maximum-total-beauty-of-the-gardens) |
