@@ -741,6 +741,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3301-maximize-the-total-height-of-unique-towers](https://github.com/gauthamnholla/coding-practice/tree/master/3301-maximize-the-total-height-of-unique-towers) |
 | [3327-check-if-dfs-strings-are-palindromes](https://github.com/gauthamnholla/coding-practice/tree/master/3327-check-if-dfs-strings-are-palindromes) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/gauthamnholla/coding-practice/tree/master/3331-find-subtree-sizes-after-changes) |
+| [3355-zero-array-transformation-i](https://github.com/gauthamnholla/coding-practice/tree/master/3355-zero-array-transformation-i) |
 | [3362-zero-array-transformation-iii](https://github.com/gauthamnholla/coding-practice/tree/master/3362-zero-array-transformation-iii) |
 | [3376-minimum-time-to-break-locks-i](https://github.com/gauthamnholla/coding-practice/tree/master/3376-minimum-time-to-break-locks-i) |
 | [3380-maximum-area-rectangle-with-point-constraints-i](https://github.com/gauthamnholla/coding-practice/tree/master/3380-maximum-area-rectangle-with-point-constraints-i) |
@@ -3820,6 +3821,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3225-maximum-score-from-grid-operations](https://github.com/gauthamnholla/coding-practice/tree/master/3225-maximum-score-from-grid-operations) |
 | [3250-find-the-count-of-monotonic-pairs-i](https://github.com/gauthamnholla/coding-practice/tree/master/3250-find-the-count-of-monotonic-pairs-i) |
 | [3261-count-substrings-that-satisfy-k-constraint-ii](https://github.com/gauthamnholla/coding-practice/tree/master/3261-count-substrings-that-satisfy-k-constraint-ii) |
+| [3355-zero-array-transformation-i](https://github.com/gauthamnholla/coding-practice/tree/master/3355-zero-array-transformation-i) |
 | [3362-zero-array-transformation-iii](https://github.com/gauthamnholla/coding-practice/tree/master/3362-zero-array-transformation-iii) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/gauthamnholla/coding-practice/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/gauthamnholla/coding-practice/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
