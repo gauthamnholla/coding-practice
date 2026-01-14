@@ -705,6 +705,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/gauthamnholla/coding-practice/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3074-apple-redistribution-into-boxes](https://github.com/gauthamnholla/coding-practice/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/gauthamnholla/coding-practice/tree/master/3075-maximize-happiness-of-selected-children) |
+| [3077-maximum-strength-of-k-disjoint-subarrays](https://github.com/gauthamnholla/coding-practice/tree/master/3077-maximum-strength-of-k-disjoint-subarrays) |
 | [3080-mark-elements-on-array-by-performing-queries](https://github.com/gauthamnholla/coding-practice/tree/master/3080-mark-elements-on-array-by-performing-queries) |
 | [3098-find-the-sum-of-subsequence-powers](https://github.com/gauthamnholla/coding-practice/tree/master/3098-find-the-sum-of-subsequence-powers) |
 | [3102-minimize-manhattan-distances](https://github.com/gauthamnholla/coding-practice/tree/master/3102-minimize-manhattan-distances) |
@@ -2273,6 +2274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2973-find-number-of-coins-to-place-in-tree-nodes](https://github.com/gauthamnholla/coding-practice/tree/master/2973-find-number-of-coins-to-place-in-tree-nodes) |
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/gauthamnholla/coding-practice/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3068-find-the-maximum-sum-of-node-values](https://github.com/gauthamnholla/coding-practice/tree/master/3068-find-the-maximum-sum-of-node-values) |
+| [3077-maximum-strength-of-k-disjoint-subarrays](https://github.com/gauthamnholla/coding-practice/tree/master/3077-maximum-strength-of-k-disjoint-subarrays) |
 | [3098-find-the-sum-of-subsequence-powers](https://github.com/gauthamnholla/coding-practice/tree/master/3098-find-the-sum-of-subsequence-powers) |
 | [3218-minimum-cost-for-cutting-cake-i](https://github.com/gauthamnholla/coding-practice/tree/master/3218-minimum-cost-for-cutting-cake-i) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/gauthamnholla/coding-practice/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
@@ -3786,6 +3788,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3026-maximum-good-subarray-sum](https://github.com/gauthamnholla/coding-practice/tree/master/3026-maximum-good-subarray-sum) |
 | [3028-ant-on-the-boundary](https://github.com/gauthamnholla/coding-practice/tree/master/3028-ant-on-the-boundary) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/gauthamnholla/coding-practice/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
+| [3077-maximum-strength-of-k-disjoint-subarrays](https://github.com/gauthamnholla/coding-practice/tree/master/3077-maximum-strength-of-k-disjoint-subarrays) |
 | [3179-find-the-n-th-value-after-k-seconds](https://github.com/gauthamnholla/coding-practice/tree/master/3179-find-the-n-th-value-after-k-seconds) |
 | [3362-zero-array-transformation-iii](https://github.com/gauthamnholla/coding-practice/tree/master/3362-zero-array-transformation-iii) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/gauthamnholla/coding-practice/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
