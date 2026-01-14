@@ -723,6 +723,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/gauthamnholla/coding-practice/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3218-minimum-cost-for-cutting-cake-i](https://github.com/gauthamnholla/coding-practice/tree/master/3218-minimum-cost-for-cutting-cake-i) |
 | [3219-minimum-cost-for-cutting-cake-ii](https://github.com/gauthamnholla/coding-practice/tree/master/3219-minimum-cost-for-cutting-cake-ii) |
+| [3224-minimum-array-changes-to-make-differences-equal](https://github.com/gauthamnholla/coding-practice/tree/master/3224-minimum-array-changes-to-make-differences-equal) |
 | [3235-check-if-the-rectangle-corner-is-reachable](https://github.com/gauthamnholla/coding-practice/tree/master/3235-check-if-the-rectangle-corner-is-reachable) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/gauthamnholla/coding-practice/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/gauthamnholla/coding-practice/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -1951,6 +1952,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3143-maximum-points-inside-the-square](https://github.com/gauthamnholla/coding-practice/tree/master/3143-maximum-points-inside-the-square) |
 | [3159-find-occurrences-of-an-element-in-an-array](https://github.com/gauthamnholla/coding-practice/tree/master/3159-find-occurrences-of-an-element-in-an-array) |
 | [3223-minimum-length-of-string-after-operations](https://github.com/gauthamnholla/coding-practice/tree/master/3223-minimum-length-of-string-after-operations) |
+| [3224-minimum-array-changes-to-make-differences-equal](https://github.com/gauthamnholla/coding-practice/tree/master/3224-minimum-array-changes-to-make-differences-equal) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/gauthamnholla/coding-practice/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3265-count-almost-equal-pairs-i](https://github.com/gauthamnholla/coding-practice/tree/master/3265-count-almost-equal-pairs-i) |
 | [3267-count-almost-equal-pairs-ii](https://github.com/gauthamnholla/coding-practice/tree/master/3267-count-almost-equal-pairs-ii) |
@@ -3806,6 +3808,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3179-find-the-n-th-value-after-k-seconds](https://github.com/gauthamnholla/coding-practice/tree/master/3179-find-the-n-th-value-after-k-seconds) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/gauthamnholla/coding-practice/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/gauthamnholla/coding-practice/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
+| [3224-minimum-array-changes-to-make-differences-equal](https://github.com/gauthamnholla/coding-practice/tree/master/3224-minimum-array-changes-to-make-differences-equal) |
 | [3362-zero-array-transformation-iii](https://github.com/gauthamnholla/coding-practice/tree/master/3362-zero-array-transformation-iii) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/gauthamnholla/coding-practice/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/gauthamnholla/coding-practice/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
