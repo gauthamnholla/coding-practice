@@ -696,6 +696,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3011-find-if-array-can-be-sorted](https://github.com/gauthamnholla/coding-practice/tree/master/3011-find-if-array-can-be-sorted) |
 | [3024-type-of-triangle](https://github.com/gauthamnholla/coding-practice/tree/master/3024-type-of-triangle) |
 | [3026-maximum-good-subarray-sum](https://github.com/gauthamnholla/coding-practice/tree/master/3026-maximum-good-subarray-sum) |
+| [3028-ant-on-the-boundary](https://github.com/gauthamnholla/coding-practice/tree/master/3028-ant-on-the-boundary) |
 | [3035-maximum-palindromes-after-operations](https://github.com/gauthamnholla/coding-practice/tree/master/3035-maximum-palindromes-after-operations) |
 | [3039-apply-operations-to-make-string-empty](https://github.com/gauthamnholla/coding-practice/tree/master/3039-apply-operations-to-make-string-empty) |
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/gauthamnholla/coding-practice/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
@@ -2078,6 +2079,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2596-check-knight-tour-configuration](https://github.com/gauthamnholla/coding-practice/tree/master/2596-check-knight-tour-configuration) |
 | [2751-robot-collisions](https://github.com/gauthamnholla/coding-practice/tree/master/2751-robot-collisions) |
 | [2974-minimum-number-game](https://github.com/gauthamnholla/coding-practice/tree/master/2974-minimum-number-game) |
+| [3028-ant-on-the-boundary](https://github.com/gauthamnholla/coding-practice/tree/master/3028-ant-on-the-boundary) |
 | [3080-mark-elements-on-array-by-performing-queries](https://github.com/gauthamnholla/coding-practice/tree/master/3080-mark-elements-on-array-by-performing-queries) |
 | [3179-find-the-n-th-value-after-k-seconds](https://github.com/gauthamnholla/coding-practice/tree/master/3179-find-the-n-th-value-after-k-seconds) |
 | [3336-water-bottles-ii](https://github.com/gauthamnholla/coding-practice/tree/master/3336-water-bottles-ii) |
@@ -3781,6 +3783,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3015-count-the-number-of-houses-at-a-certain-distance-i](https://github.com/gauthamnholla/coding-practice/tree/master/3015-count-the-number-of-houses-at-a-certain-distance-i) |
 | [3017-count-the-number-of-houses-at-a-certain-distance-ii](https://github.com/gauthamnholla/coding-practice/tree/master/3017-count-the-number-of-houses-at-a-certain-distance-ii) |
 | [3026-maximum-good-subarray-sum](https://github.com/gauthamnholla/coding-practice/tree/master/3026-maximum-good-subarray-sum) |
+| [3028-ant-on-the-boundary](https://github.com/gauthamnholla/coding-practice/tree/master/3028-ant-on-the-boundary) |
 | [3179-find-the-n-th-value-after-k-seconds](https://github.com/gauthamnholla/coding-practice/tree/master/3179-find-the-n-th-value-after-k-seconds) |
 | [3362-zero-array-transformation-iii](https://github.com/gauthamnholla/coding-practice/tree/master/3362-zero-array-transformation-iii) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/gauthamnholla/coding-practice/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
