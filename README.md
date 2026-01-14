@@ -2280,6 +2280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3068-find-the-maximum-sum-of-node-values](https://github.com/gauthamnholla/coding-practice/tree/master/3068-find-the-maximum-sum-of-node-values) |
 | [3077-maximum-strength-of-k-disjoint-subarrays](https://github.com/gauthamnholla/coding-practice/tree/master/3077-maximum-strength-of-k-disjoint-subarrays) |
 | [3098-find-the-sum-of-subsequence-powers](https://github.com/gauthamnholla/coding-practice/tree/master/3098-find-the-sum-of-subsequence-powers) |
+| [3129-find-all-possible-stable-binary-arrays-i](https://github.com/gauthamnholla/coding-practice/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3218-minimum-cost-for-cutting-cake-i](https://github.com/gauthamnholla/coding-practice/tree/master/3218-minimum-cost-for-cutting-cake-i) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/gauthamnholla/coding-practice/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3241-time-taken-to-mark-all-nodes](https://github.com/gauthamnholla/coding-practice/tree/master/3241-time-taken-to-mark-all-nodes) |
@@ -3795,6 +3796,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3077-maximum-strength-of-k-disjoint-subarrays](https://github.com/gauthamnholla/coding-practice/tree/master/3077-maximum-strength-of-k-disjoint-subarrays) |
 | [3086-minimum-moves-to-pick-k-ones](https://github.com/gauthamnholla/coding-practice/tree/master/3086-minimum-moves-to-pick-k-ones) |
 | [3096-minimum-levels-to-gain-more-points](https://github.com/gauthamnholla/coding-practice/tree/master/3096-minimum-levels-to-gain-more-points) |
+| [3129-find-all-possible-stable-binary-arrays-i](https://github.com/gauthamnholla/coding-practice/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3179-find-the-n-th-value-after-k-seconds](https://github.com/gauthamnholla/coding-practice/tree/master/3179-find-the-n-th-value-after-k-seconds) |
 | [3362-zero-array-transformation-iii](https://github.com/gauthamnholla/coding-practice/tree/master/3362-zero-array-transformation-iii) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/gauthamnholla/coding-practice/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
