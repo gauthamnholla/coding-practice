@@ -1929,6 +1929,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2830-maximize-the-profit-as-the-salesman](https://github.com/gauthamnholla/coding-practice/tree/master/2830-maximize-the-profit-as-the-salesman) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/gauthamnholla/coding-practice/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2933-high-access-employees](https://github.com/gauthamnholla/coding-practice/tree/master/2933-high-access-employees) |
+| [2983-palindrome-rearrangement-queries](https://github.com/gauthamnholla/coding-practice/tree/master/2983-palindrome-rearrangement-queries) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/gauthamnholla/coding-practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/gauthamnholla/coding-practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3035-maximum-palindromes-after-operations](https://github.com/gauthamnholla/coding-practice/tree/master/3035-maximum-palindromes-after-operations) |
@@ -2996,6 +2997,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/gauthamnholla/coding-practice/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2887-sort-vowels-in-a-string](https://github.com/gauthamnholla/coding-practice/tree/master/2887-sort-vowels-in-a-string) |
 | [2933-high-access-employees](https://github.com/gauthamnholla/coding-practice/tree/master/2933-high-access-employees) |
+| [2983-palindrome-rearrangement-queries](https://github.com/gauthamnholla/coding-practice/tree/master/2983-palindrome-rearrangement-queries) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/gauthamnholla/coding-practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3035-maximum-palindromes-after-operations](https://github.com/gauthamnholla/coding-practice/tree/master/3035-maximum-palindromes-after-operations) |
 | [3081-replace-question-marks-in-string-to-minimize-its-value](https://github.com/gauthamnholla/coding-practice/tree/master/3081-replace-question-marks-in-string-to-minimize-its-value) |
@@ -3773,6 +3775,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2731-movement-of-robots](https://github.com/gauthamnholla/coding-practice/tree/master/2731-movement-of-robots) |
 | [2968-apply-operations-to-maximize-frequency-score](https://github.com/gauthamnholla/coding-practice/tree/master/2968-apply-operations-to-maximize-frequency-score) |
 | [2971-find-polygon-with-the-largest-perimeter](https://github.com/gauthamnholla/coding-practice/tree/master/2971-find-polygon-with-the-largest-perimeter) |
+| [2983-palindrome-rearrangement-queries](https://github.com/gauthamnholla/coding-practice/tree/master/2983-palindrome-rearrangement-queries) |
 | [3179-find-the-n-th-value-after-k-seconds](https://github.com/gauthamnholla/coding-practice/tree/master/3179-find-the-n-th-value-after-k-seconds) |
 | [3362-zero-array-transformation-iii](https://github.com/gauthamnholla/coding-practice/tree/master/3362-zero-array-transformation-iii) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/gauthamnholla/coding-practice/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
