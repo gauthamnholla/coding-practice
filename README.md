@@ -730,6 +730,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3242-count-elements-with-maximum-frequency](https://github.com/gauthamnholla/coding-practice/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3250-find-the-count-of-monotonic-pairs-i](https://github.com/gauthamnholla/coding-practice/tree/master/3250-find-the-count-of-monotonic-pairs-i) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/gauthamnholla/coding-practice/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
+| [3261-count-substrings-that-satisfy-k-constraint-ii](https://github.com/gauthamnholla/coding-practice/tree/master/3261-count-substrings-that-satisfy-k-constraint-ii) |
 | [3265-count-almost-equal-pairs-i](https://github.com/gauthamnholla/coding-practice/tree/master/3265-count-almost-equal-pairs-i) |
 | [3267-count-almost-equal-pairs-ii](https://github.com/gauthamnholla/coding-practice/tree/master/3267-count-almost-equal-pairs-ii) |
 | [3273-minimum-amount-of-damage-dealt-to-bob](https://github.com/gauthamnholla/coding-practice/tree/master/3273-minimum-amount-of-damage-dealt-to-bob) |
@@ -1632,6 +1633,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2968-apply-operations-to-maximize-frequency-score](https://github.com/gauthamnholla/coding-practice/tree/master/2968-apply-operations-to-maximize-frequency-score) |
 | [3086-minimum-moves-to-pick-k-ones](https://github.com/gauthamnholla/coding-practice/tree/master/3086-minimum-moves-to-pick-k-ones) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/gauthamnholla/coding-practice/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3261-count-substrings-that-satisfy-k-constraint-ii](https://github.com/gauthamnholla/coding-practice/tree/master/3261-count-substrings-that-satisfy-k-constraint-ii) |
 | [3413-maximum-coins-from-k-consecutive-bags](https://github.com/gauthamnholla/coding-practice/tree/master/3413-maximum-coins-from-k-consecutive-bags) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/gauthamnholla/coding-practice/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/gauthamnholla/coding-practice/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
@@ -3027,6 +3029,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3143-maximum-points-inside-the-square](https://github.com/gauthamnholla/coding-practice/tree/master/3143-maximum-points-inside-the-square) |
 | [3223-minimum-length-of-string-after-operations](https://github.com/gauthamnholla/coding-practice/tree/master/3223-minimum-length-of-string-after-operations) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/gauthamnholla/coding-practice/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
+| [3261-count-substrings-that-satisfy-k-constraint-ii](https://github.com/gauthamnholla/coding-practice/tree/master/3261-count-substrings-that-satisfy-k-constraint-ii) |
 | [3327-check-if-dfs-strings-are-palindromes](https://github.com/gauthamnholla/coding-practice/tree/master/3327-check-if-dfs-strings-are-palindromes) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/gauthamnholla/coding-practice/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/gauthamnholla/coding-practice/tree/master/3360-minimum-deletions-to-make-string-k-special) |
@@ -3816,6 +3819,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3224-minimum-array-changes-to-make-differences-equal](https://github.com/gauthamnholla/coding-practice/tree/master/3224-minimum-array-changes-to-make-differences-equal) |
 | [3225-maximum-score-from-grid-operations](https://github.com/gauthamnholla/coding-practice/tree/master/3225-maximum-score-from-grid-operations) |
 | [3250-find-the-count-of-monotonic-pairs-i](https://github.com/gauthamnholla/coding-practice/tree/master/3250-find-the-count-of-monotonic-pairs-i) |
+| [3261-count-substrings-that-satisfy-k-constraint-ii](https://github.com/gauthamnholla/coding-practice/tree/master/3261-count-substrings-that-satisfy-k-constraint-ii) |
 | [3362-zero-array-transformation-iii](https://github.com/gauthamnholla/coding-practice/tree/master/3362-zero-array-transformation-iii) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/gauthamnholla/coding-practice/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/gauthamnholla/coding-practice/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
@@ -4020,6 +4024,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2967-minimum-cost-to-make-array-equalindromic](https://github.com/gauthamnholla/coding-practice/tree/master/2967-minimum-cost-to-make-array-equalindromic) |
 | [2968-apply-operations-to-maximize-frequency-score](https://github.com/gauthamnholla/coding-practice/tree/master/2968-apply-operations-to-maximize-frequency-score) |
 | [3143-maximum-points-inside-the-square](https://github.com/gauthamnholla/coding-practice/tree/master/3143-maximum-points-inside-the-square) |
+| [3261-count-substrings-that-satisfy-k-constraint-ii](https://github.com/gauthamnholla/coding-practice/tree/master/3261-count-substrings-that-satisfy-k-constraint-ii) |
 | [3281-maximize-score-of-numbers-in-ranges](https://github.com/gauthamnholla/coding-practice/tree/master/3281-maximize-score-of-numbers-in-ranges) |
 | [3288-length-of-the-longest-increasing-path](https://github.com/gauthamnholla/coding-practice/tree/master/3288-length-of-the-longest-increasing-path) |
 | [3413-maximum-coins-from-k-consecutive-bags](https://github.com/gauthamnholla/coding-practice/tree/master/3413-maximum-coins-from-k-consecutive-bags) |
