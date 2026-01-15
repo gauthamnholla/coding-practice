@@ -825,6 +825,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3710-maximum-partition-factor](https://github.com/gauthamnholla/coding-practice/tree/master/3710-maximum-partition-factor) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/gauthamnholla/coding-practice/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3715-sum-of-perfect-square-ancestors](https://github.com/gauthamnholla/coding-practice/tree/master/3715-sum-of-perfect-square-ancestors) |
+| [3719-longest-balanced-subarray-i](https://github.com/gauthamnholla/coding-practice/tree/master/3719-longest-balanced-subarray-i) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/gauthamnholla/coding-practice/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/gauthamnholla/coding-practice/tree/master/3731-find-missing-elements) |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/gauthamnholla/coding-practice/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
@@ -1997,6 +1998,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3713-longest-balanced-substring-i](https://github.com/gauthamnholla/coding-practice/tree/master/3713-longest-balanced-substring-i) |
 | [3714-longest-balanced-substring-ii](https://github.com/gauthamnholla/coding-practice/tree/master/3714-longest-balanced-substring-ii) |
 | [3715-sum-of-perfect-square-ancestors](https://github.com/gauthamnholla/coding-practice/tree/master/3715-sum-of-perfect-square-ancestors) |
+| [3719-longest-balanced-subarray-i](https://github.com/gauthamnholla/coding-practice/tree/master/3719-longest-balanced-subarray-i) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/gauthamnholla/coding-practice/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3731-find-missing-elements](https://github.com/gauthamnholla/coding-practice/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/gauthamnholla/coding-practice/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -3697,6 +3699,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3382-maximum-area-rectangle-with-point-constraints-ii](https://github.com/gauthamnholla/coding-practice/tree/master/3382-maximum-area-rectangle-with-point-constraints-ii) |
 | [3454-separate-squares-ii](https://github.com/gauthamnholla/coding-practice/tree/master/3454-separate-squares-ii) |
 | [3515-shortest-path-in-a-weighted-tree](https://github.com/gauthamnholla/coding-practice/tree/master/3515-shortest-path-in-a-weighted-tree) |
+| [3719-longest-balanced-subarray-i](https://github.com/gauthamnholla/coding-practice/tree/master/3719-longest-balanced-subarray-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/gauthamnholla/coding-practice/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/gauthamnholla/coding-practice/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3777-minimum-deletions-to-make-alternating-substring](https://github.com/gauthamnholla/coding-practice/tree/master/3777-minimum-deletions-to-make-alternating-substring) |
@@ -3848,6 +3851,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3707-equal-score-substrings](https://github.com/gauthamnholla/coding-practice/tree/master/3707-equal-score-substrings) |
 | [3709-design-exam-scores-tracker](https://github.com/gauthamnholla/coding-practice/tree/master/3709-design-exam-scores-tracker) |
 | [3714-longest-balanced-substring-ii](https://github.com/gauthamnholla/coding-practice/tree/master/3714-longest-balanced-substring-ii) |
+| [3719-longest-balanced-subarray-i](https://github.com/gauthamnholla/coding-practice/tree/master/3719-longest-balanced-subarray-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/gauthamnholla/coding-practice/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/gauthamnholla/coding-practice/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/gauthamnholla/coding-practice/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -4288,6 +4292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2179-count-good-triplets-in-an-array](https://github.com/gauthamnholla/coding-practice/tree/master/2179-count-good-triplets-in-an-array) |
 | [2343-query-kth-smallest-trimmed-number](https://github.com/gauthamnholla/coding-practice/tree/master/2343-query-kth-smallest-trimmed-number) |
 | [2426-number-of-pairs-satisfying-inequality](https://github.com/gauthamnholla/coding-practice/tree/master/2426-number-of-pairs-satisfying-inequality) |
+| [3719-longest-balanced-subarray-i](https://github.com/gauthamnholla/coding-practice/tree/master/3719-longest-balanced-subarray-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/gauthamnholla/coding-practice/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/gauthamnholla/coding-practice/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3759-count-elements-with-at-least-k-greater-values](https://github.com/gauthamnholla/coding-practice/tree/master/3759-count-elements-with-at-least-k-greater-values) |
