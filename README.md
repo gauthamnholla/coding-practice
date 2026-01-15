@@ -603,6 +603,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/gauthamnholla/coding-practice/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/gauthamnholla/coding-practice/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2392-build-a-matrix-with-conditions](https://github.com/gauthamnholla/coding-practice/tree/master/2392-build-a-matrix-with-conditions) |
+| [2398-maximum-number-of-robots-within-budget](https://github.com/gauthamnholla/coding-practice/tree/master/2398-maximum-number-of-robots-within-budget) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/gauthamnholla/coding-practice/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2402-meeting-rooms-iii](https://github.com/gauthamnholla/coding-practice/tree/master/2402-meeting-rooms-iii) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/gauthamnholla/coding-practice/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
@@ -1569,6 +1570,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/gauthamnholla/coding-practice/tree/master/2344-minimum-deletions-to-make-array-divisible) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/gauthamnholla/coding-practice/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2386-find-the-k-sum-of-an-array](https://github.com/gauthamnholla/coding-practice/tree/master/2386-find-the-k-sum-of-an-array) |
+| [2398-maximum-number-of-robots-within-budget](https://github.com/gauthamnholla/coding-practice/tree/master/2398-maximum-number-of-robots-within-budget) |
 | [2402-meeting-rooms-iii](https://github.com/gauthamnholla/coding-practice/tree/master/2402-meeting-rooms-iii) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/gauthamnholla/coding-practice/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [2429-design-a-food-rating-system](https://github.com/gauthamnholla/coding-practice/tree/master/2429-design-a-food-rating-system) |
@@ -1643,6 +1645,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/gauthamnholla/coding-practice/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/gauthamnholla/coding-practice/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2271-maximum-white-tiles-covered-by-a-carpet](https://github.com/gauthamnholla/coding-practice/tree/master/2271-maximum-white-tiles-covered-by-a-carpet) |
+| [2398-maximum-number-of-robots-within-budget](https://github.com/gauthamnholla/coding-practice/tree/master/2398-maximum-number-of-robots-within-budget) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/gauthamnholla/coding-practice/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/gauthamnholla/coding-practice/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2968-apply-operations-to-maximize-frequency-score](https://github.com/gauthamnholla/coding-practice/tree/master/2968-apply-operations-to-maximize-frequency-score) |
@@ -3822,6 +3825,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2382-maximum-segment-sum-after-removals](https://github.com/gauthamnholla/coding-practice/tree/master/2382-maximum-segment-sum-after-removals) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/gauthamnholla/coding-practice/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/gauthamnholla/coding-practice/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
+| [2398-maximum-number-of-robots-within-budget](https://github.com/gauthamnholla/coding-practice/tree/master/2398-maximum-number-of-robots-within-budget) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/gauthamnholla/coding-practice/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [2448-minimum-cost-to-make-array-equal](https://github.com/gauthamnholla/coding-practice/tree/master/2448-minimum-cost-to-make-array-equal) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/gauthamnholla/coding-practice/tree/master/2483-minimum-penalty-for-a-shop) |
@@ -4046,6 +4050,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2333-minimum-sum-of-squared-difference](https://github.com/gauthamnholla/coding-practice/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/gauthamnholla/coding-practice/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/gauthamnholla/coding-practice/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [2398-maximum-number-of-robots-within-budget](https://github.com/gauthamnholla/coding-practice/tree/master/2398-maximum-number-of-robots-within-budget) |
 | [2426-number-of-pairs-satisfying-inequality](https://github.com/gauthamnholla/coding-practice/tree/master/2426-number-of-pairs-satisfying-inequality) |
 | [2448-minimum-cost-to-make-array-equal](https://github.com/gauthamnholla/coding-practice/tree/master/2448-minimum-cost-to-make-array-equal) |
 | [2454-next-greater-element-iv](https://github.com/gauthamnholla/coding-practice/tree/master/2454-next-greater-element-iv) |
@@ -4482,6 +4487,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1687-delivering-boxes-from-storage-to-ports](https://github.com/gauthamnholla/coding-practice/tree/master/1687-delivering-boxes-from-storage-to-ports) |
 | [1696-jump-game-vi](https://github.com/gauthamnholla/coding-practice/tree/master/1696-jump-game-vi) |
 | [2071-maximum-number-of-tasks-you-can-assign](https://github.com/gauthamnholla/coding-practice/tree/master/2071-maximum-number-of-tasks-you-can-assign) |
+| [2398-maximum-number-of-robots-within-budget](https://github.com/gauthamnholla/coding-practice/tree/master/2398-maximum-number-of-robots-within-budget) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/gauthamnholla/coding-practice/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/gauthamnholla/coding-practice/tree/master/2618-maximize-the-minimum-powered-city) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/gauthamnholla/coding-practice/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
@@ -5219,6 +5225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1687-delivering-boxes-from-storage-to-ports](https://github.com/gauthamnholla/coding-practice/tree/master/1687-delivering-boxes-from-storage-to-ports) |
 | [1696-jump-game-vi](https://github.com/gauthamnholla/coding-practice/tree/master/1696-jump-game-vi) |
 | [2071-maximum-number-of-tasks-you-can-assign](https://github.com/gauthamnholla/coding-practice/tree/master/2071-maximum-number-of-tasks-you-can-assign) |
+| [2398-maximum-number-of-robots-within-budget](https://github.com/gauthamnholla/coding-practice/tree/master/2398-maximum-number-of-robots-within-budget) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/gauthamnholla/coding-practice/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 ## Reservoir Sampling
 |  |
