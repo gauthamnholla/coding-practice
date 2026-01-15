@@ -579,6 +579,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2274-maximum-consecutive-floors-without-special-floors](https://github.com/gauthamnholla/coding-practice/tree/master/2274-maximum-consecutive-floors-without-special-floors) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/gauthamnholla/coding-practice/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [2280-minimum-lines-to-represent-a-line-chart](https://github.com/gauthamnholla/coding-practice/tree/master/2280-minimum-lines-to-represent-a-line-chart) |
+| [2281-sum-of-total-strength-of-wizards](https://github.com/gauthamnholla/coding-practice/tree/master/2281-sum-of-total-strength-of-wizards) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/gauthamnholla/coding-practice/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/gauthamnholla/coding-practice/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/gauthamnholla/coding-practice/tree/master/2320-find-all-k-distant-indices-in-an-array) |
@@ -3425,6 +3426,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1856-maximum-subarray-min-product](https://github.com/gauthamnholla/coding-practice/tree/master/1856-maximum-subarray-min-product) |
 | [1996-the-number-of-weak-characters-in-the-game](https://github.com/gauthamnholla/coding-practice/tree/master/1996-the-number-of-weak-characters-in-the-game) |
 | [2211-count-collisions-on-a-road](https://github.com/gauthamnholla/coding-practice/tree/master/2211-count-collisions-on-a-road) |
+| [2281-sum-of-total-strength-of-wizards](https://github.com/gauthamnholla/coding-practice/tree/master/2281-sum-of-total-strength-of-wizards) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/gauthamnholla/coding-practice/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2454-next-greater-element-iv](https://github.com/gauthamnholla/coding-practice/tree/master/2454-next-greater-element-iv) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/gauthamnholla/coding-practice/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
@@ -3810,6 +3812,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2234-maximum-total-beauty-of-the-gardens](https://github.com/gauthamnholla/coding-practice/tree/master/2234-maximum-total-beauty-of-the-gardens) |
 | [2251-number-of-flowers-in-full-bloom](https://github.com/gauthamnholla/coding-practice/tree/master/2251-number-of-flowers-in-full-bloom) |
 | [2271-maximum-white-tiles-covered-by-a-carpet](https://github.com/gauthamnholla/coding-practice/tree/master/2271-maximum-white-tiles-covered-by-a-carpet) |
+| [2281-sum-of-total-strength-of-wizards](https://github.com/gauthamnholla/coding-practice/tree/master/2281-sum-of-total-strength-of-wizards) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/gauthamnholla/coding-practice/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/gauthamnholla/coding-practice/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [2448-minimum-cost-to-make-array-equal](https://github.com/gauthamnholla/coding-practice/tree/master/2448-minimum-cost-to-make-array-equal) |
@@ -4416,6 +4419,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1673-find-the-most-competitive-subsequence](https://github.com/gauthamnholla/coding-practice/tree/master/1673-find-the-most-competitive-subsequence) |
 | [1856-maximum-subarray-min-product](https://github.com/gauthamnholla/coding-practice/tree/master/1856-maximum-subarray-min-product) |
 | [1996-the-number-of-weak-characters-in-the-game](https://github.com/gauthamnholla/coding-practice/tree/master/1996-the-number-of-weak-characters-in-the-game) |
+| [2281-sum-of-total-strength-of-wizards](https://github.com/gauthamnholla/coding-practice/tree/master/2281-sum-of-total-strength-of-wizards) |
 | [2454-next-greater-element-iv](https://github.com/gauthamnholla/coding-practice/tree/master/2454-next-greater-element-iv) |
 | [2736-maximum-sum-queries](https://github.com/gauthamnholla/coding-practice/tree/master/2736-maximum-sum-queries) |
 | [2818-apply-operations-to-maximize-score](https://github.com/gauthamnholla/coding-practice/tree/master/2818-apply-operations-to-maximize-score) |
