@@ -2755,6 +2755,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2432-number-of-zero-filled-subarrays](https://github.com/gauthamnholla/coding-practice/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2440-create-components-with-same-value](https://github.com/gauthamnholla/coding-practice/tree/master/2440-create-components-with-same-value) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/gauthamnholla/coding-practice/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
+| [2485-find-the-pivot-integer](https://github.com/gauthamnholla/coding-practice/tree/master/2485-find-the-pivot-integer) |
 | [2575-find-the-divisibility-array-of-a-string](https://github.com/gauthamnholla/coding-practice/tree/master/2575-find-the-divisibility-array-of-a-string) |
 | [2578-split-with-minimum-sum](https://github.com/gauthamnholla/coding-practice/tree/master/2578-split-with-minimum-sum) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/gauthamnholla/coding-practice/tree/master/2597-the-number-of-beautiful-subsets) |
@@ -3840,6 +3841,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2439-minimize-maximum-of-array](https://github.com/gauthamnholla/coding-practice/tree/master/2439-minimize-maximum-of-array) |
 | [2448-minimum-cost-to-make-array-equal](https://github.com/gauthamnholla/coding-practice/tree/master/2448-minimum-cost-to-make-array-equal) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/gauthamnholla/coding-practice/tree/master/2483-minimum-penalty-for-a-shop) |
+| [2485-find-the-pivot-integer](https://github.com/gauthamnholla/coding-practice/tree/master/2485-find-the-pivot-integer) |
 | [2488-count-subarrays-with-median-k](https://github.com/gauthamnholla/coding-practice/tree/master/2488-count-subarrays-with-median-k) |
 | [2529-range-product-queries-of-powers](https://github.com/gauthamnholla/coding-practice/tree/master/2529-range-product-queries-of-powers) |
 | [2574-left-and-right-sum-differences](https://github.com/gauthamnholla/coding-practice/tree/master/2574-left-and-right-sum-differences) |
