@@ -646,6 +646,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2542-maximum-subsequence-score](https://github.com/gauthamnholla/coding-practice/tree/master/2542-maximum-subsequence-score) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/gauthamnholla/coding-practice/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [2551-put-marbles-in-bags](https://github.com/gauthamnholla/coding-practice/tree/master/2551-put-marbles-in-bags) |
+| [2552-count-increasing-quadruplets](https://github.com/gauthamnholla/coding-practice/tree/master/2552-count-increasing-quadruplets) |
 | [2556-disconnect-path-in-a-binary-matrix-by-at-most-one-flip](https://github.com/gauthamnholla/coding-practice/tree/master/2556-disconnect-path-in-a-binary-matrix-by-at-most-one-flip) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/gauthamnholla/coding-practice/tree/master/2563-count-the-number-of-fair-pairs) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/gauthamnholla/coding-practice/tree/master/2567-minimum-score-by-changing-two-elements) |
@@ -1693,6 +1694,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2234-maximum-total-beauty-of-the-gardens](https://github.com/gauthamnholla/coding-practice/tree/master/2234-maximum-total-beauty-of-the-gardens) |
 | [2242-maximum-score-of-a-node-sequence](https://github.com/gauthamnholla/coding-practice/tree/master/2242-maximum-score-of-a-node-sequence) |
 | [2440-create-components-with-same-value](https://github.com/gauthamnholla/coding-practice/tree/master/2440-create-components-with-same-value) |
+| [2552-count-increasing-quadruplets](https://github.com/gauthamnholla/coding-practice/tree/master/2552-count-increasing-quadruplets) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/gauthamnholla/coding-practice/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [2860-happy-students](https://github.com/gauthamnholla/coding-practice/tree/master/2860-happy-students) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/gauthamnholla/coding-practice/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
@@ -2302,6 +2304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2463-minimum-total-distance-traveled](https://github.com/gauthamnholla/coding-practice/tree/master/2463-minimum-total-distance-traveled) |
 | [2501-longest-square-streak-in-an-array](https://github.com/gauthamnholla/coding-practice/tree/master/2501-longest-square-streak-in-an-array) |
 | [2538-difference-between-maximum-and-minimum-price-sum](https://github.com/gauthamnholla/coding-practice/tree/master/2538-difference-between-maximum-and-minimum-price-sum) |
+| [2552-count-increasing-quadruplets](https://github.com/gauthamnholla/coding-practice/tree/master/2552-count-increasing-quadruplets) |
 | [2556-disconnect-path-in-a-binary-matrix-by-at-most-one-flip](https://github.com/gauthamnholla/coding-practice/tree/master/2556-disconnect-path-in-a-binary-matrix-by-at-most-one-flip) |
 | [2581-count-number-of-possible-root-nodes](https://github.com/gauthamnholla/coding-practice/tree/master/2581-count-number-of-possible-root-nodes) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/gauthamnholla/coding-practice/tree/master/2597-the-number-of-beautiful-subsets) |
@@ -3844,6 +3847,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2485-find-the-pivot-integer](https://github.com/gauthamnholla/coding-practice/tree/master/2485-find-the-pivot-integer) |
 | [2488-count-subarrays-with-median-k](https://github.com/gauthamnholla/coding-practice/tree/master/2488-count-subarrays-with-median-k) |
 | [2529-range-product-queries-of-powers](https://github.com/gauthamnholla/coding-practice/tree/master/2529-range-product-queries-of-powers) |
+| [2552-count-increasing-quadruplets](https://github.com/gauthamnholla/coding-practice/tree/master/2552-count-increasing-quadruplets) |
 | [2574-left-and-right-sum-differences](https://github.com/gauthamnholla/coding-practice/tree/master/2574-left-and-right-sum-differences) |
 | [2587-rearrange-array-to-maximize-prefix-score](https://github.com/gauthamnholla/coding-practice/tree/master/2587-rearrange-array-to-maximize-prefix-score) |
 | [2602-minimum-operations-to-make-all-array-elements-equal](https://github.com/gauthamnholla/coding-practice/tree/master/2602-minimum-operations-to-make-all-array-elements-equal) |
@@ -5029,6 +5033,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2179-count-good-triplets-in-an-array](https://github.com/gauthamnholla/coding-practice/tree/master/2179-count-good-triplets-in-an-array) |
 | [2250-count-number-of-rectangles-containing-each-point](https://github.com/gauthamnholla/coding-practice/tree/master/2250-count-number-of-rectangles-containing-each-point) |
 | [2426-number-of-pairs-satisfying-inequality](https://github.com/gauthamnholla/coding-practice/tree/master/2426-number-of-pairs-satisfying-inequality) |
+| [2552-count-increasing-quadruplets](https://github.com/gauthamnholla/coding-practice/tree/master/2552-count-increasing-quadruplets) |
 | [2659-make-array-empty](https://github.com/gauthamnholla/coding-practice/tree/master/2659-make-array-empty) |
 | [2736-maximum-sum-queries](https://github.com/gauthamnholla/coding-practice/tree/master/2736-maximum-sum-queries) |
 | [3380-maximum-area-rectangle-with-point-constraints-i](https://github.com/gauthamnholla/coding-practice/tree/master/3380-maximum-area-rectangle-with-point-constraints-i) |
