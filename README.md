@@ -829,6 +829,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3721-longest-balanced-subarray-ii](https://github.com/gauthamnholla/coding-practice/tree/master/3721-longest-balanced-subarray-ii) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/gauthamnholla/coding-practice/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3728-stable-subarrays-with-equal-boundary-and-interior-sum](https://github.com/gauthamnholla/coding-practice/tree/master/3728-stable-subarrays-with-equal-boundary-and-interior-sum) |
+| [3729-count-distinct-subarrays-divisible-by-k-in-sorted-array](https://github.com/gauthamnholla/coding-practice/tree/master/3729-count-distinct-subarrays-divisible-by-k-in-sorted-array) |
 | [3731-find-missing-elements](https://github.com/gauthamnholla/coding-practice/tree/master/3731-find-missing-elements) |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/gauthamnholla/coding-practice/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/gauthamnholla/coding-practice/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
@@ -2004,6 +2005,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/gauthamnholla/coding-practice/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3721-longest-balanced-subarray-ii](https://github.com/gauthamnholla/coding-practice/tree/master/3721-longest-balanced-subarray-ii) |
 | [3728-stable-subarrays-with-equal-boundary-and-interior-sum](https://github.com/gauthamnholla/coding-practice/tree/master/3728-stable-subarrays-with-equal-boundary-and-interior-sum) |
+| [3729-count-distinct-subarrays-divisible-by-k-in-sorted-array](https://github.com/gauthamnholla/coding-practice/tree/master/3729-count-distinct-subarrays-divisible-by-k-in-sorted-array) |
 | [3731-find-missing-elements](https://github.com/gauthamnholla/coding-practice/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/gauthamnholla/coding-practice/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/gauthamnholla/coding-practice/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -3859,6 +3861,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3719-longest-balanced-subarray-i](https://github.com/gauthamnholla/coding-practice/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/gauthamnholla/coding-practice/tree/master/3721-longest-balanced-subarray-ii) |
 | [3728-stable-subarrays-with-equal-boundary-and-interior-sum](https://github.com/gauthamnholla/coding-practice/tree/master/3728-stable-subarrays-with-equal-boundary-and-interior-sum) |
+| [3729-count-distinct-subarrays-divisible-by-k-in-sorted-array](https://github.com/gauthamnholla/coding-practice/tree/master/3729-count-distinct-subarrays-divisible-by-k-in-sorted-array) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/gauthamnholla/coding-practice/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/gauthamnholla/coding-practice/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/gauthamnholla/coding-practice/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
