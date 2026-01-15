@@ -596,6 +596,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2363-merge-similar-items](https://github.com/gauthamnholla/coding-practice/tree/master/2363-merge-similar-items) |
 | [2368-reachable-nodes-with-restrictions](https://github.com/gauthamnholla/coding-practice/tree/master/2368-reachable-nodes-with-restrictions) |
 | [2381-shifting-letters-ii](https://github.com/gauthamnholla/coding-practice/tree/master/2381-shifting-letters-ii) |
+| [2382-maximum-segment-sum-after-removals](https://github.com/gauthamnholla/coding-practice/tree/master/2382-maximum-segment-sum-after-removals) |
 | [2386-find-the-k-sum-of-an-array](https://github.com/gauthamnholla/coding-practice/tree/master/2386-find-the-k-sum-of-an-array) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/gauthamnholla/coding-practice/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/gauthamnholla/coding-practice/tree/master/2389-longest-subsequence-with-limited-sum) |
@@ -3816,6 +3817,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2271-maximum-white-tiles-covered-by-a-carpet](https://github.com/gauthamnholla/coding-practice/tree/master/2271-maximum-white-tiles-covered-by-a-carpet) |
 | [2281-sum-of-total-strength-of-wizards](https://github.com/gauthamnholla/coding-practice/tree/master/2281-sum-of-total-strength-of-wizards) |
 | [2381-shifting-letters-ii](https://github.com/gauthamnholla/coding-practice/tree/master/2381-shifting-letters-ii) |
+| [2382-maximum-segment-sum-after-removals](https://github.com/gauthamnholla/coding-practice/tree/master/2382-maximum-segment-sum-after-removals) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/gauthamnholla/coding-practice/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/gauthamnholla/coding-practice/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [2448-minimum-cost-to-make-array-equal](https://github.com/gauthamnholla/coding-practice/tree/master/2448-minimum-cost-to-make-array-equal) |
@@ -4157,6 +4159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2179-count-good-triplets-in-an-array](https://github.com/gauthamnholla/coding-practice/tree/master/2179-count-good-triplets-in-an-array) |
 | [2251-number-of-flowers-in-full-bloom](https://github.com/gauthamnholla/coding-practice/tree/master/2251-number-of-flowers-in-full-bloom) |
 | [2363-merge-similar-items](https://github.com/gauthamnholla/coding-practice/tree/master/2363-merge-similar-items) |
+| [2382-maximum-segment-sum-after-removals](https://github.com/gauthamnholla/coding-practice/tree/master/2382-maximum-segment-sum-after-removals) |
 | [2426-number-of-pairs-satisfying-inequality](https://github.com/gauthamnholla/coding-practice/tree/master/2426-number-of-pairs-satisfying-inequality) |
 | [2429-design-a-food-rating-system](https://github.com/gauthamnholla/coding-practice/tree/master/2429-design-a-food-rating-system) |
 | [2659-make-array-empty](https://github.com/gauthamnholla/coding-practice/tree/master/2659-make-array-empty) |
@@ -5235,4 +5238,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0278-first-bad-version](https://github.com/gauthamnholla/coding-practice/tree/master/0278-first-bad-version) |
 | [0843-guess-the-word](https://github.com/gauthamnholla/coding-practice/tree/master/0843-guess-the-word) |
+## Union-Find
+|  |
+| ------- |
+| [2382-maximum-segment-sum-after-removals](https://github.com/gauthamnholla/coding-practice/tree/master/2382-maximum-segment-sum-after-removals) |
 <!---LeetCode Topics End-->
