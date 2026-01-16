@@ -790,6 +790,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3530-maximum-profit-from-valid-topological-order-in-dag](https://github.com/gauthamnholla/coding-practice/tree/master/3530-maximum-profit-from-valid-topological-order-in-dag) |
 | [3531-count-covered-buildings](https://github.com/gauthamnholla/coding-practice/tree/master/3531-count-covered-buildings) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/gauthamnholla/coding-practice/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [3538-merge-operations-for-minimum-travel-time](https://github.com/gauthamnholla/coding-practice/tree/master/3538-merge-operations-for-minimum-travel-time) |
 | [3544-subtree-inversion-sum](https://github.com/gauthamnholla/coding-practice/tree/master/3544-subtree-inversion-sum) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/gauthamnholla/coding-practice/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3553-minimum-weighted-subgraph-with-the-required-paths-ii](https://github.com/gauthamnholla/coding-practice/tree/master/3553-minimum-weighted-subgraph-with-the-required-paths-ii) |
@@ -2349,6 +2350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3500-minimum-cost-to-divide-array-into-subarrays](https://github.com/gauthamnholla/coding-practice/tree/master/3500-minimum-cost-to-divide-array-into-subarrays) |
 | [3530-maximum-profit-from-valid-topological-order-in-dag](https://github.com/gauthamnholla/coding-practice/tree/master/3530-maximum-profit-from-valid-topological-order-in-dag) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/gauthamnholla/coding-practice/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [3538-merge-operations-for-minimum-travel-time](https://github.com/gauthamnholla/coding-practice/tree/master/3538-merge-operations-for-minimum-travel-time) |
 | [3544-subtree-inversion-sum](https://github.com/gauthamnholla/coding-practice/tree/master/3544-subtree-inversion-sum) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/gauthamnholla/coding-practice/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/gauthamnholla/coding-practice/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
@@ -3892,6 +3894,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3432-count-partitions-with-even-sum-difference](https://github.com/gauthamnholla/coding-practice/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3486-longest-special-path-ii](https://github.com/gauthamnholla/coding-practice/tree/master/3486-longest-special-path-ii) |
 | [3500-minimum-cost-to-divide-array-into-subarrays](https://github.com/gauthamnholla/coding-practice/tree/master/3500-minimum-cost-to-divide-array-into-subarrays) |
+| [3538-merge-operations-for-minimum-travel-time](https://github.com/gauthamnholla/coding-practice/tree/master/3538-merge-operations-for-minimum-travel-time) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/gauthamnholla/coding-practice/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/gauthamnholla/coding-practice/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3618-find-the-original-typed-string-ii](https://github.com/gauthamnholla/coding-practice/tree/master/3618-find-the-original-typed-string-ii) |
