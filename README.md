@@ -875,6 +875,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3790-fruits-into-baskets-ii](https://github.com/gauthamnholla/coding-practice/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/gauthamnholla/coding-practice/tree/master/3791-fruits-into-baskets-iii) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/gauthamnholla/coding-practice/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
+| [3797-count-routes-to-climb-a-rectangular-grid](https://github.com/gauthamnholla/coding-practice/tree/master/3797-count-routes-to-climb-a-rectangular-grid) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/gauthamnholla/coding-practice/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/gauthamnholla/coding-practice/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 | [3863-power-grid-maintenance](https://github.com/gauthamnholla/coding-practice/tree/master/3863-power-grid-maintenance) |
@@ -2377,6 +2378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3699-number-of-zigzag-arrays-i](https://github.com/gauthamnholla/coding-practice/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/gauthamnholla/coding-practice/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3772-maximum-subgraph-score-in-a-tree](https://github.com/gauthamnholla/coding-practice/tree/master/3772-maximum-subgraph-score-in-a-tree) |
+| [3797-count-routes-to-climb-a-rectangular-grid](https://github.com/gauthamnholla/coding-practice/tree/master/3797-count-routes-to-climb-a-rectangular-grid) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/gauthamnholla/coding-practice/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Memoization
 |  |
@@ -3935,6 +3937,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3788-maximum-score-of-a-split](https://github.com/gauthamnholla/coding-practice/tree/master/3788-maximum-score-of-a-split) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/gauthamnholla/coding-practice/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/gauthamnholla/coding-practice/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
+| [3797-count-routes-to-climb-a-rectangular-grid](https://github.com/gauthamnholla/coding-practice/tree/master/3797-count-routes-to-climb-a-rectangular-grid) |
 ## Backtracking
 |  |
 | ------- |
@@ -4336,6 +4339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/gauthamnholla/coding-practice/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/gauthamnholla/coding-practice/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3748-sort-matrix-by-diagonals](https://github.com/gauthamnholla/coding-practice/tree/master/3748-sort-matrix-by-diagonals) |
+| [3797-count-routes-to-climb-a-rectangular-grid](https://github.com/gauthamnholla/coding-practice/tree/master/3797-count-routes-to-climb-a-rectangular-grid) |
 ## Probability and Statistics
 |  |
 | ------- |
