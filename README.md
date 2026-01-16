@@ -2373,6 +2373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3654-minimum-sum-after-divisible-sum-deletions](https://github.com/gauthamnholla/coding-practice/tree/master/3654-minimum-sum-after-divisible-sum-deletions) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/gauthamnholla/coding-practice/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3685-subsequence-sum-after-capping-elements](https://github.com/gauthamnholla/coding-practice/tree/master/3685-subsequence-sum-after-capping-elements) |
+| [3699-number-of-zigzag-arrays-i](https://github.com/gauthamnholla/coding-practice/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/gauthamnholla/coding-practice/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3772-maximum-subgraph-score-in-a-tree](https://github.com/gauthamnholla/coding-practice/tree/master/3772-maximum-subgraph-score-in-a-tree) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/gauthamnholla/coding-practice/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
@@ -3915,6 +3916,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3654-minimum-sum-after-divisible-sum-deletions](https://github.com/gauthamnholla/coding-practice/tree/master/3654-minimum-sum-after-divisible-sum-deletions) |
 | [3694-distinct-points-reachable-after-substring-removal](https://github.com/gauthamnholla/coding-practice/tree/master/3694-distinct-points-reachable-after-substring-removal) |
 | [3698-split-array-with-minimum-difference](https://github.com/gauthamnholla/coding-practice/tree/master/3698-split-array-with-minimum-difference) |
+| [3699-number-of-zigzag-arrays-i](https://github.com/gauthamnholla/coding-practice/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3707-equal-score-substrings](https://github.com/gauthamnholla/coding-practice/tree/master/3707-equal-score-substrings) |
 | [3709-design-exam-scores-tracker](https://github.com/gauthamnholla/coding-practice/tree/master/3709-design-exam-scores-tracker) |
 | [3714-longest-balanced-substring-ii](https://github.com/gauthamnholla/coding-practice/tree/master/3714-longest-balanced-substring-ii) |
