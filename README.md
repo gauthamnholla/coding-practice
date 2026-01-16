@@ -702,6 +702,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2968-apply-operations-to-maximize-frequency-score](https://github.com/gauthamnholla/coding-practice/tree/master/2968-apply-operations-to-maximize-frequency-score) |
 | [2971-find-polygon-with-the-largest-perimeter](https://github.com/gauthamnholla/coding-practice/tree/master/2971-find-polygon-with-the-largest-perimeter) |
 | [2974-minimum-number-game](https://github.com/gauthamnholla/coding-practice/tree/master/2974-minimum-number-game) |
+| [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/gauthamnholla/coding-practice/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/gauthamnholla/coding-practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/gauthamnholla/coding-practice/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3011-find-if-array-can-be-sorted](https://github.com/gauthamnholla/coding-practice/tree/master/3011-find-if-array-can-be-sorted) |
@@ -1699,6 +1700,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2552-count-increasing-quadruplets](https://github.com/gauthamnholla/coding-practice/tree/master/2552-count-increasing-quadruplets) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/gauthamnholla/coding-practice/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [2860-happy-students](https://github.com/gauthamnholla/coding-practice/tree/master/2860-happy-students) |
+| [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/gauthamnholla/coding-practice/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/gauthamnholla/coding-practice/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3132-find-the-integer-added-to-array-ii](https://github.com/gauthamnholla/coding-practice/tree/master/3132-find-the-integer-added-to-array-ii) |
 | [3201-distribute-candies-among-children-ii](https://github.com/gauthamnholla/coding-practice/tree/master/3201-distribute-candies-among-children-ii) |
@@ -1973,6 +1975,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2830-maximize-the-profit-as-the-salesman](https://github.com/gauthamnholla/coding-practice/tree/master/2830-maximize-the-profit-as-the-salesman) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/gauthamnholla/coding-practice/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2933-high-access-employees](https://github.com/gauthamnholla/coding-practice/tree/master/2933-high-access-employees) |
+| [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/gauthamnholla/coding-practice/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [2983-palindrome-rearrangement-queries](https://github.com/gauthamnholla/coding-practice/tree/master/2983-palindrome-rearrangement-queries) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/gauthamnholla/coding-practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/gauthamnholla/coding-practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
