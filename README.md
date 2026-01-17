@@ -717,6 +717,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3035-maximum-palindromes-after-operations](https://github.com/gauthamnholla/coding-practice/tree/master/3035-maximum-palindromes-after-operations) |
 | [3039-apply-operations-to-make-string-empty](https://github.com/gauthamnholla/coding-practice/tree/master/3039-apply-operations-to-make-string-empty) |
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/gauthamnholla/coding-practice/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
+| [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/gauthamnholla/coding-practice/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3067-count-pairs-of-connectable-servers-in-a-weighted-tree-network](https://github.com/gauthamnholla/coding-practice/tree/master/3067-count-pairs-of-connectable-servers-in-a-weighted-tree-network) |
 | [3068-find-the-maximum-sum-of-node-values](https://github.com/gauthamnholla/coding-practice/tree/master/3068-find-the-maximum-sum-of-node-values) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/gauthamnholla/coding-practice/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
@@ -2809,6 +2810,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2867-count-valid-paths-in-a-tree](https://github.com/gauthamnholla/coding-practice/tree/master/2867-count-valid-paths-in-a-tree) |
 | [2967-minimum-cost-to-make-array-equalindromic](https://github.com/gauthamnholla/coding-practice/tree/master/2967-minimum-cost-to-make-array-equalindromic) |
 | [3024-type-of-triangle](https://github.com/gauthamnholla/coding-practice/tree/master/3024-type-of-triangle) |
+| [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/gauthamnholla/coding-practice/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3102-minimize-manhattan-distances](https://github.com/gauthamnholla/coding-practice/tree/master/3102-minimize-manhattan-distances) |
 | [3179-find-the-n-th-value-after-k-seconds](https://github.com/gauthamnholla/coding-practice/tree/master/3179-find-the-n-th-value-after-k-seconds) |
 | [3201-distribute-candies-among-children-ii](https://github.com/gauthamnholla/coding-practice/tree/master/3201-distribute-candies-among-children-ii) |
@@ -4541,6 +4543,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1610-maximum-number-of-visible-points](https://github.com/gauthamnholla/coding-practice/tree/master/1610-maximum-number-of-visible-points) |
 | [2101-detonate-the-maximum-bombs](https://github.com/gauthamnholla/coding-practice/tree/master/2101-detonate-the-maximum-bombs) |
 | [2280-minimum-lines-to-represent-a-line-chart](https://github.com/gauthamnholla/coding-practice/tree/master/2280-minimum-lines-to-represent-a-line-chart) |
+| [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/gauthamnholla/coding-practice/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3102-minimize-manhattan-distances](https://github.com/gauthamnholla/coding-practice/tree/master/3102-minimize-manhattan-distances) |
 | [3235-check-if-the-rectangle-corner-is-reachable](https://github.com/gauthamnholla/coding-practice/tree/master/3235-check-if-the-rectangle-corner-is-reachable) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/gauthamnholla/coding-practice/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
