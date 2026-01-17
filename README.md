@@ -431,6 +431,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1568-minimum-number-of-days-to-disconnect-island](https://github.com/gauthamnholla/coding-practice/tree/master/1568-minimum-number-of-days-to-disconnect-island) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/gauthamnholla/coding-practice/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/gauthamnholla/coding-practice/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+| [1577-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers](https://github.com/gauthamnholla/coding-practice/tree/master/1577-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers) |
 | [1580-shuffle-the-array](https://github.com/gauthamnholla/coding-practice/tree/master/1580-shuffle-the-array) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/gauthamnholla/coding-practice/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/gauthamnholla/coding-practice/tree/master/1588-sum-of-all-odd-length-subarrays) |
@@ -1925,6 +1926,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-find-lucky-integer-in-an-array](https://github.com/gauthamnholla/coding-practice/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1519-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/gauthamnholla/coding-practice/tree/master/1519-number-of-nodes-in-the-sub-tree-with-the-same-label) |
 | [1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target](https://github.com/gauthamnholla/coding-practice/tree/master/1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target) |
+| [1577-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers](https://github.com/gauthamnholla/coding-practice/tree/master/1577-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers) |
 | [1590-make-sum-divisible-by-p](https://github.com/gauthamnholla/coding-practice/tree/master/1590-make-sum-divisible-by-p) |
 | [1600-throne-inheritance](https://github.com/gauthamnholla/coding-practice/tree/master/1600-throne-inheritance) |
 | [1604-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period](https://github.com/gauthamnholla/coding-practice/tree/master/1604-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period) |
@@ -2512,6 +2514,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1471-the-k-strongest-values-in-an-array](https://github.com/gauthamnholla/coding-practice/tree/master/1471-the-k-strongest-values-in-an-array) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/gauthamnholla/coding-practice/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [1537-get-the-maximum-score](https://github.com/gauthamnholla/coding-practice/tree/master/1537-get-the-maximum-score) |
+| [1577-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers](https://github.com/gauthamnholla/coding-practice/tree/master/1577-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/gauthamnholla/coding-practice/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/gauthamnholla/coding-practice/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1697-checking-existence-of-edge-length-limited-paths](https://github.com/gauthamnholla/coding-practice/tree/master/1697-checking-existence-of-edge-length-limited-paths) |
@@ -2774,6 +2777,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/gauthamnholla/coding-practice/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/gauthamnholla/coding-practice/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/gauthamnholla/coding-practice/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [1577-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers](https://github.com/gauthamnholla/coding-practice/tree/master/1577-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/gauthamnholla/coding-practice/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1610-maximum-number-of-visible-points](https://github.com/gauthamnholla/coding-practice/tree/master/1610-maximum-number-of-visible-points) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/gauthamnholla/coding-practice/tree/master/1636-number-of-substrings-with-only-1s) |
