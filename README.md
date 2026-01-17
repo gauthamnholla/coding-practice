@@ -953,6 +953,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/gauthamnholla/coding-practice/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/gauthamnholla/coding-practice/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1090-largest-values-from-labels](https://github.com/gauthamnholla/coding-practice/tree/master/1090-largest-values-from-labels) |
+| [1147-longest-chunked-palindrome-decomposition](https://github.com/gauthamnholla/coding-practice/tree/master/1147-longest-chunked-palindrome-decomposition) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/gauthamnholla/coding-practice/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/gauthamnholla/coding-practice/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/gauthamnholla/coding-practice/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
@@ -2280,6 +2281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1048-longest-string-chain](https://github.com/gauthamnholla/coding-practice/tree/master/1048-longest-string-chain) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/gauthamnholla/coding-practice/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1140-stone-game-ii](https://github.com/gauthamnholla/coding-practice/tree/master/1140-stone-game-ii) |
+| [1147-longest-chunked-palindrome-decomposition](https://github.com/gauthamnholla/coding-practice/tree/master/1147-longest-chunked-palindrome-decomposition) |
 | [1187-make-array-strictly-increasing](https://github.com/gauthamnholla/coding-practice/tree/master/1187-make-array-strictly-increasing) |
 | [1227-airplane-seat-assignment-probability](https://github.com/gauthamnholla/coding-practice/tree/master/1227-airplane-seat-assignment-probability) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/gauthamnholla/coding-practice/tree/master/1262-greatest-sum-divisible-by-three) |
@@ -2500,6 +2502,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1023-camelcase-matching](https://github.com/gauthamnholla/coding-practice/tree/master/1023-camelcase-matching) |
 | [1048-longest-string-chain](https://github.com/gauthamnholla/coding-practice/tree/master/1048-longest-string-chain) |
 | [1089-duplicate-zeros](https://github.com/gauthamnholla/coding-practice/tree/master/1089-duplicate-zeros) |
+| [1147-longest-chunked-palindrome-decomposition](https://github.com/gauthamnholla/coding-practice/tree/master/1147-longest-chunked-palindrome-decomposition) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/gauthamnholla/coding-practice/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1471-the-k-strongest-values-in-an-array](https://github.com/gauthamnholla/coding-practice/tree/master/1471-the-k-strongest-values-in-an-array) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/gauthamnholla/coding-practice/tree/master/1508-range-sum-of-sorted-subarray-sums) |
@@ -3043,6 +3046,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/gauthamnholla/coding-practice/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/gauthamnholla/coding-practice/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1096-brace-expansion-ii](https://github.com/gauthamnholla/coding-practice/tree/master/1096-brace-expansion-ii) |
+| [1147-longest-chunked-palindrome-decomposition](https://github.com/gauthamnholla/coding-practice/tree/master/1147-longest-chunked-palindrome-decomposition) |
 | [1169-invalid-transactions](https://github.com/gauthamnholla/coding-practice/tree/master/1169-invalid-transactions) |
 | [1170-compare-strings-by-frequency-of-the-smallest-character](https://github.com/gauthamnholla/coding-practice/tree/master/1170-compare-strings-by-frequency-of-the-smallest-character) |
 | [1177-can-make-palindrome-from-substring](https://github.com/gauthamnholla/coding-practice/tree/master/1177-can-make-palindrome-from-substring) |
@@ -5195,6 +5199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/gauthamnholla/coding-practice/tree/master/0572-subtree-of-another-tree) |
 | [0816-design-hashset](https://github.com/gauthamnholla/coding-practice/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/gauthamnholla/coding-practice/tree/master/0817-design-hashmap) |
+| [1147-longest-chunked-palindrome-decomposition](https://github.com/gauthamnholla/coding-practice/tree/master/1147-longest-chunked-palindrome-decomposition) |
 | [1508-longest-happy-prefix](https://github.com/gauthamnholla/coding-practice/tree/master/1508-longest-happy-prefix) |
 | [2326-sum-of-scores-of-built-strings](https://github.com/gauthamnholla/coding-practice/tree/master/2326-sum-of-scores-of-built-strings) |
 | [3327-check-if-dfs-strings-are-palindromes](https://github.com/gauthamnholla/coding-practice/tree/master/3327-check-if-dfs-strings-are-palindromes) |
@@ -5219,6 +5224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/gauthamnholla/coding-practice/tree/master/0187-repeated-dna-sequences) |
+| [1147-longest-chunked-palindrome-decomposition](https://github.com/gauthamnholla/coding-practice/tree/master/1147-longest-chunked-palindrome-decomposition) |
 | [1508-longest-happy-prefix](https://github.com/gauthamnholla/coding-practice/tree/master/1508-longest-happy-prefix) |
 | [2326-sum-of-scores-of-built-strings](https://github.com/gauthamnholla/coding-practice/tree/master/2326-sum-of-scores-of-built-strings) |
 ## Suffix Array
