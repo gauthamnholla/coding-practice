@@ -2515,6 +2515,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/gauthamnholla/coding-practice/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [1537-get-the-maximum-score](https://github.com/gauthamnholla/coding-practice/tree/master/1537-get-the-maximum-score) |
 | [1577-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers](https://github.com/gauthamnholla/coding-practice/tree/master/1577-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers) |
+| [1616-split-two-strings-to-make-palindrome](https://github.com/gauthamnholla/coding-practice/tree/master/1616-split-two-strings-to-make-palindrome) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/gauthamnholla/coding-practice/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/gauthamnholla/coding-practice/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1697-checking-existence-of-edge-length-limited-paths](https://github.com/gauthamnholla/coding-practice/tree/master/1697-checking-existence-of-edge-length-limited-paths) |
@@ -3079,6 +3080,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/gauthamnholla/coding-practice/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1585-check-if-string-is-transformable-with-substring-sort-operations](https://github.com/gauthamnholla/coding-practice/tree/master/1585-check-if-string-is-transformable-with-substring-sort-operations) |
 | [1604-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period](https://github.com/gauthamnholla/coding-practice/tree/master/1604-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period) |
+| [1616-split-two-strings-to-make-palindrome](https://github.com/gauthamnholla/coding-practice/tree/master/1616-split-two-strings-to-make-palindrome) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/gauthamnholla/coding-practice/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/gauthamnholla/coding-practice/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1657-determine-if-two-strings-are-close](https://github.com/gauthamnholla/coding-practice/tree/master/1657-determine-if-two-strings-are-close) |
