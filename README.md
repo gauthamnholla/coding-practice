@@ -335,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/gauthamnholla/coding-practice/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
 | [1071-binary-prefix-divisible-by-5](https://github.com/gauthamnholla/coding-practice/tree/master/1071-binary-prefix-divisible-by-5) |
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/gauthamnholla/coding-practice/tree/master/1074-number-of-submatrices-that-sum-to-target) |
+| [1089-duplicate-zeros](https://github.com/gauthamnholla/coding-practice/tree/master/1089-duplicate-zeros) |
 | [1090-largest-values-from-labels](https://github.com/gauthamnholla/coding-practice/tree/master/1090-largest-values-from-labels) |
 | [1093-statistics-from-a-large-sample](https://github.com/gauthamnholla/coding-practice/tree/master/1093-statistics-from-a-large-sample) |
 | [1094-matrix-cells-in-distance-order](https://github.com/gauthamnholla/coding-practice/tree/master/1094-matrix-cells-in-distance-order) |
@@ -2498,6 +2499,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-squares-of-a-sorted-array](https://github.com/gauthamnholla/coding-practice/tree/master/1019-squares-of-a-sorted-array) |
 | [1023-camelcase-matching](https://github.com/gauthamnholla/coding-practice/tree/master/1023-camelcase-matching) |
 | [1048-longest-string-chain](https://github.com/gauthamnholla/coding-practice/tree/master/1048-longest-string-chain) |
+| [1089-duplicate-zeros](https://github.com/gauthamnholla/coding-practice/tree/master/1089-duplicate-zeros) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/gauthamnholla/coding-practice/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1471-the-k-strongest-values-in-an-array](https://github.com/gauthamnholla/coding-practice/tree/master/1471-the-k-strongest-values-in-an-array) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/gauthamnholla/coding-practice/tree/master/1508-range-sum-of-sorted-subarray-sums) |
