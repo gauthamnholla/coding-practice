@@ -861,6 +861,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3715-sum-of-perfect-square-ancestors](https://github.com/gauthamnholla/coding-practice/tree/master/3715-sum-of-perfect-square-ancestors) |
 | [3719-longest-balanced-subarray-i](https://github.com/gauthamnholla/coding-practice/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/gauthamnholla/coding-practice/tree/master/3721-longest-balanced-subarray-ii) |
+| [3725-count-ways-to-choose-coprime-integers-from-rows](https://github.com/gauthamnholla/coding-practice/tree/master/3725-count-ways-to-choose-coprime-integers-from-rows) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/gauthamnholla/coding-practice/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3728-stable-subarrays-with-equal-boundary-and-interior-sum](https://github.com/gauthamnholla/coding-practice/tree/master/3728-stable-subarrays-with-equal-boundary-and-interior-sum) |
 | [3729-count-distinct-subarrays-divisible-by-k-in-sorted-array](https://github.com/gauthamnholla/coding-practice/tree/master/3729-count-distinct-subarrays-divisible-by-k-in-sorted-array) |
@@ -2410,6 +2411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/gauthamnholla/coding-practice/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3685-subsequence-sum-after-capping-elements](https://github.com/gauthamnholla/coding-practice/tree/master/3685-subsequence-sum-after-capping-elements) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/gauthamnholla/coding-practice/tree/master/3699-number-of-zigzag-arrays-i) |
+| [3725-count-ways-to-choose-coprime-integers-from-rows](https://github.com/gauthamnholla/coding-practice/tree/master/3725-count-ways-to-choose-coprime-integers-from-rows) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/gauthamnholla/coding-practice/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/gauthamnholla/coding-practice/tree/master/3742-maximum-path-score-in-a-grid) |
 | [3772-maximum-subgraph-score-in-a-tree](https://github.com/gauthamnholla/coding-practice/tree/master/3772-maximum-subgraph-score-in-a-tree) |
@@ -2880,6 +2882,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3676-smallest-number-with-all-set-bits](https://github.com/gauthamnholla/coding-practice/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/gauthamnholla/coding-practice/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
 | [3715-sum-of-perfect-square-ancestors](https://github.com/gauthamnholla/coding-practice/tree/master/3715-sum-of-perfect-square-ancestors) |
+| [3725-count-ways-to-choose-coprime-integers-from-rows](https://github.com/gauthamnholla/coding-practice/tree/master/3725-count-ways-to-choose-coprime-integers-from-rows) |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/gauthamnholla/coding-practice/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/gauthamnholla/coding-practice/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/gauthamnholla/coding-practice/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
@@ -4411,6 +4414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/gauthamnholla/coding-practice/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/gauthamnholla/coding-practice/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/gauthamnholla/coding-practice/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
+| [3725-count-ways-to-choose-coprime-integers-from-rows](https://github.com/gauthamnholla/coding-practice/tree/master/3725-count-ways-to-choose-coprime-integers-from-rows) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/gauthamnholla/coding-practice/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/gauthamnholla/coding-practice/tree/master/3742-maximum-path-score-in-a-grid) |
 | [3748-sort-matrix-by-diagonals](https://github.com/gauthamnholla/coding-practice/tree/master/3748-sort-matrix-by-diagonals) |
@@ -4663,6 +4667,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2867-count-valid-paths-in-a-tree](https://github.com/gauthamnholla/coding-practice/tree/master/2867-count-valid-paths-in-a-tree) |
 | [3556-sum-of-largest-prime-substrings](https://github.com/gauthamnholla/coding-practice/tree/master/3556-sum-of-largest-prime-substrings) |
 | [3715-sum-of-perfect-square-ancestors](https://github.com/gauthamnholla/coding-practice/tree/master/3715-sum-of-perfect-square-ancestors) |
+| [3725-count-ways-to-choose-coprime-integers-from-rows](https://github.com/gauthamnholla/coding-practice/tree/master/3725-count-ways-to-choose-coprime-integers-from-rows) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/gauthamnholla/coding-practice/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Combinatorics
 |  |
@@ -4683,6 +4688,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3428-maximum-and-minimum-sums-of-at-most-size-k-subsequences](https://github.com/gauthamnholla/coding-practice/tree/master/3428-maximum-and-minimum-sums-of-at-most-size-k-subsequences) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/gauthamnholla/coding-practice/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/gauthamnholla/coding-practice/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
+| [3725-count-ways-to-choose-coprime-integers-from-rows](https://github.com/gauthamnholla/coding-practice/tree/master/3725-count-ways-to-choose-coprime-integers-from-rows) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/gauthamnholla/coding-practice/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/gauthamnholla/coding-practice/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Breadth-First Search
