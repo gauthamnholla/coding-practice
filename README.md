@@ -826,6 +826,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/gauthamnholla/coding-practice/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3593-minimum-increments-to-equalize-leaf-paths](https://github.com/gauthamnholla/coding-practice/tree/master/3593-minimum-increments-to-equalize-leaf-paths) |
 | [3599-partition-array-to-minimize-xor](https://github.com/gauthamnholla/coding-practice/tree/master/3599-partition-array-to-minimize-xor) |
+| [3603-minimum-cost-path-with-alternating-directions-ii](https://github.com/gauthamnholla/coding-practice/tree/master/3603-minimum-cost-path-with-alternating-directions-ii) |
 | [3606-coupon-code-validator](https://github.com/gauthamnholla/coding-practice/tree/master/3606-coupon-code-validator) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/gauthamnholla/coding-practice/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/gauthamnholla/coding-practice/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
@@ -2405,6 +2406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3585-find-weighted-median-node-in-tree](https://github.com/gauthamnholla/coding-practice/tree/master/3585-find-weighted-median-node-in-tree) |
 | [3593-minimum-increments-to-equalize-leaf-paths](https://github.com/gauthamnholla/coding-practice/tree/master/3593-minimum-increments-to-equalize-leaf-paths) |
 | [3599-partition-array-to-minimize-xor](https://github.com/gauthamnholla/coding-practice/tree/master/3599-partition-array-to-minimize-xor) |
+| [3603-minimum-cost-path-with-alternating-directions-ii](https://github.com/gauthamnholla/coding-practice/tree/master/3603-minimum-cost-path-with-alternating-directions-ii) |
 | [3615-longest-palindromic-path-in-graph](https://github.com/gauthamnholla/coding-practice/tree/master/3615-longest-palindromic-path-in-graph) |
 | [3618-find-the-original-typed-string-ii](https://github.com/gauthamnholla/coding-practice/tree/master/3618-find-the-original-typed-string-ii) |
 | [3620-network-recovery-pathways](https://github.com/gauthamnholla/coding-practice/tree/master/3620-network-recovery-pathways) |
@@ -4418,6 +4420,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3546-equal-sum-grid-partition-i](https://github.com/gauthamnholla/coding-practice/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/gauthamnholla/coding-practice/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/gauthamnholla/coding-practice/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
+| [3603-minimum-cost-path-with-alternating-directions-ii](https://github.com/gauthamnholla/coding-practice/tree/master/3603-minimum-cost-path-with-alternating-directions-ii) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/gauthamnholla/coding-practice/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3643-flip-square-submatrix-vertically](https://github.com/gauthamnholla/coding-practice/tree/master/3643-flip-square-submatrix-vertically) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/gauthamnholla/coding-practice/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
