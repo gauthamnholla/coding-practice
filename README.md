@@ -847,6 +847,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3645-maximum-total-from-optimal-activation-order](https://github.com/gauthamnholla/coding-practice/tree/master/3645-maximum-total-from-optimal-activation-order) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/gauthamnholla/coding-practice/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3649-number-of-perfect-pairs](https://github.com/gauthamnholla/coding-practice/tree/master/3649-number-of-perfect-pairs) |
+| [3651-minimum-cost-path-with-teleportations](https://github.com/gauthamnholla/coding-practice/tree/master/3651-minimum-cost-path-with-teleportations) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/gauthamnholla/coding-practice/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 | [3654-minimum-sum-after-divisible-sum-deletions](https://github.com/gauthamnholla/coding-practice/tree/master/3654-minimum-sum-after-divisible-sum-deletions) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/gauthamnholla/coding-practice/tree/master/3661-maximum-walls-destroyed-by-robots) |
@@ -2408,6 +2409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3620-network-recovery-pathways](https://github.com/gauthamnholla/coding-practice/tree/master/3620-network-recovery-pathways) |
 | [3628-maximum-number-of-subsequences-after-one-inserting](https://github.com/gauthamnholla/coding-practice/tree/master/3628-maximum-number-of-subsequences-after-one-inserting) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/gauthamnholla/coding-practice/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
+| [3651-minimum-cost-path-with-teleportations](https://github.com/gauthamnholla/coding-practice/tree/master/3651-minimum-cost-path-with-teleportations) |
 | [3654-minimum-sum-after-divisible-sum-deletions](https://github.com/gauthamnholla/coding-practice/tree/master/3654-minimum-sum-after-divisible-sum-deletions) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/gauthamnholla/coding-practice/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3665-twisted-mirror-path-count](https://github.com/gauthamnholla/coding-practice/tree/master/3665-twisted-mirror-path-count) |
@@ -4416,6 +4418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/gauthamnholla/coding-practice/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/gauthamnholla/coding-practice/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/gauthamnholla/coding-practice/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
+| [3651-minimum-cost-path-with-teleportations](https://github.com/gauthamnholla/coding-practice/tree/master/3651-minimum-cost-path-with-teleportations) |
 | [3665-twisted-mirror-path-count](https://github.com/gauthamnholla/coding-practice/tree/master/3665-twisted-mirror-path-count) |
 | [3725-count-ways-to-choose-coprime-integers-from-rows](https://github.com/gauthamnholla/coding-practice/tree/master/3725-count-ways-to-choose-coprime-integers-from-rows) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/gauthamnholla/coding-practice/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
