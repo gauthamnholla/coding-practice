@@ -761,6 +761,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3265-count-almost-equal-pairs-i](https://github.com/gauthamnholla/coding-practice/tree/master/3265-count-almost-equal-pairs-i) |
 | [3267-count-almost-equal-pairs-ii](https://github.com/gauthamnholla/coding-practice/tree/master/3267-count-almost-equal-pairs-ii) |
 | [3273-minimum-amount-of-damage-dealt-to-bob](https://github.com/gauthamnholla/coding-practice/tree/master/3273-minimum-amount-of-damage-dealt-to-bob) |
+| [3276-select-cells-in-grid-with-maximum-score](https://github.com/gauthamnholla/coding-practice/tree/master/3276-select-cells-in-grid-with-maximum-score) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/gauthamnholla/coding-practice/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/gauthamnholla/coding-practice/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3281-maximize-score-of-numbers-in-ranges](https://github.com/gauthamnholla/coding-practice/tree/master/3281-maximize-score-of-numbers-in-ranges) |
@@ -2402,6 +2403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/gauthamnholla/coding-practice/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3241-time-taken-to-mark-all-nodes](https://github.com/gauthamnholla/coding-practice/tree/master/3241-time-taken-to-mark-all-nodes) |
 | [3250-find-the-count-of-monotonic-pairs-i](https://github.com/gauthamnholla/coding-practice/tree/master/3250-find-the-count-of-monotonic-pairs-i) |
+| [3276-select-cells-in-grid-with-maximum-score](https://github.com/gauthamnholla/coding-practice/tree/master/3276-select-cells-in-grid-with-maximum-score) |
 | [3332-maximum-points-tourist-can-earn](https://github.com/gauthamnholla/coding-practice/tree/master/3332-maximum-points-tourist-can-earn) |
 | [3367-maximize-sum-of-weights-after-edge-removals](https://github.com/gauthamnholla/coding-practice/tree/master/3367-maximize-sum-of-weights-after-edge-removals) |
 | [3376-minimum-time-to-break-locks-i](https://github.com/gauthamnholla/coding-practice/tree/master/3376-minimum-time-to-break-locks-i) |
@@ -3645,6 +3647,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3068-find-the-maximum-sum-of-node-values](https://github.com/gauthamnholla/coding-practice/tree/master/3068-find-the-maximum-sum-of-node-values) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/gauthamnholla/coding-practice/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/gauthamnholla/coding-practice/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
+| [3276-select-cells-in-grid-with-maximum-score](https://github.com/gauthamnholla/coding-practice/tree/master/3276-select-cells-in-grid-with-maximum-score) |
 | [3376-minimum-time-to-break-locks-i](https://github.com/gauthamnholla/coding-practice/tree/master/3376-minimum-time-to-break-locks-i) |
 | [3393-count-paths-with-the-given-xor-value](https://github.com/gauthamnholla/coding-practice/tree/master/3393-count-paths-with-the-given-xor-value) |
 | [3435-frequencies-of-shortest-supersequences](https://github.com/gauthamnholla/coding-practice/tree/master/3435-frequencies-of-shortest-supersequences) |
@@ -4436,6 +4439,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/gauthamnholla/coding-practice/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/gauthamnholla/coding-practice/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3225-maximum-score-from-grid-operations](https://github.com/gauthamnholla/coding-practice/tree/master/3225-maximum-score-from-grid-operations) |
+| [3276-select-cells-in-grid-with-maximum-score](https://github.com/gauthamnholla/coding-practice/tree/master/3276-select-cells-in-grid-with-maximum-score) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/gauthamnholla/coding-practice/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3311-construct-2d-grid-matching-graph-layout](https://github.com/gauthamnholla/coding-practice/tree/master/3311-construct-2d-grid-matching-graph-layout) |
 | [3332-maximum-points-tourist-can-earn](https://github.com/gauthamnholla/coding-practice/tree/master/3332-maximum-points-tourist-can-earn) |
@@ -5463,4 +5467,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0986-interval-list-intersections](https://github.com/gauthamnholla/coding-practice/tree/master/0986-interval-list-intersections) |
+## Bitmask DP
+|  |
+| ------- |
+| [3276-select-cells-in-grid-with-maximum-score](https://github.com/gauthamnholla/coding-practice/tree/master/3276-select-cells-in-grid-with-maximum-score) |
 <!---LeetCode Topics End-->
