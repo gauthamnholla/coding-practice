@@ -803,6 +803,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/gauthamnholla/coding-practice/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/gauthamnholla/coding-practice/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3515-shortest-path-in-a-weighted-tree](https://github.com/gauthamnholla/coding-practice/tree/master/3515-shortest-path-in-a-weighted-tree) |
+| [3529-count-cells-in-overlapping-horizontal-and-vertical-substrings](https://github.com/gauthamnholla/coding-practice/tree/master/3529-count-cells-in-overlapping-horizontal-and-vertical-substrings) |
 | [3530-maximum-profit-from-valid-topological-order-in-dag](https://github.com/gauthamnholla/coding-practice/tree/master/3530-maximum-profit-from-valid-topological-order-in-dag) |
 | [3531-count-covered-buildings](https://github.com/gauthamnholla/coding-practice/tree/master/3531-count-covered-buildings) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/gauthamnholla/coding-practice/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -3179,6 +3180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/gauthamnholla/coding-practice/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/gauthamnholla/coding-practice/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/gauthamnholla/coding-practice/tree/master/3517-smallest-palindromic-rearrangement-i) |
+| [3529-count-cells-in-overlapping-horizontal-and-vertical-substrings](https://github.com/gauthamnholla/coding-practice/tree/master/3529-count-cells-in-overlapping-horizontal-and-vertical-substrings) |
 | [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/gauthamnholla/coding-practice/tree/master/3545-minimum-deletions-for-at-most-k-distinct-characters) |
 | [3556-sum-of-largest-prime-substrings](https://github.com/gauthamnholla/coding-practice/tree/master/3556-sum-of-largest-prime-substrings) |
 | [3606-coupon-code-validator](https://github.com/gauthamnholla/coding-practice/tree/master/3606-coupon-code-validator) |
@@ -4423,6 +4425,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/gauthamnholla/coding-practice/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/gauthamnholla/coding-practice/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3462-maximum-sum-with-at-most-k-elements](https://github.com/gauthamnholla/coding-practice/tree/master/3462-maximum-sum-with-at-most-k-elements) |
+| [3529-count-cells-in-overlapping-horizontal-and-vertical-substrings](https://github.com/gauthamnholla/coding-practice/tree/master/3529-count-cells-in-overlapping-horizontal-and-vertical-substrings) |
 | [3537-fill-a-special-grid](https://github.com/gauthamnholla/coding-practice/tree/master/3537-fill-a-special-grid) |
 | [3546-equal-sum-grid-partition-i](https://github.com/gauthamnholla/coding-practice/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/gauthamnholla/coding-practice/tree/master/3548-equal-sum-grid-partition-ii) |
@@ -5272,6 +5275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1508-longest-happy-prefix](https://github.com/gauthamnholla/coding-practice/tree/master/1508-longest-happy-prefix) |
 | [2326-sum-of-scores-of-built-strings](https://github.com/gauthamnholla/coding-practice/tree/master/2326-sum-of-scores-of-built-strings) |
 | [3327-check-if-dfs-strings-are-palindromes](https://github.com/gauthamnholla/coding-practice/tree/master/3327-check-if-dfs-strings-are-palindromes) |
+| [3529-count-cells-in-overlapping-horizontal-and-vertical-substrings](https://github.com/gauthamnholla/coding-practice/tree/master/3529-count-cells-in-overlapping-horizontal-and-vertical-substrings) |
 ## String Matching
 |  |
 | ------- |
@@ -5283,6 +5287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1023-camelcase-matching](https://github.com/gauthamnholla/coding-practice/tree/master/1023-camelcase-matching) |
 | [1508-longest-happy-prefix](https://github.com/gauthamnholla/coding-practice/tree/master/1508-longest-happy-prefix) |
 | [2326-sum-of-scores-of-built-strings](https://github.com/gauthamnholla/coding-practice/tree/master/2326-sum-of-scores-of-built-strings) |
+| [3529-count-cells-in-overlapping-horizontal-and-vertical-substrings](https://github.com/gauthamnholla/coding-practice/tree/master/3529-count-cells-in-overlapping-horizontal-and-vertical-substrings) |
 ## Radix Sort
 |  |
 | ------- |
@@ -5296,6 +5301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1147-longest-chunked-palindrome-decomposition](https://github.com/gauthamnholla/coding-practice/tree/master/1147-longest-chunked-palindrome-decomposition) |
 | [1508-longest-happy-prefix](https://github.com/gauthamnholla/coding-practice/tree/master/1508-longest-happy-prefix) |
 | [2326-sum-of-scores-of-built-strings](https://github.com/gauthamnholla/coding-practice/tree/master/2326-sum-of-scores-of-built-strings) |
+| [3529-count-cells-in-overlapping-horizontal-and-vertical-substrings](https://github.com/gauthamnholla/coding-practice/tree/master/3529-count-cells-in-overlapping-horizontal-and-vertical-substrings) |
 ## Suffix Array
 |  |
 | ------- |
