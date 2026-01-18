@@ -509,6 +509,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1889-minimum-space-wasted-from-packaging](https://github.com/gauthamnholla/coding-practice/tree/master/1889-minimum-space-wasted-from-packaging) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/gauthamnholla/coding-practice/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
 | [1894-find-the-student-that-will-replace-the-chalk](https://github.com/gauthamnholla/coding-practice/tree/master/1894-find-the-student-that-will-replace-the-chalk) |
+| [1895-largest-magic-square](https://github.com/gauthamnholla/coding-practice/tree/master/1895-largest-magic-square) |
 | [1905-count-sub-islands](https://github.com/gauthamnholla/coding-practice/tree/master/1905-count-sub-islands) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/gauthamnholla/coding-practice/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [1917-maximum-average-pass-ratio](https://github.com/gauthamnholla/coding-practice/tree/master/1917-maximum-average-pass-ratio) |
@@ -3893,6 +3894,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1889-minimum-space-wasted-from-packaging](https://github.com/gauthamnholla/coding-practice/tree/master/1889-minimum-space-wasted-from-packaging) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/gauthamnholla/coding-practice/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
 | [1894-find-the-student-that-will-replace-the-chalk](https://github.com/gauthamnholla/coding-practice/tree/master/1894-find-the-student-that-will-replace-the-chalk) |
+| [1895-largest-magic-square](https://github.com/gauthamnholla/coding-practice/tree/master/1895-largest-magic-square) |
 | [1915-number-of-wonderful-substrings](https://github.com/gauthamnholla/coding-practice/tree/master/1915-number-of-wonderful-substrings) |
 | [1943-describe-the-painting](https://github.com/gauthamnholla/coding-practice/tree/master/1943-describe-the-painting) |
 | [1991-find-the-middle-index-in-array](https://github.com/gauthamnholla/coding-practice/tree/master/1991-find-the-middle-index-in-array) |
@@ -4371,6 +4373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1738-find-kth-largest-xor-coordinate-value](https://github.com/gauthamnholla/coding-practice/tree/master/1738-find-kth-largest-xor-coordinate-value) |
 | [1876-map-of-highest-peak](https://github.com/gauthamnholla/coding-practice/tree/master/1876-map-of-highest-peak) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/gauthamnholla/coding-practice/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
+| [1895-largest-magic-square](https://github.com/gauthamnholla/coding-practice/tree/master/1895-largest-magic-square) |
 | [1905-count-sub-islands](https://github.com/gauthamnholla/coding-practice/tree/master/1905-count-sub-islands) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/gauthamnholla/coding-practice/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1975-maximum-matrix-sum](https://github.com/gauthamnholla/coding-practice/tree/master/1975-maximum-matrix-sum) |
