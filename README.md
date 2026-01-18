@@ -806,6 +806,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3530-maximum-profit-from-valid-topological-order-in-dag](https://github.com/gauthamnholla/coding-practice/tree/master/3530-maximum-profit-from-valid-topological-order-in-dag) |
 | [3531-count-covered-buildings](https://github.com/gauthamnholla/coding-practice/tree/master/3531-count-covered-buildings) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/gauthamnholla/coding-practice/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [3537-fill-a-special-grid](https://github.com/gauthamnholla/coding-practice/tree/master/3537-fill-a-special-grid) |
 | [3538-merge-operations-for-minimum-travel-time](https://github.com/gauthamnholla/coding-practice/tree/master/3538-merge-operations-for-minimum-travel-time) |
 | [3544-subtree-inversion-sum](https://github.com/gauthamnholla/coding-practice/tree/master/3544-subtree-inversion-sum) |
 | [3546-equal-sum-grid-partition-i](https://github.com/gauthamnholla/coding-practice/tree/master/3546-equal-sum-grid-partition-i) |
@@ -4422,6 +4423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/gauthamnholla/coding-practice/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/gauthamnholla/coding-practice/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3462-maximum-sum-with-at-most-k-elements](https://github.com/gauthamnholla/coding-practice/tree/master/3462-maximum-sum-with-at-most-k-elements) |
+| [3537-fill-a-special-grid](https://github.com/gauthamnholla/coding-practice/tree/master/3537-fill-a-special-grid) |
 | [3546-equal-sum-grid-partition-i](https://github.com/gauthamnholla/coding-practice/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/gauthamnholla/coding-practice/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3552-grid-teleportation-traversal](https://github.com/gauthamnholla/coding-practice/tree/master/3552-grid-teleportation-traversal) |
@@ -4480,6 +4482,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2179-count-good-triplets-in-an-array](https://github.com/gauthamnholla/coding-practice/tree/master/2179-count-good-triplets-in-an-array) |
 | [2343-query-kth-smallest-trimmed-number](https://github.com/gauthamnholla/coding-practice/tree/master/2343-query-kth-smallest-trimmed-number) |
 | [2426-number-of-pairs-satisfying-inequality](https://github.com/gauthamnholla/coding-practice/tree/master/2426-number-of-pairs-satisfying-inequality) |
+| [3537-fill-a-special-grid](https://github.com/gauthamnholla/coding-practice/tree/master/3537-fill-a-special-grid) |
 | [3636-threshold-majority-queries](https://github.com/gauthamnholla/coding-practice/tree/master/3636-threshold-majority-queries) |
 | [3719-longest-balanced-subarray-i](https://github.com/gauthamnholla/coding-practice/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/gauthamnholla/coding-practice/tree/master/3721-longest-balanced-subarray-ii) |
