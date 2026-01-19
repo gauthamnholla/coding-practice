@@ -373,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1219-path-with-maximum-gold](https://github.com/gauthamnholla/coding-practice/tree/master/1219-path-with-maximum-gold) |
 | [1222-queens-that-can-attack-the-king](https://github.com/gauthamnholla/coding-practice/tree/master/1222-queens-that-can-attack-the-king) |
 | [1248-count-number-of-nice-subarrays](https://github.com/gauthamnholla/coding-practice/tree/master/1248-count-number-of-nice-subarrays) |
+| [1253-reconstruct-a-2-row-binary-matrix](https://github.com/gauthamnholla/coding-practice/tree/master/1253-reconstruct-a-2-row-binary-matrix) |
 | [1254-number-of-closed-islands](https://github.com/gauthamnholla/coding-practice/tree/master/1254-number-of-closed-islands) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/gauthamnholla/coding-practice/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1263-minimum-moves-to-move-a-box-to-their-target-location](https://github.com/gauthamnholla/coding-practice/tree/master/1263-minimum-moves-to-move-a-box-to-their-target-location) |
@@ -1000,6 +1001,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/gauthamnholla/coding-practice/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1090-largest-values-from-labels](https://github.com/gauthamnholla/coding-practice/tree/master/1090-largest-values-from-labels) |
 | [1147-longest-chunked-palindrome-decomposition](https://github.com/gauthamnholla/coding-practice/tree/master/1147-longest-chunked-palindrome-decomposition) |
+| [1253-reconstruct-a-2-row-binary-matrix](https://github.com/gauthamnholla/coding-practice/tree/master/1253-reconstruct-a-2-row-binary-matrix) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/gauthamnholla/coding-practice/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/gauthamnholla/coding-practice/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/gauthamnholla/coding-practice/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
@@ -4444,6 +4446,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1210-minimum-moves-to-reach-target-with-rotations](https://github.com/gauthamnholla/coding-practice/tree/master/1210-minimum-moves-to-reach-target-with-rotations) |
 | [1219-path-with-maximum-gold](https://github.com/gauthamnholla/coding-practice/tree/master/1219-path-with-maximum-gold) |
 | [1222-queens-that-can-attack-the-king](https://github.com/gauthamnholla/coding-practice/tree/master/1222-queens-that-can-attack-the-king) |
+| [1253-reconstruct-a-2-row-binary-matrix](https://github.com/gauthamnholla/coding-practice/tree/master/1253-reconstruct-a-2-row-binary-matrix) |
 | [1254-number-of-closed-islands](https://github.com/gauthamnholla/coding-practice/tree/master/1254-number-of-closed-islands) |
 | [1263-minimum-moves-to-move-a-box-to-their-target-location](https://github.com/gauthamnholla/coding-practice/tree/master/1263-minimum-moves-to-move-a-box-to-their-target-location) |
 | [1267-count-servers-that-communicate](https://github.com/gauthamnholla/coding-practice/tree/master/1267-count-servers-that-communicate) |
