@@ -535,6 +535,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1895-largest-magic-square](https://github.com/gauthamnholla/coding-practice/tree/master/1895-largest-magic-square) |
 | [1905-count-sub-islands](https://github.com/gauthamnholla/coding-practice/tree/master/1905-count-sub-islands) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/gauthamnholla/coding-practice/tree/master/1913-maximum-product-difference-between-two-pairs) |
+| [1914-cyclically-rotating-a-grid](https://github.com/gauthamnholla/coding-practice/tree/master/1914-cyclically-rotating-a-grid) |
 | [1917-maximum-average-pass-ratio](https://github.com/gauthamnholla/coding-practice/tree/master/1917-maximum-average-pass-ratio) |
 | [1921-eliminate-maximum-number-of-monsters](https://github.com/gauthamnholla/coding-practice/tree/master/1921-eliminate-maximum-number-of-monsters) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/gauthamnholla/coding-practice/tree/master/1926-nearest-exit-from-entrance-in-maze) |
@@ -2218,6 +2219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/gauthamnholla/coding-practice/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1801-number-of-orders-in-the-backlog](https://github.com/gauthamnholla/coding-practice/tree/master/1801-number-of-orders-in-the-backlog) |
 | [1894-find-the-student-that-will-replace-the-chalk](https://github.com/gauthamnholla/coding-practice/tree/master/1894-find-the-student-that-will-replace-the-chalk) |
+| [1914-cyclically-rotating-a-grid](https://github.com/gauthamnholla/coding-practice/tree/master/1914-cyclically-rotating-a-grid) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/gauthamnholla/coding-practice/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2058-concatenation-of-array](https://github.com/gauthamnholla/coding-practice/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/gauthamnholla/coding-practice/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -4494,6 +4496,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/gauthamnholla/coding-practice/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1895-largest-magic-square](https://github.com/gauthamnholla/coding-practice/tree/master/1895-largest-magic-square) |
 | [1905-count-sub-islands](https://github.com/gauthamnholla/coding-practice/tree/master/1905-count-sub-islands) |
+| [1914-cyclically-rotating-a-grid](https://github.com/gauthamnholla/coding-practice/tree/master/1914-cyclically-rotating-a-grid) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/gauthamnholla/coding-practice/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [1937-maximum-number-of-points-with-cost](https://github.com/gauthamnholla/coding-practice/tree/master/1937-maximum-number-of-points-with-cost) |
 | [1958-check-if-move-is-legal](https://github.com/gauthamnholla/coding-practice/tree/master/1958-check-if-move-is-legal) |
