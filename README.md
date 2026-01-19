@@ -544,6 +544,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1968-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/gauthamnholla/coding-practice/tree/master/1968-array-with-elements-not-equal-to-average-of-neighbors) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/gauthamnholla/coding-practice/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1975-maximum-matrix-sum](https://github.com/gauthamnholla/coding-practice/tree/master/1975-maximum-matrix-sum) |
+| [1981-minimize-the-difference-between-target-and-chosen-elements](https://github.com/gauthamnholla/coding-practice/tree/master/1981-minimize-the-difference-between-target-and-chosen-elements) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/gauthamnholla/coding-practice/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/gauthamnholla/coding-practice/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/gauthamnholla/coding-practice/tree/master/1991-find-the-middle-index-in-array) |
@@ -2397,6 +2398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1872-stone-game-viii](https://github.com/gauthamnholla/coding-practice/tree/master/1872-stone-game-viii) |
 | [1916-count-ways-to-build-rooms-in-an-ant-colony](https://github.com/gauthamnholla/coding-practice/tree/master/1916-count-ways-to-build-rooms-in-an-ant-colony) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/gauthamnholla/coding-practice/tree/master/1976-number-of-ways-to-arrive-at-destination) |
+| [1981-minimize-the-difference-between-target-and-chosen-elements](https://github.com/gauthamnholla/coding-practice/tree/master/1981-minimize-the-difference-between-target-and-chosen-elements) |
 | [2008-maximum-earnings-from-taxi](https://github.com/gauthamnholla/coding-practice/tree/master/2008-maximum-earnings-from-taxi) |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/gauthamnholla/coding-practice/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
 | [2050-parallel-courses-iii](https://github.com/gauthamnholla/coding-practice/tree/master/2050-parallel-courses-iii) |
@@ -4489,6 +4491,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1905-count-sub-islands](https://github.com/gauthamnholla/coding-practice/tree/master/1905-count-sub-islands) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/gauthamnholla/coding-practice/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1975-maximum-matrix-sum](https://github.com/gauthamnholla/coding-practice/tree/master/1975-maximum-matrix-sum) |
+| [1981-minimize-the-difference-between-target-and-chosen-elements](https://github.com/gauthamnholla/coding-practice/tree/master/1981-minimize-the-difference-between-target-and-chosen-elements) |
 | [1992-find-all-groups-of-farmland](https://github.com/gauthamnholla/coding-practice/tree/master/1992-find-all-groups-of-farmland) |
 | [2017-grid-game](https://github.com/gauthamnholla/coding-practice/tree/master/2017-grid-game) |
 | [2018-check-if-word-can-be-placed-in-crossword](https://github.com/gauthamnholla/coding-practice/tree/master/2018-check-if-word-can-be-placed-in-crossword) |
