@@ -253,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0830-largest-triangle-area](https://github.com/gauthamnholla/coding-practice/tree/master/0830-largest-triangle-area) |
 | [0833-bus-routes](https://github.com/gauthamnholla/coding-practice/tree/master/0833-bus-routes) |
 | [0833-find-and-replace-in-string](https://github.com/gauthamnholla/coding-practice/tree/master/0833-find-and-replace-in-string) |
+| [0835-image-overlap](https://github.com/gauthamnholla/coding-practice/tree/master/0835-image-overlap) |
 | [0837-most-common-word](https://github.com/gauthamnholla/coding-practice/tree/master/0837-most-common-word) |
 | [0839-similar-string-groups](https://github.com/gauthamnholla/coding-practice/tree/master/0839-similar-string-groups) |
 | [0840-magic-squares-in-grid](https://github.com/gauthamnholla/coding-practice/tree/master/0840-magic-squares-in-grid) |
@@ -4393,6 +4394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0803-bricks-falling-when-hit](https://github.com/gauthamnholla/coding-practice/tree/master/0803-bricks-falling-when-hit) |
 | [0807-max-increase-to-keep-city-skyline](https://github.com/gauthamnholla/coding-practice/tree/master/0807-max-increase-to-keep-city-skyline) |
 | [0827-making-a-large-island](https://github.com/gauthamnholla/coding-practice/tree/master/0827-making-a-large-island) |
+| [0835-image-overlap](https://github.com/gauthamnholla/coding-practice/tree/master/0835-image-overlap) |
 | [0840-magic-squares-in-grid](https://github.com/gauthamnholla/coding-practice/tree/master/0840-magic-squares-in-grid) |
 | [0861-flipping-an-image](https://github.com/gauthamnholla/coding-practice/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/gauthamnholla/coding-practice/tree/master/0898-transpose-matrix) |
