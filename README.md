@@ -351,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/gauthamnholla/coding-practice/tree/master/1074-number-of-submatrices-that-sum-to-target) |
 | [1089-duplicate-zeros](https://github.com/gauthamnholla/coding-practice/tree/master/1089-duplicate-zeros) |
 | [1090-largest-values-from-labels](https://github.com/gauthamnholla/coding-practice/tree/master/1090-largest-values-from-labels) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/gauthamnholla/coding-practice/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1093-statistics-from-a-large-sample](https://github.com/gauthamnholla/coding-practice/tree/master/1093-statistics-from-a-large-sample) |
 | [1094-matrix-cells-in-distance-order](https://github.com/gauthamnholla/coding-practice/tree/master/1094-matrix-cells-in-distance-order) |
 | [1094-car-pooling](https://github.com/gauthamnholla/coding-practice/tree/master/1094-car-pooling) |
@@ -4427,6 +4428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1034-coloring-a-border](https://github.com/gauthamnholla/coding-practice/tree/master/1034-coloring-a-border) |
 | [1041-available-captures-for-rook](https://github.com/gauthamnholla/coding-practice/tree/master/1041-available-captures-for-rook) |
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/gauthamnholla/coding-practice/tree/master/1074-number-of-submatrices-that-sum-to-target) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/gauthamnholla/coding-practice/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1094-matrix-cells-in-distance-order](https://github.com/gauthamnholla/coding-practice/tree/master/1094-matrix-cells-in-distance-order) |
 | [1254-number-of-closed-islands](https://github.com/gauthamnholla/coding-practice/tree/master/1254-number-of-closed-islands) |
 | [1263-minimum-moves-to-move-a-box-to-their-target-location](https://github.com/gauthamnholla/coding-practice/tree/master/1263-minimum-moves-to-move-a-box-to-their-target-location) |
@@ -4865,6 +4867,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1034-coloring-a-border](https://github.com/gauthamnholla/coding-practice/tree/master/1034-coloring-a-border) |
 | [1036-escape-a-large-maze](https://github.com/gauthamnholla/coding-practice/tree/master/1036-escape-a-large-maze) |
 | [1042-flower-planting-with-no-adjacent](https://github.com/gauthamnholla/coding-practice/tree/master/1042-flower-planting-with-no-adjacent) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/gauthamnholla/coding-practice/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1096-brace-expansion-ii](https://github.com/gauthamnholla/coding-practice/tree/master/1096-brace-expansion-ii) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/gauthamnholla/coding-practice/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/gauthamnholla/coding-practice/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
