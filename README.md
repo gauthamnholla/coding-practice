@@ -233,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/gauthamnholla/coding-practice/tree/master/0792-binary-search) |
 | [0792-number-of-matching-subsequences](https://github.com/gauthamnholla/coding-practice/tree/master/0792-number-of-matching-subsequences) |
 | [0794-swim-in-rising-water](https://github.com/gauthamnholla/coding-practice/tree/master/0794-swim-in-rising-water) |
+| [0794-valid-tic-tac-toe-state](https://github.com/gauthamnholla/coding-practice/tree/master/0794-valid-tic-tac-toe-state) |
 | [0798-smallest-rotation-with-highest-score](https://github.com/gauthamnholla/coding-practice/tree/master/0798-smallest-rotation-with-highest-score) |
 | [0805-split-array-with-same-average](https://github.com/gauthamnholla/coding-practice/tree/master/0805-split-array-with-same-average) |
 | [0810-chalkboard-xor-game](https://github.com/gauthamnholla/coding-practice/tree/master/0810-chalkboard-xor-game) |
@@ -4385,6 +4386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0777-toeplitz-matrix](https://github.com/gauthamnholla/coding-practice/tree/master/0777-toeplitz-matrix) |
 | [0782-transform-to-chessboard](https://github.com/gauthamnholla/coding-practice/tree/master/0782-transform-to-chessboard) |
 | [0794-swim-in-rising-water](https://github.com/gauthamnholla/coding-practice/tree/master/0794-swim-in-rising-water) |
+| [0794-valid-tic-tac-toe-state](https://github.com/gauthamnholla/coding-practice/tree/master/0794-valid-tic-tac-toe-state) |
 | [0827-making-a-large-island](https://github.com/gauthamnholla/coding-practice/tree/master/0827-making-a-large-island) |
 | [0840-magic-squares-in-grid](https://github.com/gauthamnholla/coding-practice/tree/master/0840-magic-squares-in-grid) |
 | [0861-flipping-an-image](https://github.com/gauthamnholla/coding-practice/tree/master/0861-flipping-an-image) |
