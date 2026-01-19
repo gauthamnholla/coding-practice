@@ -279,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0898-transpose-matrix](https://github.com/gauthamnholla/coding-practice/tree/master/0898-transpose-matrix) |
 | [0902-numbers-at-most-n-given-digit-set](https://github.com/gauthamnholla/coding-practice/tree/master/0902-numbers-at-most-n-given-digit-set) |
 | [0909-stone-game](https://github.com/gauthamnholla/coding-practice/tree/master/0909-stone-game) |
+| [0909-snakes-and-ladders](https://github.com/gauthamnholla/coding-practice/tree/master/0909-snakes-and-ladders) |
 | [0910-smallest-range-ii](https://github.com/gauthamnholla/coding-practice/tree/master/0910-smallest-range-ii) |
 | [0916-word-subsets](https://github.com/gauthamnholla/coding-practice/tree/master/0916-word-subsets) |
 | [0919-projection-area-of-3d-shapes](https://github.com/gauthamnholla/coding-practice/tree/master/0919-projection-area-of-3d-shapes) |
@@ -4408,6 +4409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0864-shortest-path-to-get-all-keys](https://github.com/gauthamnholla/coding-practice/tree/master/0864-shortest-path-to-get-all-keys) |
 | [0885-spiral-matrix-iii](https://github.com/gauthamnholla/coding-practice/tree/master/0885-spiral-matrix-iii) |
 | [0898-transpose-matrix](https://github.com/gauthamnholla/coding-practice/tree/master/0898-transpose-matrix) |
+| [0909-snakes-and-ladders](https://github.com/gauthamnholla/coding-practice/tree/master/0909-snakes-and-ladders) |
 | [0919-projection-area-of-3d-shapes](https://github.com/gauthamnholla/coding-practice/tree/master/0919-projection-area-of-3d-shapes) |
 | [0928-surface-area-of-3d-shapes](https://github.com/gauthamnholla/coding-practice/tree/master/0928-surface-area-of-3d-shapes) |
 | [0934-shortest-bridge](https://github.com/gauthamnholla/coding-practice/tree/master/0934-shortest-bridge) |
@@ -4841,6 +4843,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0864-shortest-path-to-get-all-keys](https://github.com/gauthamnholla/coding-practice/tree/master/0864-shortest-path-to-get-all-keys) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/gauthamnholla/coding-practice/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0886-possible-bipartition](https://github.com/gauthamnholla/coding-practice/tree/master/0886-possible-bipartition) |
+| [0909-snakes-and-ladders](https://github.com/gauthamnholla/coding-practice/tree/master/0909-snakes-and-ladders) |
 | [0924-minimize-malware-spread](https://github.com/gauthamnholla/coding-practice/tree/master/0924-minimize-malware-spread) |
 | [0928-minimize-malware-spread-ii](https://github.com/gauthamnholla/coding-practice/tree/master/0928-minimize-malware-spread-ii) |
 | [0934-shortest-bridge](https://github.com/gauthamnholla/coding-practice/tree/master/0934-shortest-bridge) |
