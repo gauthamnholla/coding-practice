@@ -237,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0798-smallest-rotation-with-highest-score](https://github.com/gauthamnholla/coding-practice/tree/master/0798-smallest-rotation-with-highest-score) |
 | [0803-bricks-falling-when-hit](https://github.com/gauthamnholla/coding-practice/tree/master/0803-bricks-falling-when-hit) |
 | [0805-split-array-with-same-average](https://github.com/gauthamnholla/coding-practice/tree/master/0805-split-array-with-same-average) |
+| [0807-max-increase-to-keep-city-skyline](https://github.com/gauthamnholla/coding-practice/tree/master/0807-max-increase-to-keep-city-skyline) |
 | [0810-chalkboard-xor-game](https://github.com/gauthamnholla/coding-practice/tree/master/0810-chalkboard-xor-game) |
 | [0813-largest-sum-of-averages](https://github.com/gauthamnholla/coding-practice/tree/master/0813-largest-sum-of-averages) |
 | [0816-design-hashset](https://github.com/gauthamnholla/coding-practice/tree/master/0816-design-hashset) |
@@ -959,6 +960,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0767-reorganize-string](https://github.com/gauthamnholla/coding-practice/tree/master/0767-reorganize-string) |
 | [0768-max-chunks-to-make-sorted-ii](https://github.com/gauthamnholla/coding-practice/tree/master/0768-max-chunks-to-make-sorted-ii) |
 | [0781-rabbits-in-forest](https://github.com/gauthamnholla/coding-practice/tree/master/0781-rabbits-in-forest) |
+| [0807-max-increase-to-keep-city-skyline](https://github.com/gauthamnholla/coding-practice/tree/master/0807-max-increase-to-keep-city-skyline) |
 | [0826-most-profit-assigning-work](https://github.com/gauthamnholla/coding-practice/tree/master/0826-most-profit-assigning-work) |
 | [0846-hand-of-straights](https://github.com/gauthamnholla/coding-practice/tree/master/0846-hand-of-straights) |
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/gauthamnholla/coding-practice/tree/master/0857-minimum-cost-to-hire-k-workers) |
@@ -4389,6 +4391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0794-swim-in-rising-water](https://github.com/gauthamnholla/coding-practice/tree/master/0794-swim-in-rising-water) |
 | [0794-valid-tic-tac-toe-state](https://github.com/gauthamnholla/coding-practice/tree/master/0794-valid-tic-tac-toe-state) |
 | [0803-bricks-falling-when-hit](https://github.com/gauthamnholla/coding-practice/tree/master/0803-bricks-falling-when-hit) |
+| [0807-max-increase-to-keep-city-skyline](https://github.com/gauthamnholla/coding-practice/tree/master/0807-max-increase-to-keep-city-skyline) |
 | [0827-making-a-large-island](https://github.com/gauthamnholla/coding-practice/tree/master/0827-making-a-large-island) |
 | [0840-magic-squares-in-grid](https://github.com/gauthamnholla/coding-practice/tree/master/0840-magic-squares-in-grid) |
 | [0861-flipping-an-image](https://github.com/gauthamnholla/coding-practice/tree/master/0861-flipping-an-image) |
