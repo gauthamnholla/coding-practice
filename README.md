@@ -566,6 +566,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2055-plates-between-candles](https://github.com/gauthamnholla/coding-practice/tree/master/2055-plates-between-candles) |
 | [2058-concatenation-of-array](https://github.com/gauthamnholla/coding-practice/tree/master/2058-concatenation-of-array) |
 | [2071-maximum-number-of-tasks-you-can-assign](https://github.com/gauthamnholla/coding-practice/tree/master/2071-maximum-number-of-tasks-you-can-assign) |
+| [2088-count-fertile-pyramids-in-a-land](https://github.com/gauthamnholla/coding-practice/tree/master/2088-count-fertile-pyramids-in-a-land) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/gauthamnholla/coding-practice/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/gauthamnholla/coding-practice/tree/master/2094-finding-3-digit-even-numbers) |
 | [2100-find-good-days-to-rob-the-bank](https://github.com/gauthamnholla/coding-practice/tree/master/2100-find-good-days-to-rob-the-bank) |
@@ -2398,6 +2399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/gauthamnholla/coding-practice/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
 | [2050-parallel-courses-iii](https://github.com/gauthamnholla/coding-practice/tree/master/2050-parallel-courses-iii) |
 | [2054-two-best-non-overlapping-events](https://github.com/gauthamnholla/coding-practice/tree/master/2054-two-best-non-overlapping-events) |
+| [2088-count-fertile-pyramids-in-a-land](https://github.com/gauthamnholla/coding-practice/tree/master/2088-count-fertile-pyramids-in-a-land) |
 | [2100-find-good-days-to-rob-the-bank](https://github.com/gauthamnholla/coding-practice/tree/master/2100-find-good-days-to-rob-the-bank) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/gauthamnholla/coding-practice/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/gauthamnholla/coding-practice/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
@@ -4489,6 +4491,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2017-grid-game](https://github.com/gauthamnholla/coding-practice/tree/master/2017-grid-game) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/gauthamnholla/coding-practice/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/gauthamnholla/coding-practice/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
+| [2088-count-fertile-pyramids-in-a-land](https://github.com/gauthamnholla/coding-practice/tree/master/2088-count-fertile-pyramids-in-a-land) |
 | [2132-stamping-the-grid](https://github.com/gauthamnholla/coding-practice/tree/master/2132-stamping-the-grid) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/gauthamnholla/coding-practice/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [2146-k-highest-ranked-items-within-a-price-range](https://github.com/gauthamnholla/coding-practice/tree/master/2146-k-highest-ranked-items-within-a-price-range) |
