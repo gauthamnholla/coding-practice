@@ -603,6 +603,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2234-maximum-total-beauty-of-the-gardens](https://github.com/gauthamnholla/coding-practice/tree/master/2234-maximum-total-beauty-of-the-gardens) |
 | [2242-maximum-score-of-a-node-sequence](https://github.com/gauthamnholla/coding-practice/tree/master/2242-maximum-score-of-a-node-sequence) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/gauthamnholla/coding-practice/tree/master/2244-number-of-laser-beams-in-a-bank) |
+| [2245-maximum-trailing-zeros-in-a-cornered-path](https://github.com/gauthamnholla/coding-practice/tree/master/2245-maximum-trailing-zeros-in-a-cornered-path) |
 | [2246-longest-path-with-different-adjacent-characters](https://github.com/gauthamnholla/coding-practice/tree/master/2246-longest-path-with-different-adjacent-characters) |
 | [2248-intersection-of-multiple-arrays](https://github.com/gauthamnholla/coding-practice/tree/master/2248-intersection-of-multiple-arrays) |
 | [2250-count-number-of-rectangles-containing-each-point](https://github.com/gauthamnholla/coding-practice/tree/master/2250-count-number-of-rectangles-containing-each-point) |
@@ -3992,6 +3993,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2218-maximum-value-of-k-coins-from-piles](https://github.com/gauthamnholla/coding-practice/tree/master/2218-maximum-value-of-k-coins-from-piles) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/gauthamnholla/coding-practice/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2234-maximum-total-beauty-of-the-gardens](https://github.com/gauthamnholla/coding-practice/tree/master/2234-maximum-total-beauty-of-the-gardens) |
+| [2245-maximum-trailing-zeros-in-a-cornered-path](https://github.com/gauthamnholla/coding-practice/tree/master/2245-maximum-trailing-zeros-in-a-cornered-path) |
 | [2251-number-of-flowers-in-full-bloom](https://github.com/gauthamnholla/coding-practice/tree/master/2251-number-of-flowers-in-full-bloom) |
 | [2271-maximum-white-tiles-covered-by-a-carpet](https://github.com/gauthamnholla/coding-practice/tree/master/2271-maximum-white-tiles-covered-by-a-carpet) |
 | [2281-sum-of-total-strength-of-wizards](https://github.com/gauthamnholla/coding-practice/tree/master/2281-sum-of-total-strength-of-wizards) |
@@ -4488,6 +4490,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2132-stamping-the-grid](https://github.com/gauthamnholla/coding-practice/tree/master/2132-stamping-the-grid) |
 | [2146-k-highest-ranked-items-within-a-price-range](https://github.com/gauthamnholla/coding-practice/tree/master/2146-k-highest-ranked-items-within-a-price-range) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/gauthamnholla/coding-practice/tree/master/2244-number-of-laser-beams-in-a-bank) |
+| [2245-maximum-trailing-zeros-in-a-cornered-path](https://github.com/gauthamnholla/coding-practice/tree/master/2245-maximum-trailing-zeros-in-a-cornered-path) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/gauthamnholla/coding-practice/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/gauthamnholla/coding-practice/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2392-build-a-matrix-with-conditions](https://github.com/gauthamnholla/coding-practice/tree/master/2392-build-a-matrix-with-conditions) |
