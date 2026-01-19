@@ -265,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0853-car-fleet](https://github.com/gauthamnholla/coding-practice/tree/master/0853-car-fleet) |
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/gauthamnholla/coding-practice/tree/master/0857-minimum-cost-to-hire-k-workers) |
 | [0861-flipping-an-image](https://github.com/gauthamnholla/coding-practice/tree/master/0861-flipping-an-image) |
+| [0861-score-after-flipping-matrix](https://github.com/gauthamnholla/coding-practice/tree/master/0861-score-after-flipping-matrix) |
 | [0870-advantage-shuffle](https://github.com/gauthamnholla/coding-practice/tree/master/0870-advantage-shuffle) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/gauthamnholla/coding-practice/tree/master/0871-minimum-number-of-refueling-stops) |
 | [0881-boats-to-save-people](https://github.com/gauthamnholla/coding-practice/tree/master/0881-boats-to-save-people) |
@@ -965,6 +966,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0826-most-profit-assigning-work](https://github.com/gauthamnholla/coding-practice/tree/master/0826-most-profit-assigning-work) |
 | [0846-hand-of-straights](https://github.com/gauthamnholla/coding-practice/tree/master/0846-hand-of-straights) |
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/gauthamnholla/coding-practice/tree/master/0857-minimum-cost-to-hire-k-workers) |
+| [0861-score-after-flipping-matrix](https://github.com/gauthamnholla/coding-practice/tree/master/0861-score-after-flipping-matrix) |
 | [0870-advantage-shuffle](https://github.com/gauthamnholla/coding-practice/tree/master/0870-advantage-shuffle) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/gauthamnholla/coding-practice/tree/master/0871-minimum-number-of-refueling-stops) |
 | [0881-boats-to-save-people](https://github.com/gauthamnholla/coding-practice/tree/master/0881-boats-to-save-people) |
@@ -3624,6 +3626,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0805-split-array-with-same-average](https://github.com/gauthamnholla/coding-practice/tree/master/0805-split-array-with-same-average) |
 | [0810-chalkboard-xor-game](https://github.com/gauthamnholla/coding-practice/tree/master/0810-chalkboard-xor-game) |
 | [0861-flipping-an-image](https://github.com/gauthamnholla/coding-practice/tree/master/0861-flipping-an-image) |
+| [0861-score-after-flipping-matrix](https://github.com/gauthamnholla/coding-practice/tree/master/0861-score-after-flipping-matrix) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/gauthamnholla/coding-practice/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0943-find-the-shortest-superstring](https://github.com/gauthamnholla/coding-practice/tree/master/0943-find-the-shortest-superstring) |
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/gauthamnholla/coding-practice/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
@@ -4397,6 +4400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0835-image-overlap](https://github.com/gauthamnholla/coding-practice/tree/master/0835-image-overlap) |
 | [0840-magic-squares-in-grid](https://github.com/gauthamnholla/coding-practice/tree/master/0840-magic-squares-in-grid) |
 | [0861-flipping-an-image](https://github.com/gauthamnholla/coding-practice/tree/master/0861-flipping-an-image) |
+| [0861-score-after-flipping-matrix](https://github.com/gauthamnholla/coding-practice/tree/master/0861-score-after-flipping-matrix) |
 | [0898-transpose-matrix](https://github.com/gauthamnholla/coding-practice/tree/master/0898-transpose-matrix) |
 | [0919-projection-area-of-3d-shapes](https://github.com/gauthamnholla/coding-practice/tree/master/0919-projection-area-of-3d-shapes) |
 | [0928-surface-area-of-3d-shapes](https://github.com/gauthamnholla/coding-practice/tree/master/0928-surface-area-of-3d-shapes) |
