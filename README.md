@@ -321,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0986-interval-list-intersections](https://github.com/gauthamnholla/coding-practice/tree/master/0986-interval-list-intersections) |
 | [0989-largest-component-size-by-common-factor](https://github.com/gauthamnholla/coding-practice/tree/master/0989-largest-component-size-by-common-factor) |
 | [0990-verifying-an-alien-dictionary](https://github.com/gauthamnholla/coding-practice/tree/master/0990-verifying-an-alien-dictionary) |
+| [0994-rotting-oranges](https://github.com/gauthamnholla/coding-practice/tree/master/0994-rotting-oranges) |
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/gauthamnholla/coding-practice/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
 | [1000-minimum-cost-to-merge-stones](https://github.com/gauthamnholla/coding-practice/tree/master/1000-minimum-cost-to-merge-stones) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/gauthamnholla/coding-practice/tree/master/1001-n-repeated-element-in-size-2n-array) |
@@ -4421,6 +4422,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0934-shortest-bridge](https://github.com/gauthamnholla/coding-practice/tree/master/0934-shortest-bridge) |
 | [0959-regions-cut-by-slashes](https://github.com/gauthamnholla/coding-practice/tree/master/0959-regions-cut-by-slashes) |
 | [0980-unique-paths-iii](https://github.com/gauthamnholla/coding-practice/tree/master/0980-unique-paths-iii) |
+| [0994-rotting-oranges](https://github.com/gauthamnholla/coding-practice/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/gauthamnholla/coding-practice/tree/master/1020-number-of-enclaves) |
 | [1034-coloring-a-border](https://github.com/gauthamnholla/coding-practice/tree/master/1034-coloring-a-border) |
 | [1041-available-captures-for-rook](https://github.com/gauthamnholla/coding-practice/tree/master/1041-available-captures-for-rook) |
@@ -4858,6 +4860,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0965-univalued-binary-tree](https://github.com/gauthamnholla/coding-practice/tree/master/0965-univalued-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/gauthamnholla/coding-practice/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/gauthamnholla/coding-practice/tree/master/0993-cousins-in-binary-tree) |
+| [0994-rotting-oranges](https://github.com/gauthamnholla/coding-practice/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/gauthamnholla/coding-practice/tree/master/1020-number-of-enclaves) |
 | [1034-coloring-a-border](https://github.com/gauthamnholla/coding-practice/tree/master/1034-coloring-a-border) |
 | [1036-escape-a-large-maze](https://github.com/gauthamnholla/coding-practice/tree/master/1036-escape-a-large-maze) |
