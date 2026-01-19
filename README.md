@@ -576,6 +576,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2122-recover-the-original-array](https://github.com/gauthamnholla/coding-practice/tree/master/2122-recover-the-original-array) |
 | [2126-destroying-asteroids](https://github.com/gauthamnholla/coding-practice/tree/master/2126-destroying-asteroids) |
 | [2132-stamping-the-grid](https://github.com/gauthamnholla/coding-practice/tree/master/2132-stamping-the-grid) |
+| [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/gauthamnholla/coding-practice/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [2135-count-words-obtained-after-adding-a-letter](https://github.com/gauthamnholla/coding-practice/tree/master/2135-count-words-obtained-after-adding-a-letter) |
 | [2136-earliest-possible-day-of-full-bloom](https://github.com/gauthamnholla/coding-practice/tree/master/2136-earliest-possible-day-of-full-bloom) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/gauthamnholla/coding-practice/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -2013,6 +2014,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/gauthamnholla/coding-practice/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 | [2121-intervals-between-identical-elements](https://github.com/gauthamnholla/coding-practice/tree/master/2121-intervals-between-identical-elements) |
 | [2122-recover-the-original-array](https://github.com/gauthamnholla/coding-practice/tree/master/2122-recover-the-original-array) |
+| [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/gauthamnholla/coding-practice/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [2135-count-words-obtained-after-adding-a-letter](https://github.com/gauthamnholla/coding-practice/tree/master/2135-count-words-obtained-after-adding-a-letter) |
 | [2169-simple-bank-system](https://github.com/gauthamnholla/coding-practice/tree/master/2169-simple-bank-system) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/gauthamnholla/coding-practice/tree/master/2174-next-greater-numerically-balanced-number) |
@@ -4488,6 +4490,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2022-convert-1d-array-into-2d-array](https://github.com/gauthamnholla/coding-practice/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/gauthamnholla/coding-practice/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2132-stamping-the-grid](https://github.com/gauthamnholla/coding-practice/tree/master/2132-stamping-the-grid) |
+| [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/gauthamnholla/coding-practice/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [2146-k-highest-ranked-items-within-a-price-range](https://github.com/gauthamnholla/coding-practice/tree/master/2146-k-highest-ranked-items-within-a-price-range) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/gauthamnholla/coding-practice/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2245-maximum-trailing-zeros-in-a-cornered-path](https://github.com/gauthamnholla/coding-practice/tree/master/2245-maximum-trailing-zeros-in-a-cornered-path) |
