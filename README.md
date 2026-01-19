@@ -369,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1177-can-make-palindrome-from-substring](https://github.com/gauthamnholla/coding-practice/tree/master/1177-can-make-palindrome-from-substring) |
 | [1187-make-array-strictly-increasing](https://github.com/gauthamnholla/coding-practice/tree/master/1187-make-array-strictly-increasing) |
 | [1202-smallest-string-with-swaps](https://github.com/gauthamnholla/coding-practice/tree/master/1202-smallest-string-with-swaps) |
+| [1210-minimum-moves-to-reach-target-with-rotations](https://github.com/gauthamnholla/coding-practice/tree/master/1210-minimum-moves-to-reach-target-with-rotations) |
 | [1248-count-number-of-nice-subarrays](https://github.com/gauthamnholla/coding-practice/tree/master/1248-count-number-of-nice-subarrays) |
 | [1254-number-of-closed-islands](https://github.com/gauthamnholla/coding-practice/tree/master/1254-number-of-closed-islands) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/gauthamnholla/coding-practice/tree/master/1262-greatest-sum-divisible-by-three) |
@@ -4436,6 +4437,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1094-matrix-cells-in-distance-order](https://github.com/gauthamnholla/coding-practice/tree/master/1094-matrix-cells-in-distance-order) |
 | [1139-largest-1-bordered-square](https://github.com/gauthamnholla/coding-practice/tree/master/1139-largest-1-bordered-square) |
 | [1162-as-far-from-land-as-possible](https://github.com/gauthamnholla/coding-practice/tree/master/1162-as-far-from-land-as-possible) |
+| [1210-minimum-moves-to-reach-target-with-rotations](https://github.com/gauthamnholla/coding-practice/tree/master/1210-minimum-moves-to-reach-target-with-rotations) |
 | [1254-number-of-closed-islands](https://github.com/gauthamnholla/coding-practice/tree/master/1254-number-of-closed-islands) |
 | [1263-minimum-moves-to-move-a-box-to-their-target-location](https://github.com/gauthamnholla/coding-practice/tree/master/1263-minimum-moves-to-move-a-box-to-their-target-location) |
 | [1267-count-servers-that-communicate](https://github.com/gauthamnholla/coding-practice/tree/master/1267-count-servers-that-communicate) |
@@ -4880,6 +4882,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1162-as-far-from-land-as-possible](https://github.com/gauthamnholla/coding-practice/tree/master/1162-as-far-from-land-as-possible) |
 | [1202-smallest-string-with-swaps](https://github.com/gauthamnholla/coding-practice/tree/master/1202-smallest-string-with-swaps) |
 | [1203-sort-items-by-groups-respecting-dependencies](https://github.com/gauthamnholla/coding-practice/tree/master/1203-sort-items-by-groups-respecting-dependencies) |
+| [1210-minimum-moves-to-reach-target-with-rotations](https://github.com/gauthamnholla/coding-practice/tree/master/1210-minimum-moves-to-reach-target-with-rotations) |
 | [1229-shortest-path-with-alternating-colors](https://github.com/gauthamnholla/coding-practice/tree/master/1229-shortest-path-with-alternating-colors) |
 | [1254-number-of-closed-islands](https://github.com/gauthamnholla/coding-practice/tree/master/1254-number-of-closed-islands) |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/gauthamnholla/coding-practice/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
