@@ -170,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0529-minesweeper](https://github.com/gauthamnholla/coding-practice/tree/master/0529-minesweeper) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/gauthamnholla/coding-practice/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0539-minimum-time-difference](https://github.com/gauthamnholla/coding-practice/tree/master/0539-minimum-time-difference) |
+| [0542-01-matrix](https://github.com/gauthamnholla/coding-practice/tree/master/0542-01-matrix) |
 | [0553-optimal-division](https://github.com/gauthamnholla/coding-practice/tree/master/0553-optimal-division) |
 | [0560-subarray-sum-equals-k](https://github.com/gauthamnholla/coding-practice/tree/master/0560-subarray-sum-equals-k) |
 | [0561-array-partition](https://github.com/gauthamnholla/coding-practice/tree/master/0561-array-partition) |
@@ -2279,6 +2280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/gauthamnholla/coding-practice/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/gauthamnholla/coding-practice/tree/master/0509-fibonacci-number) |
 | [0514-freedom-trail](https://github.com/gauthamnholla/coding-practice/tree/master/0514-freedom-trail) |
+| [0542-01-matrix](https://github.com/gauthamnholla/coding-practice/tree/master/0542-01-matrix) |
 | [0553-optimal-division](https://github.com/gauthamnholla/coding-practice/tree/master/0553-optimal-division) |
 | [0583-delete-operation-for-two-strings](https://github.com/gauthamnholla/coding-practice/tree/master/0583-delete-operation-for-two-strings) |
 | [0646-maximum-length-of-pair-chain](https://github.com/gauthamnholla/coding-practice/tree/master/0646-maximum-length-of-pair-chain) |
@@ -4370,6 +4372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/gauthamnholla/coding-practice/tree/master/0463-island-perimeter) |
 | [0498-diagonal-traverse](https://github.com/gauthamnholla/coding-practice/tree/master/0498-diagonal-traverse) |
 | [0529-minesweeper](https://github.com/gauthamnholla/coding-practice/tree/master/0529-minesweeper) |
+| [0542-01-matrix](https://github.com/gauthamnholla/coding-practice/tree/master/0542-01-matrix) |
 | [0566-reshape-the-matrix](https://github.com/gauthamnholla/coding-practice/tree/master/0566-reshape-the-matrix) |
 | [0661-image-smoother](https://github.com/gauthamnholla/coding-practice/tree/master/0661-image-smoother) |
 | [0675-cut-off-trees-for-golf-event](https://github.com/gauthamnholla/coding-practice/tree/master/0675-cut-off-trees-for-golf-event) |
@@ -4783,6 +4786,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0514-freedom-trail](https://github.com/gauthamnholla/coding-practice/tree/master/0514-freedom-trail) |
 | [0529-minesweeper](https://github.com/gauthamnholla/coding-practice/tree/master/0529-minesweeper) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/gauthamnholla/coding-practice/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0542-01-matrix](https://github.com/gauthamnholla/coding-practice/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/gauthamnholla/coding-practice/tree/master/0547-number-of-provinces) |
 | [0617-merge-two-binary-trees](https://github.com/gauthamnholla/coding-practice/tree/master/0617-merge-two-binary-trees) |
 | [0623-add-one-row-to-tree](https://github.com/gauthamnholla/coding-practice/tree/master/0623-add-one-row-to-tree) |
