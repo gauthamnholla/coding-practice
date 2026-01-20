@@ -717,6 +717,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/gauthamnholla/coding-practice/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 | [2659-make-array-empty](https://github.com/gauthamnholla/coding-practice/tree/master/2659-make-array-empty) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/gauthamnholla/coding-practice/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
+| [2661-first-completely-painted-row-or-column](https://github.com/gauthamnholla/coding-practice/tree/master/2661-first-completely-painted-row-or-column) |
 | [2670-find-the-distinct-difference-array](https://github.com/gauthamnholla/coding-practice/tree/master/2670-find-the-distinct-difference-array) |
 | [2681-power-of-heroes](https://github.com/gauthamnholla/coding-practice/tree/master/2681-power-of-heroes) |
 | [2684-maximum-number-of-moves-in-a-grid](https://github.com/gauthamnholla/coding-practice/tree/master/2684-maximum-number-of-moves-in-a-grid) |
@@ -2085,6 +2086,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2615-sum-of-distances](https://github.com/gauthamnholla/coding-practice/tree/master/2615-sum-of-distances) |
 | [2641-cousins-in-binary-tree-ii](https://github.com/gauthamnholla/coding-practice/tree/master/2641-cousins-in-binary-tree-ii) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/gauthamnholla/coding-practice/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
+| [2661-first-completely-painted-row-or-column](https://github.com/gauthamnholla/coding-practice/tree/master/2661-first-completely-painted-row-or-column) |
 | [2670-find-the-distinct-difference-array](https://github.com/gauthamnholla/coding-practice/tree/master/2670-find-the-distinct-difference-array) |
 | [2689-rearranging-fruits](https://github.com/gauthamnholla/coding-practice/tree/master/2689-rearranging-fruits) |
 | [2711-difference-of-number-of-distinct-values-on-diagonals](https://github.com/gauthamnholla/coding-practice/tree/master/2711-difference-of-number-of-distinct-values-on-diagonals) |
@@ -4573,6 +4575,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2596-check-knight-tour-configuration](https://github.com/gauthamnholla/coding-practice/tree/master/2596-check-knight-tour-configuration) |
 | [2625-increment-submatrices-by-one](https://github.com/gauthamnholla/coding-practice/tree/master/2625-increment-submatrices-by-one) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/gauthamnholla/coding-practice/tree/master/2658-maximum-number-of-fish-in-a-grid) |
+| [2661-first-completely-painted-row-or-column](https://github.com/gauthamnholla/coding-practice/tree/master/2661-first-completely-painted-row-or-column) |
 | [2684-maximum-number-of-moves-in-a-grid](https://github.com/gauthamnholla/coding-practice/tree/master/2684-maximum-number-of-moves-in-a-grid) |
 | [2711-difference-of-number-of-distinct-values-on-diagonals](https://github.com/gauthamnholla/coding-practice/tree/master/2711-difference-of-number-of-distinct-values-on-diagonals) |
 | [2713-maximum-strictly-increasing-cells-in-a-matrix](https://github.com/gauthamnholla/coding-practice/tree/master/2713-maximum-strictly-increasing-cells-in-a-matrix) |
