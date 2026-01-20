@@ -762,6 +762,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3067-count-pairs-of-connectable-servers-in-a-weighted-tree-network](https://github.com/gauthamnholla/coding-practice/tree/master/3067-count-pairs-of-connectable-servers-in-a-weighted-tree-network) |
 | [3068-find-the-maximum-sum-of-node-values](https://github.com/gauthamnholla/coding-practice/tree/master/3068-find-the-maximum-sum-of-node-values) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/gauthamnholla/coding-practice/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
+| [3071-minimum-operations-to-write-the-letter-y-on-a-grid](https://github.com/gauthamnholla/coding-practice/tree/master/3071-minimum-operations-to-write-the-letter-y-on-a-grid) |
 | [3074-apple-redistribution-into-boxes](https://github.com/gauthamnholla/coding-practice/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/gauthamnholla/coding-practice/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3077-maximum-strength-of-k-disjoint-subarrays](https://github.com/gauthamnholla/coding-practice/tree/master/3077-maximum-strength-of-k-disjoint-subarrays) |
@@ -2088,6 +2089,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3026-maximum-good-subarray-sum](https://github.com/gauthamnholla/coding-practice/tree/master/3026-maximum-good-subarray-sum) |
 | [3035-maximum-palindromes-after-operations](https://github.com/gauthamnholla/coding-practice/tree/master/3035-maximum-palindromes-after-operations) |
 | [3039-apply-operations-to-make-string-empty](https://github.com/gauthamnholla/coding-practice/tree/master/3039-apply-operations-to-make-string-empty) |
+| [3071-minimum-operations-to-write-the-letter-y-on-a-grid](https://github.com/gauthamnholla/coding-practice/tree/master/3071-minimum-operations-to-write-the-letter-y-on-a-grid) |
 | [3080-mark-elements-on-array-by-performing-queries](https://github.com/gauthamnholla/coding-practice/tree/master/3080-mark-elements-on-array-by-performing-queries) |
 | [3081-replace-question-marks-in-string-to-minimize-its-value](https://github.com/gauthamnholla/coding-practice/tree/master/3081-replace-question-marks-in-string-to-minimize-its-value) |
 | [3143-maximum-points-inside-the-square](https://github.com/gauthamnholla/coding-practice/tree/master/3143-maximum-points-inside-the-square) |
@@ -4548,6 +4550,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2713-maximum-strictly-increasing-cells-in-a-matrix](https://github.com/gauthamnholla/coding-practice/tree/master/2713-maximum-strictly-increasing-cells-in-a-matrix) |
 | [2931-maximum-spending-after-buying-items](https://github.com/gauthamnholla/coding-practice/tree/master/2931-maximum-spending-after-buying-items) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/gauthamnholla/coding-practice/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
+| [3071-minimum-operations-to-write-the-letter-y-on-a-grid](https://github.com/gauthamnholla/coding-practice/tree/master/3071-minimum-operations-to-write-the-letter-y-on-a-grid) |
 | [3122-minimum-number-of-operations-to-satisfy-conditions](https://github.com/gauthamnholla/coding-practice/tree/master/3122-minimum-number-of-operations-to-satisfy-conditions) |
 | [3127-make-a-square-with-the-same-color](https://github.com/gauthamnholla/coding-practice/tree/master/3127-make-a-square-with-the-same-color) |
 | [3142-check-if-grid-satisfies-conditions](https://github.com/gauthamnholla/coding-practice/tree/master/3142-check-if-grid-satisfies-conditions) |
@@ -4681,6 +4684,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/gauthamnholla/coding-practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3035-maximum-palindromes-after-operations](https://github.com/gauthamnholla/coding-practice/tree/master/3035-maximum-palindromes-after-operations) |
 | [3039-apply-operations-to-make-string-empty](https://github.com/gauthamnholla/coding-practice/tree/master/3039-apply-operations-to-make-string-empty) |
+| [3071-minimum-operations-to-write-the-letter-y-on-a-grid](https://github.com/gauthamnholla/coding-practice/tree/master/3071-minimum-operations-to-write-the-letter-y-on-a-grid) |
 | [3081-replace-question-marks-in-string-to-minimize-its-value](https://github.com/gauthamnholla/coding-practice/tree/master/3081-replace-question-marks-in-string-to-minimize-its-value) |
 | [3223-minimum-length-of-string-after-operations](https://github.com/gauthamnholla/coding-practice/tree/master/3223-minimum-length-of-string-after-operations) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/gauthamnholla/coding-practice/tree/master/3242-count-elements-with-maximum-frequency) |
