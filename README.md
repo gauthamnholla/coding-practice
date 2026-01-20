@@ -733,6 +733,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2784-check-if-array-is-good](https://github.com/gauthamnholla/coding-practice/tree/master/2784-check-if-array-is-good) |
 | [2790-maximum-number-of-groups-with-increasing-length](https://github.com/gauthamnholla/coding-practice/tree/master/2790-maximum-number-of-groups-with-increasing-length) |
 | [2809-minimum-time-to-make-array-sum-at-most-x](https://github.com/gauthamnholla/coding-practice/tree/master/2809-minimum-time-to-make-array-sum-at-most-x) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/gauthamnholla/coding-practice/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2813-maximum-elegance-of-a-k-length-subsequence](https://github.com/gauthamnholla/coding-practice/tree/master/2813-maximum-elegance-of-a-k-length-subsequence) |
 | [2818-apply-operations-to-maximize-score](https://github.com/gauthamnholla/coding-practice/tree/master/2818-apply-operations-to-maximize-score) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/gauthamnholla/coding-practice/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -1691,6 +1692,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2542-maximum-subsequence-score](https://github.com/gauthamnholla/coding-practice/tree/master/2542-maximum-subsequence-score) |
 | [2551-put-marbles-in-bags](https://github.com/gauthamnholla/coding-practice/tree/master/2551-put-marbles-in-bags) |
 | [2678-design-graph-with-shortest-path-calculator](https://github.com/gauthamnholla/coding-practice/tree/master/2678-design-graph-with-shortest-path-calculator) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/gauthamnholla/coding-practice/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2813-maximum-elegance-of-a-k-length-subsequence](https://github.com/gauthamnholla/coding-practice/tree/master/2813-maximum-elegance-of-a-k-length-subsequence) |
 | [2931-maximum-spending-after-buying-items](https://github.com/gauthamnholla/coding-practice/tree/master/2931-maximum-spending-after-buying-items) |
 | [2973-find-number-of-coins-to-place-in-tree-nodes](https://github.com/gauthamnholla/coding-practice/tree/master/2973-find-number-of-coins-to-place-in-tree-nodes) |
@@ -4321,6 +4323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/gauthamnholla/coding-practice/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2736-maximum-sum-queries](https://github.com/gauthamnholla/coding-practice/tree/master/2736-maximum-sum-queries) |
 | [2790-maximum-number-of-groups-with-increasing-length](https://github.com/gauthamnholla/coding-practice/tree/master/2790-maximum-number-of-groups-with-increasing-length) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/gauthamnholla/coding-practice/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/gauthamnholla/coding-practice/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2830-maximize-the-profit-as-the-salesman](https://github.com/gauthamnholla/coding-practice/tree/master/2830-maximize-the-profit-as-the-salesman) |
 | [2967-minimum-cost-to-make-array-equalindromic](https://github.com/gauthamnholla/coding-practice/tree/master/2967-minimum-cost-to-make-array-equalindromic) |
@@ -4564,6 +4567,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2625-increment-submatrices-by-one](https://github.com/gauthamnholla/coding-practice/tree/master/2625-increment-submatrices-by-one) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/gauthamnholla/coding-practice/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 | [2713-maximum-strictly-increasing-cells-in-a-matrix](https://github.com/gauthamnholla/coding-practice/tree/master/2713-maximum-strictly-increasing-cells-in-a-matrix) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/gauthamnholla/coding-practice/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2850-minimum-moves-to-spread-stones-over-grid](https://github.com/gauthamnholla/coding-practice/tree/master/2850-minimum-moves-to-spread-stones-over-grid) |
 | [2906-construct-product-matrix](https://github.com/gauthamnholla/coding-practice/tree/master/2906-construct-product-matrix) |
 | [2923-find-champion-i](https://github.com/gauthamnholla/coding-practice/tree/master/2923-find-champion-i) |
@@ -5037,6 +5041,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2641-cousins-in-binary-tree-ii](https://github.com/gauthamnholla/coding-practice/tree/master/2641-cousins-in-binary-tree-ii) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/gauthamnholla/coding-practice/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 | [2793-count-the-number-of-complete-components](https://github.com/gauthamnholla/coding-practice/tree/master/2793-count-the-number-of-complete-components) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/gauthamnholla/coding-practice/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2850-minimum-moves-to-spread-stones-over-grid](https://github.com/gauthamnholla/coding-practice/tree/master/2850-minimum-moves-to-spread-stones-over-grid) |
 | [2858-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/gauthamnholla/coding-practice/tree/master/2858-minimum-edge-reversals-so-every-node-is-reachable) |
 | [3015-count-the-number-of-houses-at-a-certain-distance-i](https://github.com/gauthamnholla/coding-practice/tree/master/3015-count-the-number-of-houses-at-a-certain-distance-i) |
@@ -5615,6 +5620,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0803-bricks-falling-when-hit](https://github.com/gauthamnholla/coding-practice/tree/master/0803-bricks-falling-when-hit) |
 | [2382-maximum-segment-sum-after-removals](https://github.com/gauthamnholla/coding-practice/tree/master/2382-maximum-segment-sum-after-removals) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/gauthamnholla/coding-practice/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Graph Theory
 |  |
 | ------- |
