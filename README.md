@@ -676,6 +676,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2475-number-of-unequal-triplets-in-array](https://github.com/gauthamnholla/coding-practice/tree/master/2475-number-of-unequal-triplets-in-array) |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/gauthamnholla/coding-practice/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 | [2479-meeting-rooms-iii](https://github.com/gauthamnholla/coding-practice/tree/master/2479-meeting-rooms-iii) |
+| [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/gauthamnholla/coding-practice/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 | [2488-count-subarrays-with-median-k](https://github.com/gauthamnholla/coding-practice/tree/master/2488-count-subarrays-with-median-k) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/gauthamnholla/coding-practice/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/gauthamnholla/coding-practice/tree/master/2497-maximum-matching-of-players-with-trainers) |
@@ -2275,6 +2276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2402-meeting-rooms-iii](https://github.com/gauthamnholla/coding-practice/tree/master/2402-meeting-rooms-iii) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/gauthamnholla/coding-practice/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2479-meeting-rooms-iii](https://github.com/gauthamnholla/coding-practice/tree/master/2479-meeting-rooms-iii) |
+| [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/gauthamnholla/coding-practice/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 | [2532-time-to-cross-a-bridge](https://github.com/gauthamnholla/coding-practice/tree/master/2532-time-to-cross-a-bridge) |
 | [2596-check-knight-tour-configuration](https://github.com/gauthamnholla/coding-practice/tree/master/2596-check-knight-tour-configuration) |
 | [2751-robot-collisions](https://github.com/gauthamnholla/coding-practice/tree/master/2751-robot-collisions) |
@@ -4581,6 +4583,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2392-build-a-matrix-with-conditions](https://github.com/gauthamnholla/coding-practice/tree/master/2392-build-a-matrix-with-conditions) |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/gauthamnholla/coding-practice/tree/master/2428-maximum-sum-of-an-hourglass) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/gauthamnholla/coding-practice/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
+| [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/gauthamnholla/coding-practice/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 | [2503-maximum-number-of-points-from-grid-queries](https://github.com/gauthamnholla/coding-practice/tree/master/2503-maximum-number-of-points-from-grid-queries) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/gauthamnholla/coding-practice/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [2556-disconnect-path-in-a-binary-matrix-by-at-most-one-flip](https://github.com/gauthamnholla/coding-practice/tree/master/2556-disconnect-path-in-a-binary-matrix-by-at-most-one-flip) |
