@@ -739,6 +739,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2830-maximize-the-profit-as-the-salesman](https://github.com/gauthamnholla/coding-practice/tree/master/2830-maximize-the-profit-as-the-salesman) |
 | [2860-happy-students](https://github.com/gauthamnholla/coding-practice/tree/master/2860-happy-students) |
 | [2920-maximum-points-after-collecting-coins-from-all-nodes](https://github.com/gauthamnholla/coding-practice/tree/master/2920-maximum-points-after-collecting-coins-from-all-nodes) |
+| [2923-find-champion-i](https://github.com/gauthamnholla/coding-practice/tree/master/2923-find-champion-i) |
 | [2931-maximum-spending-after-buying-items](https://github.com/gauthamnholla/coding-practice/tree/master/2931-maximum-spending-after-buying-items) |
 | [2933-high-access-employees](https://github.com/gauthamnholla/coding-practice/tree/master/2933-high-access-employees) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/gauthamnholla/coding-practice/tree/master/2943-maximize-area-of-square-hole-in-grid) |
@@ -4559,6 +4560,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2625-increment-submatrices-by-one](https://github.com/gauthamnholla/coding-practice/tree/master/2625-increment-submatrices-by-one) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/gauthamnholla/coding-practice/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 | [2713-maximum-strictly-increasing-cells-in-a-matrix](https://github.com/gauthamnholla/coding-practice/tree/master/2713-maximum-strictly-increasing-cells-in-a-matrix) |
+| [2923-find-champion-i](https://github.com/gauthamnholla/coding-practice/tree/master/2923-find-champion-i) |
 | [2931-maximum-spending-after-buying-items](https://github.com/gauthamnholla/coding-practice/tree/master/2931-maximum-spending-after-buying-items) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/gauthamnholla/coding-practice/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [2965-find-missing-and-repeated-values](https://github.com/gauthamnholla/coding-practice/tree/master/2965-find-missing-and-repeated-values) |
