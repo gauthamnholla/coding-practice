@@ -787,6 +787,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3235-check-if-the-rectangle-corner-is-reachable](https://github.com/gauthamnholla/coding-practice/tree/master/3235-check-if-the-rectangle-corner-is-reachable) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/gauthamnholla/coding-practice/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/gauthamnholla/coding-practice/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3242-design-neighbor-sum-service](https://github.com/gauthamnholla/coding-practice/tree/master/3242-design-neighbor-sum-service) |
 | [3250-find-the-count-of-monotonic-pairs-i](https://github.com/gauthamnholla/coding-practice/tree/master/3250-find-the-count-of-monotonic-pairs-i) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/gauthamnholla/coding-practice/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3256-maximum-value-sum-by-placing-three-rooks-i](https://github.com/gauthamnholla/coding-practice/tree/master/3256-maximum-value-sum-by-placing-three-rooks-i) |
@@ -2087,6 +2088,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3223-minimum-length-of-string-after-operations](https://github.com/gauthamnholla/coding-practice/tree/master/3223-minimum-length-of-string-after-operations) |
 | [3224-minimum-array-changes-to-make-differences-equal](https://github.com/gauthamnholla/coding-practice/tree/master/3224-minimum-array-changes-to-make-differences-equal) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/gauthamnholla/coding-practice/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3242-design-neighbor-sum-service](https://github.com/gauthamnholla/coding-practice/tree/master/3242-design-neighbor-sum-service) |
 | [3265-count-almost-equal-pairs-i](https://github.com/gauthamnholla/coding-practice/tree/master/3265-count-almost-equal-pairs-i) |
 | [3267-count-almost-equal-pairs-ii](https://github.com/gauthamnholla/coding-practice/tree/master/3267-count-almost-equal-pairs-ii) |
 | [3311-construct-2d-grid-matching-graph-layout](https://github.com/gauthamnholla/coding-practice/tree/master/3311-construct-2d-grid-matching-graph-layout) |
@@ -2186,6 +2188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2169-simple-bank-system](https://github.com/gauthamnholla/coding-practice/tree/master/2169-simple-bank-system) |
 | [2429-design-a-food-rating-system](https://github.com/gauthamnholla/coding-practice/tree/master/2429-design-a-food-rating-system) |
 | [2678-design-graph-with-shortest-path-calculator](https://github.com/gauthamnholla/coding-practice/tree/master/2678-design-graph-with-shortest-path-calculator) |
+| [3242-design-neighbor-sum-service](https://github.com/gauthamnholla/coding-practice/tree/master/3242-design-neighbor-sum-service) |
 | [3678-design-task-manager](https://github.com/gauthamnholla/coding-practice/tree/master/3678-design-task-manager) |
 | [3709-design-exam-scores-tracker](https://github.com/gauthamnholla/coding-practice/tree/master/3709-design-exam-scores-tracker) |
 ## Simulation
@@ -2244,6 +2247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3028-ant-on-the-boundary](https://github.com/gauthamnholla/coding-practice/tree/master/3028-ant-on-the-boundary) |
 | [3080-mark-elements-on-array-by-performing-queries](https://github.com/gauthamnholla/coding-practice/tree/master/3080-mark-elements-on-array-by-performing-queries) |
 | [3179-find-the-n-th-value-after-k-seconds](https://github.com/gauthamnholla/coding-practice/tree/master/3179-find-the-n-th-value-after-k-seconds) |
+| [3242-design-neighbor-sum-service](https://github.com/gauthamnholla/coding-practice/tree/master/3242-design-neighbor-sum-service) |
 | [3336-water-bottles-ii](https://github.com/gauthamnholla/coding-practice/tree/master/3336-water-bottles-ii) |
 | [3417-zigzag-grid-traversal-with-skip](https://github.com/gauthamnholla/coding-practice/tree/master/3417-zigzag-grid-traversal-with-skip) |
 | [3433-count-mentions-per-user](https://github.com/gauthamnholla/coding-practice/tree/master/3433-count-mentions-per-user) |
@@ -4535,6 +4539,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/gauthamnholla/coding-practice/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/gauthamnholla/coding-practice/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3225-maximum-score-from-grid-operations](https://github.com/gauthamnholla/coding-practice/tree/master/3225-maximum-score-from-grid-operations) |
+| [3242-design-neighbor-sum-service](https://github.com/gauthamnholla/coding-practice/tree/master/3242-design-neighbor-sum-service) |
 | [3256-maximum-value-sum-by-placing-three-rooks-i](https://github.com/gauthamnholla/coding-practice/tree/master/3256-maximum-value-sum-by-placing-three-rooks-i) |
 | [3276-select-cells-in-grid-with-maximum-score](https://github.com/gauthamnholla/coding-practice/tree/master/3276-select-cells-in-grid-with-maximum-score) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/gauthamnholla/coding-practice/tree/master/3286-find-a-safe-walk-through-a-grid) |
