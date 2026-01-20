@@ -774,6 +774,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3111-minimum-rectangles-to-cover-points](https://github.com/gauthamnholla/coding-practice/tree/master/3111-minimum-rectangles-to-cover-points) |
 | [3132-find-the-integer-added-to-array-ii](https://github.com/gauthamnholla/coding-practice/tree/master/3132-find-the-integer-added-to-array-ii) |
 | [3143-maximum-points-inside-the-square](https://github.com/gauthamnholla/coding-practice/tree/master/3143-maximum-points-inside-the-square) |
+| [3148-maximum-difference-score-in-a-grid](https://github.com/gauthamnholla/coding-practice/tree/master/3148-maximum-difference-score-in-a-grid) |
 | [3159-find-occurrences-of-an-element-in-an-array](https://github.com/gauthamnholla/coding-practice/tree/master/3159-find-occurrences-of-an-element-in-an-array) |
 | [3169-count-days-without-meetings](https://github.com/gauthamnholla/coding-practice/tree/master/3169-count-days-without-meetings) |
 | [3179-find-the-n-th-value-after-k-seconds](https://github.com/gauthamnholla/coding-practice/tree/master/3179-find-the-n-th-value-after-k-seconds) |
@@ -2459,6 +2460,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3098-find-the-sum-of-subsequence-powers](https://github.com/gauthamnholla/coding-practice/tree/master/3098-find-the-sum-of-subsequence-powers) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/gauthamnholla/coding-practice/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/gauthamnholla/coding-practice/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
+| [3148-maximum-difference-score-in-a-grid](https://github.com/gauthamnholla/coding-practice/tree/master/3148-maximum-difference-score-in-a-grid) |
 | [3218-minimum-cost-for-cutting-cake-i](https://github.com/gauthamnholla/coding-practice/tree/master/3218-minimum-cost-for-cutting-cake-i) |
 | [3225-maximum-score-from-grid-operations](https://github.com/gauthamnholla/coding-practice/tree/master/3225-maximum-score-from-grid-operations) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/gauthamnholla/coding-practice/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
@@ -4541,6 +4543,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2713-maximum-strictly-increasing-cells-in-a-matrix](https://github.com/gauthamnholla/coding-practice/tree/master/2713-maximum-strictly-increasing-cells-in-a-matrix) |
 | [2931-maximum-spending-after-buying-items](https://github.com/gauthamnholla/coding-practice/tree/master/2931-maximum-spending-after-buying-items) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/gauthamnholla/coding-practice/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
+| [3148-maximum-difference-score-in-a-grid](https://github.com/gauthamnholla/coding-practice/tree/master/3148-maximum-difference-score-in-a-grid) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/gauthamnholla/coding-practice/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3225-maximum-score-from-grid-operations](https://github.com/gauthamnholla/coding-practice/tree/master/3225-maximum-score-from-grid-operations) |
 | [3239-minimum-number-of-flips-to-make-binary-grid-palindromic-i](https://github.com/gauthamnholla/coding-practice/tree/master/3239-minimum-number-of-flips-to-make-binary-grid-palindromic-i) |
