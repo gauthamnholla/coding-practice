@@ -463,6 +463,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1568-minimum-number-of-days-to-disconnect-island](https://github.com/gauthamnholla/coding-practice/tree/master/1568-minimum-number-of-days-to-disconnect-island) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/gauthamnholla/coding-practice/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/gauthamnholla/coding-practice/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+| [1572-matrix-diagonal-sum](https://github.com/gauthamnholla/coding-practice/tree/master/1572-matrix-diagonal-sum) |
 | [1577-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers](https://github.com/gauthamnholla/coding-practice/tree/master/1577-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers) |
 | [1580-shuffle-the-array](https://github.com/gauthamnholla/coding-practice/tree/master/1580-shuffle-the-array) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/gauthamnholla/coding-practice/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
@@ -4587,6 +4588,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/gauthamnholla/coding-practice/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/gauthamnholla/coding-practice/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1568-minimum-number-of-days-to-disconnect-island](https://github.com/gauthamnholla/coding-practice/tree/master/1568-minimum-number-of-days-to-disconnect-island) |
+| [1572-matrix-diagonal-sum](https://github.com/gauthamnholla/coding-practice/tree/master/1572-matrix-diagonal-sum) |
 | [1591-strange-printer-ii](https://github.com/gauthamnholla/coding-practice/tree/master/1591-strange-printer-ii) |
 | [1628-count-submatrices-with-all-ones](https://github.com/gauthamnholla/coding-practice/tree/master/1628-count-submatrices-with-all-ones) |
 | [1631-path-with-minimum-effort](https://github.com/gauthamnholla/coding-practice/tree/master/1631-path-with-minimum-effort) |
