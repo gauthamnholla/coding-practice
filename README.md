@@ -635,6 +635,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2251-number-of-flowers-in-full-bloom](https://github.com/gauthamnholla/coding-practice/tree/master/2251-number-of-flowers-in-full-bloom) |
 | [2258-escape-the-spreading-fire](https://github.com/gauthamnholla/coding-practice/tree/master/2258-escape-the-spreading-fire) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/gauthamnholla/coding-practice/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/gauthamnholla/coding-practice/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2271-maximum-white-tiles-covered-by-a-carpet](https://github.com/gauthamnholla/coding-practice/tree/master/2271-maximum-white-tiles-covered-by-a-carpet) |
 | [2272-substring-with-largest-variance](https://github.com/gauthamnholla/coding-practice/tree/master/2272-substring-with-largest-variance) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/gauthamnholla/coding-practice/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -2496,6 +2497,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2209-minimum-white-tiles-after-covering-with-carpets](https://github.com/gauthamnholla/coding-practice/tree/master/2209-minimum-white-tiles-after-covering-with-carpets) |
 | [2218-maximum-value-of-k-coins-from-piles](https://github.com/gauthamnholla/coding-practice/tree/master/2218-maximum-value-of-k-coins-from-piles) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/gauthamnholla/coding-practice/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/gauthamnholla/coding-practice/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2272-substring-with-largest-variance](https://github.com/gauthamnholla/coding-practice/tree/master/2272-substring-with-largest-variance) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/gauthamnholla/coding-practice/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/gauthamnholla/coding-practice/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
@@ -4639,6 +4641,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/gauthamnholla/coding-practice/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2245-maximum-trailing-zeros-in-a-cornered-path](https://github.com/gauthamnholla/coding-practice/tree/master/2245-maximum-trailing-zeros-in-a-cornered-path) |
 | [2258-escape-the-spreading-fire](https://github.com/gauthamnholla/coding-practice/tree/master/2258-escape-the-spreading-fire) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/gauthamnholla/coding-practice/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/gauthamnholla/coding-practice/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/gauthamnholla/coding-practice/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2392-build-a-matrix-with-conditions](https://github.com/gauthamnholla/coding-practice/tree/master/2392-build-a-matrix-with-conditions) |
