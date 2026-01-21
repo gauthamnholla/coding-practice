@@ -402,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/gauthamnholla/coding-practice/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1338-reduce-array-size-to-the-half](https://github.com/gauthamnholla/coding-practice/tree/master/1338-reduce-array-size-to-the-half) |
 | [1340-jump-game-v](https://github.com/gauthamnholla/coding-practice/tree/master/1340-jump-game-v) |
+| [1349-maximum-students-taking-exam](https://github.com/gauthamnholla/coding-practice/tree/master/1349-maximum-students-taking-exam) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/gauthamnholla/coding-practice/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/gauthamnholla/coding-practice/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1352-product-of-the-last-k-numbers](https://github.com/gauthamnholla/coding-practice/tree/master/1352-product-of-the-last-k-numbers) |
@@ -2428,6 +2429,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1301-number-of-paths-with-max-score](https://github.com/gauthamnholla/coding-practice/tree/master/1301-number-of-paths-with-max-score) |
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/gauthamnholla/coding-practice/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1340-jump-game-v](https://github.com/gauthamnholla/coding-practice/tree/master/1340-jump-game-v) |
+| [1349-maximum-students-taking-exam](https://github.com/gauthamnholla/coding-practice/tree/master/1349-maximum-students-taking-exam) |
 | [1363-largest-multiple-of-three](https://github.com/gauthamnholla/coding-practice/tree/master/1363-largest-multiple-of-three) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/gauthamnholla/coding-practice/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/gauthamnholla/coding-practice/tree/master/1373-maximum-sum-bst-in-binary-tree) |
@@ -3751,6 +3753,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1177-can-make-palindrome-from-substring](https://github.com/gauthamnholla/coding-practice/tree/master/1177-can-make-palindrome-from-substring) |
 | [1284-minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix](https://github.com/gauthamnholla/coding-practice/tree/master/1284-minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix) |
 | [1310-xor-queries-of-a-subarray](https://github.com/gauthamnholla/coding-practice/tree/master/1310-xor-queries-of-a-subarray) |
+| [1349-maximum-students-taking-exam](https://github.com/gauthamnholla/coding-practice/tree/master/1349-maximum-students-taking-exam) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/gauthamnholla/coding-practice/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1371-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/gauthamnholla/coding-practice/tree/master/1371-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/gauthamnholla/coding-practice/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
@@ -4564,6 +4567,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1314-matrix-block-sum](https://github.com/gauthamnholla/coding-practice/tree/master/1314-matrix-block-sum) |
 | [1329-sort-the-matrix-diagonally](https://github.com/gauthamnholla/coding-practice/tree/master/1329-sort-the-matrix-diagonally) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/gauthamnholla/coding-practice/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
+| [1349-maximum-students-taking-exam](https://github.com/gauthamnholla/coding-practice/tree/master/1349-maximum-students-taking-exam) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/gauthamnholla/coding-practice/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/gauthamnholla/coding-practice/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/gauthamnholla/coding-practice/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
@@ -5700,5 +5704,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bitmask DP
 |  |
 | ------- |
+| [1349-maximum-students-taking-exam](https://github.com/gauthamnholla/coding-practice/tree/master/1349-maximum-students-taking-exam) |
 | [3276-select-cells-in-grid-with-maximum-score](https://github.com/gauthamnholla/coding-practice/tree/master/3276-select-cells-in-grid-with-maximum-score) |
 <!---LeetCode Topics End-->
