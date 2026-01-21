@@ -544,6 +544,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/gauthamnholla/coding-practice/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/gauthamnholla/coding-practice/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1882-process-tasks-using-servers](https://github.com/gauthamnholla/coding-practice/tree/master/1882-process-tasks-using-servers) |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/gauthamnholla/coding-practice/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1889-minimum-space-wasted-from-packaging](https://github.com/gauthamnholla/coding-practice/tree/master/1889-minimum-space-wasted-from-packaging) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/gauthamnholla/coding-practice/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
 | [1894-find-the-student-that-will-replace-the-chalk](https://github.com/gauthamnholla/coding-practice/tree/master/1894-find-the-student-that-will-replace-the-chalk) |
@@ -4611,6 +4612,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1738-find-kth-largest-xor-coordinate-value](https://github.com/gauthamnholla/coding-practice/tree/master/1738-find-kth-largest-xor-coordinate-value) |
 | [1876-map-of-highest-peak](https://github.com/gauthamnholla/coding-practice/tree/master/1876-map-of-highest-peak) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/gauthamnholla/coding-practice/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/gauthamnholla/coding-practice/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1895-largest-magic-square](https://github.com/gauthamnholla/coding-practice/tree/master/1895-largest-magic-square) |
 | [1905-count-sub-islands](https://github.com/gauthamnholla/coding-practice/tree/master/1905-count-sub-islands) |
 | [1914-cyclically-rotating-a-grid](https://github.com/gauthamnholla/coding-practice/tree/master/1914-cyclically-rotating-a-grid) |
