@@ -235,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-number-of-matching-subsequences](https://github.com/gauthamnholla/coding-practice/tree/master/0792-number-of-matching-subsequences) |
 | [0794-swim-in-rising-water](https://github.com/gauthamnholla/coding-practice/tree/master/0794-swim-in-rising-water) |
 | [0794-valid-tic-tac-toe-state](https://github.com/gauthamnholla/coding-practice/tree/master/0794-valid-tic-tac-toe-state) |
+| [0795-number-of-subarrays-with-bounded-maximum](https://github.com/gauthamnholla/coding-practice/tree/master/0795-number-of-subarrays-with-bounded-maximum) |
 | [0798-smallest-rotation-with-highest-score](https://github.com/gauthamnholla/coding-practice/tree/master/0798-smallest-rotation-with-highest-score) |
 | [0803-bricks-falling-when-hit](https://github.com/gauthamnholla/coding-practice/tree/master/0803-bricks-falling-when-hit) |
 | [0805-split-array-with-same-average](https://github.com/gauthamnholla/coding-practice/tree/master/0805-split-array-with-same-average) |
@@ -2677,6 +2678,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0719-find-k-th-smallest-pair-distance](https://github.com/gauthamnholla/coding-practice/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0777-swap-adjacent-in-lr-string](https://github.com/gauthamnholla/coding-practice/tree/master/0777-swap-adjacent-in-lr-string) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/gauthamnholla/coding-practice/tree/master/0786-k-th-smallest-prime-fraction) |
+| [0795-number-of-subarrays-with-bounded-maximum](https://github.com/gauthamnholla/coding-practice/tree/master/0795-number-of-subarrays-with-bounded-maximum) |
 | [0825-friends-of-appropriate-ages](https://github.com/gauthamnholla/coding-practice/tree/master/0825-friends-of-appropriate-ages) |
 | [0826-most-profit-assigning-work](https://github.com/gauthamnholla/coding-practice/tree/master/0826-most-profit-assigning-work) |
 | [0841-shortest-distance-to-a-character](https://github.com/gauthamnholla/coding-practice/tree/master/0841-shortest-distance-to-a-character) |
