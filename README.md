@@ -507,6 +507,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/gauthamnholla/coding-practice/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1703-minimum-adjacent-swaps-for-k-consecutive-ones](https://github.com/gauthamnholla/coding-practice/tree/master/1703-minimum-adjacent-swaps-for-k-consecutive-ones) |
 | [1705-maximum-number-of-eaten-apples](https://github.com/gauthamnholla/coding-practice/tree/master/1705-maximum-number-of-eaten-apples) |
+| [1706-where-will-the-ball-fall](https://github.com/gauthamnholla/coding-practice/tree/master/1706-where-will-the-ball-fall) |
 | [1710-maximum-units-on-a-truck](https://github.com/gauthamnholla/coding-practice/tree/master/1710-maximum-units-on-a-truck) |
 | [1712-ways-to-split-array-into-three-subarrays](https://github.com/gauthamnholla/coding-practice/tree/master/1712-ways-to-split-array-into-three-subarrays) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/gauthamnholla/coding-practice/tree/master/1727-largest-submatrix-with-rearrangements) |
@@ -2283,6 +2284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1552-build-an-array-with-stack-operations](https://github.com/gauthamnholla/coding-practice/tree/master/1552-build-an-array-with-stack-operations) |
 | [1642-water-bottles](https://github.com/gauthamnholla/coding-practice/tree/master/1642-water-bottles) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/gauthamnholla/coding-practice/tree/master/1667-find-kth-bit-in-nth-binary-string) |
+| [1706-where-will-the-ball-fall](https://github.com/gauthamnholla/coding-practice/tree/master/1706-where-will-the-ball-fall) |
 | [1801-number-of-orders-in-the-backlog](https://github.com/gauthamnholla/coding-practice/tree/master/1801-number-of-orders-in-the-backlog) |
 | [1894-find-the-student-that-will-replace-the-chalk](https://github.com/gauthamnholla/coding-practice/tree/master/1894-find-the-student-that-will-replace-the-chalk) |
 | [1914-cyclically-rotating-a-grid](https://github.com/gauthamnholla/coding-practice/tree/master/1914-cyclically-rotating-a-grid) |
@@ -4603,6 +4605,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1631-path-with-minimum-effort](https://github.com/gauthamnholla/coding-practice/tree/master/1631-path-with-minimum-effort) |
 | [1632-rank-transform-of-a-matrix](https://github.com/gauthamnholla/coding-practice/tree/master/1632-rank-transform-of-a-matrix) |
 | [1672-richest-customer-wealth](https://github.com/gauthamnholla/coding-practice/tree/master/1672-richest-customer-wealth) |
+| [1706-where-will-the-ball-fall](https://github.com/gauthamnholla/coding-practice/tree/master/1706-where-will-the-ball-fall) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/gauthamnholla/coding-practice/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1728-cat-and-mouse-ii](https://github.com/gauthamnholla/coding-practice/tree/master/1728-cat-and-mouse-ii) |
 | [1738-find-kth-largest-xor-coordinate-value](https://github.com/gauthamnholla/coding-practice/tree/master/1738-find-kth-largest-xor-coordinate-value) |
