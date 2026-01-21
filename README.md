@@ -450,6 +450,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1514-path-with-maximum-probability](https://github.com/gauthamnholla/coding-practice/tree/master/1514-path-with-maximum-probability) |
 | [1515-best-position-for-a-service-centre](https://github.com/gauthamnholla/coding-practice/tree/master/1515-best-position-for-a-service-centre) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/gauthamnholla/coding-practice/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
+| [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/gauthamnholla/coding-practice/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1537-get-the-maximum-score](https://github.com/gauthamnholla/coding-practice/tree/master/1537-get-the-maximum-score) |
 | [1539-kth-missing-positive-number](https://github.com/gauthamnholla/coding-practice/tree/master/1539-kth-missing-positive-number) |
 | [1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target](https://github.com/gauthamnholla/coding-practice/tree/master/1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target) |
@@ -1070,6 +1071,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/gauthamnholla/coding-practice/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1509-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/gauthamnholla/coding-practice/tree/master/1509-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/gauthamnholla/coding-practice/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
+| [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/gauthamnholla/coding-practice/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1537-get-the-maximum-score](https://github.com/gauthamnholla/coding-practice/tree/master/1537-get-the-maximum-score) |
 | [1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target](https://github.com/gauthamnholla/coding-practice/tree/master/1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/gauthamnholla/coding-practice/tree/master/1561-maximum-number-of-coins-you-can-get) |
@@ -4582,6 +4584,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1439-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows](https://github.com/gauthamnholla/coding-practice/tree/master/1439-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows) |
 | [1444-number-of-ways-of-cutting-a-pizza](https://github.com/gauthamnholla/coding-practice/tree/master/1444-number-of-ways-of-cutting-a-pizza) |
 | [1463-cherry-pickup-ii](https://github.com/gauthamnholla/coding-practice/tree/master/1463-cherry-pickup-ii) |
+| [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/gauthamnholla/coding-practice/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/gauthamnholla/coding-practice/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1568-minimum-number-of-days-to-disconnect-island](https://github.com/gauthamnholla/coding-practice/tree/master/1568-minimum-number-of-days-to-disconnect-island) |
 | [1591-strange-printer-ii](https://github.com/gauthamnholla/coding-practice/tree/master/1591-strange-printer-ii) |
