@@ -426,6 +426,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/gauthamnholla/coding-practice/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1436-get-watched-videos-by-your-friends](https://github.com/gauthamnholla/coding-practice/tree/master/1436-get-watched-videos-by-your-friends) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/gauthamnholla/coding-practice/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+| [1439-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows](https://github.com/gauthamnholla/coding-practice/tree/master/1439-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/gauthamnholla/coding-practice/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1444-number-of-ways-of-cutting-a-pizza](https://github.com/gauthamnholla/coding-practice/tree/master/1444-number-of-ways-of-cutting-a-pizza) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/gauthamnholla/coding-practice/tree/master/1458-max-dot-product-of-two-subsequences) |
@@ -1658,6 +1659,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1405-longest-happy-string](https://github.com/gauthamnholla/coding-practice/tree/master/1405-longest-happy-string) |
 | [1424-diagonal-traverse-ii](https://github.com/gauthamnholla/coding-practice/tree/master/1424-diagonal-traverse-ii) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/gauthamnholla/coding-practice/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+| [1439-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows](https://github.com/gauthamnholla/coding-practice/tree/master/1439-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/gauthamnholla/coding-practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/gauthamnholla/coding-practice/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1514-path-with-maximum-probability](https://github.com/gauthamnholla/coding-practice/tree/master/1514-path-with-maximum-probability) |
@@ -4306,6 +4308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1348-tweet-counts-per-frequency](https://github.com/gauthamnholla/coding-practice/tree/master/1348-tweet-counts-per-frequency) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/gauthamnholla/coding-practice/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/gauthamnholla/coding-practice/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1439-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows](https://github.com/gauthamnholla/coding-practice/tree/master/1439-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/gauthamnholla/coding-practice/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [1539-kth-missing-positive-number](https://github.com/gauthamnholla/coding-practice/tree/master/1539-kth-missing-positive-number) |
 | [1552-magnetic-force-between-two-balls](https://github.com/gauthamnholla/coding-practice/tree/master/1552-magnetic-force-between-two-balls) |
@@ -4574,6 +4577,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1380-lucky-numbers-in-a-matrix](https://github.com/gauthamnholla/coding-practice/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/gauthamnholla/coding-practice/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/gauthamnholla/coding-practice/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1439-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows](https://github.com/gauthamnholla/coding-practice/tree/master/1439-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows) |
 | [1444-number-of-ways-of-cutting-a-pizza](https://github.com/gauthamnholla/coding-practice/tree/master/1444-number-of-ways-of-cutting-a-pizza) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/gauthamnholla/coding-practice/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1568-minimum-number-of-days-to-disconnect-island](https://github.com/gauthamnholla/coding-practice/tree/master/1568-minimum-number-of-days-to-disconnect-island) |
