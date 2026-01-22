@@ -318,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/gauthamnholla/coding-practice/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/gauthamnholla/coding-practice/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0962-maximum-width-ramp](https://github.com/gauthamnholla/coding-practice/tree/master/0962-maximum-width-ramp) |
+| [0963-minimum-area-rectangle-ii](https://github.com/gauthamnholla/coding-practice/tree/master/0963-minimum-area-rectangle-ii) |
 | [0969-pancake-sorting](https://github.com/gauthamnholla/coding-practice/tree/master/0969-pancake-sorting) |
 | [0973-k-closest-points-to-origin](https://github.com/gauthamnholla/coding-practice/tree/master/0973-k-closest-points-to-origin) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/gauthamnholla/coding-practice/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -2021,6 +2022,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0957-prison-cells-after-n-days](https://github.com/gauthamnholla/coding-practice/tree/master/0957-prison-cells-after-n-days) |
 | [0959-regions-cut-by-slashes](https://github.com/gauthamnholla/coding-practice/tree/master/0959-regions-cut-by-slashes) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/gauthamnholla/coding-practice/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [0963-minimum-area-rectangle-ii](https://github.com/gauthamnholla/coding-practice/tree/master/0963-minimum-area-rectangle-ii) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/gauthamnholla/coding-practice/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0981-time-based-key-value-store](https://github.com/gauthamnholla/coding-practice/tree/master/0981-time-based-key-value-store) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/gauthamnholla/coding-practice/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -2965,6 +2967,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0949-cat-and-mouse](https://github.com/gauthamnholla/coding-practice/tree/master/0949-cat-and-mouse) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/gauthamnholla/coding-practice/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [0957-prison-cells-after-n-days](https://github.com/gauthamnholla/coding-practice/tree/master/0957-prison-cells-after-n-days) |
+| [0963-minimum-area-rectangle-ii](https://github.com/gauthamnholla/coding-practice/tree/master/0963-minimum-area-rectangle-ii) |
 | [0972-equal-rational-numbers](https://github.com/gauthamnholla/coding-practice/tree/master/0972-equal-rational-numbers) |
 | [0973-k-closest-points-to-origin](https://github.com/gauthamnholla/coding-practice/tree/master/0973-k-closest-points-to-origin) |
 | [0989-largest-component-size-by-common-factor](https://github.com/gauthamnholla/coding-practice/tree/master/0989-largest-component-size-by-common-factor) |
@@ -4936,6 +4939,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0919-projection-area-of-3d-shapes](https://github.com/gauthamnholla/coding-practice/tree/master/0919-projection-area-of-3d-shapes) |
 | [0928-surface-area-of-3d-shapes](https://github.com/gauthamnholla/coding-practice/tree/master/0928-surface-area-of-3d-shapes) |
 | [0939-minimum-area-rectangle](https://github.com/gauthamnholla/coding-practice/tree/master/0939-minimum-area-rectangle) |
+| [0963-minimum-area-rectangle-ii](https://github.com/gauthamnholla/coding-practice/tree/master/0963-minimum-area-rectangle-ii) |
 | [0973-k-closest-points-to-origin](https://github.com/gauthamnholla/coding-practice/tree/master/0973-k-closest-points-to-origin) |
 | [1094-matrix-cells-in-distance-order](https://github.com/gauthamnholla/coding-practice/tree/master/1094-matrix-cells-in-distance-order) |
 | [1115-valid-boomerang](https://github.com/gauthamnholla/coding-practice/tree/master/1115-valid-boomerang) |
