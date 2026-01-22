@@ -911,6 +911,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3493-properties-graph](https://github.com/gauthamnholla/coding-practice/tree/master/3493-properties-graph) |
 | [3500-minimum-cost-to-divide-array-into-subarrays](https://github.com/gauthamnholla/coding-practice/tree/master/3500-minimum-cost-to-divide-array-into-subarrays) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/gauthamnholla/coding-practice/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/gauthamnholla/coding-practice/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/gauthamnholla/coding-practice/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3515-shortest-path-in-a-weighted-tree](https://github.com/gauthamnholla/coding-practice/tree/master/3515-shortest-path-in-a-weighted-tree) |
 | [3529-count-cells-in-overlapping-horizontal-and-vertical-substrings](https://github.com/gauthamnholla/coding-practice/tree/master/3529-count-cells-in-overlapping-horizontal-and-vertical-substrings) |
@@ -1767,6 +1768,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/gauthamnholla/coding-practice/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3462-maximum-sum-with-at-most-k-elements](https://github.com/gauthamnholla/coding-practice/tree/master/3462-maximum-sum-with-at-most-k-elements) |
 | [3478-choose-k-elements-with-maximum-sum](https://github.com/gauthamnholla/coding-practice/tree/master/3478-choose-k-elements-with-maximum-sum) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/gauthamnholla/coding-practice/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3572-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues](https://github.com/gauthamnholla/coding-practice/tree/master/3572-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/gauthamnholla/coding-practice/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/gauthamnholla/coding-practice/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
@@ -2198,6 +2200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3486-longest-special-path-ii](https://github.com/gauthamnholla/coding-practice/tree/master/3486-longest-special-path-ii) |
 | [3493-properties-graph](https://github.com/gauthamnholla/coding-practice/tree/master/3493-properties-graph) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/gauthamnholla/coding-practice/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/gauthamnholla/coding-practice/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3531-count-covered-buildings](https://github.com/gauthamnholla/coding-practice/tree/master/3531-count-covered-buildings) |
 | [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/gauthamnholla/coding-practice/tree/master/3545-minimum-deletions-for-at-most-k-distinct-characters) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/gauthamnholla/coding-practice/tree/master/3548-equal-sum-grid-partition-ii) |
@@ -2351,6 +2354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3336-water-bottles-ii](https://github.com/gauthamnholla/coding-practice/tree/master/3336-water-bottles-ii) |
 | [3417-zigzag-grid-traversal-with-skip](https://github.com/gauthamnholla/coding-practice/tree/master/3417-zigzag-grid-traversal-with-skip) |
 | [3433-count-mentions-per-user](https://github.com/gauthamnholla/coding-practice/tree/master/3433-count-mentions-per-user) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/gauthamnholla/coding-practice/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/gauthamnholla/coding-practice/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3612-process-string-with-special-operations-i](https://github.com/gauthamnholla/coding-practice/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/gauthamnholla/coding-practice/tree/master/3614-process-string-with-special-operations-ii) |
@@ -2835,6 +2839,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/gauthamnholla/coding-practice/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2326-spiral-matrix-iv](https://github.com/gauthamnholla/coding-practice/tree/master/2326-spiral-matrix-iv) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/gauthamnholla/coding-practice/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/gauthamnholla/coding-practice/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Math
 |  |
 | ------- |
@@ -4558,6 +4563,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2659-make-array-empty](https://github.com/gauthamnholla/coding-practice/tree/master/2659-make-array-empty) |
 | [2713-maximum-strictly-increasing-cells-in-a-matrix](https://github.com/gauthamnholla/coding-practice/tree/master/2713-maximum-strictly-increasing-cells-in-a-matrix) |
 | [3102-minimize-manhattan-distances](https://github.com/gauthamnholla/coding-practice/tree/master/3102-minimize-manhattan-distances) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/gauthamnholla/coding-practice/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3590-kth-smallest-path-xor-sum](https://github.com/gauthamnholla/coding-practice/tree/master/3590-kth-smallest-path-xor-sum) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/gauthamnholla/coding-practice/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 | [3678-design-task-manager](https://github.com/gauthamnholla/coding-practice/tree/master/3678-design-task-manager) |
@@ -5734,6 +5740,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/gauthamnholla/coding-practice/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0460-lfu-cache](https://github.com/gauthamnholla/coding-practice/tree/master/0460-lfu-cache) |
 | [1472-design-browser-history](https://github.com/gauthamnholla/coding-practice/tree/master/1472-design-browser-history) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/gauthamnholla/coding-practice/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Iterator
 |  |
 | ------- |
