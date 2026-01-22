@@ -328,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0980-unique-paths-iii](https://github.com/gauthamnholla/coding-practice/tree/master/0980-unique-paths-iii) |
 | [0981-delete-columns-to-make-sorted](https://github.com/gauthamnholla/coding-practice/tree/master/0981-delete-columns-to-make-sorted) |
 | [0982-triples-with-bitwise-and-equal-to-zero](https://github.com/gauthamnholla/coding-practice/tree/master/0982-triples-with-bitwise-and-equal-to-zero) |
+| [0985-sum-of-even-numbers-after-queries](https://github.com/gauthamnholla/coding-practice/tree/master/0985-sum-of-even-numbers-after-queries) |
 | [0986-interval-list-intersections](https://github.com/gauthamnholla/coding-practice/tree/master/0986-interval-list-intersections) |
 | [0989-largest-component-size-by-common-factor](https://github.com/gauthamnholla/coding-practice/tree/master/0989-largest-component-size-by-common-factor) |
 | [0990-verifying-an-alien-dictionary](https://github.com/gauthamnholla/coding-practice/tree/master/0990-verifying-an-alien-dictionary) |
@@ -2305,6 +2306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0898-transpose-matrix](https://github.com/gauthamnholla/coding-practice/tree/master/0898-transpose-matrix) |
 | [0946-validate-stack-sequences](https://github.com/gauthamnholla/coding-practice/tree/master/0946-validate-stack-sequences) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/gauthamnholla/coding-practice/tree/master/0950-reveal-cards-in-increasing-order) |
+| [0985-sum-of-even-numbers-after-queries](https://github.com/gauthamnholla/coding-practice/tree/master/0985-sum-of-even-numbers-after-queries) |
 | [1041-available-captures-for-rook](https://github.com/gauthamnholla/coding-practice/tree/master/1041-available-captures-for-rook) |
 | [1094-car-pooling](https://github.com/gauthamnholla/coding-practice/tree/master/1094-car-pooling) |
 | [1222-queens-that-can-attack-the-king](https://github.com/gauthamnholla/coding-practice/tree/master/1222-queens-that-can-attack-the-king) |
