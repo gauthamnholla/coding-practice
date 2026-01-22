@@ -751,6 +751,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/gauthamnholla/coding-practice/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2661-first-completely-painted-row-or-column](https://github.com/gauthamnholla/coding-practice/tree/master/2661-first-completely-painted-row-or-column) |
 | [2670-find-the-distinct-difference-array](https://github.com/gauthamnholla/coding-practice/tree/master/2670-find-the-distinct-difference-array) |
+| [2680-maximum-or](https://github.com/gauthamnholla/coding-practice/tree/master/2680-maximum-or) |
 | [2681-power-of-heroes](https://github.com/gauthamnholla/coding-practice/tree/master/2681-power-of-heroes) |
 | [2684-maximum-number-of-moves-in-a-grid](https://github.com/gauthamnholla/coding-practice/tree/master/2684-maximum-number-of-moves-in-a-grid) |
 | [2689-rearranging-fruits](https://github.com/gauthamnholla/coding-practice/tree/master/2689-rearranging-fruits) |
@@ -1171,6 +1172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2618-maximize-the-minimum-powered-city](https://github.com/gauthamnholla/coding-practice/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2659-make-array-empty](https://github.com/gauthamnholla/coding-practice/tree/master/2659-make-array-empty) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/gauthamnholla/coding-practice/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
+| [2680-maximum-or](https://github.com/gauthamnholla/coding-practice/tree/master/2680-maximum-or) |
 | [2689-rearranging-fruits](https://github.com/gauthamnholla/coding-practice/tree/master/2689-rearranging-fruits) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/gauthamnholla/coding-practice/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2706-buy-two-chocolates](https://github.com/gauthamnholla/coding-practice/tree/master/2706-buy-two-chocolates) |
@@ -3814,6 +3816,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/gauthamnholla/coding-practice/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/gauthamnholla/coding-practice/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2529-range-product-queries-of-powers](https://github.com/gauthamnholla/coding-practice/tree/master/2529-range-product-queries-of-powers) |
+| [2680-maximum-or](https://github.com/gauthamnholla/coding-practice/tree/master/2680-maximum-or) |
 | [2732-find-a-good-subset-of-the-matrix](https://github.com/gauthamnholla/coding-practice/tree/master/2732-find-a-good-subset-of-the-matrix) |
 | [2791-count-paths-that-can-form-a-palindrome-in-a-tree](https://github.com/gauthamnholla/coding-practice/tree/master/2791-count-paths-that-can-form-a-palindrome-in-a-tree) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/gauthamnholla/coding-practice/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
@@ -4157,6 +4160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2618-maximize-the-minimum-powered-city](https://github.com/gauthamnholla/coding-practice/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2625-increment-submatrices-by-one](https://github.com/gauthamnholla/coding-practice/tree/master/2625-increment-submatrices-by-one) |
 | [2640-find-the-score-of-all-prefixes-of-an-array](https://github.com/gauthamnholla/coding-practice/tree/master/2640-find-the-score-of-all-prefixes-of-an-array) |
+| [2680-maximum-or](https://github.com/gauthamnholla/coding-practice/tree/master/2680-maximum-or) |
 | [2681-power-of-heroes](https://github.com/gauthamnholla/coding-practice/tree/master/2681-power-of-heroes) |
 | [2731-movement-of-robots](https://github.com/gauthamnholla/coding-practice/tree/master/2731-movement-of-robots) |
 | [2906-construct-product-matrix](https://github.com/gauthamnholla/coding-practice/tree/master/2906-construct-product-matrix) |
