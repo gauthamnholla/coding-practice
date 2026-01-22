@@ -327,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0979-di-string-match](https://github.com/gauthamnholla/coding-practice/tree/master/0979-di-string-match) |
 | [0980-unique-paths-iii](https://github.com/gauthamnholla/coding-practice/tree/master/0980-unique-paths-iii) |
 | [0981-delete-columns-to-make-sorted](https://github.com/gauthamnholla/coding-practice/tree/master/0981-delete-columns-to-make-sorted) |
+| [0982-triples-with-bitwise-and-equal-to-zero](https://github.com/gauthamnholla/coding-practice/tree/master/0982-triples-with-bitwise-and-equal-to-zero) |
 | [0986-interval-list-intersections](https://github.com/gauthamnholla/coding-practice/tree/master/0986-interval-list-intersections) |
 | [0989-largest-component-size-by-common-factor](https://github.com/gauthamnholla/coding-practice/tree/master/0989-largest-component-size-by-common-factor) |
 | [0990-verifying-an-alien-dictionary](https://github.com/gauthamnholla/coding-practice/tree/master/0990-verifying-an-alien-dictionary) |
@@ -2029,6 +2030,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0963-minimum-area-rectangle-ii](https://github.com/gauthamnholla/coding-practice/tree/master/0963-minimum-area-rectangle-ii) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/gauthamnholla/coding-practice/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0981-time-based-key-value-store](https://github.com/gauthamnholla/coding-practice/tree/master/0981-time-based-key-value-store) |
+| [0982-triples-with-bitwise-and-equal-to-zero](https://github.com/gauthamnholla/coding-practice/tree/master/0982-triples-with-bitwise-and-equal-to-zero) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/gauthamnholla/coding-practice/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0989-largest-component-size-by-common-factor](https://github.com/gauthamnholla/coding-practice/tree/master/0989-largest-component-size-by-common-factor) |
 | [0990-verifying-an-alien-dictionary](https://github.com/gauthamnholla/coding-practice/tree/master/0990-verifying-an-alien-dictionary) |
@@ -3812,6 +3814,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0943-find-the-shortest-superstring](https://github.com/gauthamnholla/coding-practice/tree/master/0943-find-the-shortest-superstring) |
 | [0957-prison-cells-after-n-days](https://github.com/gauthamnholla/coding-practice/tree/master/0957-prison-cells-after-n-days) |
 | [0980-unique-paths-iii](https://github.com/gauthamnholla/coding-practice/tree/master/0980-unique-paths-iii) |
+| [0982-triples-with-bitwise-and-equal-to-zero](https://github.com/gauthamnholla/coding-practice/tree/master/0982-triples-with-bitwise-and-equal-to-zero) |
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/gauthamnholla/coding-practice/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/gauthamnholla/coding-practice/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1071-binary-prefix-divisible-by-5](https://github.com/gauthamnholla/coding-practice/tree/master/1071-binary-prefix-divisible-by-5) |
