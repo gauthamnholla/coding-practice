@@ -323,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0973-k-closest-points-to-origin](https://github.com/gauthamnholla/coding-practice/tree/master/0973-k-closest-points-to-origin) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/gauthamnholla/coding-practice/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0975-odd-even-jump](https://github.com/gauthamnholla/coding-practice/tree/master/0975-odd-even-jump) |
+| [0978-longest-turbulent-subarray](https://github.com/gauthamnholla/coding-practice/tree/master/0978-longest-turbulent-subarray) |
 | [0979-di-string-match](https://github.com/gauthamnholla/coding-practice/tree/master/0979-di-string-match) |
 | [0980-unique-paths-iii](https://github.com/gauthamnholla/coding-practice/tree/master/0980-unique-paths-iii) |
 | [0981-delete-columns-to-make-sorted](https://github.com/gauthamnholla/coding-practice/tree/master/0981-delete-columns-to-make-sorted) |
@@ -1795,6 +1796,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-new-21-game](https://github.com/gauthamnholla/coding-practice/tree/master/0867-new-21-game) |
 | [0930-binary-subarrays-with-sum](https://github.com/gauthamnholla/coding-practice/tree/master/0930-binary-subarrays-with-sum) |
 | [0940-fruit-into-baskets](https://github.com/gauthamnholla/coding-practice/tree/master/0940-fruit-into-baskets) |
+| [0978-longest-turbulent-subarray](https://github.com/gauthamnholla/coding-practice/tree/master/0978-longest-turbulent-subarray) |
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/gauthamnholla/coding-practice/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
 | [1004-max-consecutive-ones-iii](https://github.com/gauthamnholla/coding-practice/tree/master/1004-max-consecutive-ones-iii) |
 | [1040-moving-stones-until-consecutive-ii](https://github.com/gauthamnholla/coding-practice/tree/master/1040-moving-stones-until-consecutive-ii) |
@@ -2456,6 +2458,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/gauthamnholla/coding-practice/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [0968-binary-tree-cameras](https://github.com/gauthamnholla/coding-practice/tree/master/0968-binary-tree-cameras) |
 | [0975-odd-even-jump](https://github.com/gauthamnholla/coding-practice/tree/master/0975-odd-even-jump) |
+| [0978-longest-turbulent-subarray](https://github.com/gauthamnholla/coding-practice/tree/master/0978-longest-turbulent-subarray) |
 | [1000-minimum-cost-to-merge-stones](https://github.com/gauthamnholla/coding-practice/tree/master/1000-minimum-cost-to-merge-stones) |
 | [1048-longest-string-chain](https://github.com/gauthamnholla/coding-practice/tree/master/1048-longest-string-chain) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/gauthamnholla/coding-practice/tree/master/1111-minimum-score-triangulation-of-polygon) |
