@@ -1048,6 +1048,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0324-wiggle-sort-ii](https://github.com/gauthamnholla/coding-practice/tree/master/0324-wiggle-sort-ii) |
 | [0330-patching-array](https://github.com/gauthamnholla/coding-practice/tree/master/0330-patching-array) |
 | [0334-increasing-triplet-subsequence](https://github.com/gauthamnholla/coding-practice/tree/master/0334-increasing-triplet-subsequence) |
+| [0397-integer-replacement](https://github.com/gauthamnholla/coding-practice/tree/master/0397-integer-replacement) |
 | [0402-remove-k-digits](https://github.com/gauthamnholla/coding-practice/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/gauthamnholla/coding-practice/tree/master/0409-longest-palindrome) |
 | [0410-split-array-largest-sum](https://github.com/gauthamnholla/coding-practice/tree/master/0410-split-array-largest-sum) |
@@ -2449,6 +2450,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0375-guess-number-higher-or-lower-ii](https://github.com/gauthamnholla/coding-practice/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0392-is-subsequence](https://github.com/gauthamnholla/coding-practice/tree/master/0392-is-subsequence) |
 | [0396-rotate-function](https://github.com/gauthamnholla/coding-practice/tree/master/0396-rotate-function) |
+| [0397-integer-replacement](https://github.com/gauthamnholla/coding-practice/tree/master/0397-integer-replacement) |
 | [0410-split-array-largest-sum](https://github.com/gauthamnholla/coding-practice/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/gauthamnholla/coding-practice/tree/master/0435-non-overlapping-intervals) |
 | [0458-poor-pigs](https://github.com/gauthamnholla/coding-practice/tree/master/0458-poor-pigs) |
@@ -2667,6 +2669,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0140-word-break-ii](https://github.com/gauthamnholla/coding-practice/tree/master/0140-word-break-ii) |
 | [0241-different-ways-to-add-parentheses](https://github.com/gauthamnholla/coding-practice/tree/master/0241-different-ways-to-add-parentheses) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/gauthamnholla/coding-practice/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0397-integer-replacement](https://github.com/gauthamnholla/coding-practice/tree/master/0397-integer-replacement) |
 | [0464-can-i-win](https://github.com/gauthamnholla/coding-practice/tree/master/0464-can-i-win) |
 | [0509-fibonacci-number](https://github.com/gauthamnholla/coding-practice/tree/master/0509-fibonacci-number) |
 | [0949-cat-and-mouse](https://github.com/gauthamnholla/coding-practice/tree/master/0949-cat-and-mouse) |
@@ -3847,6 +3850,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0371-sum-of-two-integers](https://github.com/gauthamnholla/coding-practice/tree/master/0371-sum-of-two-integers) |
 | [0389-find-the-difference](https://github.com/gauthamnholla/coding-practice/tree/master/0389-find-the-difference) |
 | [0393-utf-8-validation](https://github.com/gauthamnholla/coding-practice/tree/master/0393-utf-8-validation) |
+| [0397-integer-replacement](https://github.com/gauthamnholla/coding-practice/tree/master/0397-integer-replacement) |
 | [0401-binary-watch](https://github.com/gauthamnholla/coding-practice/tree/master/0401-binary-watch) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/gauthamnholla/coding-practice/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0464-can-i-win](https://github.com/gauthamnholla/coding-practice/tree/master/0464-can-i-win) |
