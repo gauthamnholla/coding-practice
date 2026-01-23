@@ -534,6 +534,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1703-minimum-adjacent-swaps-for-k-consecutive-ones](https://github.com/gauthamnholla/coding-practice/tree/master/1703-minimum-adjacent-swaps-for-k-consecutive-ones) |
 | [1705-maximum-number-of-eaten-apples](https://github.com/gauthamnholla/coding-practice/tree/master/1705-maximum-number-of-eaten-apples) |
 | [1706-where-will-the-ball-fall](https://github.com/gauthamnholla/coding-practice/tree/master/1706-where-will-the-ball-fall) |
+| [1707-maximum-xor-with-an-element-from-array](https://github.com/gauthamnholla/coding-practice/tree/master/1707-maximum-xor-with-an-element-from-array) |
 | [1710-maximum-units-on-a-truck](https://github.com/gauthamnholla/coding-practice/tree/master/1710-maximum-units-on-a-truck) |
 | [1712-ways-to-split-array-into-three-subarrays](https://github.com/gauthamnholla/coding-practice/tree/master/1712-ways-to-split-array-into-three-subarrays) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/gauthamnholla/coding-practice/tree/master/1727-largest-submatrix-with-rearrangements) |
@@ -3738,6 +3739,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1023-camelcase-matching](https://github.com/gauthamnholla/coding-practice/tree/master/1023-camelcase-matching) |
 | [1268-search-suggestions-system](https://github.com/gauthamnholla/coding-practice/tree/master/1268-search-suggestions-system) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/gauthamnholla/coding-practice/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1707-maximum-xor-with-an-element-from-array](https://github.com/gauthamnholla/coding-practice/tree/master/1707-maximum-xor-with-an-element-from-array) |
 | [1938-maximum-genetic-difference-query](https://github.com/gauthamnholla/coding-practice/tree/master/1938-maximum-genetic-difference-query) |
 ## Stack
 |  |
@@ -3879,6 +3881,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1655-distribute-repeating-integers](https://github.com/gauthamnholla/coding-practice/tree/master/1655-distribute-repeating-integers) |
 | [1681-minimum-incompatibility](https://github.com/gauthamnholla/coding-practice/tree/master/1681-minimum-incompatibility) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/gauthamnholla/coding-practice/tree/master/1684-count-the-number-of-consistent-strings) |
+| [1707-maximum-xor-with-an-element-from-array](https://github.com/gauthamnholla/coding-practice/tree/master/1707-maximum-xor-with-an-element-from-array) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/gauthamnholla/coding-practice/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [1738-find-kth-largest-xor-coordinate-value](https://github.com/gauthamnholla/coding-practice/tree/master/1738-find-kth-largest-xor-coordinate-value) |
 | [1755-closest-subsequence-sum](https://github.com/gauthamnholla/coding-practice/tree/master/1755-closest-subsequence-sum) |
