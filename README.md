@@ -513,6 +513,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/gauthamnholla/coding-practice/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/gauthamnholla/coding-practice/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/gauthamnholla/coding-practice/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
+| [1670-design-front-middle-back-queue](https://github.com/gauthamnholla/coding-practice/tree/master/1670-design-front-middle-back-queue) |
 | [1672-richest-customer-wealth](https://github.com/gauthamnholla/coding-practice/tree/master/1672-richest-customer-wealth) |
 | [1673-find-the-most-competitive-subsequence](https://github.com/gauthamnholla/coding-practice/tree/master/1673-find-the-most-competitive-subsequence) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/gauthamnholla/coding-practice/tree/master/1674-minimum-moves-to-make-array-complementary) |
@@ -2292,6 +2293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1472-design-browser-history](https://github.com/gauthamnholla/coding-practice/tree/master/1472-design-browser-history) |
 | [1600-throne-inheritance](https://github.com/gauthamnholla/coding-practice/tree/master/1600-throne-inheritance) |
 | [1656-design-an-ordered-stream](https://github.com/gauthamnholla/coding-practice/tree/master/1656-design-an-ordered-stream) |
+| [1670-design-front-middle-back-queue](https://github.com/gauthamnholla/coding-practice/tree/master/1670-design-front-middle-back-queue) |
 | [1845-seat-reservation-manager](https://github.com/gauthamnholla/coding-practice/tree/master/1845-seat-reservation-manager) |
 | [1993-operations-on-tree](https://github.com/gauthamnholla/coding-practice/tree/master/1993-operations-on-tree) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/gauthamnholla/coding-practice/tree/master/1995-finding-pairs-with-a-certain-sum) |
@@ -2855,6 +2857,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/gauthamnholla/coding-practice/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1472-design-browser-history](https://github.com/gauthamnholla/coding-practice/tree/master/1472-design-browser-history) |
 | [1669-merge-in-between-linked-lists](https://github.com/gauthamnholla/coding-practice/tree/master/1669-merge-in-between-linked-lists) |
+| [1670-design-front-middle-back-queue](https://github.com/gauthamnholla/coding-practice/tree/master/1670-design-front-middle-back-queue) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/gauthamnholla/coding-practice/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2326-spiral-matrix-iv](https://github.com/gauthamnholla/coding-practice/tree/master/2326-spiral-matrix-iv) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/gauthamnholla/coding-practice/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -5023,6 +5026,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0950-reveal-cards-in-increasing-order](https://github.com/gauthamnholla/coding-practice/tree/master/0950-reveal-cards-in-increasing-order) |
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/gauthamnholla/coding-practice/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/gauthamnholla/coding-practice/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+| [1670-design-front-middle-back-queue](https://github.com/gauthamnholla/coding-practice/tree/master/1670-design-front-middle-back-queue) |
 | [1687-delivering-boxes-from-storage-to-ports](https://github.com/gauthamnholla/coding-practice/tree/master/1687-delivering-boxes-from-storage-to-ports) |
 | [1696-jump-game-vi](https://github.com/gauthamnholla/coding-practice/tree/master/1696-jump-game-vi) |
 | [2071-maximum-number-of-tasks-you-can-assign](https://github.com/gauthamnholla/coding-practice/tree/master/2071-maximum-number-of-tasks-you-can-assign) |
@@ -5604,6 +5608,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1352-product-of-the-last-k-numbers](https://github.com/gauthamnholla/coding-practice/tree/master/1352-product-of-the-last-k-numbers) |
 | [1472-design-browser-history](https://github.com/gauthamnholla/coding-practice/tree/master/1472-design-browser-history) |
 | [1656-design-an-ordered-stream](https://github.com/gauthamnholla/coding-practice/tree/master/1656-design-an-ordered-stream) |
+| [1670-design-front-middle-back-queue](https://github.com/gauthamnholla/coding-practice/tree/master/1670-design-front-middle-back-queue) |
 ## Randomized
 |  |
 | ------- |
@@ -5769,6 +5774,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/gauthamnholla/coding-practice/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0460-lfu-cache](https://github.com/gauthamnholla/coding-practice/tree/master/0460-lfu-cache) |
 | [1472-design-browser-history](https://github.com/gauthamnholla/coding-practice/tree/master/1472-design-browser-history) |
+| [1670-design-front-middle-back-queue](https://github.com/gauthamnholla/coding-practice/tree/master/1670-design-front-middle-back-queue) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/gauthamnholla/coding-practice/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/gauthamnholla/coding-practice/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## Iterator
