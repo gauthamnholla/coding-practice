@@ -509,6 +509,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1649-create-sorted-array-through-instructions](https://github.com/gauthamnholla/coding-practice/tree/master/1649-create-sorted-array-through-instructions) |
 | [1654-minimum-jumps-to-reach-home](https://github.com/gauthamnholla/coding-practice/tree/master/1654-minimum-jumps-to-reach-home) |
 | [1655-distribute-repeating-integers](https://github.com/gauthamnholla/coding-practice/tree/master/1655-distribute-repeating-integers) |
+| [1656-design-an-ordered-stream](https://github.com/gauthamnholla/coding-practice/tree/master/1656-design-an-ordered-stream) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/gauthamnholla/coding-practice/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/gauthamnholla/coding-practice/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1672-richest-customer-wealth](https://github.com/gauthamnholla/coding-practice/tree/master/1672-richest-customer-wealth) |
@@ -2100,6 +2101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1640-check-array-formation-through-concatenation](https://github.com/gauthamnholla/coding-practice/tree/master/1640-check-array-formation-through-concatenation) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/gauthamnholla/coding-practice/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1655-distribute-repeating-integers](https://github.com/gauthamnholla/coding-practice/tree/master/1655-distribute-repeating-integers) |
+| [1656-design-an-ordered-stream](https://github.com/gauthamnholla/coding-practice/tree/master/1656-design-an-ordered-stream) |
 | [1657-determine-if-two-strings-are-close](https://github.com/gauthamnholla/coding-practice/tree/master/1657-determine-if-two-strings-are-close) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/gauthamnholla/coding-practice/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/gauthamnholla/coding-practice/tree/master/1674-minimum-moves-to-make-array-complementary) |
@@ -2288,6 +2290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1352-product-of-the-last-k-numbers](https://github.com/gauthamnholla/coding-practice/tree/master/1352-product-of-the-last-k-numbers) |
 | [1472-design-browser-history](https://github.com/gauthamnholla/coding-practice/tree/master/1472-design-browser-history) |
 | [1600-throne-inheritance](https://github.com/gauthamnholla/coding-practice/tree/master/1600-throne-inheritance) |
+| [1656-design-an-ordered-stream](https://github.com/gauthamnholla/coding-practice/tree/master/1656-design-an-ordered-stream) |
 | [1845-seat-reservation-manager](https://github.com/gauthamnholla/coding-practice/tree/master/1845-seat-reservation-manager) |
 | [1993-operations-on-tree](https://github.com/gauthamnholla/coding-practice/tree/master/1993-operations-on-tree) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/gauthamnholla/coding-practice/tree/master/1995-finding-pairs-with-a-certain-sum) |
@@ -5598,6 +5601,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/gauthamnholla/coding-practice/tree/master/0295-find-median-from-data-stream) |
 | [1352-product-of-the-last-k-numbers](https://github.com/gauthamnholla/coding-practice/tree/master/1352-product-of-the-last-k-numbers) |
 | [1472-design-browser-history](https://github.com/gauthamnholla/coding-practice/tree/master/1472-design-browser-history) |
+| [1656-design-an-ordered-stream](https://github.com/gauthamnholla/coding-practice/tree/master/1656-design-an-ordered-stream) |
 ## Randomized
 |  |
 | ------- |
