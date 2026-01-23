@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0393-utf-8-validation](https://github.com/gauthamnholla/coding-practice/tree/master/0393-utf-8-validation) |
 | [0396-rotate-function](https://github.com/gauthamnholla/coding-practice/tree/master/0396-rotate-function) |
 | [0399-evaluate-division](https://github.com/gauthamnholla/coding-practice/tree/master/0399-evaluate-division) |
+| [0403-frog-jump](https://github.com/gauthamnholla/coding-practice/tree/master/0403-frog-jump) |
 | [0406-queue-reconstruction-by-height](https://github.com/gauthamnholla/coding-practice/tree/master/0406-queue-reconstruction-by-height) |
 | [0407-trapping-rain-water-ii](https://github.com/gauthamnholla/coding-practice/tree/master/0407-trapping-rain-water-ii) |
 | [0410-split-array-largest-sum](https://github.com/gauthamnholla/coding-practice/tree/master/0410-split-array-largest-sum) |
@@ -2457,6 +2458,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/gauthamnholla/coding-practice/tree/master/0392-is-subsequence) |
 | [0396-rotate-function](https://github.com/gauthamnholla/coding-practice/tree/master/0396-rotate-function) |
 | [0397-integer-replacement](https://github.com/gauthamnholla/coding-practice/tree/master/0397-integer-replacement) |
+| [0403-frog-jump](https://github.com/gauthamnholla/coding-practice/tree/master/0403-frog-jump) |
 | [0410-split-array-largest-sum](https://github.com/gauthamnholla/coding-practice/tree/master/0410-split-array-largest-sum) |
 | [0413-arithmetic-slices](https://github.com/gauthamnholla/coding-practice/tree/master/0413-arithmetic-slices) |
 | [0416-partition-equal-subset-sum](https://github.com/gauthamnholla/coding-practice/tree/master/0416-partition-equal-subset-sum) |
