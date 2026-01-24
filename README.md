@@ -377,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1048-longest-string-chain](https://github.com/gauthamnholla/coding-practice/tree/master/1048-longest-string-chain) |
 | [1049-last-stone-weight-ii](https://github.com/gauthamnholla/coding-practice/tree/master/1049-last-stone-weight-ii) |
 | [1051-height-checker](https://github.com/gauthamnholla/coding-practice/tree/master/1051-height-checker) |
+| [1052-grumpy-bookstore-owner](https://github.com/gauthamnholla/coding-practice/tree/master/1052-grumpy-bookstore-owner) |
 | [1054-distant-barcodes](https://github.com/gauthamnholla/coding-practice/tree/master/1054-distant-barcodes) |
 | [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/gauthamnholla/coding-practice/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
 | [1071-binary-prefix-divisible-by-5](https://github.com/gauthamnholla/coding-practice/tree/master/1071-binary-prefix-divisible-by-5) |
@@ -1848,6 +1849,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/gauthamnholla/coding-practice/tree/master/1004-max-consecutive-ones-iii) |
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/gauthamnholla/coding-practice/tree/master/1031-maximum-sum-of-two-non-overlapping-subarrays) |
 | [1040-moving-stones-until-consecutive-ii](https://github.com/gauthamnholla/coding-practice/tree/master/1040-moving-stones-until-consecutive-ii) |
+| [1052-grumpy-bookstore-owner](https://github.com/gauthamnholla/coding-practice/tree/master/1052-grumpy-bookstore-owner) |
 | [1208-get-equal-substrings-within-budget](https://github.com/gauthamnholla/coding-practice/tree/master/1208-get-equal-substrings-within-budget) |
 | [1248-count-number-of-nice-subarrays](https://github.com/gauthamnholla/coding-practice/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/gauthamnholla/coding-practice/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
