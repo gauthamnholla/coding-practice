@@ -290,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0909-stone-game](https://github.com/gauthamnholla/coding-practice/tree/master/0909-stone-game) |
 | [0909-snakes-and-ladders](https://github.com/gauthamnholla/coding-practice/tree/master/0909-snakes-and-ladders) |
 | [0910-smallest-range-ii](https://github.com/gauthamnholla/coding-practice/tree/master/0910-smallest-range-ii) |
+| [0915-partition-array-into-disjoint-intervals](https://github.com/gauthamnholla/coding-practice/tree/master/0915-partition-array-into-disjoint-intervals) |
 | [0916-word-subsets](https://github.com/gauthamnholla/coding-practice/tree/master/0916-word-subsets) |
 | [0918-maximum-sum-circular-subarray](https://github.com/gauthamnholla/coding-practice/tree/master/0918-maximum-sum-circular-subarray) |
 | [0919-projection-area-of-3d-shapes](https://github.com/gauthamnholla/coding-practice/tree/master/0919-projection-area-of-3d-shapes) |
