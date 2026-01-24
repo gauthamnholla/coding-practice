@@ -398,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1122-relative-sort-array](https://github.com/gauthamnholla/coding-practice/tree/master/1122-relative-sort-array) |
 | [1124-longest-well-performing-interval](https://github.com/gauthamnholla/coding-practice/tree/master/1124-longest-well-performing-interval) |
 | [1125-smallest-sufficient-team](https://github.com/gauthamnholla/coding-practice/tree/master/1125-smallest-sufficient-team) |
+| [1128-number-of-equivalent-domino-pairs](https://github.com/gauthamnholla/coding-practice/tree/master/1128-number-of-equivalent-domino-pairs) |
 | [1130-minimum-cost-tree-from-leaf-values](https://github.com/gauthamnholla/coding-practice/tree/master/1130-minimum-cost-tree-from-leaf-values) |
 | [1131-maximum-of-absolute-value-expression](https://github.com/gauthamnholla/coding-practice/tree/master/1131-maximum-of-absolute-value-expression) |
 | [1139-largest-1-bordered-square](https://github.com/gauthamnholla/coding-practice/tree/master/1139-largest-1-bordered-square) |
@@ -2115,6 +2116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1122-relative-sort-array](https://github.com/gauthamnholla/coding-practice/tree/master/1122-relative-sort-array) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/gauthamnholla/coding-practice/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1124-longest-well-performing-interval](https://github.com/gauthamnholla/coding-practice/tree/master/1124-longest-well-performing-interval) |
+| [1128-number-of-equivalent-domino-pairs](https://github.com/gauthamnholla/coding-practice/tree/master/1128-number-of-equivalent-domino-pairs) |
 | [1146-snapshot-array](https://github.com/gauthamnholla/coding-practice/tree/master/1146-snapshot-array) |
 | [1169-invalid-transactions](https://github.com/gauthamnholla/coding-practice/tree/master/1169-invalid-transactions) |
 | [1170-compare-strings-by-frequency-of-the-smallest-character](https://github.com/gauthamnholla/coding-practice/tree/master/1170-compare-strings-by-frequency-of-the-smallest-character) |
@@ -4985,6 +4987,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/gauthamnholla/coding-practice/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1054-distant-barcodes](https://github.com/gauthamnholla/coding-practice/tree/master/1054-distant-barcodes) |
 | [1090-largest-values-from-labels](https://github.com/gauthamnholla/coding-practice/tree/master/1090-largest-values-from-labels) |
+| [1128-number-of-equivalent-domino-pairs](https://github.com/gauthamnholla/coding-practice/tree/master/1128-number-of-equivalent-domino-pairs) |
 | [1267-count-servers-that-communicate](https://github.com/gauthamnholla/coding-practice/tree/master/1267-count-servers-that-communicate) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/gauthamnholla/coding-practice/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1366-rank-teams-by-votes](https://github.com/gauthamnholla/coding-practice/tree/master/1366-rank-teams-by-votes) |
