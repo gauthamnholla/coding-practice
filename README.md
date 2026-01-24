@@ -402,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1139-largest-1-bordered-square](https://github.com/gauthamnholla/coding-practice/tree/master/1139-largest-1-bordered-square) |
 | [1140-stone-game-ii](https://github.com/gauthamnholla/coding-practice/tree/master/1140-stone-game-ii) |
 | [1144-decrease-elements-to-make-array-zigzag](https://github.com/gauthamnholla/coding-practice/tree/master/1144-decrease-elements-to-make-array-zigzag) |
+| [1146-snapshot-array](https://github.com/gauthamnholla/coding-practice/tree/master/1146-snapshot-array) |
 | [1162-as-far-from-land-as-possible](https://github.com/gauthamnholla/coding-practice/tree/master/1162-as-far-from-land-as-possible) |
 | [1169-invalid-transactions](https://github.com/gauthamnholla/coding-practice/tree/master/1169-invalid-transactions) |
 | [1170-compare-strings-by-frequency-of-the-smallest-character](https://github.com/gauthamnholla/coding-practice/tree/master/1170-compare-strings-by-frequency-of-the-smallest-character) |
@@ -2112,6 +2113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1122-relative-sort-array](https://github.com/gauthamnholla/coding-practice/tree/master/1122-relative-sort-array) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/gauthamnholla/coding-practice/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1124-longest-well-performing-interval](https://github.com/gauthamnholla/coding-practice/tree/master/1124-longest-well-performing-interval) |
+| [1146-snapshot-array](https://github.com/gauthamnholla/coding-practice/tree/master/1146-snapshot-array) |
 | [1169-invalid-transactions](https://github.com/gauthamnholla/coding-practice/tree/master/1169-invalid-transactions) |
 | [1170-compare-strings-by-frequency-of-the-smallest-character](https://github.com/gauthamnholla/coding-practice/tree/master/1170-compare-strings-by-frequency-of-the-smallest-character) |
 | [1171-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/gauthamnholla/coding-practice/tree/master/1171-remove-zero-sum-consecutive-nodes-from-linked-list) |
@@ -2333,6 +2335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0855-exam-room](https://github.com/gauthamnholla/coding-practice/tree/master/0855-exam-room) |
 | [0900-rle-iterator](https://github.com/gauthamnholla/coding-practice/tree/master/0900-rle-iterator) |
 | [0981-time-based-key-value-store](https://github.com/gauthamnholla/coding-practice/tree/master/0981-time-based-key-value-store) |
+| [1146-snapshot-array](https://github.com/gauthamnholla/coding-practice/tree/master/1146-snapshot-array) |
 | [1172-dinner-plate-stacks](https://github.com/gauthamnholla/coding-practice/tree/master/1172-dinner-plate-stacks) |
 | [1206-design-skiplist](https://github.com/gauthamnholla/coding-practice/tree/master/1206-design-skiplist) |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/gauthamnholla/coding-practice/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
@@ -4491,6 +4494,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/gauthamnholla/coding-practice/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/gauthamnholla/coding-practice/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1027-longest-arithmetic-subsequence](https://github.com/gauthamnholla/coding-practice/tree/master/1027-longest-arithmetic-subsequence) |
+| [1146-snapshot-array](https://github.com/gauthamnholla/coding-practice/tree/master/1146-snapshot-array) |
 | [1170-compare-strings-by-frequency-of-the-smallest-character](https://github.com/gauthamnholla/coding-practice/tree/master/1170-compare-strings-by-frequency-of-the-smallest-character) |
 | [1187-make-array-strictly-increasing](https://github.com/gauthamnholla/coding-practice/tree/master/1187-make-array-strictly-increasing) |
 | [1208-get-equal-substrings-within-budget](https://github.com/gauthamnholla/coding-practice/tree/master/1208-get-equal-substrings-within-budget) |
