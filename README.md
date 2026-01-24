@@ -398,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1122-relative-sort-array](https://github.com/gauthamnholla/coding-practice/tree/master/1122-relative-sort-array) |
 | [1124-longest-well-performing-interval](https://github.com/gauthamnholla/coding-practice/tree/master/1124-longest-well-performing-interval) |
 | [1125-smallest-sufficient-team](https://github.com/gauthamnholla/coding-practice/tree/master/1125-smallest-sufficient-team) |
+| [1131-maximum-of-absolute-value-expression](https://github.com/gauthamnholla/coding-practice/tree/master/1131-maximum-of-absolute-value-expression) |
 | [1139-largest-1-bordered-square](https://github.com/gauthamnholla/coding-practice/tree/master/1139-largest-1-bordered-square) |
 | [1140-stone-game-ii](https://github.com/gauthamnholla/coding-practice/tree/master/1140-stone-game-ii) |
 | [1162-as-far-from-land-as-possible](https://github.com/gauthamnholla/coding-practice/tree/master/1162-as-far-from-land-as-possible) |
@@ -3086,6 +3087,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1093-statistics-from-a-large-sample](https://github.com/gauthamnholla/coding-practice/tree/master/1093-statistics-from-a-large-sample) |
 | [1094-matrix-cells-in-distance-order](https://github.com/gauthamnholla/coding-practice/tree/master/1094-matrix-cells-in-distance-order) |
 | [1115-valid-boomerang](https://github.com/gauthamnholla/coding-practice/tree/master/1115-valid-boomerang) |
+| [1131-maximum-of-absolute-value-expression](https://github.com/gauthamnholla/coding-practice/tree/master/1131-maximum-of-absolute-value-expression) |
 | [1140-stone-game-ii](https://github.com/gauthamnholla/coding-practice/tree/master/1140-stone-game-ii) |
 | [1227-airplane-seat-assignment-probability](https://github.com/gauthamnholla/coding-practice/tree/master/1227-airplane-seat-assignment-probability) |
 | [1237-find-positive-integer-solution-for-a-given-equation](https://github.com/gauthamnholla/coding-practice/tree/master/1237-find-positive-integer-solution-for-a-given-equation) |
