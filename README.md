@@ -348,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0996-number-of-squareful-arrays](https://github.com/gauthamnholla/coding-practice/tree/master/0996-number-of-squareful-arrays) |
 | [1000-minimum-cost-to-merge-stones](https://github.com/gauthamnholla/coding-practice/tree/master/1000-minimum-cost-to-merge-stones) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/gauthamnholla/coding-practice/tree/master/1001-n-repeated-element-in-size-2n-array) |
+| [1001-grid-illumination](https://github.com/gauthamnholla/coding-practice/tree/master/1001-grid-illumination) |
 | [1004-max-consecutive-ones-iii](https://github.com/gauthamnholla/coding-practice/tree/master/1004-max-consecutive-ones-iii) |
 | [1006-vowel-spellchecker](https://github.com/gauthamnholla/coding-practice/tree/master/1006-vowel-spellchecker) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/gauthamnholla/coding-practice/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -2073,6 +2074,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0992-subarrays-with-k-different-integers](https://github.com/gauthamnholla/coding-practice/tree/master/0992-subarrays-with-k-different-integers) |
 | [0996-number-of-squareful-arrays](https://github.com/gauthamnholla/coding-practice/tree/master/0996-number-of-squareful-arrays) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/gauthamnholla/coding-practice/tree/master/1001-n-repeated-element-in-size-2n-array) |
+| [1001-grid-illumination](https://github.com/gauthamnholla/coding-practice/tree/master/1001-grid-illumination) |
 | [1006-vowel-spellchecker](https://github.com/gauthamnholla/coding-practice/tree/master/1006-vowel-spellchecker) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/gauthamnholla/coding-practice/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1036-escape-a-large-maze](https://github.com/gauthamnholla/coding-practice/tree/master/1036-escape-a-large-maze) |
