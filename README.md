@@ -411,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1169-invalid-transactions](https://github.com/gauthamnholla/coding-practice/tree/master/1169-invalid-transactions) |
 | [1170-compare-strings-by-frequency-of-the-smallest-character](https://github.com/gauthamnholla/coding-practice/tree/master/1170-compare-strings-by-frequency-of-the-smallest-character) |
 | [1177-can-make-palindrome-from-substring](https://github.com/gauthamnholla/coding-practice/tree/master/1177-can-make-palindrome-from-substring) |
+| [1178-number-of-valid-words-for-each-puzzle](https://github.com/gauthamnholla/coding-practice/tree/master/1178-number-of-valid-words-for-each-puzzle) |
 | [1187-make-array-strictly-increasing](https://github.com/gauthamnholla/coding-practice/tree/master/1187-make-array-strictly-increasing) |
 | [1202-smallest-string-with-swaps](https://github.com/gauthamnholla/coding-practice/tree/master/1202-smallest-string-with-swaps) |
 | [1210-minimum-moves-to-reach-target-with-rotations](https://github.com/gauthamnholla/coding-practice/tree/master/1210-minimum-moves-to-reach-target-with-rotations) |
@@ -2127,6 +2128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1171-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/gauthamnholla/coding-practice/tree/master/1171-remove-zero-sum-consecutive-nodes-from-linked-list) |
 | [1172-dinner-plate-stacks](https://github.com/gauthamnholla/coding-practice/tree/master/1172-dinner-plate-stacks) |
 | [1177-can-make-palindrome-from-substring](https://github.com/gauthamnholla/coding-practice/tree/master/1177-can-make-palindrome-from-substring) |
+| [1178-number-of-valid-words-for-each-puzzle](https://github.com/gauthamnholla/coding-practice/tree/master/1178-number-of-valid-words-for-each-puzzle) |
 | [1202-smallest-string-with-swaps](https://github.com/gauthamnholla/coding-practice/tree/master/1202-smallest-string-with-swaps) |
 | [1248-count-number-of-nice-subarrays](https://github.com/gauthamnholla/coding-practice/tree/master/1248-count-number-of-nice-subarrays) |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/gauthamnholla/coding-practice/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
@@ -3419,6 +3421,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1169-invalid-transactions](https://github.com/gauthamnholla/coding-practice/tree/master/1169-invalid-transactions) |
 | [1170-compare-strings-by-frequency-of-the-smallest-character](https://github.com/gauthamnholla/coding-practice/tree/master/1170-compare-strings-by-frequency-of-the-smallest-character) |
 | [1177-can-make-palindrome-from-substring](https://github.com/gauthamnholla/coding-practice/tree/master/1177-can-make-palindrome-from-substring) |
+| [1178-number-of-valid-words-for-each-puzzle](https://github.com/gauthamnholla/coding-practice/tree/master/1178-number-of-valid-words-for-each-puzzle) |
 | [1202-smallest-string-with-swaps](https://github.com/gauthamnholla/coding-practice/tree/master/1202-smallest-string-with-swaps) |
 | [1208-get-equal-substrings-within-budget](https://github.com/gauthamnholla/coding-practice/tree/master/1208-get-equal-substrings-within-budget) |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/gauthamnholla/coding-practice/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
@@ -3811,6 +3814,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-number-of-matching-subsequences](https://github.com/gauthamnholla/coding-practice/tree/master/0792-number-of-matching-subsequences) |
 | [0820-short-encoding-of-words](https://github.com/gauthamnholla/coding-practice/tree/master/0820-short-encoding-of-words) |
 | [1023-camelcase-matching](https://github.com/gauthamnholla/coding-practice/tree/master/1023-camelcase-matching) |
+| [1178-number-of-valid-words-for-each-puzzle](https://github.com/gauthamnholla/coding-practice/tree/master/1178-number-of-valid-words-for-each-puzzle) |
 | [1268-search-suggestions-system](https://github.com/gauthamnholla/coding-practice/tree/master/1268-search-suggestions-system) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/gauthamnholla/coding-practice/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1707-maximum-xor-with-an-element-from-array](https://github.com/gauthamnholla/coding-practice/tree/master/1707-maximum-xor-with-an-element-from-array) |
@@ -3951,6 +3955,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1071-binary-prefix-divisible-by-5](https://github.com/gauthamnholla/coding-practice/tree/master/1071-binary-prefix-divisible-by-5) |
 | [1125-smallest-sufficient-team](https://github.com/gauthamnholla/coding-practice/tree/master/1125-smallest-sufficient-team) |
 | [1177-can-make-palindrome-from-substring](https://github.com/gauthamnholla/coding-practice/tree/master/1177-can-make-palindrome-from-substring) |
+| [1178-number-of-valid-words-for-each-puzzle](https://github.com/gauthamnholla/coding-practice/tree/master/1178-number-of-valid-words-for-each-puzzle) |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/gauthamnholla/coding-practice/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1284-minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix](https://github.com/gauthamnholla/coding-practice/tree/master/1284-minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix) |
 | [1310-xor-queries-of-a-subarray](https://github.com/gauthamnholla/coding-practice/tree/master/1310-xor-queries-of-a-subarray) |
