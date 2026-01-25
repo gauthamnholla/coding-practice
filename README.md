@@ -405,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/gauthamnholla/coding-practice/tree/master/1140-stone-game-ii) |
 | [1144-decrease-elements-to-make-array-zigzag](https://github.com/gauthamnholla/coding-practice/tree/master/1144-decrease-elements-to-make-array-zigzag) |
 | [1146-snapshot-array](https://github.com/gauthamnholla/coding-practice/tree/master/1146-snapshot-array) |
+| [1157-online-majority-element-in-subarray](https://github.com/gauthamnholla/coding-practice/tree/master/1157-online-majority-element-in-subarray) |
 | [1162-as-far-from-land-as-possible](https://github.com/gauthamnholla/coding-practice/tree/master/1162-as-far-from-land-as-possible) |
 | [1169-invalid-transactions](https://github.com/gauthamnholla/coding-practice/tree/master/1169-invalid-transactions) |
 | [1170-compare-strings-by-frequency-of-the-smallest-character](https://github.com/gauthamnholla/coding-practice/tree/master/1170-compare-strings-by-frequency-of-the-smallest-character) |
@@ -2340,6 +2341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0900-rle-iterator](https://github.com/gauthamnholla/coding-practice/tree/master/0900-rle-iterator) |
 | [0981-time-based-key-value-store](https://github.com/gauthamnholla/coding-practice/tree/master/0981-time-based-key-value-store) |
 | [1146-snapshot-array](https://github.com/gauthamnholla/coding-practice/tree/master/1146-snapshot-array) |
+| [1157-online-majority-element-in-subarray](https://github.com/gauthamnholla/coding-practice/tree/master/1157-online-majority-element-in-subarray) |
 | [1172-dinner-plate-stacks](https://github.com/gauthamnholla/coding-practice/tree/master/1172-dinner-plate-stacks) |
 | [1206-design-skiplist](https://github.com/gauthamnholla/coding-practice/tree/master/1206-design-skiplist) |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/gauthamnholla/coding-practice/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
@@ -4180,6 +4182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0327-count-of-range-sum](https://github.com/gauthamnholla/coding-practice/tree/master/0327-count-of-range-sum) |
 | [0406-queue-reconstruction-by-height](https://github.com/gauthamnholla/coding-practice/tree/master/0406-queue-reconstruction-by-height) |
 | [0732-my-calendar-iii](https://github.com/gauthamnholla/coding-practice/tree/master/0732-my-calendar-iii) |
+| [1157-online-majority-element-in-subarray](https://github.com/gauthamnholla/coding-practice/tree/master/1157-online-majority-element-in-subarray) |
 | [1649-create-sorted-array-through-instructions](https://github.com/gauthamnholla/coding-practice/tree/master/1649-create-sorted-array-through-instructions) |
 | [1687-delivering-boxes-from-storage-to-ports](https://github.com/gauthamnholla/coding-practice/tree/master/1687-delivering-boxes-from-storage-to-ports) |
 | [2179-count-good-triplets-in-an-array](https://github.com/gauthamnholla/coding-practice/tree/master/2179-count-good-triplets-in-an-array) |
@@ -4501,6 +4504,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/gauthamnholla/coding-practice/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1027-longest-arithmetic-subsequence](https://github.com/gauthamnholla/coding-practice/tree/master/1027-longest-arithmetic-subsequence) |
 | [1146-snapshot-array](https://github.com/gauthamnholla/coding-practice/tree/master/1146-snapshot-array) |
+| [1157-online-majority-element-in-subarray](https://github.com/gauthamnholla/coding-practice/tree/master/1157-online-majority-element-in-subarray) |
 | [1170-compare-strings-by-frequency-of-the-smallest-character](https://github.com/gauthamnholla/coding-practice/tree/master/1170-compare-strings-by-frequency-of-the-smallest-character) |
 | [1187-make-array-strictly-increasing](https://github.com/gauthamnholla/coding-practice/tree/master/1187-make-array-strictly-increasing) |
 | [1208-get-equal-substrings-within-budget](https://github.com/gauthamnholla/coding-practice/tree/master/1208-get-equal-substrings-within-budget) |
@@ -5681,6 +5685,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0315-count-of-smaller-numbers-after-self](https://github.com/gauthamnholla/coding-practice/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0327-count-of-range-sum](https://github.com/gauthamnholla/coding-practice/tree/master/0327-count-of-range-sum) |
 | [0406-queue-reconstruction-by-height](https://github.com/gauthamnholla/coding-practice/tree/master/0406-queue-reconstruction-by-height) |
+| [1157-online-majority-element-in-subarray](https://github.com/gauthamnholla/coding-practice/tree/master/1157-online-majority-element-in-subarray) |
 | [1649-create-sorted-array-through-instructions](https://github.com/gauthamnholla/coding-practice/tree/master/1649-create-sorted-array-through-instructions) |
 | [2179-count-good-triplets-in-an-array](https://github.com/gauthamnholla/coding-practice/tree/master/2179-count-good-triplets-in-an-array) |
 | [2250-count-number-of-rectangles-containing-each-point](https://github.com/gauthamnholla/coding-practice/tree/master/2250-count-number-of-rectangles-containing-each-point) |
