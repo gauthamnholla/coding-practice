@@ -421,6 +421,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/gauthamnholla/coding-practice/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1219-path-with-maximum-gold](https://github.com/gauthamnholla/coding-practice/tree/master/1219-path-with-maximum-gold) |
 | [1222-queens-that-can-attack-the-king](https://github.com/gauthamnholla/coding-practice/tree/master/1222-queens-that-can-attack-the-king) |
+| [1223-dice-roll-simulation](https://github.com/gauthamnholla/coding-practice/tree/master/1223-dice-roll-simulation) |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/gauthamnholla/coding-practice/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1248-count-number-of-nice-subarrays](https://github.com/gauthamnholla/coding-practice/tree/master/1248-count-number-of-nice-subarrays) |
 | [1253-reconstruct-a-2-row-binary-matrix](https://github.com/gauthamnholla/coding-practice/tree/master/1253-reconstruct-a-2-row-binary-matrix) |
@@ -2582,6 +2583,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1162-as-far-from-land-as-possible](https://github.com/gauthamnholla/coding-practice/tree/master/1162-as-far-from-land-as-possible) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/gauthamnholla/coding-practice/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1187-make-array-strictly-increasing](https://github.com/gauthamnholla/coding-practice/tree/master/1187-make-array-strictly-increasing) |
+| [1223-dice-roll-simulation](https://github.com/gauthamnholla/coding-practice/tree/master/1223-dice-roll-simulation) |
 | [1227-airplane-seat-assignment-probability](https://github.com/gauthamnholla/coding-practice/tree/master/1227-airplane-seat-assignment-probability) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/gauthamnholla/coding-practice/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1289-minimum-falling-path-sum-ii](https://github.com/gauthamnholla/coding-practice/tree/master/1289-minimum-falling-path-sum-ii) |
