@@ -457,6 +457,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/gauthamnholla/coding-practice/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1338-reduce-array-size-to-the-half](https://github.com/gauthamnholla/coding-practice/tree/master/1338-reduce-array-size-to-the-half) |
 | [1340-jump-game-v](https://github.com/gauthamnholla/coding-practice/tree/master/1340-jump-game-v) |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/gauthamnholla/coding-practice/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1349-maximum-students-taking-exam](https://github.com/gauthamnholla/coding-practice/tree/master/1349-maximum-students-taking-exam) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/gauthamnholla/coding-practice/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/gauthamnholla/coding-practice/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -1879,6 +1880,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1052-grumpy-bookstore-owner](https://github.com/gauthamnholla/coding-practice/tree/master/1052-grumpy-bookstore-owner) |
 | [1208-get-equal-substrings-within-budget](https://github.com/gauthamnholla/coding-practice/tree/master/1208-get-equal-substrings-within-budget) |
 | [1248-count-number-of-nice-subarrays](https://github.com/gauthamnholla/coding-practice/tree/master/1248-count-number-of-nice-subarrays) |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/gauthamnholla/coding-practice/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/gauthamnholla/coding-practice/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/gauthamnholla/coding-practice/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/gauthamnholla/coding-practice/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
