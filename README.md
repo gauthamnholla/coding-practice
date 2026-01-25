@@ -406,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1144-decrease-elements-to-make-array-zigzag](https://github.com/gauthamnholla/coding-practice/tree/master/1144-decrease-elements-to-make-array-zigzag) |
 | [1146-snapshot-array](https://github.com/gauthamnholla/coding-practice/tree/master/1146-snapshot-array) |
 | [1157-online-majority-element-in-subarray](https://github.com/gauthamnholla/coding-practice/tree/master/1157-online-majority-element-in-subarray) |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/gauthamnholla/coding-practice/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1162-as-far-from-land-as-possible](https://github.com/gauthamnholla/coding-practice/tree/master/1162-as-far-from-land-as-possible) |
 | [1169-invalid-transactions](https://github.com/gauthamnholla/coding-practice/tree/master/1169-invalid-transactions) |
 | [1170-compare-strings-by-frequency-of-the-smallest-character](https://github.com/gauthamnholla/coding-practice/tree/master/1170-compare-strings-by-frequency-of-the-smallest-character) |
@@ -2120,6 +2121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1124-longest-well-performing-interval](https://github.com/gauthamnholla/coding-practice/tree/master/1124-longest-well-performing-interval) |
 | [1128-number-of-equivalent-domino-pairs](https://github.com/gauthamnholla/coding-practice/tree/master/1128-number-of-equivalent-domino-pairs) |
 | [1146-snapshot-array](https://github.com/gauthamnholla/coding-practice/tree/master/1146-snapshot-array) |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/gauthamnholla/coding-practice/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1169-invalid-transactions](https://github.com/gauthamnholla/coding-practice/tree/master/1169-invalid-transactions) |
 | [1170-compare-strings-by-frequency-of-the-smallest-character](https://github.com/gauthamnholla/coding-practice/tree/master/1170-compare-strings-by-frequency-of-the-smallest-character) |
 | [1171-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/gauthamnholla/coding-practice/tree/master/1171-remove-zero-sum-consecutive-nodes-from-linked-list) |
@@ -3413,6 +3415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/gauthamnholla/coding-practice/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1096-brace-expansion-ii](https://github.com/gauthamnholla/coding-practice/tree/master/1096-brace-expansion-ii) |
 | [1147-longest-chunked-palindrome-decomposition](https://github.com/gauthamnholla/coding-practice/tree/master/1147-longest-chunked-palindrome-decomposition) |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/gauthamnholla/coding-practice/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1169-invalid-transactions](https://github.com/gauthamnholla/coding-practice/tree/master/1169-invalid-transactions) |
 | [1170-compare-strings-by-frequency-of-the-smallest-character](https://github.com/gauthamnholla/coding-practice/tree/master/1170-compare-strings-by-frequency-of-the-smallest-character) |
 | [1177-can-make-palindrome-from-substring](https://github.com/gauthamnholla/coding-practice/tree/master/1177-can-make-palindrome-from-substring) |
@@ -4996,6 +4999,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1054-distant-barcodes](https://github.com/gauthamnholla/coding-practice/tree/master/1054-distant-barcodes) |
 | [1090-largest-values-from-labels](https://github.com/gauthamnholla/coding-practice/tree/master/1090-largest-values-from-labels) |
 | [1128-number-of-equivalent-domino-pairs](https://github.com/gauthamnholla/coding-practice/tree/master/1128-number-of-equivalent-domino-pairs) |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/gauthamnholla/coding-practice/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1267-count-servers-that-communicate](https://github.com/gauthamnholla/coding-practice/tree/master/1267-count-servers-that-communicate) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/gauthamnholla/coding-practice/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1366-rank-teams-by-votes](https://github.com/gauthamnholla/coding-practice/tree/master/1366-rank-teams-by-votes) |
