@@ -189,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/gauthamnholla/coding-practice/tree/master/0542-01-matrix) |
 | [0546-remove-boxes](https://github.com/gauthamnholla/coding-practice/tree/master/0546-remove-boxes) |
 | [0553-optimal-division](https://github.com/gauthamnholla/coding-practice/tree/master/0553-optimal-division) |
+| [0554-brick-wall](https://github.com/gauthamnholla/coding-practice/tree/master/0554-brick-wall) |
 | [0560-subarray-sum-equals-k](https://github.com/gauthamnholla/coding-practice/tree/master/0560-subarray-sum-equals-k) |
 | [0561-array-partition](https://github.com/gauthamnholla/coding-practice/tree/master/0561-array-partition) |
 | [0565-array-nesting](https://github.com/gauthamnholla/coding-practice/tree/master/0565-array-nesting) |
@@ -2065,6 +2066,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/gauthamnholla/coding-practice/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/gauthamnholla/coding-practice/tree/master/0525-contiguous-array) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/gauthamnholla/coding-practice/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0554-brick-wall](https://github.com/gauthamnholla/coding-practice/tree/master/0554-brick-wall) |
 | [0560-subarray-sum-equals-k](https://github.com/gauthamnholla/coding-practice/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/gauthamnholla/coding-practice/tree/master/0567-permutation-in-string) |
 | [0575-distribute-candies](https://github.com/gauthamnholla/coding-practice/tree/master/0575-distribute-candies) |
