@@ -269,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0843-guess-the-word](https://github.com/gauthamnholla/coding-practice/tree/master/0843-guess-the-word) |
 | [0846-hand-of-straights](https://github.com/gauthamnholla/coding-practice/tree/master/0846-hand-of-straights) |
 | [0848-shifting-letters](https://github.com/gauthamnholla/coding-practice/tree/master/0848-shifting-letters) |
+| [0849-maximize-distance-to-closest-person](https://github.com/gauthamnholla/coding-practice/tree/master/0849-maximize-distance-to-closest-person) |
 | [0851-loud-and-rich](https://github.com/gauthamnholla/coding-practice/tree/master/0851-loud-and-rich) |
 | [0853-car-fleet](https://github.com/gauthamnholla/coding-practice/tree/master/0853-car-fleet) |
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/gauthamnholla/coding-practice/tree/master/0857-minimum-cost-to-hire-k-workers) |
