@@ -267,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0840-magic-squares-in-grid](https://github.com/gauthamnholla/coding-practice/tree/master/0840-magic-squares-in-grid) |
 | [0841-shortest-distance-to-a-character](https://github.com/gauthamnholla/coding-practice/tree/master/0841-shortest-distance-to-a-character) |
 | [0843-guess-the-word](https://github.com/gauthamnholla/coding-practice/tree/master/0843-guess-the-word) |
+| [0845-longest-mountain-in-array](https://github.com/gauthamnholla/coding-practice/tree/master/0845-longest-mountain-in-array) |
 | [0846-hand-of-straights](https://github.com/gauthamnholla/coding-practice/tree/master/0846-hand-of-straights) |
 | [0848-shifting-letters](https://github.com/gauthamnholla/coding-practice/tree/master/0848-shifting-letters) |
 | [0849-maximize-distance-to-closest-person](https://github.com/gauthamnholla/coding-practice/tree/master/0849-maximize-distance-to-closest-person) |
@@ -1928,6 +1929,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0479-largest-palindrome-product](https://github.com/gauthamnholla/coding-practice/tree/master/0479-largest-palindrome-product) |
 | [0816-ambiguous-coordinates](https://github.com/gauthamnholla/coding-practice/tree/master/0816-ambiguous-coordinates) |
 | [0829-consecutive-numbers-sum](https://github.com/gauthamnholla/coding-practice/tree/master/0829-consecutive-numbers-sum) |
+| [0845-longest-mountain-in-array](https://github.com/gauthamnholla/coding-practice/tree/master/0845-longest-mountain-in-array) |
 | [0900-reordered-power-of-2](https://github.com/gauthamnholla/coding-practice/tree/master/0900-reordered-power-of-2) |
 | [0906-super-palindromes](https://github.com/gauthamnholla/coding-practice/tree/master/0906-super-palindromes) |
 | [0949-largest-time-for-given-digits](https://github.com/gauthamnholla/coding-practice/tree/master/0949-largest-time-for-given-digits) |
@@ -2564,6 +2566,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0826-soup-servings](https://github.com/gauthamnholla/coding-practice/tree/master/0826-soup-servings) |
 | [0828-count-unique-characters-of-all-substrings-of-a-given-string](https://github.com/gauthamnholla/coding-practice/tree/master/0828-count-unique-characters-of-all-substrings-of-a-given-string) |
 | [0834-sum-of-distances-in-tree](https://github.com/gauthamnholla/coding-practice/tree/master/0834-sum-of-distances-in-tree) |
+| [0845-longest-mountain-in-array](https://github.com/gauthamnholla/coding-practice/tree/master/0845-longest-mountain-in-array) |
 | [0867-new-21-game](https://github.com/gauthamnholla/coding-practice/tree/master/0867-new-21-game) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/gauthamnholla/coding-practice/tree/master/0871-minimum-number-of-refueling-stops) |
 | [0873-length-of-longest-fibonacci-subsequence](https://github.com/gauthamnholla/coding-practice/tree/master/0873-length-of-longest-fibonacci-subsequence) |
@@ -2846,6 +2849,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0826-most-profit-assigning-work](https://github.com/gauthamnholla/coding-practice/tree/master/0826-most-profit-assigning-work) |
 | [0841-shortest-distance-to-a-character](https://github.com/gauthamnholla/coding-practice/tree/master/0841-shortest-distance-to-a-character) |
 | [0844-backspace-string-compare](https://github.com/gauthamnholla/coding-practice/tree/master/0844-backspace-string-compare) |
+| [0845-longest-mountain-in-array](https://github.com/gauthamnholla/coding-practice/tree/master/0845-longest-mountain-in-array) |
 | [0861-flipping-an-image](https://github.com/gauthamnholla/coding-practice/tree/master/0861-flipping-an-image) |
 | [0870-advantage-shuffle](https://github.com/gauthamnholla/coding-practice/tree/master/0870-advantage-shuffle) |
 | [0876-middle-of-the-linked-list](https://github.com/gauthamnholla/coding-practice/tree/master/0876-middle-of-the-linked-list) |
