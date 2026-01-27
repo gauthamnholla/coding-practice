@@ -605,6 +605,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1743-restore-the-array-from-adjacent-pairs](https://github.com/gauthamnholla/coding-practice/tree/master/1743-restore-the-array-from-adjacent-pairs) |
 | [1744-can-you-eat-your-favorite-candy-on-your-favorite-day](https://github.com/gauthamnholla/coding-practice/tree/master/1744-can-you-eat-your-favorite-candy-on-your-favorite-day) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/gauthamnholla/coding-practice/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/gauthamnholla/coding-practice/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1755-closest-subsequence-sum](https://github.com/gauthamnholla/coding-practice/tree/master/1755-closest-subsequence-sum) |
 | [1766-tree-of-coprimes](https://github.com/gauthamnholla/coding-practice/tree/master/1766-tree-of-coprimes) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/gauthamnholla/coding-practice/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
