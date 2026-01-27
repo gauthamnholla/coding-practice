@@ -617,6 +617,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1776-car-fleet-ii](https://github.com/gauthamnholla/coding-practice/tree/master/1776-car-fleet-ii) |
 | [1779-find-nearest-point-that-has-the-same-x-or-y-coordinate](https://github.com/gauthamnholla/coding-practice/tree/master/1779-find-nearest-point-that-has-the-same-x-or-y-coordinate) |
 | [1782-count-pairs-of-nodes](https://github.com/gauthamnholla/coding-practice/tree/master/1782-count-pairs-of-nodes) |
+| [1785-minimum-elements-to-add-to-form-a-given-sum](https://github.com/gauthamnholla/coding-practice/tree/master/1785-minimum-elements-to-add-to-form-a-given-sum) |
 | [1793-maximum-score-of-a-good-subarray](https://github.com/gauthamnholla/coding-practice/tree/master/1793-maximum-score-of-a-good-subarray) |
 | [1798-maximum-number-of-consecutive-values-you-can-make](https://github.com/gauthamnholla/coding-practice/tree/master/1798-maximum-number-of-consecutive-values-you-can-make) |
 | [1801-number-of-orders-in-the-backlog](https://github.com/gauthamnholla/coding-practice/tree/master/1801-number-of-orders-in-the-backlog) |
@@ -1224,6 +1225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1753-maximum-score-from-removing-stones](https://github.com/gauthamnholla/coding-practice/tree/master/1753-maximum-score-from-removing-stones) |
 | [1764-form-array-by-concatenating-subarrays-of-another-array](https://github.com/gauthamnholla/coding-practice/tree/master/1764-form-array-by-concatenating-subarrays-of-another-array) |
 | [1775-equal-sum-arrays-with-minimum-number-of-operations](https://github.com/gauthamnholla/coding-practice/tree/master/1775-equal-sum-arrays-with-minimum-number-of-operations) |
+| [1785-minimum-elements-to-add-to-form-a-given-sum](https://github.com/gauthamnholla/coding-practice/tree/master/1785-minimum-elements-to-add-to-form-a-given-sum) |
 | [1798-maximum-number-of-consecutive-values-you-can-make](https://github.com/gauthamnholla/coding-practice/tree/master/1798-maximum-number-of-consecutive-values-you-can-make) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/gauthamnholla/coding-practice/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1833-maximum-ice-cream-bars](https://github.com/gauthamnholla/coding-practice/tree/master/1833-maximum-ice-cream-bars) |
