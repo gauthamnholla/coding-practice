@@ -613,6 +613,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1770-maximum-score-from-performing-multiplication-operations](https://github.com/gauthamnholla/coding-practice/tree/master/1770-maximum-score-from-performing-multiplication-operations) |
 | [1773-count-items-matching-a-rule](https://github.com/gauthamnholla/coding-practice/tree/master/1773-count-items-matching-a-rule) |
 | [1774-closest-dessert-cost](https://github.com/gauthamnholla/coding-practice/tree/master/1774-closest-dessert-cost) |
+| [1775-equal-sum-arrays-with-minimum-number-of-operations](https://github.com/gauthamnholla/coding-practice/tree/master/1775-equal-sum-arrays-with-minimum-number-of-operations) |
 | [1782-count-pairs-of-nodes](https://github.com/gauthamnholla/coding-practice/tree/master/1782-count-pairs-of-nodes) |
 | [1793-maximum-score-of-a-good-subarray](https://github.com/gauthamnholla/coding-practice/tree/master/1793-maximum-score-of-a-good-subarray) |
 | [1798-maximum-number-of-consecutive-values-you-can-make](https://github.com/gauthamnholla/coding-practice/tree/master/1798-maximum-number-of-consecutive-values-you-can-make) |
@@ -1220,6 +1221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1727-largest-submatrix-with-rearrangements](https://github.com/gauthamnholla/coding-practice/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1753-maximum-score-from-removing-stones](https://github.com/gauthamnholla/coding-practice/tree/master/1753-maximum-score-from-removing-stones) |
 | [1764-form-array-by-concatenating-subarrays-of-another-array](https://github.com/gauthamnholla/coding-practice/tree/master/1764-form-array-by-concatenating-subarrays-of-another-array) |
+| [1775-equal-sum-arrays-with-minimum-number-of-operations](https://github.com/gauthamnholla/coding-practice/tree/master/1775-equal-sum-arrays-with-minimum-number-of-operations) |
 | [1798-maximum-number-of-consecutive-values-you-can-make](https://github.com/gauthamnholla/coding-practice/tree/master/1798-maximum-number-of-consecutive-values-you-can-make) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/gauthamnholla/coding-practice/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1833-maximum-ice-cream-bars](https://github.com/gauthamnholla/coding-practice/tree/master/1833-maximum-ice-cream-bars) |
@@ -2219,6 +2221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1679-max-number-of-k-sum-pairs](https://github.com/gauthamnholla/coding-practice/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/gauthamnholla/coding-practice/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1743-restore-the-array-from-adjacent-pairs](https://github.com/gauthamnholla/coding-practice/tree/master/1743-restore-the-array-from-adjacent-pairs) |
+| [1775-equal-sum-arrays-with-minimum-number-of-operations](https://github.com/gauthamnholla/coding-practice/tree/master/1775-equal-sum-arrays-with-minimum-number-of-operations) |
 | [1782-count-pairs-of-nodes](https://github.com/gauthamnholla/coding-practice/tree/master/1782-count-pairs-of-nodes) |
 | [1813-maximum-erasure-value](https://github.com/gauthamnholla/coding-practice/tree/master/1813-maximum-erasure-value) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/gauthamnholla/coding-practice/tree/master/1834-minimum-number-of-people-to-teach) |
@@ -5097,6 +5100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1655-distribute-repeating-integers](https://github.com/gauthamnholla/coding-practice/tree/master/1655-distribute-repeating-integers) |
 | [1657-determine-if-two-strings-are-close](https://github.com/gauthamnholla/coding-practice/tree/master/1657-determine-if-two-strings-are-close) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/gauthamnholla/coding-practice/tree/master/1684-count-the-number-of-consistent-strings) |
+| [1775-equal-sum-arrays-with-minimum-number-of-operations](https://github.com/gauthamnholla/coding-practice/tree/master/1775-equal-sum-arrays-with-minimum-number-of-operations) |
 | [1782-count-pairs-of-nodes](https://github.com/gauthamnholla/coding-practice/tree/master/1782-count-pairs-of-nodes) |
 | [1854-maximum-population-year](https://github.com/gauthamnholla/coding-practice/tree/master/1854-maximum-population-year) |
 | [1857-largest-color-value-in-a-directed-graph](https://github.com/gauthamnholla/coding-practice/tree/master/1857-largest-color-value-in-a-directed-graph) |
