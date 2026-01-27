@@ -611,6 +611,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1766-tree-of-coprimes](https://github.com/gauthamnholla/coding-practice/tree/master/1766-tree-of-coprimes) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/gauthamnholla/coding-practice/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1770-maximum-score-from-performing-multiplication-operations](https://github.com/gauthamnholla/coding-practice/tree/master/1770-maximum-score-from-performing-multiplication-operations) |
+| [1773-count-items-matching-a-rule](https://github.com/gauthamnholla/coding-practice/tree/master/1773-count-items-matching-a-rule) |
 | [1782-count-pairs-of-nodes](https://github.com/gauthamnholla/coding-practice/tree/master/1782-count-pairs-of-nodes) |
 | [1793-maximum-score-of-a-good-subarray](https://github.com/gauthamnholla/coding-practice/tree/master/1793-maximum-score-of-a-good-subarray) |
 | [1798-maximum-number-of-consecutive-values-you-can-make](https://github.com/gauthamnholla/coding-practice/tree/master/1798-maximum-number-of-consecutive-values-you-can-make) |
@@ -3521,6 +3522,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/gauthamnholla/coding-practice/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/gauthamnholla/coding-practice/tree/master/1750-minimum-length-of-string-after-deleting-similar-ends) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/gauthamnholla/coding-practice/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [1773-count-items-matching-a-rule](https://github.com/gauthamnholla/coding-practice/tree/master/1773-count-items-matching-a-rule) |
 | [1813-sentence-similarity-iii](https://github.com/gauthamnholla/coding-practice/tree/master/1813-sentence-similarity-iii) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/gauthamnholla/coding-practice/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1850-minimum-adjacent-swaps-to-reach-the-kth-smallest-number](https://github.com/gauthamnholla/coding-practice/tree/master/1850-minimum-adjacent-swaps-to-reach-the-kth-smallest-number) |
