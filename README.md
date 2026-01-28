@@ -660,6 +660,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/gauthamnholla/coding-practice/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
 | [1894-find-the-student-that-will-replace-the-chalk](https://github.com/gauthamnholla/coding-practice/tree/master/1894-find-the-student-that-will-replace-the-chalk) |
 | [1895-largest-magic-square](https://github.com/gauthamnholla/coding-practice/tree/master/1895-largest-magic-square) |
+| [1898-maximum-number-of-removable-characters](https://github.com/gauthamnholla/coding-practice/tree/master/1898-maximum-number-of-removable-characters) |
 | [1901-find-a-peak-element-ii](https://github.com/gauthamnholla/coding-practice/tree/master/1901-find-a-peak-element-ii) |
 | [1905-count-sub-islands](https://github.com/gauthamnholla/coding-practice/tree/master/1905-count-sub-islands) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/gauthamnholla/coding-practice/tree/master/1913-maximum-product-difference-between-two-pairs) |
@@ -2960,6 +2961,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1850-minimum-adjacent-swaps-to-reach-the-kth-smallest-number](https://github.com/gauthamnholla/coding-practice/tree/master/1850-minimum-adjacent-swaps-to-reach-the-kth-smallest-number) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/gauthamnholla/coding-practice/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/gauthamnholla/coding-practice/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [1898-maximum-number-of-removable-characters](https://github.com/gauthamnholla/coding-practice/tree/master/1898-maximum-number-of-removable-characters) |
 | [2071-maximum-number-of-tasks-you-can-assign](https://github.com/gauthamnholla/coding-practice/tree/master/2071-maximum-number-of-tasks-you-can-assign) |
 | [2122-recover-the-original-array](https://github.com/gauthamnholla/coding-practice/tree/master/2122-recover-the-original-array) |
 | [2234-maximum-total-beauty-of-the-gardens](https://github.com/gauthamnholla/coding-practice/tree/master/2234-maximum-total-beauty-of-the-gardens) |
@@ -3572,6 +3574,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1850-minimum-adjacent-swaps-to-reach-the-kth-smallest-number](https://github.com/gauthamnholla/coding-practice/tree/master/1850-minimum-adjacent-swaps-to-reach-the-kth-smallest-number) |
 | [1859-sorting-the-sentence](https://github.com/gauthamnholla/coding-practice/tree/master/1859-sorting-the-sentence) |
 | [1871-jump-game-vii](https://github.com/gauthamnholla/coding-practice/tree/master/1871-jump-game-vii) |
+| [1898-maximum-number-of-removable-characters](https://github.com/gauthamnholla/coding-practice/tree/master/1898-maximum-number-of-removable-characters) |
 | [1915-number-of-wonderful-substrings](https://github.com/gauthamnholla/coding-practice/tree/master/1915-number-of-wonderful-substrings) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/gauthamnholla/coding-practice/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/gauthamnholla/coding-practice/tree/master/2024-maximize-the-confusion-of-an-exam) |
@@ -4682,6 +4685,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1862-sum-of-floored-pairs](https://github.com/gauthamnholla/coding-practice/tree/master/1862-sum-of-floored-pairs) |
 | [1889-minimum-space-wasted-from-packaging](https://github.com/gauthamnholla/coding-practice/tree/master/1889-minimum-space-wasted-from-packaging) |
 | [1894-find-the-student-that-will-replace-the-chalk](https://github.com/gauthamnholla/coding-practice/tree/master/1894-find-the-student-that-will-replace-the-chalk) |
+| [1898-maximum-number-of-removable-characters](https://github.com/gauthamnholla/coding-practice/tree/master/1898-maximum-number-of-removable-characters) |
 | [1901-find-a-peak-element-ii](https://github.com/gauthamnholla/coding-practice/tree/master/1901-find-a-peak-element-ii) |
 | [1932-merge-bsts-to-create-single-bst](https://github.com/gauthamnholla/coding-practice/tree/master/1932-merge-bsts-to-create-single-bst) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/gauthamnholla/coding-practice/tree/master/1970-last-day-where-you-can-still-cross) |
