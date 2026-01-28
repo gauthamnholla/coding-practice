@@ -1297,6 +1297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2448-minimum-cost-to-make-array-equal](https://github.com/gauthamnholla/coding-practice/tree/master/2448-minimum-cost-to-make-array-equal) |
 | [2449-minimum-number-of-operations-to-make-arrays-similar](https://github.com/gauthamnholla/coding-practice/tree/master/2449-minimum-number-of-operations-to-make-arrays-similar) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/gauthamnholla/coding-practice/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [2486-append-characters-to-string-to-make-subsequence](https://github.com/gauthamnholla/coding-practice/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/gauthamnholla/coding-practice/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2497-maximum-star-sum-of-a-graph](https://github.com/gauthamnholla/coding-practice/tree/master/2497-maximum-star-sum-of-a-graph) |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/gauthamnholla/coding-practice/tree/master/2517-maximum-tastiness-of-candy-basket) |
@@ -3005,6 +3006,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2460-apply-operations-to-an-array](https://github.com/gauthamnholla/coding-practice/tree/master/2460-apply-operations-to-an-array) |
 | [2465-number-of-distinct-averages](https://github.com/gauthamnholla/coding-practice/tree/master/2465-number-of-distinct-averages) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/gauthamnholla/coding-practice/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [2486-append-characters-to-string-to-make-subsequence](https://github.com/gauthamnholla/coding-practice/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/gauthamnholla/coding-practice/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/gauthamnholla/coding-practice/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2503-maximum-number-of-points-from-grid-queries](https://github.com/gauthamnholla/coding-practice/tree/master/2503-maximum-number-of-points-from-grid-queries) |
@@ -3646,6 +3648,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2456-most-popular-video-creator](https://github.com/gauthamnholla/coding-practice/tree/master/2456-most-popular-video-creator) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/gauthamnholla/coding-practice/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/gauthamnholla/coding-practice/tree/master/2483-minimum-penalty-for-a-shop) |
+| [2486-append-characters-to-string-to-make-subsequence](https://github.com/gauthamnholla/coding-practice/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2512-reward-top-k-students](https://github.com/gauthamnholla/coding-practice/tree/master/2512-reward-top-k-students) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/gauthamnholla/coding-practice/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2573-find-the-string-with-lcp](https://github.com/gauthamnholla/coding-practice/tree/master/2573-find-the-string-with-lcp) |
