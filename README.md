@@ -812,6 +812,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/gauthamnholla/coding-practice/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2456-most-popular-video-creator](https://github.com/gauthamnholla/coding-practice/tree/master/2456-most-popular-video-creator) |
 | [2458-height-of-binary-tree-after-subtree-removal-queries](https://github.com/gauthamnholla/coding-practice/tree/master/2458-height-of-binary-tree-after-subtree-removal-queries) |
+| [2460-apply-operations-to-an-array](https://github.com/gauthamnholla/coding-practice/tree/master/2460-apply-operations-to-an-array) |
 | [2463-minimum-total-distance-traveled](https://github.com/gauthamnholla/coding-practice/tree/master/2463-minimum-total-distance-traveled) |
 | [2465-number-of-distinct-averages](https://github.com/gauthamnholla/coding-practice/tree/master/2465-number-of-distinct-averages) |
 | [2467-most-profitable-path-in-a-tree](https://github.com/gauthamnholla/coding-practice/tree/master/2467-most-profitable-path-in-a-tree) |
@@ -2516,6 +2517,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/gauthamnholla/coding-practice/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2402-meeting-rooms-iii](https://github.com/gauthamnholla/coding-practice/tree/master/2402-meeting-rooms-iii) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/gauthamnholla/coding-practice/tree/master/2408-number-of-people-aware-of-a-secret) |
+| [2460-apply-operations-to-an-array](https://github.com/gauthamnholla/coding-practice/tree/master/2460-apply-operations-to-an-array) |
 | [2479-meeting-rooms-iii](https://github.com/gauthamnholla/coding-practice/tree/master/2479-meeting-rooms-iii) |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/gauthamnholla/coding-practice/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 | [2532-time-to-cross-a-bridge](https://github.com/gauthamnholla/coding-practice/tree/master/2532-time-to-cross-a-bridge) |
@@ -2998,6 +3000,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2396-strictly-palindromic-number](https://github.com/gauthamnholla/coding-practice/tree/master/2396-strictly-palindromic-number) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/gauthamnholla/coding-practice/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/gauthamnholla/coding-practice/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
+| [2460-apply-operations-to-an-array](https://github.com/gauthamnholla/coding-practice/tree/master/2460-apply-operations-to-an-array) |
 | [2465-number-of-distinct-averages](https://github.com/gauthamnholla/coding-practice/tree/master/2465-number-of-distinct-averages) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/gauthamnholla/coding-practice/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/gauthamnholla/coding-practice/tree/master/2497-maximum-matching-of-players-with-trainers) |
