@@ -1275,6 +1275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/gauthamnholla/coding-practice/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2171-removing-minimum-number-of-magic-beans](https://github.com/gauthamnholla/coding-practice/tree/master/2171-removing-minimum-number-of-magic-beans) |
 | [2182-construct-string-with-repeat-limit](https://github.com/gauthamnholla/coding-practice/tree/master/2182-construct-string-with-repeat-limit) |
+| [2193-minimum-number-of-moves-to-make-palindrome](https://github.com/gauthamnholla/coding-practice/tree/master/2193-minimum-number-of-moves-to-make-palindrome) |
 | [2195-append-k-integers-with-minimal-sum](https://github.com/gauthamnholla/coding-practice/tree/master/2195-append-k-integers-with-minimal-sum) |
 | [2207-maximize-number-of-subsequences-in-a-string](https://github.com/gauthamnholla/coding-practice/tree/master/2207-maximize-number-of-subsequences-in-a-string) |
 | [2233-maximum-product-after-k-increments](https://github.com/gauthamnholla/coding-practice/tree/master/2233-maximum-product-after-k-increments) |
@@ -2985,6 +2986,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/gauthamnholla/coding-practice/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/gauthamnholla/coding-practice/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/gauthamnholla/coding-practice/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2193-minimum-number-of-moves-to-make-palindrome](https://github.com/gauthamnholla/coding-practice/tree/master/2193-minimum-number-of-moves-to-make-palindrome) |
 | [2234-maximum-total-beauty-of-the-gardens](https://github.com/gauthamnholla/coding-practice/tree/master/2234-maximum-total-beauty-of-the-gardens) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/gauthamnholla/coding-practice/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2332-the-latest-time-to-catch-a-bus](https://github.com/gauthamnholla/coding-practice/tree/master/2332-the-latest-time-to-catch-a-bus) |
@@ -3614,6 +3616,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2140-longest-subsequence-repeated-k-times](https://github.com/gauthamnholla/coding-practice/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/gauthamnholla/coding-practice/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2182-construct-string-with-repeat-limit](https://github.com/gauthamnholla/coding-practice/tree/master/2182-construct-string-with-repeat-limit) |
+| [2193-minimum-number-of-moves-to-make-palindrome](https://github.com/gauthamnholla/coding-practice/tree/master/2193-minimum-number-of-moves-to-make-palindrome) |
 | [2207-maximize-number-of-subsequences-in-a-string](https://github.com/gauthamnholla/coding-practice/tree/master/2207-maximize-number-of-subsequences-in-a-string) |
 | [2209-minimum-white-tiles-after-covering-with-carpets](https://github.com/gauthamnholla/coding-practice/tree/master/2209-minimum-white-tiles-after-covering-with-carpets) |
 | [2211-count-collisions-on-a-road](https://github.com/gauthamnholla/coding-practice/tree/master/2211-count-collisions-on-a-road) |
@@ -5881,6 +5884,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1395-count-number-of-teams](https://github.com/gauthamnholla/coding-practice/tree/master/1395-count-number-of-teams) |
 | [1649-create-sorted-array-through-instructions](https://github.com/gauthamnholla/coding-practice/tree/master/1649-create-sorted-array-through-instructions) |
 | [2179-count-good-triplets-in-an-array](https://github.com/gauthamnholla/coding-practice/tree/master/2179-count-good-triplets-in-an-array) |
+| [2193-minimum-number-of-moves-to-make-palindrome](https://github.com/gauthamnholla/coding-practice/tree/master/2193-minimum-number-of-moves-to-make-palindrome) |
 | [2250-count-number-of-rectangles-containing-each-point](https://github.com/gauthamnholla/coding-practice/tree/master/2250-count-number-of-rectangles-containing-each-point) |
 | [2426-number-of-pairs-satisfying-inequality](https://github.com/gauthamnholla/coding-practice/tree/master/2426-number-of-pairs-satisfying-inequality) |
 | [2552-count-increasing-quadruplets](https://github.com/gauthamnholla/coding-practice/tree/master/2552-count-increasing-quadruplets) |
