@@ -490,6 +490,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1383-maximum-performance-of-a-team](https://github.com/gauthamnholla/coding-practice/tree/master/1383-maximum-performance-of-a-team) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/gauthamnholla/coding-practice/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1386-cinema-seat-allocation](https://github.com/gauthamnholla/coding-practice/tree/master/1386-cinema-seat-allocation) |
+| [1388-pizza-with-3n-slices](https://github.com/gauthamnholla/coding-practice/tree/master/1388-pizza-with-3n-slices) |
 | [1390-four-divisors](https://github.com/gauthamnholla/coding-practice/tree/master/1390-four-divisors) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/gauthamnholla/coding-practice/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/gauthamnholla/coding-practice/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -1199,6 +1200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1382-balance-a-binary-search-tree](https://github.com/gauthamnholla/coding-practice/tree/master/1382-balance-a-binary-search-tree) |
 | [1383-maximum-performance-of-a-team](https://github.com/gauthamnholla/coding-practice/tree/master/1383-maximum-performance-of-a-team) |
 | [1386-cinema-seat-allocation](https://github.com/gauthamnholla/coding-practice/tree/master/1386-cinema-seat-allocation) |
+| [1388-pizza-with-3n-slices](https://github.com/gauthamnholla/coding-practice/tree/master/1388-pizza-with-3n-slices) |
 | [1402-reducing-dishes](https://github.com/gauthamnholla/coding-practice/tree/master/1402-reducing-dishes) |
 | [1403-minimum-subsequence-in-non-increasing-order](https://github.com/gauthamnholla/coding-practice/tree/master/1403-minimum-subsequence-in-non-increasing-order) |
 | [1405-longest-happy-string](https://github.com/gauthamnholla/coding-practice/tree/master/1405-longest-happy-string) |
@@ -1805,6 +1807,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1338-reduce-array-size-to-the-half](https://github.com/gauthamnholla/coding-practice/tree/master/1338-reduce-array-size-to-the-half) |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/gauthamnholla/coding-practice/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1383-maximum-performance-of-a-team](https://github.com/gauthamnholla/coding-practice/tree/master/1383-maximum-performance-of-a-team) |
+| [1388-pizza-with-3n-slices](https://github.com/gauthamnholla/coding-practice/tree/master/1388-pizza-with-3n-slices) |
 | [1405-longest-happy-string](https://github.com/gauthamnholla/coding-practice/tree/master/1405-longest-happy-string) |
 | [1424-diagonal-traverse-ii](https://github.com/gauthamnholla/coding-practice/tree/master/1424-diagonal-traverse-ii) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/gauthamnholla/coding-practice/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
@@ -2670,6 +2673,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/gauthamnholla/coding-practice/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/gauthamnholla/coding-practice/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1387-sort-integers-by-the-power-value](https://github.com/gauthamnholla/coding-practice/tree/master/1387-sort-integers-by-the-power-value) |
+| [1388-pizza-with-3n-slices](https://github.com/gauthamnholla/coding-practice/tree/master/1388-pizza-with-3n-slices) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/gauthamnholla/coding-practice/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1402-reducing-dishes](https://github.com/gauthamnholla/coding-practice/tree/master/1402-reducing-dishes) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/gauthamnholla/coding-practice/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
