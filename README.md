@@ -709,6 +709,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2100-find-good-days-to-rob-the-bank](https://github.com/gauthamnholla/coding-practice/tree/master/2100-find-good-days-to-rob-the-bank) |
 | [2101-detonate-the-maximum-bombs](https://github.com/gauthamnholla/coding-practice/tree/master/2101-detonate-the-maximum-bombs) |
 | [2105-watering-plants-ii](https://github.com/gauthamnholla/coding-practice/tree/master/2105-watering-plants-ii) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/gauthamnholla/coding-practice/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/gauthamnholla/coding-practice/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/gauthamnholla/coding-practice/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 | [2121-intervals-between-identical-elements](https://github.com/gauthamnholla/coding-practice/tree/master/2121-intervals-between-identical-elements) |
@@ -2975,6 +2976,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2071-maximum-number-of-tasks-you-can-assign](https://github.com/gauthamnholla/coding-practice/tree/master/2071-maximum-number-of-tasks-you-can-assign) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/gauthamnholla/coding-practice/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2105-watering-plants-ii](https://github.com/gauthamnholla/coding-practice/tree/master/2105-watering-plants-ii) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/gauthamnholla/coding-practice/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2122-recover-the-original-array](https://github.com/gauthamnholla/coding-practice/tree/master/2122-recover-the-original-array) |
 | [2234-maximum-total-beauty-of-the-gardens](https://github.com/gauthamnholla/coding-practice/tree/master/2234-maximum-total-beauty-of-the-gardens) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/gauthamnholla/coding-practice/tree/master/2320-find-all-k-distant-indices-in-an-array) |
@@ -3597,6 +3599,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2055-plates-between-candles](https://github.com/gauthamnholla/coding-practice/tree/master/2055-plates-between-candles) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/gauthamnholla/coding-practice/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/gauthamnholla/coding-practice/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/gauthamnholla/coding-practice/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/gauthamnholla/coding-practice/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 | [2135-count-words-obtained-after-adding-a-letter](https://github.com/gauthamnholla/coding-practice/tree/master/2135-count-words-obtained-after-adding-a-letter) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/gauthamnholla/coding-practice/tree/master/2137-final-value-of-variable-after-performing-operations) |
