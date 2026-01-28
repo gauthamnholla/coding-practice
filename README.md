@@ -834,6 +834,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2529-range-product-queries-of-powers](https://github.com/gauthamnholla/coding-practice/tree/master/2529-range-product-queries-of-powers) |
 | [2532-time-to-cross-a-bridge](https://github.com/gauthamnholla/coding-practice/tree/master/2532-time-to-cross-a-bridge) |
 | [2538-difference-between-maximum-and-minimum-price-sum](https://github.com/gauthamnholla/coding-practice/tree/master/2538-difference-between-maximum-and-minimum-price-sum) |
+| [2540-minimum-common-value](https://github.com/gauthamnholla/coding-practice/tree/master/2540-minimum-common-value) |
 | [2542-maximum-subsequence-score](https://github.com/gauthamnholla/coding-practice/tree/master/2542-maximum-subsequence-score) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/gauthamnholla/coding-practice/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [2551-put-marbles-in-bags](https://github.com/gauthamnholla/coding-practice/tree/master/2551-put-marbles-in-bags) |
@@ -2314,6 +2315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2501-longest-square-streak-in-an-array](https://github.com/gauthamnholla/coding-practice/tree/master/2501-longest-square-streak-in-an-array) |
 | [2512-reward-top-k-students](https://github.com/gauthamnholla/coding-practice/tree/master/2512-reward-top-k-students) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/gauthamnholla/coding-practice/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
+| [2540-minimum-common-value](https://github.com/gauthamnholla/coding-practice/tree/master/2540-minimum-common-value) |
 | [2581-count-number-of-possible-root-nodes](https://github.com/gauthamnholla/coding-practice/tree/master/2581-count-number-of-possible-root-nodes) |
 | [2596-add-edges-to-make-degrees-of-all-nodes-even](https://github.com/gauthamnholla/coding-practice/tree/master/2596-add-edges-to-make-degrees-of-all-nodes-even) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/gauthamnholla/coding-practice/tree/master/2597-the-number-of-beautiful-subsets) |
@@ -3012,6 +3014,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/gauthamnholla/coding-practice/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2503-maximum-number-of-points-from-grid-queries](https://github.com/gauthamnholla/coding-practice/tree/master/2503-maximum-number-of-points-from-grid-queries) |
 | [2511-maximum-enemy-forts-that-can-be-captured](https://github.com/gauthamnholla/coding-practice/tree/master/2511-maximum-enemy-forts-that-can-be-captured) |
+| [2540-minimum-common-value](https://github.com/gauthamnholla/coding-practice/tree/master/2540-minimum-common-value) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/gauthamnholla/coding-practice/tree/master/2563-count-the-number-of-fair-pairs) |
 | [2576-find-the-maximum-number-of-marked-indices](https://github.com/gauthamnholla/coding-practice/tree/master/2576-find-the-maximum-number-of-marked-indices) |
 | [2592-maximize-greatness-of-an-array](https://github.com/gauthamnholla/coding-practice/tree/master/2592-maximize-greatness-of-an-array) |
@@ -4772,6 +4775,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/gauthamnholla/coding-practice/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2501-longest-square-streak-in-an-array](https://github.com/gauthamnholla/coding-practice/tree/master/2501-longest-square-streak-in-an-array) |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/gauthamnholla/coding-practice/tree/master/2517-maximum-tastiness-of-candy-basket) |
+| [2540-minimum-common-value](https://github.com/gauthamnholla/coding-practice/tree/master/2540-minimum-common-value) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/gauthamnholla/coding-practice/tree/master/2563-count-the-number-of-fair-pairs) |
 | [2576-find-the-maximum-number-of-marked-indices](https://github.com/gauthamnholla/coding-practice/tree/master/2576-find-the-maximum-number-of-marked-indices) |
 | [2589-minimum-time-to-complete-all-tasks](https://github.com/gauthamnholla/coding-practice/tree/master/2589-minimum-time-to-complete-all-tasks) |
