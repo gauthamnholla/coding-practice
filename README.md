@@ -901,6 +901,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2850-minimum-moves-to-spread-stones-over-grid](https://github.com/gauthamnholla/coding-practice/tree/master/2850-minimum-moves-to-spread-stones-over-grid) |
 | [2856-minimum-array-length-after-pair-removals](https://github.com/gauthamnholla/coding-practice/tree/master/2856-minimum-array-length-after-pair-removals) |
 | [2860-happy-students](https://github.com/gauthamnholla/coding-practice/tree/master/2860-happy-students) |
+| [2903-find-indices-with-index-and-value-difference-i](https://github.com/gauthamnholla/coding-practice/tree/master/2903-find-indices-with-index-and-value-difference-i) |
 | [2906-construct-product-matrix](https://github.com/gauthamnholla/coding-practice/tree/master/2906-construct-product-matrix) |
 | [2920-maximum-points-after-collecting-coins-from-all-nodes](https://github.com/gauthamnholla/coding-practice/tree/master/2920-maximum-points-after-collecting-coins-from-all-nodes) |
 | [2923-find-champion-i](https://github.com/gauthamnholla/coding-practice/tree/master/2923-find-champion-i) |
@@ -3032,6 +3033,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2697-lexicographically-smallest-palindrome](https://github.com/gauthamnholla/coding-practice/tree/master/2697-lexicographically-smallest-palindrome) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/gauthamnholla/coding-practice/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2856-minimum-array-length-after-pair-removals](https://github.com/gauthamnholla/coding-practice/tree/master/2856-minimum-array-length-after-pair-removals) |
+| [2903-find-indices-with-index-and-value-difference-i](https://github.com/gauthamnholla/coding-practice/tree/master/2903-find-indices-with-index-and-value-difference-i) |
 | [3132-find-the-integer-added-to-array-ii](https://github.com/gauthamnholla/coding-practice/tree/master/3132-find-the-integer-added-to-array-ii) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/gauthamnholla/coding-practice/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3218-minimum-cost-for-cutting-cake-i](https://github.com/gauthamnholla/coding-practice/tree/master/3218-minimum-cost-for-cutting-cake-i) |
