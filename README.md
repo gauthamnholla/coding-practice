@@ -2966,6 +2966,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1898-maximum-number-of-removable-characters](https://github.com/gauthamnholla/coding-practice/tree/master/1898-maximum-number-of-removable-characters) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/gauthamnholla/coding-practice/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/gauthamnholla/coding-practice/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2000-reverse-prefix-of-word](https://github.com/gauthamnholla/coding-practice/tree/master/2000-reverse-prefix-of-word) |
 | [2071-maximum-number-of-tasks-you-can-assign](https://github.com/gauthamnholla/coding-practice/tree/master/2071-maximum-number-of-tasks-you-can-assign) |
 | [2122-recover-the-original-array](https://github.com/gauthamnholla/coding-practice/tree/master/2122-recover-the-original-array) |
 | [2234-maximum-total-beauty-of-the-gardens](https://github.com/gauthamnholla/coding-practice/tree/master/2234-maximum-total-beauty-of-the-gardens) |
@@ -3583,6 +3584,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/gauthamnholla/coding-practice/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/gauthamnholla/coding-practice/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/gauthamnholla/coding-practice/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
+| [2000-reverse-prefix-of-word](https://github.com/gauthamnholla/coding-practice/tree/master/2000-reverse-prefix-of-word) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/gauthamnholla/coding-practice/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2055-plates-between-candles](https://github.com/gauthamnholla/coding-practice/tree/master/2055-plates-between-candles) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/gauthamnholla/coding-practice/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -4014,6 +4016,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1856-maximum-subarray-min-product](https://github.com/gauthamnholla/coding-practice/tree/master/1856-maximum-subarray-min-product) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/gauthamnholla/coding-practice/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [1996-the-number-of-weak-characters-in-the-game](https://github.com/gauthamnholla/coding-practice/tree/master/1996-the-number-of-weak-characters-in-the-game) |
+| [2000-reverse-prefix-of-word](https://github.com/gauthamnholla/coding-practice/tree/master/2000-reverse-prefix-of-word) |
 | [2211-count-collisions-on-a-road](https://github.com/gauthamnholla/coding-practice/tree/master/2211-count-collisions-on-a-road) |
 | [2281-sum-of-total-strength-of-wizards](https://github.com/gauthamnholla/coding-practice/tree/master/2281-sum-of-total-strength-of-wizards) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/gauthamnholla/coding-practice/tree/master/2307-replace-non-coprime-numbers-in-array) |
