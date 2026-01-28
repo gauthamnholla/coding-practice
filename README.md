@@ -2995,6 +2995,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2332-the-latest-time-to-catch-a-bus](https://github.com/gauthamnholla/coding-practice/tree/master/2332-the-latest-time-to-catch-a-bus) |
 | [2367-number-of-arithmetic-triplets](https://github.com/gauthamnholla/coding-practice/tree/master/2367-number-of-arithmetic-triplets) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/gauthamnholla/coding-practice/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [2396-strictly-palindromic-number](https://github.com/gauthamnholla/coding-practice/tree/master/2396-strictly-palindromic-number) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/gauthamnholla/coding-practice/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/gauthamnholla/coding-practice/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2465-number-of-distinct-averages](https://github.com/gauthamnholla/coding-practice/tree/master/2465-number-of-distinct-averages) |
@@ -3304,6 +3305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/gauthamnholla/coding-practice/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/gauthamnholla/coding-practice/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/gauthamnholla/coding-practice/tree/master/2344-minimum-deletions-to-make-array-divisible) |
+| [2396-strictly-palindromic-number](https://github.com/gauthamnholla/coding-practice/tree/master/2396-strictly-palindromic-number) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/gauthamnholla/coding-practice/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2440-create-components-with-same-value](https://github.com/gauthamnholla/coding-practice/tree/master/2440-create-components-with-same-value) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/gauthamnholla/coding-practice/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
@@ -4810,6 +4812,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0319-bulb-switcher](https://github.com/gauthamnholla/coding-practice/tree/master/0319-bulb-switcher) |
 | [0810-chalkboard-xor-game](https://github.com/gauthamnholla/coding-practice/tree/master/0810-chalkboard-xor-game) |
 | [1227-airplane-seat-assignment-probability](https://github.com/gauthamnholla/coding-practice/tree/master/1227-airplane-seat-assignment-probability) |
+| [2396-strictly-palindromic-number](https://github.com/gauthamnholla/coding-practice/tree/master/2396-strictly-palindromic-number) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/gauthamnholla/coding-practice/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2731-movement-of-robots](https://github.com/gauthamnholla/coding-practice/tree/master/2731-movement-of-robots) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/gauthamnholla/coding-practice/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
