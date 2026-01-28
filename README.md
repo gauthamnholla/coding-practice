@@ -3019,6 +3019,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2540-minimum-common-value](https://github.com/gauthamnholla/coding-practice/tree/master/2540-minimum-common-value) |
 | [2562-find-the-array-concatenation-value](https://github.com/gauthamnholla/coding-practice/tree/master/2562-find-the-array-concatenation-value) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/gauthamnholla/coding-practice/tree/master/2563-count-the-number-of-fair-pairs) |
+| [2565-subsequence-with-the-minimum-score](https://github.com/gauthamnholla/coding-practice/tree/master/2565-subsequence-with-the-minimum-score) |
 | [2576-find-the-maximum-number-of-marked-indices](https://github.com/gauthamnholla/coding-practice/tree/master/2576-find-the-maximum-number-of-marked-indices) |
 | [2592-maximize-greatness-of-an-array](https://github.com/gauthamnholla/coding-practice/tree/master/2592-maximize-greatness-of-an-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/gauthamnholla/coding-practice/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -3659,6 +3660,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/gauthamnholla/coding-practice/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2512-reward-top-k-students](https://github.com/gauthamnholla/coding-practice/tree/master/2512-reward-top-k-students) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/gauthamnholla/coding-practice/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
+| [2565-subsequence-with-the-minimum-score](https://github.com/gauthamnholla/coding-practice/tree/master/2565-subsequence-with-the-minimum-score) |
 | [2573-find-the-string-with-lcp](https://github.com/gauthamnholla/coding-practice/tree/master/2573-find-the-string-with-lcp) |
 | [2575-find-the-divisibility-array-of-a-string](https://github.com/gauthamnholla/coding-practice/tree/master/2575-find-the-divisibility-array-of-a-string) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/gauthamnholla/coding-practice/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
@@ -4780,6 +4782,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/gauthamnholla/coding-practice/tree/master/2517-maximum-tastiness-of-candy-basket) |
 | [2540-minimum-common-value](https://github.com/gauthamnholla/coding-practice/tree/master/2540-minimum-common-value) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/gauthamnholla/coding-practice/tree/master/2563-count-the-number-of-fair-pairs) |
+| [2565-subsequence-with-the-minimum-score](https://github.com/gauthamnholla/coding-practice/tree/master/2565-subsequence-with-the-minimum-score) |
 | [2576-find-the-maximum-number-of-marked-indices](https://github.com/gauthamnholla/coding-practice/tree/master/2576-find-the-maximum-number-of-marked-indices) |
 | [2589-minimum-time-to-complete-all-tasks](https://github.com/gauthamnholla/coding-practice/tree/master/2589-minimum-time-to-complete-all-tasks) |
 | [2602-minimum-operations-to-make-all-array-elements-equal](https://github.com/gauthamnholla/coding-practice/tree/master/2602-minimum-operations-to-make-all-array-elements-equal) |
