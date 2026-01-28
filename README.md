@@ -494,6 +494,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1389-create-target-array-in-the-given-order](https://github.com/gauthamnholla/coding-practice/tree/master/1389-create-target-array-in-the-given-order) |
 | [1390-four-divisors](https://github.com/gauthamnholla/coding-practice/tree/master/1390-four-divisors) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/gauthamnholla/coding-practice/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
+| [1395-count-number-of-teams](https://github.com/gauthamnholla/coding-practice/tree/master/1395-count-number-of-teams) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/gauthamnholla/coding-practice/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1402-reducing-dishes](https://github.com/gauthamnholla/coding-practice/tree/master/1402-reducing-dishes) |
 | [1403-minimum-subsequence-in-non-increasing-order](https://github.com/gauthamnholla/coding-practice/tree/master/1403-minimum-subsequence-in-non-increasing-order) |
@@ -2676,6 +2677,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/gauthamnholla/coding-practice/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1387-sort-integers-by-the-power-value](https://github.com/gauthamnholla/coding-practice/tree/master/1387-sort-integers-by-the-power-value) |
 | [1388-pizza-with-3n-slices](https://github.com/gauthamnholla/coding-practice/tree/master/1388-pizza-with-3n-slices) |
+| [1395-count-number-of-teams](https://github.com/gauthamnholla/coding-practice/tree/master/1395-count-number-of-teams) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/gauthamnholla/coding-practice/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1402-reducing-dishes](https://github.com/gauthamnholla/coding-practice/tree/master/1402-reducing-dishes) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/gauthamnholla/coding-practice/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
@@ -4311,6 +4313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0732-my-calendar-iii](https://github.com/gauthamnholla/coding-practice/tree/master/0732-my-calendar-iii) |
 | [0850-rectangle-area-ii](https://github.com/gauthamnholla/coding-practice/tree/master/0850-rectangle-area-ii) |
 | [1157-online-majority-element-in-subarray](https://github.com/gauthamnholla/coding-practice/tree/master/1157-online-majority-element-in-subarray) |
+| [1395-count-number-of-teams](https://github.com/gauthamnholla/coding-practice/tree/master/1395-count-number-of-teams) |
 | [1649-create-sorted-array-through-instructions](https://github.com/gauthamnholla/coding-practice/tree/master/1649-create-sorted-array-through-instructions) |
 | [1687-delivering-boxes-from-storage-to-ports](https://github.com/gauthamnholla/coding-practice/tree/master/1687-delivering-boxes-from-storage-to-ports) |
 | [2179-count-good-triplets-in-an-array](https://github.com/gauthamnholla/coding-practice/tree/master/2179-count-good-triplets-in-an-array) |
@@ -5831,6 +5834,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0327-count-of-range-sum](https://github.com/gauthamnholla/coding-practice/tree/master/0327-count-of-range-sum) |
 | [0406-queue-reconstruction-by-height](https://github.com/gauthamnholla/coding-practice/tree/master/0406-queue-reconstruction-by-height) |
 | [1157-online-majority-element-in-subarray](https://github.com/gauthamnholla/coding-practice/tree/master/1157-online-majority-element-in-subarray) |
+| [1395-count-number-of-teams](https://github.com/gauthamnholla/coding-practice/tree/master/1395-count-number-of-teams) |
 | [1649-create-sorted-array-through-instructions](https://github.com/gauthamnholla/coding-practice/tree/master/1649-create-sorted-array-through-instructions) |
 | [2179-count-good-triplets-in-an-array](https://github.com/gauthamnholla/coding-practice/tree/master/2179-count-good-triplets-in-an-array) |
 | [2250-count-number-of-rectangles-containing-each-point](https://github.com/gauthamnholla/coding-practice/tree/master/2250-count-number-of-rectangles-containing-each-point) |
