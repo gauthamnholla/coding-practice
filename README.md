@@ -1352,6 +1352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3273-minimum-amount-of-damage-dealt-to-bob](https://github.com/gauthamnholla/coding-practice/tree/master/3273-minimum-amount-of-damage-dealt-to-bob) |
 | [3281-maximize-score-of-numbers-in-ranges](https://github.com/gauthamnholla/coding-practice/tree/master/3281-maximize-score-of-numbers-in-ranges) |
 | [3301-maximize-the-total-height-of-unique-towers](https://github.com/gauthamnholla/coding-practice/tree/master/3301-maximize-the-total-height-of-unique-towers) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/gauthamnholla/coding-practice/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/gauthamnholla/coding-practice/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3362-zero-array-transformation-iii](https://github.com/gauthamnholla/coding-practice/tree/master/3362-zero-array-transformation-iii) |
 | [3413-maximum-coins-from-k-consecutive-bags](https://github.com/gauthamnholla/coding-practice/tree/master/3413-maximum-coins-from-k-consecutive-bags) |
@@ -2822,6 +2823,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3256-maximum-value-sum-by-placing-three-rooks-i](https://github.com/gauthamnholla/coding-practice/tree/master/3256-maximum-value-sum-by-placing-three-rooks-i) |
 | [3257-maximum-value-sum-by-placing-three-rooks-ii](https://github.com/gauthamnholla/coding-practice/tree/master/3257-maximum-value-sum-by-placing-three-rooks-ii) |
 | [3276-select-cells-in-grid-with-maximum-score](https://github.com/gauthamnholla/coding-practice/tree/master/3276-select-cells-in-grid-with-maximum-score) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/gauthamnholla/coding-practice/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3316-find-maximum-removals-from-source-string](https://github.com/gauthamnholla/coding-practice/tree/master/3316-find-maximum-removals-from-source-string) |
 | [3332-maximum-points-tourist-can-earn](https://github.com/gauthamnholla/coding-practice/tree/master/3332-maximum-points-tourist-can-earn) |
 | [3367-maximize-sum-of-weights-after-edge-removals](https://github.com/gauthamnholla/coding-practice/tree/master/3367-maximize-sum-of-weights-after-edge-removals) |
@@ -3043,6 +3045,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3218-minimum-cost-for-cutting-cake-i](https://github.com/gauthamnholla/coding-practice/tree/master/3218-minimum-cost-for-cutting-cake-i) |
 | [3239-minimum-number-of-flips-to-make-binary-grid-palindromic-i](https://github.com/gauthamnholla/coding-practice/tree/master/3239-minimum-number-of-flips-to-make-binary-grid-palindromic-i) |
 | [3240-minimum-number-of-flips-to-make-binary-grid-palindromic-ii](https://github.com/gauthamnholla/coding-practice/tree/master/3240-minimum-number-of-flips-to-make-binary-grid-palindromic-ii) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/gauthamnholla/coding-practice/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3316-find-maximum-removals-from-source-string](https://github.com/gauthamnholla/coding-practice/tree/master/3316-find-maximum-removals-from-source-string) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/gauthamnholla/coding-practice/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/gauthamnholla/coding-practice/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -3692,6 +3695,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3223-minimum-length-of-string-after-operations](https://github.com/gauthamnholla/coding-practice/tree/master/3223-minimum-length-of-string-after-operations) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/gauthamnholla/coding-practice/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3261-count-substrings-that-satisfy-k-constraint-ii](https://github.com/gauthamnholla/coding-practice/tree/master/3261-count-substrings-that-satisfy-k-constraint-ii) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/gauthamnholla/coding-practice/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3316-find-maximum-removals-from-source-string](https://github.com/gauthamnholla/coding-practice/tree/master/3316-find-maximum-removals-from-source-string) |
 | [3327-check-if-dfs-strings-are-palindromes](https://github.com/gauthamnholla/coding-practice/tree/master/3327-check-if-dfs-strings-are-palindromes) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/gauthamnholla/coding-practice/tree/master/3331-find-subtree-sizes-after-changes) |
