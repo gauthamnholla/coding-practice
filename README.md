@@ -2040,6 +2040,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3435-frequencies-of-shortest-supersequences](https://github.com/gauthamnholla/coding-practice/tree/master/3435-frequencies-of-shortest-supersequences) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/gauthamnholla/coding-practice/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/gauthamnholla/coding-practice/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
+| [3503-longest-palindrome-after-substring-concatenation-i](https://github.com/gauthamnholla/coding-practice/tree/master/3503-longest-palindrome-after-substring-concatenation-i) |
 | [3546-equal-sum-grid-partition-i](https://github.com/gauthamnholla/coding-practice/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/gauthamnholla/coding-practice/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3664-two-letter-card-game](https://github.com/gauthamnholla/coding-practice/tree/master/3664-two-letter-card-game) |
@@ -2837,6 +2838,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/gauthamnholla/coding-practice/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/gauthamnholla/coding-practice/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3500-minimum-cost-to-divide-array-into-subarrays](https://github.com/gauthamnholla/coding-practice/tree/master/3500-minimum-cost-to-divide-array-into-subarrays) |
+| [3503-longest-palindrome-after-substring-concatenation-i](https://github.com/gauthamnholla/coding-practice/tree/master/3503-longest-palindrome-after-substring-concatenation-i) |
 | [3530-maximum-profit-from-valid-topological-order-in-dag](https://github.com/gauthamnholla/coding-practice/tree/master/3530-maximum-profit-from-valid-topological-order-in-dag) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/gauthamnholla/coding-practice/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3538-merge-operations-for-minimum-travel-time](https://github.com/gauthamnholla/coding-practice/tree/master/3538-merge-operations-for-minimum-travel-time) |
@@ -3049,6 +3051,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3316-find-maximum-removals-from-source-string](https://github.com/gauthamnholla/coding-practice/tree/master/3316-find-maximum-removals-from-source-string) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/gauthamnholla/coding-practice/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3455-shortest-matching-substring](https://github.com/gauthamnholla/coding-practice/tree/master/3455-shortest-matching-substring) |
+| [3503-longest-palindrome-after-substring-concatenation-i](https://github.com/gauthamnholla/coding-practice/tree/master/3503-longest-palindrome-after-substring-concatenation-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/gauthamnholla/coding-practice/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/gauthamnholla/coding-practice/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/gauthamnholla/coding-practice/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
@@ -3711,6 +3714,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3462-vowels-game-in-a-string](https://github.com/gauthamnholla/coding-practice/tree/master/3462-vowels-game-in-a-string) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/gauthamnholla/coding-practice/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/gauthamnholla/coding-practice/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
+| [3503-longest-palindrome-after-substring-concatenation-i](https://github.com/gauthamnholla/coding-practice/tree/master/3503-longest-palindrome-after-substring-concatenation-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/gauthamnholla/coding-practice/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3529-count-cells-in-overlapping-horizontal-and-vertical-substrings](https://github.com/gauthamnholla/coding-practice/tree/master/3529-count-cells-in-overlapping-horizontal-and-vertical-substrings) |
 | [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/gauthamnholla/coding-practice/tree/master/3545-minimum-deletions-for-at-most-k-distinct-characters) |
