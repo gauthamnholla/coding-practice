@@ -917,6 +917,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2971-find-polygon-with-the-largest-perimeter](https://github.com/gauthamnholla/coding-practice/tree/master/2971-find-polygon-with-the-largest-perimeter) |
 | [2974-minimum-number-game](https://github.com/gauthamnholla/coding-practice/tree/master/2974-minimum-number-game) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/gauthamnholla/coding-practice/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
+| [2976-minimum-cost-to-convert-string-i](https://github.com/gauthamnholla/coding-practice/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/gauthamnholla/coding-practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/gauthamnholla/coding-practice/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3011-find-if-array-can-be-sorted](https://github.com/gauthamnholla/coding-practice/tree/master/3011-find-if-array-can-be-sorted) |
@@ -3678,6 +3679,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/gauthamnholla/coding-practice/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2887-sort-vowels-in-a-string](https://github.com/gauthamnholla/coding-practice/tree/master/2887-sort-vowels-in-a-string) |
 | [2933-high-access-employees](https://github.com/gauthamnholla/coding-practice/tree/master/2933-high-access-employees) |
+| [2976-minimum-cost-to-convert-string-i](https://github.com/gauthamnholla/coding-practice/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2983-palindrome-rearrangement-queries](https://github.com/gauthamnholla/coding-practice/tree/master/2983-palindrome-rearrangement-queries) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/gauthamnholla/coding-practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3035-maximum-palindromes-after-operations](https://github.com/gauthamnholla/coding-practice/tree/master/3035-maximum-palindromes-after-operations) |
@@ -6073,6 +6075,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/gauthamnholla/coding-practice/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2321-minimum-weighted-subgraph-with-the-required-paths](https://github.com/gauthamnholla/coding-practice/tree/master/2321-minimum-weighted-subgraph-with-the-required-paths) |
 | [2678-design-graph-with-shortest-path-calculator](https://github.com/gauthamnholla/coding-practice/tree/master/2678-design-graph-with-shortest-path-calculator) |
+| [2976-minimum-cost-to-convert-string-i](https://github.com/gauthamnholla/coding-practice/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3123-find-edges-in-shortest-paths](https://github.com/gauthamnholla/coding-practice/tree/master/3123-find-edges-in-shortest-paths) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/gauthamnholla/coding-practice/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3341-find-minimum-time-to-reach-last-room-i](https://github.com/gauthamnholla/coding-practice/tree/master/3341-find-minimum-time-to-reach-last-room-i) |
@@ -6198,6 +6201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0990-satisfiability-of-equality-equations](https://github.com/gauthamnholla/coding-practice/tree/master/0990-satisfiability-of-equality-equations) |
+| [2976-minimum-cost-to-convert-string-i](https://github.com/gauthamnholla/coding-practice/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/gauthamnholla/coding-practice/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3311-construct-2d-grid-matching-graph-layout](https://github.com/gauthamnholla/coding-practice/tree/master/3311-construct-2d-grid-matching-graph-layout) |
 | [3341-find-minimum-time-to-reach-last-room-i](https://github.com/gauthamnholla/coding-practice/tree/master/3341-find-minimum-time-to-reach-last-room-i) |
