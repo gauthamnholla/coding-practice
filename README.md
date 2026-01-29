@@ -3070,6 +3070,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3752-lexicographically-smallest-negated-permutation-that-sums-to-target](https://github.com/gauthamnholla/coding-practice/tree/master/3752-lexicographically-smallest-negated-permutation-that-sums-to-target) |
 | [3766-minimum-operations-to-make-binary-palindrome](https://github.com/gauthamnholla/coding-practice/tree/master/3766-minimum-operations-to-make-binary-palindrome) |
 | [3775-reverse-words-with-same-vowel-count](https://github.com/gauthamnholla/coding-practice/tree/master/3775-reverse-words-with-same-vowel-count) |
+| [3794-reverse-string-prefix](https://github.com/gauthamnholla/coding-practice/tree/master/3794-reverse-string-prefix) |
 ## Linked List
 |  |
 | ------- |
@@ -3756,6 +3757,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3777-minimum-deletions-to-make-alternating-substring](https://github.com/gauthamnholla/coding-practice/tree/master/3777-minimum-deletions-to-make-alternating-substring) |
 | [3781-maximum-score-after-binary-swaps](https://github.com/gauthamnholla/coding-practice/tree/master/3781-maximum-score-after-binary-swaps) |
 | [3784-minimum-deletion-cost-to-make-all-characters-equal](https://github.com/gauthamnholla/coding-practice/tree/master/3784-minimum-deletion-cost-to-make-all-characters-equal) |
+| [3794-reverse-string-prefix](https://github.com/gauthamnholla/coding-practice/tree/master/3794-reverse-string-prefix) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/gauthamnholla/coding-practice/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Depth-First Search
 |  |
