@@ -1052,6 +1052,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/gauthamnholla/coding-practice/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/gauthamnholla/coding-practice/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/gauthamnholla/coding-practice/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3584-maximum-product-of-first-and-last-elements-of-a-subsequence](https://github.com/gauthamnholla/coding-practice/tree/master/3584-maximum-product-of-first-and-last-elements-of-a-subsequence) |
 | [3585-find-weighted-median-node-in-tree](https://github.com/gauthamnholla/coding-practice/tree/master/3585-find-weighted-median-node-in-tree) |
 | [3590-kth-smallest-path-xor-sum](https://github.com/gauthamnholla/coding-practice/tree/master/3590-kth-smallest-path-xor-sum) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/gauthamnholla/coding-practice/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
@@ -3053,6 +3054,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3455-shortest-matching-substring](https://github.com/gauthamnholla/coding-practice/tree/master/3455-shortest-matching-substring) |
 | [3503-longest-palindrome-after-substring-concatenation-i](https://github.com/gauthamnholla/coding-practice/tree/master/3503-longest-palindrome-after-substring-concatenation-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/gauthamnholla/coding-practice/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [3584-maximum-product-of-first-and-last-elements-of-a-subsequence](https://github.com/gauthamnholla/coding-practice/tree/master/3584-maximum-product-of-first-and-last-elements-of-a-subsequence) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/gauthamnholla/coding-practice/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/gauthamnholla/coding-practice/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3643-flip-square-submatrix-vertically](https://github.com/gauthamnholla/coding-practice/tree/master/3643-flip-square-submatrix-vertically) |
