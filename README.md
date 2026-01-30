@@ -2518,6 +2518,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1041-available-captures-for-rook](https://github.com/gauthamnholla/coding-practice/tree/master/1041-available-captures-for-rook) |
 | [1041-robot-bounded-in-circle](https://github.com/gauthamnholla/coding-practice/tree/master/1041-robot-bounded-in-circle) |
 | [1094-car-pooling](https://github.com/gauthamnholla/coding-practice/tree/master/1094-car-pooling) |
+| [1103-distribute-candies-to-people](https://github.com/gauthamnholla/coding-practice/tree/master/1103-distribute-candies-to-people) |
 | [1222-queens-that-can-attack-the-king](https://github.com/gauthamnholla/coding-practice/tree/master/1222-queens-that-can-attack-the-king) |
 | [1260-shift-2d-grid](https://github.com/gauthamnholla/coding-practice/tree/master/1260-shift-2d-grid) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/gauthamnholla/coding-practice/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
@@ -3321,6 +3322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1073-adding-two-negabinary-numbers](https://github.com/gauthamnholla/coding-practice/tree/master/1073-adding-two-negabinary-numbers) |
 | [1093-statistics-from-a-large-sample](https://github.com/gauthamnholla/coding-practice/tree/master/1093-statistics-from-a-large-sample) |
 | [1094-matrix-cells-in-distance-order](https://github.com/gauthamnholla/coding-practice/tree/master/1094-matrix-cells-in-distance-order) |
+| [1103-distribute-candies-to-people](https://github.com/gauthamnholla/coding-practice/tree/master/1103-distribute-candies-to-people) |
 | [1115-valid-boomerang](https://github.com/gauthamnholla/coding-practice/tree/master/1115-valid-boomerang) |
 | [1131-maximum-of-absolute-value-expression](https://github.com/gauthamnholla/coding-practice/tree/master/1131-maximum-of-absolute-value-expression) |
 | [1140-stone-game-ii](https://github.com/gauthamnholla/coding-practice/tree/master/1140-stone-game-ii) |
