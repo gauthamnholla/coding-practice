@@ -3334,6 +3334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1227-airplane-seat-assignment-probability](https://github.com/gauthamnholla/coding-practice/tree/master/1227-airplane-seat-assignment-probability) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/gauthamnholla/coding-practice/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1237-find-positive-integer-solution-for-a-given-equation](https://github.com/gauthamnholla/coding-practice/tree/master/1237-find-positive-integer-solution-for-a-given-equation) |
+| [1238-circular-permutation-in-binary-representation](https://github.com/gauthamnholla/coding-practice/tree/master/1238-circular-permutation-in-binary-representation) |
 | [1248-count-number-of-nice-subarrays](https://github.com/gauthamnholla/coding-practice/tree/master/1248-count-number-of-nice-subarrays) |
 | [1266-minimum-time-visiting-all-points](https://github.com/gauthamnholla/coding-practice/tree/master/1266-minimum-time-visiting-all-points) |
 | [1330-reverse-subarray-to-maximize-array-value](https://github.com/gauthamnholla/coding-practice/tree/master/1330-reverse-subarray-to-maximize-array-value) |
@@ -4224,6 +4225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1125-smallest-sufficient-team](https://github.com/gauthamnholla/coding-practice/tree/master/1125-smallest-sufficient-team) |
 | [1177-can-make-palindrome-from-substring](https://github.com/gauthamnholla/coding-practice/tree/master/1177-can-make-palindrome-from-substring) |
 | [1178-number-of-valid-words-for-each-puzzle](https://github.com/gauthamnholla/coding-practice/tree/master/1178-number-of-valid-words-for-each-puzzle) |
+| [1238-circular-permutation-in-binary-representation](https://github.com/gauthamnholla/coding-practice/tree/master/1238-circular-permutation-in-binary-representation) |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/gauthamnholla/coding-practice/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1284-minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix](https://github.com/gauthamnholla/coding-practice/tree/master/1284-minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix) |
 | [1310-xor-queries-of-a-subarray](https://github.com/gauthamnholla/coding-practice/tree/master/1310-xor-queries-of-a-subarray) |
@@ -4720,6 +4722,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0996-number-of-squareful-arrays](https://github.com/gauthamnholla/coding-practice/tree/master/0996-number-of-squareful-arrays) |
 | [1096-brace-expansion-ii](https://github.com/gauthamnholla/coding-practice/tree/master/1096-brace-expansion-ii) |
 | [1219-path-with-maximum-gold](https://github.com/gauthamnholla/coding-practice/tree/master/1219-path-with-maximum-gold) |
+| [1238-circular-permutation-in-binary-representation](https://github.com/gauthamnholla/coding-practice/tree/master/1238-circular-permutation-in-binary-representation) |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/gauthamnholla/coding-practice/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1467-probability-of-a-two-boxes-having-the-same-number-of-distinct-balls](https://github.com/gauthamnholla/coding-practice/tree/master/1467-probability-of-a-two-boxes-having-the-same-number-of-distinct-balls) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/gauthamnholla/coding-practice/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
