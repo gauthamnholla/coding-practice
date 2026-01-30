@@ -2718,6 +2718,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/gauthamnholla/coding-practice/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1125-smallest-sufficient-team](https://github.com/gauthamnholla/coding-practice/tree/master/1125-smallest-sufficient-team) |
 | [1130-minimum-cost-tree-from-leaf-values](https://github.com/gauthamnholla/coding-practice/tree/master/1130-minimum-cost-tree-from-leaf-values) |
+| [1137-n-th-tribonacci-number](https://github.com/gauthamnholla/coding-practice/tree/master/1137-n-th-tribonacci-number) |
 | [1139-largest-1-bordered-square](https://github.com/gauthamnholla/coding-practice/tree/master/1139-largest-1-bordered-square) |
 | [1140-stone-game-ii](https://github.com/gauthamnholla/coding-practice/tree/master/1140-stone-game-ii) |
 | [1147-longest-chunked-palindrome-decomposition](https://github.com/gauthamnholla/coding-practice/tree/master/1147-longest-chunked-palindrome-decomposition) |
@@ -2908,6 +2909,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0546-remove-boxes](https://github.com/gauthamnholla/coding-practice/tree/master/0546-remove-boxes) |
 | [0949-cat-and-mouse](https://github.com/gauthamnholla/coding-practice/tree/master/0949-cat-and-mouse) |
 | [0964-least-operators-to-express-number](https://github.com/gauthamnholla/coding-practice/tree/master/0964-least-operators-to-express-number) |
+| [1137-n-th-tribonacci-number](https://github.com/gauthamnholla/coding-practice/tree/master/1137-n-th-tribonacci-number) |
 | [1387-sort-integers-by-the-power-value](https://github.com/gauthamnholla/coding-practice/tree/master/1387-sort-integers-by-the-power-value) |
 | [1444-number-of-ways-of-cutting-a-pizza](https://github.com/gauthamnholla/coding-practice/tree/master/1444-number-of-ways-of-cutting-a-pizza) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/gauthamnholla/coding-practice/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
@@ -3332,6 +3334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1104-path-in-zigzag-labelled-binary-tree](https://github.com/gauthamnholla/coding-practice/tree/master/1104-path-in-zigzag-labelled-binary-tree) |
 | [1115-valid-boomerang](https://github.com/gauthamnholla/coding-practice/tree/master/1115-valid-boomerang) |
 | [1131-maximum-of-absolute-value-expression](https://github.com/gauthamnholla/coding-practice/tree/master/1131-maximum-of-absolute-value-expression) |
+| [1137-n-th-tribonacci-number](https://github.com/gauthamnholla/coding-practice/tree/master/1137-n-th-tribonacci-number) |
 | [1140-stone-game-ii](https://github.com/gauthamnholla/coding-practice/tree/master/1140-stone-game-ii) |
 | [1154-day-of-the-year](https://github.com/gauthamnholla/coding-practice/tree/master/1154-day-of-the-year) |
 | [1175-prime-arrangements](https://github.com/gauthamnholla/coding-practice/tree/master/1175-prime-arrangements) |
