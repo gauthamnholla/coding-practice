@@ -2689,6 +2689,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0949-cat-and-mouse](https://github.com/gauthamnholla/coding-practice/tree/master/0949-cat-and-mouse) |
 | [0956-tallest-billboard](https://github.com/gauthamnholla/coding-practice/tree/master/0956-tallest-billboard) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/gauthamnholla/coding-practice/tree/master/0960-delete-columns-to-make-sorted-iii) |
+| [0964-least-operators-to-express-number](https://github.com/gauthamnholla/coding-practice/tree/master/0964-least-operators-to-express-number) |
 | [0968-binary-tree-cameras](https://github.com/gauthamnholla/coding-practice/tree/master/0968-binary-tree-cameras) |
 | [0975-odd-even-jump](https://github.com/gauthamnholla/coding-practice/tree/master/0975-odd-even-jump) |
 | [0978-longest-turbulent-subarray](https://github.com/gauthamnholla/coding-practice/tree/master/0978-longest-turbulent-subarray) |
@@ -2892,6 +2893,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/gauthamnholla/coding-practice/tree/master/0509-fibonacci-number) |
 | [0546-remove-boxes](https://github.com/gauthamnholla/coding-practice/tree/master/0546-remove-boxes) |
 | [0949-cat-and-mouse](https://github.com/gauthamnholla/coding-practice/tree/master/0949-cat-and-mouse) |
+| [0964-least-operators-to-express-number](https://github.com/gauthamnholla/coding-practice/tree/master/0964-least-operators-to-express-number) |
 | [1387-sort-integers-by-the-power-value](https://github.com/gauthamnholla/coding-practice/tree/master/1387-sort-integers-by-the-power-value) |
 | [1444-number-of-ways-of-cutting-a-pizza](https://github.com/gauthamnholla/coding-practice/tree/master/1444-number-of-ways-of-cutting-a-pizza) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/gauthamnholla/coding-practice/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
@@ -3292,6 +3294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/gauthamnholla/coding-practice/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [0957-prison-cells-after-n-days](https://github.com/gauthamnholla/coding-practice/tree/master/0957-prison-cells-after-n-days) |
 | [0963-minimum-area-rectangle-ii](https://github.com/gauthamnholla/coding-practice/tree/master/0963-minimum-area-rectangle-ii) |
+| [0964-least-operators-to-express-number](https://github.com/gauthamnholla/coding-practice/tree/master/0964-least-operators-to-express-number) |
 | [0972-equal-rational-numbers](https://github.com/gauthamnholla/coding-practice/tree/master/0972-equal-rational-numbers) |
 | [0973-k-closest-points-to-origin](https://github.com/gauthamnholla/coding-practice/tree/master/0973-k-closest-points-to-origin) |
 | [0989-largest-component-size-by-common-factor](https://github.com/gauthamnholla/coding-practice/tree/master/0989-largest-component-size-by-common-factor) |
