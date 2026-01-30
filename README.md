@@ -2701,6 +2701,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1000-minimum-cost-to-merge-stones](https://github.com/gauthamnholla/coding-practice/tree/master/1000-minimum-cost-to-merge-stones) |
 | [1012-numbers-with-repeated-digits](https://github.com/gauthamnholla/coding-practice/tree/master/1012-numbers-with-repeated-digits) |
 | [1024-video-stitching](https://github.com/gauthamnholla/coding-practice/tree/master/1024-video-stitching) |
+| [1025-divisor-game](https://github.com/gauthamnholla/coding-practice/tree/master/1025-divisor-game) |
 | [1027-longest-arithmetic-subsequence](https://github.com/gauthamnholla/coding-practice/tree/master/1027-longest-arithmetic-subsequence) |
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/gauthamnholla/coding-practice/tree/master/1031-maximum-sum-of-two-non-overlapping-subarrays) |
 | [1035-uncrossed-lines](https://github.com/gauthamnholla/coding-practice/tree/master/1035-uncrossed-lines) |
@@ -3311,6 +3312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1015-smallest-integer-divisible-by-k](https://github.com/gauthamnholla/coding-practice/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1017-convert-to-base-2](https://github.com/gauthamnholla/coding-practice/tree/master/1017-convert-to-base-2) |
 | [1018-largest-perimeter-triangle](https://github.com/gauthamnholla/coding-practice/tree/master/1018-largest-perimeter-triangle) |
+| [1025-divisor-game](https://github.com/gauthamnholla/coding-practice/tree/master/1025-divisor-game) |
 | [1031-add-to-array-form-of-integer](https://github.com/gauthamnholla/coding-practice/tree/master/1031-add-to-array-form-of-integer) |
 | [1040-moving-stones-until-consecutive-ii](https://github.com/gauthamnholla/coding-practice/tree/master/1040-moving-stones-until-consecutive-ii) |
 | [1073-adding-two-negabinary-numbers](https://github.com/gauthamnholla/coding-practice/tree/master/1073-adding-two-negabinary-numbers) |
@@ -4917,6 +4919,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0292-nim-game](https://github.com/gauthamnholla/coding-practice/tree/master/0292-nim-game) |
 | [0319-bulb-switcher](https://github.com/gauthamnholla/coding-practice/tree/master/0319-bulb-switcher) |
 | [0810-chalkboard-xor-game](https://github.com/gauthamnholla/coding-practice/tree/master/0810-chalkboard-xor-game) |
+| [1025-divisor-game](https://github.com/gauthamnholla/coding-practice/tree/master/1025-divisor-game) |
 | [1227-airplane-seat-assignment-probability](https://github.com/gauthamnholla/coding-practice/tree/master/1227-airplane-seat-assignment-probability) |
 | [2396-strictly-palindromic-number](https://github.com/gauthamnholla/coding-practice/tree/master/2396-strictly-palindromic-number) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/gauthamnholla/coding-practice/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
@@ -5460,6 +5463,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0843-guess-the-word](https://github.com/gauthamnholla/coding-practice/tree/master/0843-guess-the-word) |
 | [0909-stone-game](https://github.com/gauthamnholla/coding-practice/tree/master/0909-stone-game) |
 | [0949-cat-and-mouse](https://github.com/gauthamnholla/coding-practice/tree/master/0949-cat-and-mouse) |
+| [1025-divisor-game](https://github.com/gauthamnholla/coding-practice/tree/master/1025-divisor-game) |
 | [1140-stone-game-ii](https://github.com/gauthamnholla/coding-practice/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/gauthamnholla/coding-practice/tree/master/1406-stone-game-iii) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/gauthamnholla/coding-practice/tree/master/1561-maximum-number-of-coins-you-can-get) |
