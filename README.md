@@ -2699,6 +2699,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0978-longest-turbulent-subarray](https://github.com/gauthamnholla/coding-practice/tree/master/0978-longest-turbulent-subarray) |
 | [0996-number-of-squareful-arrays](https://github.com/gauthamnholla/coding-practice/tree/master/0996-number-of-squareful-arrays) |
 | [1000-minimum-cost-to-merge-stones](https://github.com/gauthamnholla/coding-practice/tree/master/1000-minimum-cost-to-merge-stones) |
+| [1012-numbers-with-repeated-digits](https://github.com/gauthamnholla/coding-practice/tree/master/1012-numbers-with-repeated-digits) |
 | [1024-video-stitching](https://github.com/gauthamnholla/coding-practice/tree/master/1024-video-stitching) |
 | [1027-longest-arithmetic-subsequence](https://github.com/gauthamnholla/coding-practice/tree/master/1027-longest-arithmetic-subsequence) |
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/gauthamnholla/coding-practice/tree/master/1031-maximum-sum-of-two-non-overlapping-subarrays) |
@@ -3306,6 +3307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0991-broken-calculator](https://github.com/gauthamnholla/coding-practice/tree/master/0991-broken-calculator) |
 | [0996-number-of-squareful-arrays](https://github.com/gauthamnholla/coding-practice/tree/master/0996-number-of-squareful-arrays) |
 | [1006-clumsy-factorial](https://github.com/gauthamnholla/coding-practice/tree/master/1006-clumsy-factorial) |
+| [1012-numbers-with-repeated-digits](https://github.com/gauthamnholla/coding-practice/tree/master/1012-numbers-with-repeated-digits) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/gauthamnholla/coding-practice/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1018-largest-perimeter-triangle](https://github.com/gauthamnholla/coding-practice/tree/master/1018-largest-perimeter-triangle) |
 | [1031-add-to-array-form-of-integer](https://github.com/gauthamnholla/coding-practice/tree/master/1031-add-to-array-form-of-integer) |
