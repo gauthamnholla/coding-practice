@@ -2513,6 +2513,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0946-validate-stack-sequences](https://github.com/gauthamnholla/coding-practice/tree/master/0946-validate-stack-sequences) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/gauthamnholla/coding-practice/tree/master/0950-reveal-cards-in-increasing-order) |
 | [0985-sum-of-even-numbers-after-queries](https://github.com/gauthamnholla/coding-practice/tree/master/0985-sum-of-even-numbers-after-queries) |
+| [1006-clumsy-factorial](https://github.com/gauthamnholla/coding-practice/tree/master/1006-clumsy-factorial) |
 | [1041-available-captures-for-rook](https://github.com/gauthamnholla/coding-practice/tree/master/1041-available-captures-for-rook) |
 | [1094-car-pooling](https://github.com/gauthamnholla/coding-practice/tree/master/1094-car-pooling) |
 | [1222-queens-that-can-attack-the-king](https://github.com/gauthamnholla/coding-practice/tree/master/1222-queens-that-can-attack-the-king) |
@@ -3302,6 +3303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0973-k-closest-points-to-origin](https://github.com/gauthamnholla/coding-practice/tree/master/0973-k-closest-points-to-origin) |
 | [0989-largest-component-size-by-common-factor](https://github.com/gauthamnholla/coding-practice/tree/master/0989-largest-component-size-by-common-factor) |
 | [0996-number-of-squareful-arrays](https://github.com/gauthamnholla/coding-practice/tree/master/0996-number-of-squareful-arrays) |
+| [1006-clumsy-factorial](https://github.com/gauthamnholla/coding-practice/tree/master/1006-clumsy-factorial) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/gauthamnholla/coding-practice/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1018-largest-perimeter-triangle](https://github.com/gauthamnholla/coding-practice/tree/master/1018-largest-perimeter-triangle) |
 | [1031-add-to-array-form-of-integer](https://github.com/gauthamnholla/coding-practice/tree/master/1031-add-to-array-form-of-integer) |
@@ -4110,6 +4112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0946-validate-stack-sequences](https://github.com/gauthamnholla/coding-practice/tree/master/0946-validate-stack-sequences) |
 | [0962-maximum-width-ramp](https://github.com/gauthamnholla/coding-practice/tree/master/0962-maximum-width-ramp) |
 | [0975-odd-even-jump](https://github.com/gauthamnholla/coding-practice/tree/master/0975-odd-even-jump) |
+| [1006-clumsy-factorial](https://github.com/gauthamnholla/coding-practice/tree/master/1006-clumsy-factorial) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/gauthamnholla/coding-practice/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1019-next-greater-node-in-linked-list](https://github.com/gauthamnholla/coding-practice/tree/master/1019-next-greater-node-in-linked-list) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/gauthamnholla/coding-practice/tree/master/1081-smallest-subsequence-of-distinct-characters) |
