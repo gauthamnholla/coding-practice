@@ -3314,6 +3314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1018-largest-perimeter-triangle](https://github.com/gauthamnholla/coding-practice/tree/master/1018-largest-perimeter-triangle) |
 | [1025-divisor-game](https://github.com/gauthamnholla/coding-practice/tree/master/1025-divisor-game) |
 | [1031-add-to-array-form-of-integer](https://github.com/gauthamnholla/coding-practice/tree/master/1031-add-to-array-form-of-integer) |
+| [1033-moving-stones-until-consecutive](https://github.com/gauthamnholla/coding-practice/tree/master/1033-moving-stones-until-consecutive) |
 | [1040-moving-stones-until-consecutive-ii](https://github.com/gauthamnholla/coding-practice/tree/master/1040-moving-stones-until-consecutive-ii) |
 | [1073-adding-two-negabinary-numbers](https://github.com/gauthamnholla/coding-practice/tree/master/1073-adding-two-negabinary-numbers) |
 | [1093-statistics-from-a-large-sample](https://github.com/gauthamnholla/coding-practice/tree/master/1093-statistics-from-a-large-sample) |
@@ -4920,6 +4921,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0319-bulb-switcher](https://github.com/gauthamnholla/coding-practice/tree/master/0319-bulb-switcher) |
 | [0810-chalkboard-xor-game](https://github.com/gauthamnholla/coding-practice/tree/master/0810-chalkboard-xor-game) |
 | [1025-divisor-game](https://github.com/gauthamnholla/coding-practice/tree/master/1025-divisor-game) |
+| [1033-moving-stones-until-consecutive](https://github.com/gauthamnholla/coding-practice/tree/master/1033-moving-stones-until-consecutive) |
 | [1227-airplane-seat-assignment-probability](https://github.com/gauthamnholla/coding-practice/tree/master/1227-airplane-seat-assignment-probability) |
 | [2396-strictly-palindromic-number](https://github.com/gauthamnholla/coding-practice/tree/master/2396-strictly-palindromic-number) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/gauthamnholla/coding-practice/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
