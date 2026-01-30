@@ -445,6 +445,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/gauthamnholla/coding-practice/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1248-count-number-of-nice-subarrays](https://github.com/gauthamnholla/coding-practice/tree/master/1248-count-number-of-nice-subarrays) |
 | [1250-check-if-it-is-a-good-array](https://github.com/gauthamnholla/coding-practice/tree/master/1250-check-if-it-is-a-good-array) |
+| [1252-cells-with-odd-values-in-a-matrix](https://github.com/gauthamnholla/coding-practice/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1253-reconstruct-a-2-row-binary-matrix](https://github.com/gauthamnholla/coding-practice/tree/master/1253-reconstruct-a-2-row-binary-matrix) |
 | [1254-number-of-closed-islands](https://github.com/gauthamnholla/coding-practice/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/gauthamnholla/coding-practice/tree/master/1260-shift-2d-grid) |
@@ -2522,6 +2523,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1094-car-pooling](https://github.com/gauthamnholla/coding-practice/tree/master/1094-car-pooling) |
 | [1103-distribute-candies-to-people](https://github.com/gauthamnholla/coding-practice/tree/master/1103-distribute-candies-to-people) |
 | [1222-queens-that-can-attack-the-king](https://github.com/gauthamnholla/coding-practice/tree/master/1222-queens-that-can-attack-the-king) |
+| [1252-cells-with-odd-values-in-a-matrix](https://github.com/gauthamnholla/coding-practice/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1260-shift-2d-grid](https://github.com/gauthamnholla/coding-practice/tree/master/1260-shift-2d-grid) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/gauthamnholla/coding-practice/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [1324-print-words-vertically](https://github.com/gauthamnholla/coding-practice/tree/master/1324-print-words-vertically) |
@@ -3340,6 +3342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1247-minimum-swaps-to-make-strings-equal](https://github.com/gauthamnholla/coding-practice/tree/master/1247-minimum-swaps-to-make-strings-equal) |
 | [1248-count-number-of-nice-subarrays](https://github.com/gauthamnholla/coding-practice/tree/master/1248-count-number-of-nice-subarrays) |
 | [1250-check-if-it-is-a-good-array](https://github.com/gauthamnholla/coding-practice/tree/master/1250-check-if-it-is-a-good-array) |
+| [1252-cells-with-odd-values-in-a-matrix](https://github.com/gauthamnholla/coding-practice/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1266-minimum-time-visiting-all-points](https://github.com/gauthamnholla/coding-practice/tree/master/1266-minimum-time-visiting-all-points) |
 | [1330-reverse-subarray-to-maximize-array-value](https://github.com/gauthamnholla/coding-practice/tree/master/1330-reverse-subarray-to-maximize-array-value) |
 | [1352-product-of-the-last-k-numbers](https://github.com/gauthamnholla/coding-practice/tree/master/1352-product-of-the-last-k-numbers) |
