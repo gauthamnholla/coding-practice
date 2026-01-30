@@ -3309,6 +3309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1006-clumsy-factorial](https://github.com/gauthamnholla/coding-practice/tree/master/1006-clumsy-factorial) |
 | [1012-numbers-with-repeated-digits](https://github.com/gauthamnholla/coding-practice/tree/master/1012-numbers-with-repeated-digits) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/gauthamnholla/coding-practice/tree/master/1015-smallest-integer-divisible-by-k) |
+| [1017-convert-to-base-2](https://github.com/gauthamnholla/coding-practice/tree/master/1017-convert-to-base-2) |
 | [1018-largest-perimeter-triangle](https://github.com/gauthamnholla/coding-practice/tree/master/1018-largest-perimeter-triangle) |
 | [1031-add-to-array-form-of-integer](https://github.com/gauthamnholla/coding-practice/tree/master/1031-add-to-array-form-of-integer) |
 | [1040-moving-stones-until-consecutive-ii](https://github.com/gauthamnholla/coding-practice/tree/master/1040-moving-stones-until-consecutive-ii) |
