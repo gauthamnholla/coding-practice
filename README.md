@@ -313,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0923-3sum-with-multiplicity](https://github.com/gauthamnholla/coding-practice/tree/master/0923-3sum-with-multiplicity) |
 | [0924-fair-candy-swap](https://github.com/gauthamnholla/coding-practice/tree/master/0924-fair-candy-swap) |
 | [0924-minimize-malware-spread](https://github.com/gauthamnholla/coding-practice/tree/master/0924-minimize-malware-spread) |
+| [0927-three-equal-parts](https://github.com/gauthamnholla/coding-practice/tree/master/0927-three-equal-parts) |
 | [0928-surface-area-of-3d-shapes](https://github.com/gauthamnholla/coding-practice/tree/master/0928-surface-area-of-3d-shapes) |
 | [0928-minimize-malware-spread-ii](https://github.com/gauthamnholla/coding-practice/tree/master/0928-minimize-malware-spread-ii) |
 | [0930-binary-subarrays-with-sum](https://github.com/gauthamnholla/coding-practice/tree/master/0930-binary-subarrays-with-sum) |
@@ -3283,6 +3284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0910-smallest-range-ii](https://github.com/gauthamnholla/coding-practice/tree/master/0910-smallest-range-ii) |
 | [0919-projection-area-of-3d-shapes](https://github.com/gauthamnholla/coding-practice/tree/master/0919-projection-area-of-3d-shapes) |
 | [0920-number-of-music-playlists](https://github.com/gauthamnholla/coding-practice/tree/master/0920-number-of-music-playlists) |
+| [0927-three-equal-parts](https://github.com/gauthamnholla/coding-practice/tree/master/0927-three-equal-parts) |
 | [0928-surface-area-of-3d-shapes](https://github.com/gauthamnholla/coding-practice/tree/master/0928-surface-area-of-3d-shapes) |
 | [0939-minimum-area-rectangle](https://github.com/gauthamnholla/coding-practice/tree/master/0939-minimum-area-rectangle) |
 | [0944-smallest-range-i](https://github.com/gauthamnholla/coding-practice/tree/master/0944-smallest-range-i) |
