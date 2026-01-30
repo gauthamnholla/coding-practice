@@ -2011,6 +2011,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0900-reordered-power-of-2](https://github.com/gauthamnholla/coding-practice/tree/master/0900-reordered-power-of-2) |
 | [0906-super-palindromes](https://github.com/gauthamnholla/coding-practice/tree/master/0906-super-palindromes) |
 | [0949-largest-time-for-given-digits](https://github.com/gauthamnholla/coding-practice/tree/master/0949-largest-time-for-given-digits) |
+| [0970-powerful-integers](https://github.com/gauthamnholla/coding-practice/tree/master/0970-powerful-integers) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/gauthamnholla/coding-practice/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/gauthamnholla/coding-practice/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1925-count-square-sum-triples](https://github.com/gauthamnholla/coding-practice/tree/master/1925-count-square-sum-triples) |
@@ -2201,6 +2202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0959-regions-cut-by-slashes](https://github.com/gauthamnholla/coding-practice/tree/master/0959-regions-cut-by-slashes) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/gauthamnholla/coding-practice/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0963-minimum-area-rectangle-ii](https://github.com/gauthamnholla/coding-practice/tree/master/0963-minimum-area-rectangle-ii) |
+| [0970-powerful-integers](https://github.com/gauthamnholla/coding-practice/tree/master/0970-powerful-integers) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/gauthamnholla/coding-practice/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0981-time-based-key-value-store](https://github.com/gauthamnholla/coding-practice/tree/master/0981-time-based-key-value-store) |
 | [0982-triples-with-bitwise-and-equal-to-zero](https://github.com/gauthamnholla/coding-practice/tree/master/0982-triples-with-bitwise-and-equal-to-zero) |
@@ -3295,6 +3297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0957-prison-cells-after-n-days](https://github.com/gauthamnholla/coding-practice/tree/master/0957-prison-cells-after-n-days) |
 | [0963-minimum-area-rectangle-ii](https://github.com/gauthamnholla/coding-practice/tree/master/0963-minimum-area-rectangle-ii) |
 | [0964-least-operators-to-express-number](https://github.com/gauthamnholla/coding-practice/tree/master/0964-least-operators-to-express-number) |
+| [0970-powerful-integers](https://github.com/gauthamnholla/coding-practice/tree/master/0970-powerful-integers) |
 | [0972-equal-rational-numbers](https://github.com/gauthamnholla/coding-practice/tree/master/0972-equal-rational-numbers) |
 | [0973-k-closest-points-to-origin](https://github.com/gauthamnholla/coding-practice/tree/master/0973-k-closest-points-to-origin) |
 | [0989-largest-component-size-by-common-factor](https://github.com/gauthamnholla/coding-practice/tree/master/0989-largest-component-size-by-common-factor) |
