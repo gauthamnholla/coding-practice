@@ -3362,6 +3362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1352-product-of-the-last-k-numbers](https://github.com/gauthamnholla/coding-practice/tree/master/1352-product-of-the-last-k-numbers) |
 | [1359-count-all-valid-pickup-and-delivery-options](https://github.com/gauthamnholla/coding-practice/tree/master/1359-count-all-valid-pickup-and-delivery-options) |
 | [1360-number-of-days-between-two-dates](https://github.com/gauthamnholla/coding-practice/tree/master/1360-number-of-days-between-two-dates) |
+| [1362-closest-divisors](https://github.com/gauthamnholla/coding-practice/tree/master/1362-closest-divisors) |
 | [1363-largest-multiple-of-three](https://github.com/gauthamnholla/coding-practice/tree/master/1363-largest-multiple-of-three) |
 | [1390-four-divisors](https://github.com/gauthamnholla/coding-practice/tree/master/1390-four-divisors) |
 | [1406-stone-game-iii](https://github.com/gauthamnholla/coding-practice/tree/master/1406-stone-game-iii) |
