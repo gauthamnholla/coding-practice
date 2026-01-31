@@ -3426,6 +3426,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1759-count-number-of-homogenous-substrings](https://github.com/gauthamnholla/coding-practice/tree/master/1759-count-number-of-homogenous-substrings) |
 | [1766-tree-of-coprimes](https://github.com/gauthamnholla/coding-practice/tree/master/1766-tree-of-coprimes) |
 | [1776-car-fleet-ii](https://github.com/gauthamnholla/coding-practice/tree/master/1776-car-fleet-ii) |
+| [1780-check-if-number-is-a-sum-of-powers-of-three](https://github.com/gauthamnholla/coding-practice/tree/master/1780-check-if-number-is-a-sum-of-powers-of-three) |
 | [1799-maximize-score-after-n-operations](https://github.com/gauthamnholla/coding-practice/tree/master/1799-maximize-score-after-n-operations) |
 | [1806-minimum-number-of-operations-to-reinitialize-a-permutation](https://github.com/gauthamnholla/coding-practice/tree/master/1806-minimum-number-of-operations-to-reinitialize-a-permutation) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/gauthamnholla/coding-practice/tree/master/1814-count-nice-pairs-in-an-array) |
