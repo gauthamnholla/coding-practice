@@ -3338,6 +3338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/gauthamnholla/coding-practice/tree/master/1140-stone-game-ii) |
 | [1154-day-of-the-year](https://github.com/gauthamnholla/coding-practice/tree/master/1154-day-of-the-year) |
 | [1175-prime-arrangements](https://github.com/gauthamnholla/coding-practice/tree/master/1175-prime-arrangements) |
+| [1185-day-of-the-week](https://github.com/gauthamnholla/coding-practice/tree/master/1185-day-of-the-week) |
 | [1201-ugly-number-iii](https://github.com/gauthamnholla/coding-practice/tree/master/1201-ugly-number-iii) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/gauthamnholla/coding-practice/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1227-airplane-seat-assignment-probability](https://github.com/gauthamnholla/coding-practice/tree/master/1227-airplane-seat-assignment-probability) |
