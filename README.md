@@ -2758,6 +2758,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1463-cherry-pickup-ii](https://github.com/gauthamnholla/coding-practice/tree/master/1463-cherry-pickup-ii) |
 | [1467-probability-of-a-two-boxes-having-the-same-number-of-distinct-balls](https://github.com/gauthamnholla/coding-practice/tree/master/1467-probability-of-a-two-boxes-having-the-same-number-of-distinct-balls) |
 | [1478-allocate-mailboxes](https://github.com/gauthamnholla/coding-practice/tree/master/1478-allocate-mailboxes) |
+| [1510-stone-game-iv](https://github.com/gauthamnholla/coding-practice/tree/master/1510-stone-game-iv) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/gauthamnholla/coding-practice/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1537-get-the-maximum-score](https://github.com/gauthamnholla/coding-practice/tree/master/1537-get-the-maximum-score) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/gauthamnholla/coding-practice/tree/master/1547-minimum-cost-to-cut-a-stick) |
@@ -3381,6 +3382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1467-probability-of-a-two-boxes-having-the-same-number-of-distinct-balls](https://github.com/gauthamnholla/coding-practice/tree/master/1467-probability-of-a-two-boxes-having-the-same-number-of-distinct-balls) |
 | [1478-allocate-mailboxes](https://github.com/gauthamnholla/coding-practice/tree/master/1478-allocate-mailboxes) |
 | [1486-xor-operation-in-an-array](https://github.com/gauthamnholla/coding-practice/tree/master/1486-xor-operation-in-an-array) |
+| [1510-stone-game-iv](https://github.com/gauthamnholla/coding-practice/tree/master/1510-stone-game-iv) |
 | [1515-best-position-for-a-service-centre](https://github.com/gauthamnholla/coding-practice/tree/master/1515-best-position-for-a-service-centre) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/gauthamnholla/coding-practice/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/gauthamnholla/coding-practice/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
@@ -5527,6 +5529,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1025-divisor-game](https://github.com/gauthamnholla/coding-practice/tree/master/1025-divisor-game) |
 | [1140-stone-game-ii](https://github.com/gauthamnholla/coding-practice/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/gauthamnholla/coding-practice/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/gauthamnholla/coding-practice/tree/master/1510-stone-game-iv) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/gauthamnholla/coding-practice/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1686-stone-game-vi](https://github.com/gauthamnholla/coding-practice/tree/master/1686-stone-game-vi) |
 | [1690-stone-game-vii](https://github.com/gauthamnholla/coding-practice/tree/master/1690-stone-game-vii) |
