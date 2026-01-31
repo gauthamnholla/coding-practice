@@ -460,6 +460,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1289-minimum-falling-path-sum-ii](https://github.com/gauthamnholla/coding-practice/tree/master/1289-minimum-falling-path-sum-ii) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/gauthamnholla/coding-practice/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/gauthamnholla/coding-practice/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/gauthamnholla/coding-practice/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/gauthamnholla/coding-practice/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1299-k-concatenation-maximum-sum](https://github.com/gauthamnholla/coding-practice/tree/master/1299-k-concatenation-maximum-sum) |
 | [1300-sum-of-mutated-array-closest-to-target](https://github.com/gauthamnholla/coding-practice/tree/master/1300-sum-of-mutated-array-closest-to-target) |
@@ -3353,6 +3354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1266-minimum-time-visiting-all-points](https://github.com/gauthamnholla/coding-practice/tree/master/1266-minimum-time-visiting-all-points) |
 | [1276-number-of-burgers-with-no-waste-of-ingredients](https://github.com/gauthamnholla/coding-practice/tree/master/1276-number-of-burgers-with-no-waste-of-ingredients) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/gauthamnholla/coding-practice/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/gauthamnholla/coding-practice/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1307-verbal-arithmetic-puzzle](https://github.com/gauthamnholla/coding-practice/tree/master/1307-verbal-arithmetic-puzzle) |
 | [1330-reverse-subarray-to-maximize-array-value](https://github.com/gauthamnholla/coding-practice/tree/master/1330-reverse-subarray-to-maximize-array-value) |
 | [1352-product-of-the-last-k-numbers](https://github.com/gauthamnholla/coding-practice/tree/master/1352-product-of-the-last-k-numbers) |
