@@ -2541,6 +2541,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1646-get-maximum-in-generated-array](https://github.com/gauthamnholla/coding-practice/tree/master/1646-get-maximum-in-generated-array) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/gauthamnholla/coding-practice/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/gauthamnholla/coding-practice/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
+| [1688-count-of-matches-in-tournament](https://github.com/gauthamnholla/coding-practice/tree/master/1688-count-of-matches-in-tournament) |
 | [1701-average-waiting-time](https://github.com/gauthamnholla/coding-practice/tree/master/1701-average-waiting-time) |
 | [1706-where-will-the-ball-fall](https://github.com/gauthamnholla/coding-practice/tree/master/1706-where-will-the-ball-fall) |
 | [1801-number-of-orders-in-the-backlog](https://github.com/gauthamnholla/coding-practice/tree/master/1801-number-of-orders-in-the-backlog) |
@@ -3411,6 +3412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/gauthamnholla/coding-practice/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/gauthamnholla/coding-practice/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [1686-stone-game-vi](https://github.com/gauthamnholla/coding-practice/tree/master/1686-stone-game-vi) |
+| [1688-count-of-matches-in-tournament](https://github.com/gauthamnholla/coding-practice/tree/master/1688-count-of-matches-in-tournament) |
 | [1690-stone-game-vii](https://github.com/gauthamnholla/coding-practice/tree/master/1690-stone-game-vii) |
 | [1728-cat-and-mouse-ii](https://github.com/gauthamnholla/coding-practice/tree/master/1728-cat-and-mouse-ii) |
 | [1753-maximum-score-from-removing-stones](https://github.com/gauthamnholla/coding-practice/tree/master/1753-maximum-score-from-removing-stones) |
