@@ -613,6 +613,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1712-ways-to-split-array-into-three-subarrays](https://github.com/gauthamnholla/coding-practice/tree/master/1712-ways-to-split-array-into-three-subarrays) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/gauthamnholla/coding-practice/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1728-cat-and-mouse-ii](https://github.com/gauthamnholla/coding-practice/tree/master/1728-cat-and-mouse-ii) |
+| [1735-count-ways-to-make-array-with-product](https://github.com/gauthamnholla/coding-practice/tree/master/1735-count-ways-to-make-array-with-product) |
 | [1738-find-kth-largest-xor-coordinate-value](https://github.com/gauthamnholla/coding-practice/tree/master/1738-find-kth-largest-xor-coordinate-value) |
 | [1743-restore-the-array-from-adjacent-pairs](https://github.com/gauthamnholla/coding-practice/tree/master/1743-restore-the-array-from-adjacent-pairs) |
 | [1744-can-you-eat-your-favorite-candy-on-your-favorite-day](https://github.com/gauthamnholla/coding-practice/tree/master/1744-can-you-eat-your-favorite-candy-on-your-favorite-day) |
@@ -2787,6 +2788,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/gauthamnholla/coding-practice/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1728-cat-and-mouse-ii](https://github.com/gauthamnholla/coding-practice/tree/master/1728-cat-and-mouse-ii) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/gauthamnholla/coding-practice/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
+| [1735-count-ways-to-make-array-with-product](https://github.com/gauthamnholla/coding-practice/tree/master/1735-count-ways-to-make-array-with-product) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/gauthamnholla/coding-practice/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1755-closest-subsequence-sum](https://github.com/gauthamnholla/coding-practice/tree/master/1755-closest-subsequence-sum) |
 | [1770-maximum-score-from-performing-multiplication-operations](https://github.com/gauthamnholla/coding-practice/tree/master/1770-maximum-score-from-performing-multiplication-operations) |
@@ -3415,6 +3417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1688-count-of-matches-in-tournament](https://github.com/gauthamnholla/coding-practice/tree/master/1688-count-of-matches-in-tournament) |
 | [1690-stone-game-vii](https://github.com/gauthamnholla/coding-practice/tree/master/1690-stone-game-vii) |
 | [1728-cat-and-mouse-ii](https://github.com/gauthamnholla/coding-practice/tree/master/1728-cat-and-mouse-ii) |
+| [1735-count-ways-to-make-array-with-product](https://github.com/gauthamnholla/coding-practice/tree/master/1735-count-ways-to-make-array-with-product) |
 | [1753-maximum-score-from-removing-stones](https://github.com/gauthamnholla/coding-practice/tree/master/1753-maximum-score-from-removing-stones) |
 | [1766-tree-of-coprimes](https://github.com/gauthamnholla/coding-practice/tree/master/1766-tree-of-coprimes) |
 | [1776-car-fleet-ii](https://github.com/gauthamnholla/coding-practice/tree/master/1776-car-fleet-ii) |
@@ -5569,6 +5572,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1201-ugly-number-iii](https://github.com/gauthamnholla/coding-practice/tree/master/1201-ugly-number-iii) |
 | [1250-check-if-it-is-a-good-array](https://github.com/gauthamnholla/coding-practice/tree/master/1250-check-if-it-is-a-good-array) |
 | [1447-simplified-fractions](https://github.com/gauthamnholla/coding-practice/tree/master/1447-simplified-fractions) |
+| [1735-count-ways-to-make-array-with-product](https://github.com/gauthamnholla/coding-practice/tree/master/1735-count-ways-to-make-array-with-product) |
 | [1766-tree-of-coprimes](https://github.com/gauthamnholla/coding-practice/tree/master/1766-tree-of-coprimes) |
 | [1799-maximize-score-after-n-operations](https://github.com/gauthamnholla/coding-practice/tree/master/1799-maximize-score-after-n-operations) |
 | [1998-gcd-sort-of-an-array](https://github.com/gauthamnholla/coding-practice/tree/master/1998-gcd-sort-of-an-array) |
@@ -5598,6 +5602,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/gauthamnholla/coding-practice/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1641-count-sorted-vowel-strings](https://github.com/gauthamnholla/coding-practice/tree/master/1641-count-sorted-vowel-strings) |
 | [1643-kth-smallest-instructions](https://github.com/gauthamnholla/coding-practice/tree/master/1643-kth-smallest-instructions) |
+| [1735-count-ways-to-make-array-with-product](https://github.com/gauthamnholla/coding-practice/tree/master/1735-count-ways-to-make-array-with-product) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/gauthamnholla/coding-practice/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1916-count-ways-to-build-rooms-in-an-ant-colony](https://github.com/gauthamnholla/coding-practice/tree/master/1916-count-ways-to-build-rooms-in-an-ant-colony) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/gauthamnholla/coding-practice/tree/master/2324-find-triangular-sum-of-an-array) |
