@@ -1271,6 +1271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1705-maximum-number-of-eaten-apples](https://github.com/gauthamnholla/coding-practice/tree/master/1705-maximum-number-of-eaten-apples) |
 | [1710-maximum-units-on-a-truck](https://github.com/gauthamnholla/coding-practice/tree/master/1710-maximum-units-on-a-truck) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/gauthamnholla/coding-practice/tree/master/1727-largest-submatrix-with-rearrangements) |
+| [1739-building-boxes](https://github.com/gauthamnholla/coding-practice/tree/master/1739-building-boxes) |
 | [1753-maximum-score-from-removing-stones](https://github.com/gauthamnholla/coding-practice/tree/master/1753-maximum-score-from-removing-stones) |
 | [1754-largest-merge-of-two-strings](https://github.com/gauthamnholla/coding-practice/tree/master/1754-largest-merge-of-two-strings) |
 | [1764-form-array-by-concatenating-subarrays-of-another-array](https://github.com/gauthamnholla/coding-practice/tree/master/1764-form-array-by-concatenating-subarrays-of-another-array) |
@@ -3418,6 +3419,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1690-stone-game-vii](https://github.com/gauthamnholla/coding-practice/tree/master/1690-stone-game-vii) |
 | [1728-cat-and-mouse-ii](https://github.com/gauthamnholla/coding-practice/tree/master/1728-cat-and-mouse-ii) |
 | [1735-count-ways-to-make-array-with-product](https://github.com/gauthamnholla/coding-practice/tree/master/1735-count-ways-to-make-array-with-product) |
+| [1739-building-boxes](https://github.com/gauthamnholla/coding-practice/tree/master/1739-building-boxes) |
 | [1753-maximum-score-from-removing-stones](https://github.com/gauthamnholla/coding-practice/tree/master/1753-maximum-score-from-removing-stones) |
 | [1766-tree-of-coprimes](https://github.com/gauthamnholla/coding-practice/tree/master/1766-tree-of-coprimes) |
 | [1776-car-fleet-ii](https://github.com/gauthamnholla/coding-practice/tree/master/1776-car-fleet-ii) |
@@ -4894,6 +4896,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/gauthamnholla/coding-practice/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/gauthamnholla/coding-practice/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
 | [1712-ways-to-split-array-into-three-subarrays](https://github.com/gauthamnholla/coding-practice/tree/master/1712-ways-to-split-array-into-three-subarrays) |
+| [1739-building-boxes](https://github.com/gauthamnholla/coding-practice/tree/master/1739-building-boxes) |
 | [1782-count-pairs-of-nodes](https://github.com/gauthamnholla/coding-practice/tree/master/1782-count-pairs-of-nodes) |
 | [1793-maximum-score-of-a-good-subarray](https://github.com/gauthamnholla/coding-practice/tree/master/1793-maximum-score-of-a-good-subarray) |
 | [1818-minimum-absolute-sum-difference](https://github.com/gauthamnholla/coding-practice/tree/master/1818-minimum-absolute-sum-difference) |
