@@ -2772,6 +2772,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1626-best-team-with-no-conflicts](https://github.com/gauthamnholla/coding-practice/tree/master/1626-best-team-with-no-conflicts) |
 | [1628-count-submatrices-with-all-ones](https://github.com/gauthamnholla/coding-practice/tree/master/1628-count-submatrices-with-all-ones) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/gauthamnholla/coding-practice/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [1641-count-sorted-vowel-strings](https://github.com/gauthamnholla/coding-practice/tree/master/1641-count-sorted-vowel-strings) |
 | [1643-kth-smallest-instructions](https://github.com/gauthamnholla/coding-practice/tree/master/1643-kth-smallest-instructions) |
 | [1654-minimum-jumps-to-reach-home](https://github.com/gauthamnholla/coding-practice/tree/master/1654-minimum-jumps-to-reach-home) |
 | [1655-distribute-repeating-integers](https://github.com/gauthamnholla/coding-practice/tree/master/1655-distribute-repeating-integers) |
@@ -3402,6 +3403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/gauthamnholla/coding-practice/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1622-fancy-sequence](https://github.com/gauthamnholla/coding-practice/tree/master/1622-fancy-sequence) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/gauthamnholla/coding-practice/tree/master/1636-number-of-substrings-with-only-1s) |
+| [1641-count-sorted-vowel-strings](https://github.com/gauthamnholla/coding-practice/tree/master/1641-count-sorted-vowel-strings) |
 | [1642-water-bottles](https://github.com/gauthamnholla/coding-practice/tree/master/1642-water-bottles) |
 | [1643-kth-smallest-instructions](https://github.com/gauthamnholla/coding-practice/tree/master/1643-kth-smallest-instructions) |
 | [1648-sell-diminishing-valued-colored-balls](https://github.com/gauthamnholla/coding-practice/tree/master/1648-sell-diminishing-valued-colored-balls) |
@@ -5589,6 +5591,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1467-probability-of-a-two-boxes-having-the-same-number-of-distinct-balls](https://github.com/gauthamnholla/coding-practice/tree/master/1467-probability-of-a-two-boxes-having-the-same-number-of-distinct-balls) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/gauthamnholla/coding-practice/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/gauthamnholla/coding-practice/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+| [1641-count-sorted-vowel-strings](https://github.com/gauthamnholla/coding-practice/tree/master/1641-count-sorted-vowel-strings) |
 | [1643-kth-smallest-instructions](https://github.com/gauthamnholla/coding-practice/tree/master/1643-kth-smallest-instructions) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/gauthamnholla/coding-practice/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1916-count-ways-to-build-rooms-in-an-ant-colony](https://github.com/gauthamnholla/coding-practice/tree/master/1916-count-ways-to-build-rooms-in-an-ant-colony) |
