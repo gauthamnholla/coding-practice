@@ -2486,6 +2486,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1352-product-of-the-last-k-numbers](https://github.com/gauthamnholla/coding-practice/tree/master/1352-product-of-the-last-k-numbers) |
 | [1472-design-browser-history](https://github.com/gauthamnholla/coding-practice/tree/master/1472-design-browser-history) |
 | [1600-throne-inheritance](https://github.com/gauthamnholla/coding-practice/tree/master/1600-throne-inheritance) |
+| [1622-fancy-sequence](https://github.com/gauthamnholla/coding-practice/tree/master/1622-fancy-sequence) |
 | [1656-design-an-ordered-stream](https://github.com/gauthamnholla/coding-practice/tree/master/1656-design-an-ordered-stream) |
 | [1670-design-front-middle-back-queue](https://github.com/gauthamnholla/coding-practice/tree/master/1670-design-front-middle-back-queue) |
 | [1845-seat-reservation-manager](https://github.com/gauthamnholla/coding-practice/tree/master/1845-seat-reservation-manager) |
@@ -3399,6 +3400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/gauthamnholla/coding-practice/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1610-maximum-number-of-visible-points](https://github.com/gauthamnholla/coding-practice/tree/master/1610-maximum-number-of-visible-points) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/gauthamnholla/coding-practice/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+| [1622-fancy-sequence](https://github.com/gauthamnholla/coding-practice/tree/master/1622-fancy-sequence) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/gauthamnholla/coding-practice/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1642-water-bottles](https://github.com/gauthamnholla/coding-practice/tree/master/1642-water-bottles) |
 | [1643-kth-smallest-instructions](https://github.com/gauthamnholla/coding-practice/tree/master/1643-kth-smallest-instructions) |
@@ -4525,6 +4527,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0850-rectangle-area-ii](https://github.com/gauthamnholla/coding-practice/tree/master/0850-rectangle-area-ii) |
 | [1157-online-majority-element-in-subarray](https://github.com/gauthamnholla/coding-practice/tree/master/1157-online-majority-element-in-subarray) |
 | [1395-count-number-of-teams](https://github.com/gauthamnholla/coding-practice/tree/master/1395-count-number-of-teams) |
+| [1622-fancy-sequence](https://github.com/gauthamnholla/coding-practice/tree/master/1622-fancy-sequence) |
 | [1649-create-sorted-array-through-instructions](https://github.com/gauthamnholla/coding-practice/tree/master/1649-create-sorted-array-through-instructions) |
 | [1687-delivering-boxes-from-storage-to-ports](https://github.com/gauthamnholla/coding-practice/tree/master/1687-delivering-boxes-from-storage-to-ports) |
 | [2179-count-good-triplets-in-an-array](https://github.com/gauthamnholla/coding-practice/tree/master/2179-count-good-triplets-in-an-array) |
