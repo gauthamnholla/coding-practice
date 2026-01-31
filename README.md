@@ -3423,6 +3423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1739-building-boxes](https://github.com/gauthamnholla/coding-practice/tree/master/1739-building-boxes) |
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/gauthamnholla/coding-practice/tree/master/1742-maximum-number-of-balls-in-a-box) |
 | [1753-maximum-score-from-removing-stones](https://github.com/gauthamnholla/coding-practice/tree/master/1753-maximum-score-from-removing-stones) |
+| [1759-count-number-of-homogenous-substrings](https://github.com/gauthamnholla/coding-practice/tree/master/1759-count-number-of-homogenous-substrings) |
 | [1766-tree-of-coprimes](https://github.com/gauthamnholla/coding-practice/tree/master/1766-tree-of-coprimes) |
 | [1776-car-fleet-ii](https://github.com/gauthamnholla/coding-practice/tree/master/1776-car-fleet-ii) |
 | [1799-maximize-score-after-n-operations](https://github.com/gauthamnholla/coding-practice/tree/master/1799-maximize-score-after-n-operations) |
@@ -3751,6 +3752,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/gauthamnholla/coding-practice/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/gauthamnholla/coding-practice/tree/master/1750-minimum-length-of-string-after-deleting-similar-ends) |
 | [1754-largest-merge-of-two-strings](https://github.com/gauthamnholla/coding-practice/tree/master/1754-largest-merge-of-two-strings) |
+| [1759-count-number-of-homogenous-substrings](https://github.com/gauthamnholla/coding-practice/tree/master/1759-count-number-of-homogenous-substrings) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/gauthamnholla/coding-practice/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1773-count-items-matching-a-rule](https://github.com/gauthamnholla/coding-practice/tree/master/1773-count-items-matching-a-rule) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/gauthamnholla/coding-practice/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
