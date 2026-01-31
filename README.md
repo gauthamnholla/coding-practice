@@ -2767,6 +2767,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/gauthamnholla/coding-practice/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/gauthamnholla/coding-practice/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/gauthamnholla/coding-practice/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/gauthamnholla/coding-practice/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1626-best-team-with-no-conflicts](https://github.com/gauthamnholla/coding-practice/tree/master/1626-best-team-with-no-conflicts) |
 | [1628-count-submatrices-with-all-ones](https://github.com/gauthamnholla/coding-practice/tree/master/1628-count-submatrices-with-all-ones) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/gauthamnholla/coding-practice/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
@@ -3397,6 +3398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1577-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers](https://github.com/gauthamnholla/coding-practice/tree/master/1577-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/gauthamnholla/coding-practice/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1610-maximum-number-of-visible-points](https://github.com/gauthamnholla/coding-practice/tree/master/1610-maximum-number-of-visible-points) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/gauthamnholla/coding-practice/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/gauthamnholla/coding-practice/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1642-water-bottles](https://github.com/gauthamnholla/coding-practice/tree/master/1642-water-bottles) |
 | [1643-kth-smallest-instructions](https://github.com/gauthamnholla/coding-practice/tree/master/1643-kth-smallest-instructions) |
@@ -4593,6 +4595,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/gauthamnholla/coding-practice/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/gauthamnholla/coding-practice/tree/master/1589-maximum-sum-obtained-of-any-permutation) |
 | [1590-make-sum-divisible-by-p](https://github.com/gauthamnholla/coding-practice/tree/master/1590-make-sum-divisible-by-p) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/gauthamnholla/coding-practice/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/gauthamnholla/coding-practice/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/gauthamnholla/coding-practice/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/gauthamnholla/coding-practice/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
@@ -5582,6 +5585,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1359-count-all-valid-pickup-and-delivery-options](https://github.com/gauthamnholla/coding-practice/tree/master/1359-count-all-valid-pickup-and-delivery-options) |
 | [1467-probability-of-a-two-boxes-having-the-same-number-of-distinct-balls](https://github.com/gauthamnholla/coding-practice/tree/master/1467-probability-of-a-two-boxes-having-the-same-number-of-distinct-balls) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/gauthamnholla/coding-practice/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/gauthamnholla/coding-practice/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1643-kth-smallest-instructions](https://github.com/gauthamnholla/coding-practice/tree/master/1643-kth-smallest-instructions) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/gauthamnholla/coding-practice/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1916-count-ways-to-build-rooms-in-an-ant-colony](https://github.com/gauthamnholla/coding-practice/tree/master/1916-count-ways-to-build-rooms-in-an-ant-colony) |
