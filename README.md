@@ -648,6 +648,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1814-count-nice-pairs-in-an-array](https://github.com/gauthamnholla/coding-practice/tree/master/1814-count-nice-pairs-in-an-array) |
 | [1818-minimum-absolute-sum-difference](https://github.com/gauthamnholla/coding-practice/tree/master/1818-minimum-absolute-sum-difference) |
 | [1819-number-of-different-subsequences-gcds](https://github.com/gauthamnholla/coding-practice/tree/master/1819-number-of-different-subsequences-gcds) |
+| [1822-sign-of-the-product-of-an-array](https://github.com/gauthamnholla/coding-practice/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1829-maximum-xor-for-each-query](https://github.com/gauthamnholla/coding-practice/tree/master/1829-maximum-xor-for-each-query) |
 | [1833-maximum-ice-cream-bars](https://github.com/gauthamnholla/coding-practice/tree/master/1833-maximum-ice-cream-bars) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/gauthamnholla/coding-practice/tree/master/1834-minimum-number-of-people-to-teach) |
@@ -3443,6 +3444,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1814-count-nice-pairs-in-an-array](https://github.com/gauthamnholla/coding-practice/tree/master/1814-count-nice-pairs-in-an-array) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/gauthamnholla/coding-practice/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [1819-number-of-different-subsequences-gcds](https://github.com/gauthamnholla/coding-practice/tree/master/1819-number-of-different-subsequences-gcds) |
+| [1822-sign-of-the-product-of-an-array](https://github.com/gauthamnholla/coding-practice/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1840-maximum-building-height](https://github.com/gauthamnholla/coding-practice/tree/master/1840-maximum-building-height) |
 | [1862-sum-of-floored-pairs](https://github.com/gauthamnholla/coding-practice/tree/master/1862-sum-of-floored-pairs) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/gauthamnholla/coding-practice/tree/master/1863-sum-of-all-subset-xor-totals) |
