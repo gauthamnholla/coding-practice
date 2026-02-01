@@ -534,6 +534,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/gauthamnholla/coding-practice/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [1509-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/gauthamnholla/coding-practice/tree/master/1509-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/gauthamnholla/coding-practice/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1512-number-of-good-pairs](https://github.com/gauthamnholla/coding-practice/tree/master/1512-number-of-good-pairs) |
 | [1514-path-with-maximum-probability](https://github.com/gauthamnholla/coding-practice/tree/master/1514-path-with-maximum-probability) |
 | [1515-best-position-for-a-service-centre](https://github.com/gauthamnholla/coding-practice/tree/master/1515-best-position-for-a-service-centre) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/gauthamnholla/coding-practice/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
@@ -2277,6 +2278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/gauthamnholla/coding-practice/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/gauthamnholla/coding-practice/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/gauthamnholla/coding-practice/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1512-number-of-good-pairs](https://github.com/gauthamnholla/coding-practice/tree/master/1512-number-of-good-pairs) |
 | [1519-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/gauthamnholla/coding-practice/tree/master/1519-number-of-nodes-in-the-sub-tree-with-the-same-label) |
 | [1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target](https://github.com/gauthamnholla/coding-practice/tree/master/1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target) |
 | [1577-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers](https://github.com/gauthamnholla/coding-practice/tree/master/1577-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers) |
@@ -3396,6 +3398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1478-allocate-mailboxes](https://github.com/gauthamnholla/coding-practice/tree/master/1478-allocate-mailboxes) |
 | [1486-xor-operation-in-an-array](https://github.com/gauthamnholla/coding-practice/tree/master/1486-xor-operation-in-an-array) |
 | [1510-stone-game-iv](https://github.com/gauthamnholla/coding-practice/tree/master/1510-stone-game-iv) |
+| [1512-number-of-good-pairs](https://github.com/gauthamnholla/coding-practice/tree/master/1512-number-of-good-pairs) |
 | [1515-best-position-for-a-service-centre](https://github.com/gauthamnholla/coding-practice/tree/master/1515-best-position-for-a-service-centre) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/gauthamnholla/coding-practice/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/gauthamnholla/coding-practice/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
@@ -5395,6 +5398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1366-rank-teams-by-votes](https://github.com/gauthamnholla/coding-practice/tree/master/1366-rank-teams-by-votes) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/gauthamnholla/coding-practice/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/gauthamnholla/coding-practice/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1512-number-of-good-pairs](https://github.com/gauthamnholla/coding-practice/tree/master/1512-number-of-good-pairs) |
 | [1519-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/gauthamnholla/coding-practice/tree/master/1519-number-of-nodes-in-the-sub-tree-with-the-same-label) |
 | [1655-distribute-repeating-integers](https://github.com/gauthamnholla/coding-practice/tree/master/1655-distribute-repeating-integers) |
 | [1657-determine-if-two-strings-are-close](https://github.com/gauthamnholla/coding-practice/tree/master/1657-determine-if-two-strings-are-close) |
