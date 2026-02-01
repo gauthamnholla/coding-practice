@@ -1312,6 +1312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2007-find-original-array-from-doubled-array](https://github.com/gauthamnholla/coding-practice/tree/master/2007-find-original-array-from-doubled-array) |
 | [2029-stone-game-ix](https://github.com/gauthamnholla/coding-practice/tree/master/2029-stone-game-ix) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/gauthamnholla/coding-practice/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
+| [2038-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/gauthamnholla/coding-practice/tree/master/2038-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 | [2071-maximum-number-of-tasks-you-can-assign](https://github.com/gauthamnholla/coding-practice/tree/master/2071-maximum-number-of-tasks-you-can-assign) |
 | [2126-destroying-asteroids](https://github.com/gauthamnholla/coding-practice/tree/master/2126-destroying-asteroids) |
 | [2132-stamping-the-grid](https://github.com/gauthamnholla/coding-practice/tree/master/2132-stamping-the-grid) |
@@ -3498,6 +3499,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2028-find-missing-observations](https://github.com/gauthamnholla/coding-practice/tree/master/2028-find-missing-observations) |
 | [2029-stone-game-ix](https://github.com/gauthamnholla/coding-practice/tree/master/2029-stone-game-ix) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/gauthamnholla/coding-practice/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
+| [2038-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/gauthamnholla/coding-practice/tree/master/2038-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 | [2101-detonate-the-maximum-bombs](https://github.com/gauthamnholla/coding-practice/tree/master/2101-detonate-the-maximum-bombs) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/gauthamnholla/coding-practice/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/gauthamnholla/coding-practice/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
@@ -3832,6 +3834,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2000-reverse-prefix-of-word](https://github.com/gauthamnholla/coding-practice/tree/master/2000-reverse-prefix-of-word) |
 | [2019-the-score-of-students-solving-math-expression](https://github.com/gauthamnholla/coding-practice/tree/master/2019-the-score-of-students-solving-math-expression) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/gauthamnholla/coding-practice/tree/master/2024-maximize-the-confusion-of-an-exam) |
+| [2038-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/gauthamnholla/coding-practice/tree/master/2038-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 | [2055-plates-between-candles](https://github.com/gauthamnholla/coding-practice/tree/master/2055-plates-between-candles) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/gauthamnholla/coding-practice/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/gauthamnholla/coding-practice/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
@@ -5650,6 +5653,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1872-stone-game-viii](https://github.com/gauthamnholla/coding-practice/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/gauthamnholla/coding-practice/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/gauthamnholla/coding-practice/tree/master/2029-stone-game-ix) |
+| [2038-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/gauthamnholla/coding-practice/tree/master/2038-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 | [3462-vowels-game-in-a-string](https://github.com/gauthamnholla/coding-practice/tree/master/3462-vowels-game-in-a-string) |
 | [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/gauthamnholla/coding-practice/tree/master/3627-maximum-median-sum-of-subsequences-of-size-3) |
 ## Number Theory
