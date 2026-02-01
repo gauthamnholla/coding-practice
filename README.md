@@ -3504,6 +3504,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2063-vowels-of-all-substrings](https://github.com/gauthamnholla/coding-practice/tree/master/2063-vowels-of-all-substrings) |
 | [2101-detonate-the-maximum-bombs](https://github.com/gauthamnholla/coding-practice/tree/master/2101-detonate-the-maximum-bombs) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/gauthamnholla/coding-practice/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
+| [2117-abbreviating-the-product-of-a-range](https://github.com/gauthamnholla/coding-practice/tree/master/2117-abbreviating-the-product-of-a-range) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/gauthamnholla/coding-practice/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/gauthamnholla/coding-practice/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2165-smallest-value-of-the-rearranged-number](https://github.com/gauthamnholla/coding-practice/tree/master/2165-smallest-value-of-the-rearranged-number) |
