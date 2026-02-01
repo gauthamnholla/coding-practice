@@ -1301,6 +1301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1962-remove-stones-to-minimize-the-total](https://github.com/gauthamnholla/coding-practice/tree/master/1962-remove-stones-to-minimize-the-total) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/gauthamnholla/coding-practice/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [1968-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/gauthamnholla/coding-practice/tree/master/1968-array-with-elements-not-equal-to-average-of-neighbors) |
+| [1969-minimum-non-zero-product-of-the-array-elements](https://github.com/gauthamnholla/coding-practice/tree/master/1969-minimum-non-zero-product-of-the-array-elements) |
 | [1975-maximum-matrix-sum](https://github.com/gauthamnholla/coding-practice/tree/master/1975-maximum-matrix-sum) |
 | [1996-the-number-of-weak-characters-in-the-game](https://github.com/gauthamnholla/coding-practice/tree/master/1996-the-number-of-weak-characters-in-the-game) |
 | [2007-find-original-array-from-doubled-array](https://github.com/gauthamnholla/coding-practice/tree/master/2007-find-original-array-from-doubled-array) |
@@ -3476,6 +3477,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1927-sum-game](https://github.com/gauthamnholla/coding-practice/tree/master/1927-sum-game) |
 | [1952-three-divisors](https://github.com/gauthamnholla/coding-practice/tree/master/1952-three-divisors) |
 | [1954-minimum-garden-perimeter-to-collect-enough-apples](https://github.com/gauthamnholla/coding-practice/tree/master/1954-minimum-garden-perimeter-to-collect-enough-apples) |
+| [1969-minimum-non-zero-product-of-the-array-elements](https://github.com/gauthamnholla/coding-practice/tree/master/1969-minimum-non-zero-product-of-the-array-elements) |
 | [1998-gcd-sort-of-an-array](https://github.com/gauthamnholla/coding-practice/tree/master/1998-gcd-sort-of-an-array) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/gauthamnholla/coding-practice/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2101-detonate-the-maximum-bombs](https://github.com/gauthamnholla/coding-practice/tree/master/2101-detonate-the-maximum-bombs) |
@@ -5099,6 +5101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1808-maximize-number-of-nice-divisors](https://github.com/gauthamnholla/coding-practice/tree/master/1808-maximize-number-of-nice-divisors) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/gauthamnholla/coding-practice/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1922-count-good-numbers](https://github.com/gauthamnholla/coding-practice/tree/master/1922-count-good-numbers) |
+| [1969-minimum-non-zero-product-of-the-array-elements](https://github.com/gauthamnholla/coding-practice/tree/master/1969-minimum-non-zero-product-of-the-array-elements) |
 | [2094-finding-3-digit-even-numbers](https://github.com/gauthamnholla/coding-practice/tree/master/2094-finding-3-digit-even-numbers) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/gauthamnholla/coding-practice/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/gauthamnholla/coding-practice/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
