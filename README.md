@@ -1297,6 +1297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1903-largest-odd-number-in-string](https://github.com/gauthamnholla/coding-practice/tree/master/1903-largest-odd-number-in-string) |
 | [1917-maximum-average-pass-ratio](https://github.com/gauthamnholla/coding-practice/tree/master/1917-maximum-average-pass-ratio) |
 | [1921-eliminate-maximum-number-of-monsters](https://github.com/gauthamnholla/coding-practice/tree/master/1921-eliminate-maximum-number-of-monsters) |
+| [1927-sum-game](https://github.com/gauthamnholla/coding-practice/tree/master/1927-sum-game) |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/gauthamnholla/coding-practice/tree/master/1962-remove-stones-to-minimize-the-total) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/gauthamnholla/coding-practice/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [1968-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/gauthamnholla/coding-practice/tree/master/1968-array-with-elements-not-equal-to-average-of-neighbors) |
@@ -3471,6 +3472,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1916-count-ways-to-build-rooms-in-an-ant-colony](https://github.com/gauthamnholla/coding-practice/tree/master/1916-count-ways-to-build-rooms-in-an-ant-colony) |
 | [1922-count-good-numbers](https://github.com/gauthamnholla/coding-practice/tree/master/1922-count-good-numbers) |
 | [1925-count-square-sum-triples](https://github.com/gauthamnholla/coding-practice/tree/master/1925-count-square-sum-triples) |
+| [1927-sum-game](https://github.com/gauthamnholla/coding-practice/tree/master/1927-sum-game) |
 | [1998-gcd-sort-of-an-array](https://github.com/gauthamnholla/coding-practice/tree/master/1998-gcd-sort-of-an-array) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/gauthamnholla/coding-practice/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2101-detonate-the-maximum-bombs](https://github.com/gauthamnholla/coding-practice/tree/master/2101-detonate-the-maximum-bombs) |
@@ -3800,6 +3802,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1898-maximum-number-of-removable-characters](https://github.com/gauthamnholla/coding-practice/tree/master/1898-maximum-number-of-removable-characters) |
 | [1903-largest-odd-number-in-string](https://github.com/gauthamnholla/coding-practice/tree/master/1903-largest-odd-number-in-string) |
 | [1915-number-of-wonderful-substrings](https://github.com/gauthamnholla/coding-practice/tree/master/1915-number-of-wonderful-substrings) |
+| [1927-sum-game](https://github.com/gauthamnholla/coding-practice/tree/master/1927-sum-game) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/gauthamnholla/coding-practice/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/gauthamnholla/coding-practice/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/gauthamnholla/coding-practice/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
@@ -5614,6 +5617,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1690-stone-game-vii](https://github.com/gauthamnholla/coding-practice/tree/master/1690-stone-game-vii) |
 | [1728-cat-and-mouse-ii](https://github.com/gauthamnholla/coding-practice/tree/master/1728-cat-and-mouse-ii) |
 | [1872-stone-game-viii](https://github.com/gauthamnholla/coding-practice/tree/master/1872-stone-game-viii) |
+| [1927-sum-game](https://github.com/gauthamnholla/coding-practice/tree/master/1927-sum-game) |
 | [3462-vowels-game-in-a-string](https://github.com/gauthamnholla/coding-practice/tree/master/3462-vowels-game-in-a-string) |
 | [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/gauthamnholla/coding-practice/tree/master/3627-maximum-median-sum-of-subsequences-of-size-3) |
 ## Number Theory
