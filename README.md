@@ -3469,6 +3469,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1896-minimum-cost-to-change-the-final-value-of-expression](https://github.com/gauthamnholla/coding-practice/tree/master/1896-minimum-cost-to-change-the-final-value-of-expression) |
 | [1903-largest-odd-number-in-string](https://github.com/gauthamnholla/coding-practice/tree/master/1903-largest-odd-number-in-string) |
 | [1916-count-ways-to-build-rooms-in-an-ant-colony](https://github.com/gauthamnholla/coding-practice/tree/master/1916-count-ways-to-build-rooms-in-an-ant-colony) |
+| [1922-count-good-numbers](https://github.com/gauthamnholla/coding-practice/tree/master/1922-count-good-numbers) |
 | [1925-count-square-sum-triples](https://github.com/gauthamnholla/coding-practice/tree/master/1925-count-square-sum-triples) |
 | [1998-gcd-sort-of-an-array](https://github.com/gauthamnholla/coding-practice/tree/master/1998-gcd-sort-of-an-array) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/gauthamnholla/coding-practice/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
@@ -5090,6 +5091,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/gauthamnholla/coding-practice/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1808-maximize-number-of-nice-divisors](https://github.com/gauthamnholla/coding-practice/tree/master/1808-maximize-number-of-nice-divisors) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/gauthamnholla/coding-practice/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [1922-count-good-numbers](https://github.com/gauthamnholla/coding-practice/tree/master/1922-count-good-numbers) |
 | [2094-finding-3-digit-even-numbers](https://github.com/gauthamnholla/coding-practice/tree/master/2094-finding-3-digit-even-numbers) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/gauthamnholla/coding-practice/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/gauthamnholla/coding-practice/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
