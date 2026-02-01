@@ -2038,6 +2038,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/gauthamnholla/coding-practice/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/gauthamnholla/coding-practice/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1925-count-square-sum-triples](https://github.com/gauthamnholla/coding-practice/tree/master/1925-count-square-sum-triples) |
+| [1952-three-divisors](https://github.com/gauthamnholla/coding-practice/tree/master/1952-three-divisors) |
 | [1958-check-if-move-is-legal](https://github.com/gauthamnholla/coding-practice/tree/master/1958-check-if-move-is-legal) |
 | [2018-check-if-word-can-be-placed-in-crossword](https://github.com/gauthamnholla/coding-practice/tree/master/2018-check-if-word-can-be-placed-in-crossword) |
 | [2025-maximum-number-of-ways-to-partition-an-array](https://github.com/gauthamnholla/coding-practice/tree/master/2025-maximum-number-of-ways-to-partition-an-array) |
@@ -3473,6 +3474,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1922-count-good-numbers](https://github.com/gauthamnholla/coding-practice/tree/master/1922-count-good-numbers) |
 | [1925-count-square-sum-triples](https://github.com/gauthamnholla/coding-practice/tree/master/1925-count-square-sum-triples) |
 | [1927-sum-game](https://github.com/gauthamnholla/coding-practice/tree/master/1927-sum-game) |
+| [1952-three-divisors](https://github.com/gauthamnholla/coding-practice/tree/master/1952-three-divisors) |
 | [1998-gcd-sort-of-an-array](https://github.com/gauthamnholla/coding-practice/tree/master/1998-gcd-sort-of-an-array) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/gauthamnholla/coding-practice/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2101-detonate-the-maximum-bombs](https://github.com/gauthamnholla/coding-practice/tree/master/2101-detonate-the-maximum-bombs) |
@@ -5638,6 +5640,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1799-maximize-score-after-n-operations](https://github.com/gauthamnholla/coding-practice/tree/master/1799-maximize-score-after-n-operations) |
 | [1808-maximize-number-of-nice-divisors](https://github.com/gauthamnholla/coding-practice/tree/master/1808-maximize-number-of-nice-divisors) |
 | [1819-number-of-different-subsequences-gcds](https://github.com/gauthamnholla/coding-practice/tree/master/1819-number-of-different-subsequences-gcds) |
+| [1952-three-divisors](https://github.com/gauthamnholla/coding-practice/tree/master/1952-three-divisors) |
 | [1998-gcd-sort-of-an-array](https://github.com/gauthamnholla/coding-practice/tree/master/1998-gcd-sort-of-an-array) |
 | [2280-minimum-lines-to-represent-a-line-chart](https://github.com/gauthamnholla/coding-practice/tree/master/2280-minimum-lines-to-represent-a-line-chart) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/gauthamnholla/coding-practice/tree/master/2307-replace-non-coprime-numbers-in-array) |
