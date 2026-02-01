@@ -700,6 +700,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1991-find-the-middle-index-in-array](https://github.com/gauthamnholla/coding-practice/tree/master/1991-find-the-middle-index-in-array) |
 | [1992-find-all-groups-of-farmland](https://github.com/gauthamnholla/coding-practice/tree/master/1992-find-all-groups-of-farmland) |
 | [1993-operations-on-tree](https://github.com/gauthamnholla/coding-practice/tree/master/1993-operations-on-tree) |
+| [1994-the-number-of-good-subsets](https://github.com/gauthamnholla/coding-practice/tree/master/1994-the-number-of-good-subsets) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/gauthamnholla/coding-practice/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [1996-the-number-of-weak-characters-in-the-game](https://github.com/gauthamnholla/coding-practice/tree/master/1996-the-number-of-weak-characters-in-the-game) |
 | [1998-gcd-sort-of-an-array](https://github.com/gauthamnholla/coding-practice/tree/master/1998-gcd-sort-of-an-array) |
@@ -2323,6 +2324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1942-the-number-of-the-smallest-unoccupied-chair](https://github.com/gauthamnholla/coding-practice/tree/master/1942-the-number-of-the-smallest-unoccupied-chair) |
 | [1943-describe-the-painting](https://github.com/gauthamnholla/coding-practice/tree/master/1943-describe-the-painting) |
 | [1993-operations-on-tree](https://github.com/gauthamnholla/coding-practice/tree/master/1993-operations-on-tree) |
+| [1994-the-number-of-good-subsets](https://github.com/gauthamnholla/coding-practice/tree/master/1994-the-number-of-good-subsets) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/gauthamnholla/coding-practice/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2007-find-original-array-from-doubled-array](https://github.com/gauthamnholla/coding-practice/tree/master/2007-find-original-array-from-doubled-array) |
 | [2008-maximum-earnings-from-taxi](https://github.com/gauthamnholla/coding-practice/tree/master/2008-maximum-earnings-from-taxi) |
@@ -2824,6 +2826,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1937-maximum-number-of-points-with-cost](https://github.com/gauthamnholla/coding-practice/tree/master/1937-maximum-number-of-points-with-cost) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/gauthamnholla/coding-practice/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [1981-minimize-the-difference-between-target-and-chosen-elements](https://github.com/gauthamnholla/coding-practice/tree/master/1981-minimize-the-difference-between-target-and-chosen-elements) |
+| [1994-the-number-of-good-subsets](https://github.com/gauthamnholla/coding-practice/tree/master/1994-the-number-of-good-subsets) |
 | [2008-maximum-earnings-from-taxi](https://github.com/gauthamnholla/coding-practice/tree/master/2008-maximum-earnings-from-taxi) |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/gauthamnholla/coding-practice/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/gauthamnholla/coding-practice/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
@@ -3478,6 +3481,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1952-three-divisors](https://github.com/gauthamnholla/coding-practice/tree/master/1952-three-divisors) |
 | [1954-minimum-garden-perimeter-to-collect-enough-apples](https://github.com/gauthamnholla/coding-practice/tree/master/1954-minimum-garden-perimeter-to-collect-enough-apples) |
 | [1969-minimum-non-zero-product-of-the-array-elements](https://github.com/gauthamnholla/coding-practice/tree/master/1969-minimum-non-zero-product-of-the-array-elements) |
+| [1994-the-number-of-good-subsets](https://github.com/gauthamnholla/coding-practice/tree/master/1994-the-number-of-good-subsets) |
 | [1998-gcd-sort-of-an-array](https://github.com/gauthamnholla/coding-practice/tree/master/1998-gcd-sort-of-an-array) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/gauthamnholla/coding-practice/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2101-detonate-the-maximum-bombs](https://github.com/gauthamnholla/coding-practice/tree/master/2101-detonate-the-maximum-bombs) |
@@ -4365,6 +4369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1863-sum-of-all-subset-xor-totals](https://github.com/gauthamnholla/coding-practice/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1915-number-of-wonderful-substrings](https://github.com/gauthamnholla/coding-practice/tree/master/1915-number-of-wonderful-substrings) |
 | [1938-maximum-genetic-difference-query](https://github.com/gauthamnholla/coding-practice/tree/master/1938-maximum-genetic-difference-query) |
+| [1994-the-number-of-good-subsets](https://github.com/gauthamnholla/coding-practice/tree/master/1994-the-number-of-good-subsets) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/gauthamnholla/coding-practice/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/gauthamnholla/coding-practice/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2135-count-words-obtained-after-adding-a-letter](https://github.com/gauthamnholla/coding-practice/tree/master/2135-count-words-obtained-after-adding-a-letter) |
@@ -5455,6 +5460,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1819-number-of-different-subsequences-gcds](https://github.com/gauthamnholla/coding-practice/tree/master/1819-number-of-different-subsequences-gcds) |
 | [1854-maximum-population-year](https://github.com/gauthamnholla/coding-practice/tree/master/1854-maximum-population-year) |
 | [1857-largest-color-value-in-a-directed-graph](https://github.com/gauthamnholla/coding-practice/tree/master/1857-largest-color-value-in-a-directed-graph) |
+| [1994-the-number-of-good-subsets](https://github.com/gauthamnholla/coding-practice/tree/master/1994-the-number-of-good-subsets) |
 | [2025-maximum-number-of-ways-to-partition-an-array](https://github.com/gauthamnholla/coding-practice/tree/master/2025-maximum-number-of-ways-to-partition-an-array) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/gauthamnholla/coding-practice/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/gauthamnholla/coding-practice/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
@@ -5646,6 +5652,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1808-maximize-number-of-nice-divisors](https://github.com/gauthamnholla/coding-practice/tree/master/1808-maximize-number-of-nice-divisors) |
 | [1819-number-of-different-subsequences-gcds](https://github.com/gauthamnholla/coding-practice/tree/master/1819-number-of-different-subsequences-gcds) |
 | [1952-three-divisors](https://github.com/gauthamnholla/coding-practice/tree/master/1952-three-divisors) |
+| [1994-the-number-of-good-subsets](https://github.com/gauthamnholla/coding-practice/tree/master/1994-the-number-of-good-subsets) |
 | [1998-gcd-sort-of-an-array](https://github.com/gauthamnholla/coding-practice/tree/master/1998-gcd-sort-of-an-array) |
 | [2280-minimum-lines-to-represent-a-line-chart](https://github.com/gauthamnholla/coding-practice/tree/master/2280-minimum-lines-to-represent-a-line-chart) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/gauthamnholla/coding-practice/tree/master/2307-replace-non-coprime-numbers-in-array) |
@@ -5931,6 +5938,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0805-split-array-with-same-average](https://github.com/gauthamnholla/coding-practice/tree/master/0805-split-array-with-same-average) |
 | [0943-find-the-shortest-superstring](https://github.com/gauthamnholla/coding-practice/tree/master/0943-find-the-shortest-superstring) |
 | [1755-closest-subsequence-sum](https://github.com/gauthamnholla/coding-practice/tree/master/1755-closest-subsequence-sum) |
+| [1994-the-number-of-good-subsets](https://github.com/gauthamnholla/coding-practice/tree/master/1994-the-number-of-good-subsets) |
 | [2791-count-paths-that-can-form-a-palindrome-in-a-tree](https://github.com/gauthamnholla/coding-practice/tree/master/2791-count-paths-that-can-form-a-palindrome-in-a-tree) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/gauthamnholla/coding-practice/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3376-minimum-time-to-break-locks-i](https://github.com/gauthamnholla/coding-practice/tree/master/3376-minimum-time-to-break-locks-i) |
