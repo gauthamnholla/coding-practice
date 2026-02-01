@@ -647,6 +647,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1813-sentence-similarity-iii](https://github.com/gauthamnholla/coding-practice/tree/master/1813-sentence-similarity-iii) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/gauthamnholla/coding-practice/tree/master/1814-count-nice-pairs-in-an-array) |
 | [1818-minimum-absolute-sum-difference](https://github.com/gauthamnholla/coding-practice/tree/master/1818-minimum-absolute-sum-difference) |
+| [1819-number-of-different-subsequences-gcds](https://github.com/gauthamnholla/coding-practice/tree/master/1819-number-of-different-subsequences-gcds) |
 | [1829-maximum-xor-for-each-query](https://github.com/gauthamnholla/coding-practice/tree/master/1829-maximum-xor-for-each-query) |
 | [1833-maximum-ice-cream-bars](https://github.com/gauthamnholla/coding-practice/tree/master/1833-maximum-ice-cream-bars) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/gauthamnholla/coding-practice/tree/master/1834-minimum-number-of-people-to-teach) |
@@ -3441,6 +3442,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1812-determine-color-of-a-chessboard-square](https://github.com/gauthamnholla/coding-practice/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/gauthamnholla/coding-practice/tree/master/1814-count-nice-pairs-in-an-array) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/gauthamnholla/coding-practice/tree/master/1817-calculate-money-in-leetcode-bank) |
+| [1819-number-of-different-subsequences-gcds](https://github.com/gauthamnholla/coding-practice/tree/master/1819-number-of-different-subsequences-gcds) |
 | [1840-maximum-building-height](https://github.com/gauthamnholla/coding-practice/tree/master/1840-maximum-building-height) |
 | [1862-sum-of-floored-pairs](https://github.com/gauthamnholla/coding-practice/tree/master/1862-sum-of-floored-pairs) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/gauthamnholla/coding-practice/tree/master/1863-sum-of-all-subset-xor-totals) |
@@ -5413,6 +5415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1775-equal-sum-arrays-with-minimum-number-of-operations](https://github.com/gauthamnholla/coding-practice/tree/master/1775-equal-sum-arrays-with-minimum-number-of-operations) |
 | [1782-count-pairs-of-nodes](https://github.com/gauthamnholla/coding-practice/tree/master/1782-count-pairs-of-nodes) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/gauthamnholla/coding-practice/tree/master/1814-count-nice-pairs-in-an-array) |
+| [1819-number-of-different-subsequences-gcds](https://github.com/gauthamnholla/coding-practice/tree/master/1819-number-of-different-subsequences-gcds) |
 | [1854-maximum-population-year](https://github.com/gauthamnholla/coding-practice/tree/master/1854-maximum-population-year) |
 | [1857-largest-color-value-in-a-directed-graph](https://github.com/gauthamnholla/coding-practice/tree/master/1857-largest-color-value-in-a-directed-graph) |
 | [2025-maximum-number-of-ways-to-partition-an-array](https://github.com/gauthamnholla/coding-practice/tree/master/2025-maximum-number-of-ways-to-partition-an-array) |
@@ -5601,6 +5604,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1766-tree-of-coprimes](https://github.com/gauthamnholla/coding-practice/tree/master/1766-tree-of-coprimes) |
 | [1799-maximize-score-after-n-operations](https://github.com/gauthamnholla/coding-practice/tree/master/1799-maximize-score-after-n-operations) |
 | [1808-maximize-number-of-nice-divisors](https://github.com/gauthamnholla/coding-practice/tree/master/1808-maximize-number-of-nice-divisors) |
+| [1819-number-of-different-subsequences-gcds](https://github.com/gauthamnholla/coding-practice/tree/master/1819-number-of-different-subsequences-gcds) |
 | [1998-gcd-sort-of-an-array](https://github.com/gauthamnholla/coding-practice/tree/master/1998-gcd-sort-of-an-array) |
 | [2280-minimum-lines-to-represent-a-line-chart](https://github.com/gauthamnholla/coding-practice/tree/master/2280-minimum-lines-to-represent-a-line-chart) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/gauthamnholla/coding-practice/tree/master/2307-replace-non-coprime-numbers-in-array) |
