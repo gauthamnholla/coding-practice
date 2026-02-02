@@ -789,6 +789,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2304-minimum-path-cost-in-a-grid](https://github.com/gauthamnholla/coding-practice/tree/master/2304-minimum-path-cost-in-a-grid) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/gauthamnholla/coding-practice/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/gauthamnholla/coding-practice/tree/master/2316-count-hills-and-valleys-in-an-array) |
+| [2317-maximum-xor-after-operations](https://github.com/gauthamnholla/coding-practice/tree/master/2317-maximum-xor-after-operations) |
 | [2319-check-if-matrix-is-x-matrix](https://github.com/gauthamnholla/coding-practice/tree/master/2319-check-if-matrix-is-x-matrix) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/gauthamnholla/coding-practice/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/gauthamnholla/coding-practice/tree/master/2324-find-triangular-sum-of-an-array) |
@@ -3545,6 +3546,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2288-count-operations-to-obtain-zero](https://github.com/gauthamnholla/coding-practice/tree/master/2288-count-operations-to-obtain-zero) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/gauthamnholla/coding-practice/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2310-sum-of-numbers-with-units-digit-k](https://github.com/gauthamnholla/coding-practice/tree/master/2310-sum-of-numbers-with-units-digit-k) |
+| [2317-maximum-xor-after-operations](https://github.com/gauthamnholla/coding-practice/tree/master/2317-maximum-xor-after-operations) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/gauthamnholla/coding-practice/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/gauthamnholla/coding-practice/tree/master/2344-minimum-deletions-to-make-array-divisible) |
 | [2396-strictly-palindromic-number](https://github.com/gauthamnholla/coding-practice/tree/master/2396-strictly-palindromic-number) |
@@ -4431,6 +4433,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2135-count-words-obtained-after-adding-a-letter](https://github.com/gauthamnholla/coding-practice/tree/master/2135-count-words-obtained-after-adding-a-letter) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/gauthamnholla/coding-practice/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2206-divide-array-into-equal-pairs](https://github.com/gauthamnholla/coding-practice/tree/master/2206-divide-array-into-equal-pairs) |
+| [2317-maximum-xor-after-operations](https://github.com/gauthamnholla/coding-practice/tree/master/2317-maximum-xor-after-operations) |
 | [2397-maximum-rows-covered-by-columns](https://github.com/gauthamnholla/coding-practice/tree/master/2397-maximum-rows-covered-by-columns) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/gauthamnholla/coding-practice/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/gauthamnholla/coding-practice/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
