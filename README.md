@@ -1323,6 +1323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/gauthamnholla/coding-practice/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/gauthamnholla/coding-practice/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2171-removing-minimum-number-of-magic-beans](https://github.com/gauthamnholla/coding-practice/tree/master/2171-removing-minimum-number-of-magic-beans) |
+| [2178-maximum-split-of-positive-even-integers](https://github.com/gauthamnholla/coding-practice/tree/master/2178-maximum-split-of-positive-even-integers) |
 | [2182-construct-string-with-repeat-limit](https://github.com/gauthamnholla/coding-practice/tree/master/2182-construct-string-with-repeat-limit) |
 | [2193-minimum-number-of-moves-to-make-palindrome](https://github.com/gauthamnholla/coding-practice/tree/master/2193-minimum-number-of-moves-to-make-palindrome) |
 | [2195-append-k-integers-with-minimal-sum](https://github.com/gauthamnholla/coding-practice/tree/master/2195-append-k-integers-with-minimal-sum) |
@@ -3515,6 +3516,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2165-smallest-value-of-the-rearranged-number](https://github.com/gauthamnholla/coding-practice/tree/master/2165-smallest-value-of-the-rearranged-number) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/gauthamnholla/coding-practice/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/gauthamnholla/coding-practice/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
+| [2178-maximum-split-of-positive-even-integers](https://github.com/gauthamnholla/coding-practice/tree/master/2178-maximum-split-of-positive-even-integers) |
 | [2195-append-k-integers-with-minimal-sum](https://github.com/gauthamnholla/coding-practice/tree/master/2195-append-k-integers-with-minimal-sum) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/gauthamnholla/coding-practice/tree/master/2202-sum-of-k-mirror-numbers) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/gauthamnholla/coding-practice/tree/master/2244-number-of-laser-beams-in-a-bank) |
@@ -4887,6 +4889,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2140-longest-subsequence-repeated-k-times](https://github.com/gauthamnholla/coding-practice/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/gauthamnholla/coding-practice/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/gauthamnholla/coding-practice/tree/master/2174-next-greater-numerically-balanced-number) |
+| [2178-maximum-split-of-positive-even-integers](https://github.com/gauthamnholla/coding-practice/tree/master/2178-maximum-split-of-positive-even-integers) |
 | [2189-maximum-path-quality-of-a-graph](https://github.com/gauthamnholla/coding-practice/tree/master/2189-maximum-path-quality-of-a-graph) |
 | [2397-maximum-rows-covered-by-columns](https://github.com/gauthamnholla/coding-practice/tree/master/2397-maximum-rows-covered-by-columns) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/gauthamnholla/coding-practice/tree/master/2597-the-number-of-beautiful-subsets) |
