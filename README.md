@@ -1317,6 +1317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2126-destroying-asteroids](https://github.com/gauthamnholla/coding-practice/tree/master/2126-destroying-asteroids) |
 | [2132-stamping-the-grid](https://github.com/gauthamnholla/coding-practice/tree/master/2132-stamping-the-grid) |
 | [2136-earliest-possible-day-of-full-bloom](https://github.com/gauthamnholla/coding-practice/tree/master/2136-earliest-possible-day-of-full-bloom) |
+| [2139-minimum-moves-to-reach-target-score](https://github.com/gauthamnholla/coding-practice/tree/master/2139-minimum-moves-to-reach-target-score) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/gauthamnholla/coding-practice/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/gauthamnholla/coding-practice/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/gauthamnholla/coding-practice/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -3507,6 +3508,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/gauthamnholla/coding-practice/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2117-abbreviating-the-product-of-a-range](https://github.com/gauthamnholla/coding-practice/tree/master/2117-abbreviating-the-product-of-a-range) |
 | [2119-a-number-after-a-double-reversal](https://github.com/gauthamnholla/coding-practice/tree/master/2119-a-number-after-a-double-reversal) |
+| [2139-minimum-moves-to-reach-target-score](https://github.com/gauthamnholla/coding-practice/tree/master/2139-minimum-moves-to-reach-target-score) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/gauthamnholla/coding-practice/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/gauthamnholla/coding-practice/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2165-smallest-value-of-the-rearranged-number](https://github.com/gauthamnholla/coding-practice/tree/master/2165-smallest-value-of-the-rearranged-number) |
