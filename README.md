@@ -805,6 +805,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/gauthamnholla/coding-practice/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2358-maximum-number-of-groups-entering-a-competition](https://github.com/gauthamnholla/coding-practice/tree/master/2358-maximum-number-of-groups-entering-a-competition) |
 | [2363-merge-similar-items](https://github.com/gauthamnholla/coding-practice/tree/master/2363-merge-similar-items) |
+| [2364-count-number-of-bad-pairs](https://github.com/gauthamnholla/coding-practice/tree/master/2364-count-number-of-bad-pairs) |
 | [2367-number-of-arithmetic-triplets](https://github.com/gauthamnholla/coding-practice/tree/master/2367-number-of-arithmetic-triplets) |
 | [2368-reachable-nodes-with-restrictions](https://github.com/gauthamnholla/coding-practice/tree/master/2368-reachable-nodes-with-restrictions) |
 | [2381-shifting-letters-ii](https://github.com/gauthamnholla/coding-practice/tree/master/2381-shifting-letters-ii) |
@@ -2373,6 +2374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/gauthamnholla/coding-practice/tree/master/2342-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/gauthamnholla/coding-practice/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2363-merge-similar-items](https://github.com/gauthamnholla/coding-practice/tree/master/2363-merge-similar-items) |
+| [2364-count-number-of-bad-pairs](https://github.com/gauthamnholla/coding-practice/tree/master/2364-count-number-of-bad-pairs) |
 | [2367-number-of-arithmetic-triplets](https://github.com/gauthamnholla/coding-practice/tree/master/2367-number-of-arithmetic-triplets) |
 | [2368-reachable-nodes-with-restrictions](https://github.com/gauthamnholla/coding-practice/tree/master/2368-reachable-nodes-with-restrictions) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/gauthamnholla/coding-practice/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
@@ -3554,6 +3556,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2338-count-the-number-of-ideal-arrays](https://github.com/gauthamnholla/coding-practice/tree/master/2338-count-the-number-of-ideal-arrays) |
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/gauthamnholla/coding-practice/tree/master/2344-minimum-deletions-to-make-array-divisible) |
 | [2358-maximum-number-of-groups-entering-a-competition](https://github.com/gauthamnholla/coding-practice/tree/master/2358-maximum-number-of-groups-entering-a-competition) |
+| [2364-count-number-of-bad-pairs](https://github.com/gauthamnholla/coding-practice/tree/master/2364-count-number-of-bad-pairs) |
 | [2396-strictly-palindromic-number](https://github.com/gauthamnholla/coding-practice/tree/master/2396-strictly-palindromic-number) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/gauthamnholla/coding-practice/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2440-create-components-with-same-value](https://github.com/gauthamnholla/coding-practice/tree/master/2440-create-components-with-same-value) |
@@ -5537,6 +5540,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2206-divide-array-into-equal-pairs](https://github.com/gauthamnholla/coding-practice/tree/master/2206-divide-array-into-equal-pairs) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/gauthamnholla/coding-practice/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2248-intersection-of-multiple-arrays](https://github.com/gauthamnholla/coding-practice/tree/master/2248-intersection-of-multiple-arrays) |
+| [2364-count-number-of-bad-pairs](https://github.com/gauthamnholla/coding-practice/tree/master/2364-count-number-of-bad-pairs) |
 | [2856-minimum-array-length-after-pair-removals](https://github.com/gauthamnholla/coding-practice/tree/master/2856-minimum-array-length-after-pair-removals) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/gauthamnholla/coding-practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3035-maximum-palindromes-after-operations](https://github.com/gauthamnholla/coding-practice/tree/master/3035-maximum-palindromes-after-operations) |
