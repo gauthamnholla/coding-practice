@@ -2588,6 +2588,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2161-partition-array-according-to-given-pivot](https://github.com/gauthamnholla/coding-practice/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2169-simple-bank-system](https://github.com/gauthamnholla/coding-practice/tree/master/2169-simple-bank-system) |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/gauthamnholla/coding-practice/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
+| [2180-count-integers-with-even-digit-sum](https://github.com/gauthamnholla/coding-practice/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2211-count-collisions-on-a-road](https://github.com/gauthamnholla/coding-practice/tree/master/2211-count-collisions-on-a-road) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/gauthamnholla/coding-practice/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/gauthamnholla/coding-practice/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -3517,6 +3518,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2174-next-greater-numerically-balanced-number](https://github.com/gauthamnholla/coding-practice/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/gauthamnholla/coding-practice/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2178-maximum-split-of-positive-even-integers](https://github.com/gauthamnholla/coding-practice/tree/master/2178-maximum-split-of-positive-even-integers) |
+| [2180-count-integers-with-even-digit-sum](https://github.com/gauthamnholla/coding-practice/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2195-append-k-integers-with-minimal-sum](https://github.com/gauthamnholla/coding-practice/tree/master/2195-append-k-integers-with-minimal-sum) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/gauthamnholla/coding-practice/tree/master/2202-sum-of-k-mirror-numbers) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/gauthamnholla/coding-practice/tree/master/2244-number-of-laser-beams-in-a-bank) |
