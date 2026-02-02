@@ -2878,6 +2878,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2310-sum-of-numbers-with-units-digit-k](https://github.com/gauthamnholla/coding-practice/tree/master/2310-sum-of-numbers-with-units-digit-k) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/gauthamnholla/coding-practice/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 | [2338-count-the-number-of-ideal-arrays](https://github.com/gauthamnholla/coding-practice/tree/master/2338-count-the-number-of-ideal-arrays) |
+| [2376-count-special-integers](https://github.com/gauthamnholla/coding-practice/tree/master/2376-count-special-integers) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/gauthamnholla/coding-practice/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/gauthamnholla/coding-practice/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2420-find-all-good-indices](https://github.com/gauthamnholla/coding-practice/tree/master/2420-find-all-good-indices) |
@@ -3560,6 +3561,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2358-maximum-number-of-groups-entering-a-competition](https://github.com/gauthamnholla/coding-practice/tree/master/2358-maximum-number-of-groups-entering-a-competition) |
 | [2364-count-number-of-bad-pairs](https://github.com/gauthamnholla/coding-practice/tree/master/2364-count-number-of-bad-pairs) |
 | [2366-minimum-replacements-to-sort-the-array](https://github.com/gauthamnholla/coding-practice/tree/master/2366-minimum-replacements-to-sort-the-array) |
+| [2376-count-special-integers](https://github.com/gauthamnholla/coding-practice/tree/master/2376-count-special-integers) |
 | [2396-strictly-palindromic-number](https://github.com/gauthamnholla/coding-practice/tree/master/2396-strictly-palindromic-number) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/gauthamnholla/coding-practice/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2440-create-components-with-same-value](https://github.com/gauthamnholla/coding-practice/tree/master/2440-create-components-with-same-value) |
