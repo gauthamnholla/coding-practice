@@ -2062,6 +2062,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2174-next-greater-numerically-balanced-number](https://github.com/gauthamnholla/coding-practice/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/gauthamnholla/coding-practice/tree/master/2202-sum-of-k-mirror-numbers) |
 | [2234-maximum-total-beauty-of-the-gardens](https://github.com/gauthamnholla/coding-practice/tree/master/2234-maximum-total-beauty-of-the-gardens) |
+| [2240-number-of-ways-to-buy-pens-and-pencils](https://github.com/gauthamnholla/coding-practice/tree/master/2240-number-of-ways-to-buy-pens-and-pencils) |
 | [2242-maximum-score-of-a-node-sequence](https://github.com/gauthamnholla/coding-practice/tree/master/2242-maximum-score-of-a-node-sequence) |
 | [2367-number-of-arithmetic-triplets](https://github.com/gauthamnholla/coding-practice/tree/master/2367-number-of-arithmetic-triplets) |
 | [2397-maximum-rows-covered-by-columns](https://github.com/gauthamnholla/coding-practice/tree/master/2397-maximum-rows-covered-by-columns) |
@@ -3526,6 +3527,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2202-sum-of-k-mirror-numbers](https://github.com/gauthamnholla/coding-practice/tree/master/2202-sum-of-k-mirror-numbers) |
 | [2217-find-palindrome-with-fixed-length](https://github.com/gauthamnholla/coding-practice/tree/master/2217-find-palindrome-with-fixed-length) |
 | [2235-add-two-integers](https://github.com/gauthamnholla/coding-practice/tree/master/2235-add-two-integers) |
+| [2240-number-of-ways-to-buy-pens-and-pencils](https://github.com/gauthamnholla/coding-practice/tree/master/2240-number-of-ways-to-buy-pens-and-pencils) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/gauthamnholla/coding-practice/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2280-minimum-lines-to-represent-a-line-chart](https://github.com/gauthamnholla/coding-practice/tree/master/2280-minimum-lines-to-represent-a-line-chart) |
 | [2288-count-operations-to-obtain-zero](https://github.com/gauthamnholla/coding-practice/tree/master/2288-count-operations-to-obtain-zero) |
