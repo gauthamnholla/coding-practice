@@ -866,6 +866,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2527-find-xor-beauty-of-array](https://github.com/gauthamnholla/coding-practice/tree/master/2527-find-xor-beauty-of-array) |
 | [2529-range-product-queries-of-powers](https://github.com/gauthamnholla/coding-practice/tree/master/2529-range-product-queries-of-powers) |
 | [2532-time-to-cross-a-bridge](https://github.com/gauthamnholla/coding-practice/tree/master/2532-time-to-cross-a-bridge) |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/gauthamnholla/coding-practice/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2538-difference-between-maximum-and-minimum-price-sum](https://github.com/gauthamnholla/coding-practice/tree/master/2538-difference-between-maximum-and-minimum-price-sum) |
 | [2540-minimum-common-value](https://github.com/gauthamnholla/coding-practice/tree/master/2540-minimum-common-value) |
 | [2542-maximum-subsequence-score](https://github.com/gauthamnholla/coding-practice/tree/master/2542-maximum-subsequence-score) |
@@ -3601,6 +3602,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/gauthamnholla/coding-practice/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [2525-categorize-box-according-to-criteria](https://github.com/gauthamnholla/coding-practice/tree/master/2525-categorize-box-according-to-criteria) |
 | [2527-find-xor-beauty-of-array](https://github.com/gauthamnholla/coding-practice/tree/master/2527-find-xor-beauty-of-array) |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/gauthamnholla/coding-practice/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2575-find-the-divisibility-array-of-a-string](https://github.com/gauthamnholla/coding-practice/tree/master/2575-find-the-divisibility-array-of-a-string) |
 | [2578-split-with-minimum-sum](https://github.com/gauthamnholla/coding-practice/tree/master/2578-split-with-minimum-sum) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/gauthamnholla/coding-practice/tree/master/2597-the-number-of-beautiful-subsets) |
