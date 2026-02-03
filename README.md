@@ -863,6 +863,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2512-reward-top-k-students](https://github.com/gauthamnholla/coding-practice/tree/master/2512-reward-top-k-students) |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/gauthamnholla/coding-practice/tree/master/2517-maximum-tastiness-of-candy-basket) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/gauthamnholla/coding-practice/tree/master/2521-distinct-prime-factors-of-product-of-array) |
+| [2527-find-xor-beauty-of-array](https://github.com/gauthamnholla/coding-practice/tree/master/2527-find-xor-beauty-of-array) |
 | [2529-range-product-queries-of-powers](https://github.com/gauthamnholla/coding-practice/tree/master/2529-range-product-queries-of-powers) |
 | [2532-time-to-cross-a-bridge](https://github.com/gauthamnholla/coding-practice/tree/master/2532-time-to-cross-a-bridge) |
 | [2538-difference-between-maximum-and-minimum-price-sum](https://github.com/gauthamnholla/coding-practice/tree/master/2538-difference-between-maximum-and-minimum-price-sum) |
@@ -3599,6 +3600,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2520-count-the-digits-that-divide-a-number](https://github.com/gauthamnholla/coding-practice/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/gauthamnholla/coding-practice/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [2525-categorize-box-according-to-criteria](https://github.com/gauthamnholla/coding-practice/tree/master/2525-categorize-box-according-to-criteria) |
+| [2527-find-xor-beauty-of-array](https://github.com/gauthamnholla/coding-practice/tree/master/2527-find-xor-beauty-of-array) |
 | [2575-find-the-divisibility-array-of-a-string](https://github.com/gauthamnholla/coding-practice/tree/master/2575-find-the-divisibility-array-of-a-string) |
 | [2578-split-with-minimum-sum](https://github.com/gauthamnholla/coding-practice/tree/master/2578-split-with-minimum-sum) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/gauthamnholla/coding-practice/tree/master/2597-the-number-of-beautiful-subsets) |
@@ -4485,6 +4487,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/gauthamnholla/coding-practice/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/gauthamnholla/coding-practice/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/gauthamnholla/coding-practice/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [2527-find-xor-beauty-of-array](https://github.com/gauthamnholla/coding-practice/tree/master/2527-find-xor-beauty-of-array) |
 | [2529-range-product-queries-of-powers](https://github.com/gauthamnholla/coding-practice/tree/master/2529-range-product-queries-of-powers) |
 | [2680-maximum-or](https://github.com/gauthamnholla/coding-practice/tree/master/2680-maximum-or) |
 | [2732-find-a-good-subset-of-the-matrix](https://github.com/gauthamnholla/coding-practice/tree/master/2732-find-a-good-subset-of-the-matrix) |
