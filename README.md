@@ -3612,6 +3612,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2543-check-if-point-is-reachable](https://github.com/gauthamnholla/coding-practice/tree/master/2543-check-if-point-is-reachable) |
 | [2544-alternating-digit-sum](https://github.com/gauthamnholla/coding-practice/tree/master/2544-alternating-digit-sum) |
 | [2549-count-distinct-numbers-on-board](https://github.com/gauthamnholla/coding-practice/tree/master/2549-count-distinct-numbers-on-board) |
+| [2550-count-collisions-of-monkeys-on-a-polygon](https://github.com/gauthamnholla/coding-practice/tree/master/2550-count-collisions-of-monkeys-on-a-polygon) |
 | [2575-find-the-divisibility-array-of-a-string](https://github.com/gauthamnholla/coding-practice/tree/master/2575-find-the-divisibility-array-of-a-string) |
 | [2578-split-with-minimum-sum](https://github.com/gauthamnholla/coding-practice/tree/master/2578-split-with-minimum-sum) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/gauthamnholla/coding-practice/tree/master/2597-the-number-of-beautiful-subsets) |
@@ -5230,6 +5231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1922-count-good-numbers](https://github.com/gauthamnholla/coding-practice/tree/master/1922-count-good-numbers) |
 | [1969-minimum-non-zero-product-of-the-array-elements](https://github.com/gauthamnholla/coding-practice/tree/master/1969-minimum-non-zero-product-of-the-array-elements) |
 | [2094-finding-3-digit-even-numbers](https://github.com/gauthamnholla/coding-practice/tree/master/2094-finding-3-digit-even-numbers) |
+| [2550-count-collisions-of-monkeys-on-a-polygon](https://github.com/gauthamnholla/coding-practice/tree/master/2550-count-collisions-of-monkeys-on-a-polygon) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/gauthamnholla/coding-practice/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/gauthamnholla/coding-practice/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Ordered Set
