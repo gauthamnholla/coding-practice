@@ -872,6 +872,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2541-minimum-operations-to-make-array-equal-ii](https://github.com/gauthamnholla/coding-practice/tree/master/2541-minimum-operations-to-make-array-equal-ii) |
 | [2542-maximum-subsequence-score](https://github.com/gauthamnholla/coding-practice/tree/master/2542-maximum-subsequence-score) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/gauthamnholla/coding-practice/tree/master/2545-sort-the-students-by-their-kth-score) |
+| [2549-count-distinct-numbers-on-board](https://github.com/gauthamnholla/coding-practice/tree/master/2549-count-distinct-numbers-on-board) |
 | [2551-put-marbles-in-bags](https://github.com/gauthamnholla/coding-practice/tree/master/2551-put-marbles-in-bags) |
 | [2552-count-increasing-quadruplets](https://github.com/gauthamnholla/coding-practice/tree/master/2552-count-increasing-quadruplets) |
 | [2556-disconnect-path-in-a-binary-matrix-by-at-most-one-flip](https://github.com/gauthamnholla/coding-practice/tree/master/2556-disconnect-path-in-a-binary-matrix-by-at-most-one-flip) |
@@ -2412,6 +2413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/gauthamnholla/coding-practice/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/gauthamnholla/coding-practice/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [2540-minimum-common-value](https://github.com/gauthamnholla/coding-practice/tree/master/2540-minimum-common-value) |
+| [2549-count-distinct-numbers-on-board](https://github.com/gauthamnholla/coding-practice/tree/master/2549-count-distinct-numbers-on-board) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/gauthamnholla/coding-practice/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [2581-count-number-of-possible-root-nodes](https://github.com/gauthamnholla/coding-practice/tree/master/2581-count-number-of-possible-root-nodes) |
 | [2596-add-edges-to-make-degrees-of-all-nodes-even](https://github.com/gauthamnholla/coding-practice/tree/master/2596-add-edges-to-make-degrees-of-all-nodes-even) |
@@ -2639,6 +2641,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/gauthamnholla/coding-practice/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/gauthamnholla/coding-practice/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
 | [2532-time-to-cross-a-bridge](https://github.com/gauthamnholla/coding-practice/tree/master/2532-time-to-cross-a-bridge) |
+| [2549-count-distinct-numbers-on-board](https://github.com/gauthamnholla/coding-practice/tree/master/2549-count-distinct-numbers-on-board) |
 | [2562-find-the-array-concatenation-value](https://github.com/gauthamnholla/coding-practice/tree/master/2562-find-the-array-concatenation-value) |
 | [2596-check-knight-tour-configuration](https://github.com/gauthamnholla/coding-practice/tree/master/2596-check-knight-tour-configuration) |
 | [2751-robot-collisions](https://github.com/gauthamnholla/coding-practice/tree/master/2751-robot-collisions) |
@@ -3608,6 +3611,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2541-minimum-operations-to-make-array-equal-ii](https://github.com/gauthamnholla/coding-practice/tree/master/2541-minimum-operations-to-make-array-equal-ii) |
 | [2543-check-if-point-is-reachable](https://github.com/gauthamnholla/coding-practice/tree/master/2543-check-if-point-is-reachable) |
 | [2544-alternating-digit-sum](https://github.com/gauthamnholla/coding-practice/tree/master/2544-alternating-digit-sum) |
+| [2549-count-distinct-numbers-on-board](https://github.com/gauthamnholla/coding-practice/tree/master/2549-count-distinct-numbers-on-board) |
 | [2575-find-the-divisibility-array-of-a-string](https://github.com/gauthamnholla/coding-practice/tree/master/2575-find-the-divisibility-array-of-a-string) |
 | [2578-split-with-minimum-sum](https://github.com/gauthamnholla/coding-practice/tree/master/2578-split-with-minimum-sum) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/gauthamnholla/coding-practice/tree/master/2597-the-number-of-beautiful-subsets) |
