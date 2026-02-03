@@ -887,6 +887,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2576-find-the-maximum-number-of-marked-indices](https://github.com/gauthamnholla/coding-practice/tree/master/2576-find-the-maximum-number-of-marked-indices) |
 | [2580-count-ways-to-group-overlapping-ranges](https://github.com/gauthamnholla/coding-practice/tree/master/2580-count-ways-to-group-overlapping-ranges) |
 | [2581-count-number-of-possible-root-nodes](https://github.com/gauthamnholla/coding-practice/tree/master/2581-count-number-of-possible-root-nodes) |
+| [2584-split-the-array-to-make-coprime-products](https://github.com/gauthamnholla/coding-practice/tree/master/2584-split-the-array-to-make-coprime-products) |
 | [2587-rearrange-array-to-maximize-prefix-score](https://github.com/gauthamnholla/coding-practice/tree/master/2587-rearrange-array-to-maximize-prefix-score) |
 | [2589-minimum-time-to-complete-all-tasks](https://github.com/gauthamnholla/coding-practice/tree/master/2589-minimum-time-to-complete-all-tasks) |
 | [2592-maximize-greatness-of-an-array](https://github.com/gauthamnholla/coding-practice/tree/master/2592-maximize-greatness-of-an-array) |
@@ -2417,6 +2418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2549-count-distinct-numbers-on-board](https://github.com/gauthamnholla/coding-practice/tree/master/2549-count-distinct-numbers-on-board) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/gauthamnholla/coding-practice/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [2581-count-number-of-possible-root-nodes](https://github.com/gauthamnholla/coding-practice/tree/master/2581-count-number-of-possible-root-nodes) |
+| [2584-split-the-array-to-make-coprime-products](https://github.com/gauthamnholla/coding-practice/tree/master/2584-split-the-array-to-make-coprime-products) |
 | [2596-add-edges-to-make-degrees-of-all-nodes-even](https://github.com/gauthamnholla/coding-practice/tree/master/2596-add-edges-to-make-degrees-of-all-nodes-even) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/gauthamnholla/coding-practice/tree/master/2597-the-number-of-beautiful-subsets) |
 | [2615-sum-of-distances](https://github.com/gauthamnholla/coding-practice/tree/master/2615-sum-of-distances) |
@@ -3621,6 +3623,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2578-split-with-minimum-sum](https://github.com/gauthamnholla/coding-practice/tree/master/2578-split-with-minimum-sum) |
 | [2579-count-total-number-of-colored-cells](https://github.com/gauthamnholla/coding-practice/tree/master/2579-count-total-number-of-colored-cells) |
 | [2582-pass-the-pillow](https://github.com/gauthamnholla/coding-practice/tree/master/2582-pass-the-pillow) |
+| [2584-split-the-array-to-make-coprime-products](https://github.com/gauthamnholla/coding-practice/tree/master/2584-split-the-array-to-make-coprime-products) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/gauthamnholla/coding-practice/tree/master/2597-the-number-of-beautiful-subsets) |
 | [2607-make-k-subarray-sums-equal](https://github.com/gauthamnholla/coding-practice/tree/master/2607-make-k-subarray-sums-equal) |
 | [2614-prime-in-diagonal](https://github.com/gauthamnholla/coding-practice/tree/master/2614-prime-in-diagonal) |
@@ -5807,6 +5810,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/gauthamnholla/coding-practice/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/gauthamnholla/coding-practice/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [2543-check-if-point-is-reachable](https://github.com/gauthamnholla/coding-practice/tree/master/2543-check-if-point-is-reachable) |
+| [2584-split-the-array-to-make-coprime-products](https://github.com/gauthamnholla/coding-practice/tree/master/2584-split-the-array-to-make-coprime-products) |
 | [2607-make-k-subarray-sums-equal](https://github.com/gauthamnholla/coding-practice/tree/master/2607-make-k-subarray-sums-equal) |
 | [2614-prime-in-diagonal](https://github.com/gauthamnholla/coding-practice/tree/master/2614-prime-in-diagonal) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/gauthamnholla/coding-practice/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
