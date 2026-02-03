@@ -3598,6 +3598,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2514-count-anagrams](https://github.com/gauthamnholla/coding-practice/tree/master/2514-count-anagrams) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/gauthamnholla/coding-practice/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/gauthamnholla/coding-practice/tree/master/2521-distinct-prime-factors-of-product-of-array) |
+| [2525-categorize-box-according-to-criteria](https://github.com/gauthamnholla/coding-practice/tree/master/2525-categorize-box-according-to-criteria) |
 | [2575-find-the-divisibility-array-of-a-string](https://github.com/gauthamnholla/coding-practice/tree/master/2575-find-the-divisibility-array-of-a-string) |
 | [2578-split-with-minimum-sum](https://github.com/gauthamnholla/coding-practice/tree/master/2578-split-with-minimum-sum) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/gauthamnholla/coding-practice/tree/master/2597-the-number-of-beautiful-subsets) |
