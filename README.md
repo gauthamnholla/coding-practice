@@ -3618,6 +3618,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2572-count-the-number-of-square-free-subsets](https://github.com/gauthamnholla/coding-practice/tree/master/2572-count-the-number-of-square-free-subsets) |
 | [2575-find-the-divisibility-array-of-a-string](https://github.com/gauthamnholla/coding-practice/tree/master/2575-find-the-divisibility-array-of-a-string) |
 | [2578-split-with-minimum-sum](https://github.com/gauthamnholla/coding-practice/tree/master/2578-split-with-minimum-sum) |
+| [2579-count-total-number-of-colored-cells](https://github.com/gauthamnholla/coding-practice/tree/master/2579-count-total-number-of-colored-cells) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/gauthamnholla/coding-practice/tree/master/2597-the-number-of-beautiful-subsets) |
 | [2607-make-k-subarray-sums-equal](https://github.com/gauthamnholla/coding-practice/tree/master/2607-make-k-subarray-sums-equal) |
 | [2614-prime-in-diagonal](https://github.com/gauthamnholla/coding-practice/tree/master/2614-prime-in-diagonal) |
