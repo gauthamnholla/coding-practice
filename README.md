@@ -1357,6 +1357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2439-minimize-maximum-of-array](https://github.com/gauthamnholla/coding-practice/tree/master/2439-minimize-maximum-of-array) |
 | [2448-minimum-cost-to-make-array-equal](https://github.com/gauthamnholla/coding-practice/tree/master/2448-minimum-cost-to-make-array-equal) |
 | [2449-minimum-number-of-operations-to-make-arrays-similar](https://github.com/gauthamnholla/coding-practice/tree/master/2449-minimum-number-of-operations-to-make-arrays-similar) |
+| [2457-minimum-addition-to-make-integer-beautiful](https://github.com/gauthamnholla/coding-practice/tree/master/2457-minimum-addition-to-make-integer-beautiful) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/gauthamnholla/coding-practice/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/gauthamnholla/coding-practice/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/gauthamnholla/coding-practice/tree/master/2497-maximum-matching-of-players-with-trainers) |
@@ -3583,6 +3584,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2443-sum-of-number-and-its-reverse](https://github.com/gauthamnholla/coding-practice/tree/master/2443-sum-of-number-and-its-reverse) |
 | [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/gauthamnholla/coding-practice/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/gauthamnholla/coding-practice/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
+| [2457-minimum-addition-to-make-integer-beautiful](https://github.com/gauthamnholla/coding-practice/tree/master/2457-minimum-addition-to-make-integer-beautiful) |
 | [2485-find-the-pivot-integer](https://github.com/gauthamnholla/coding-practice/tree/master/2485-find-the-pivot-integer) |
 | [2575-find-the-divisibility-array-of-a-string](https://github.com/gauthamnholla/coding-practice/tree/master/2575-find-the-divisibility-array-of-a-string) |
 | [2578-split-with-minimum-sum](https://github.com/gauthamnholla/coding-practice/tree/master/2578-split-with-minimum-sum) |
