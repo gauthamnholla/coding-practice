@@ -2403,6 +2403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/gauthamnholla/coding-practice/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2501-longest-square-streak-in-an-array](https://github.com/gauthamnholla/coding-practice/tree/master/2501-longest-square-streak-in-an-array) |
 | [2512-reward-top-k-students](https://github.com/gauthamnholla/coding-practice/tree/master/2512-reward-top-k-students) |
+| [2514-count-anagrams](https://github.com/gauthamnholla/coding-practice/tree/master/2514-count-anagrams) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/gauthamnholla/coding-practice/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2540-minimum-common-value](https://github.com/gauthamnholla/coding-practice/tree/master/2540-minimum-common-value) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/gauthamnholla/coding-practice/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
@@ -3592,6 +3593,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/gauthamnholla/coding-practice/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 | [2485-find-the-pivot-integer](https://github.com/gauthamnholla/coding-practice/tree/master/2485-find-the-pivot-integer) |
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/gauthamnholla/coding-practice/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
+| [2514-count-anagrams](https://github.com/gauthamnholla/coding-practice/tree/master/2514-count-anagrams) |
 | [2575-find-the-divisibility-array-of-a-string](https://github.com/gauthamnholla/coding-practice/tree/master/2575-find-the-divisibility-array-of-a-string) |
 | [2578-split-with-minimum-sum](https://github.com/gauthamnholla/coding-practice/tree/master/2578-split-with-minimum-sum) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/gauthamnholla/coding-practice/tree/master/2597-the-number-of-beautiful-subsets) |
@@ -3943,6 +3945,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2483-minimum-penalty-for-a-shop](https://github.com/gauthamnholla/coding-practice/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/gauthamnholla/coding-practice/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2512-reward-top-k-students](https://github.com/gauthamnholla/coding-practice/tree/master/2512-reward-top-k-students) |
+| [2514-count-anagrams](https://github.com/gauthamnholla/coding-practice/tree/master/2514-count-anagrams) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/gauthamnholla/coding-practice/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2565-subsequence-with-the-minimum-score](https://github.com/gauthamnholla/coding-practice/tree/master/2565-subsequence-with-the-minimum-score) |
 | [2573-find-the-string-with-lcp](https://github.com/gauthamnholla/coding-practice/tree/master/2573-find-the-string-with-lcp) |
@@ -5573,6 +5576,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2248-intersection-of-multiple-arrays](https://github.com/gauthamnholla/coding-practice/tree/master/2248-intersection-of-multiple-arrays) |
 | [2364-count-number-of-bad-pairs](https://github.com/gauthamnholla/coding-practice/tree/master/2364-count-number-of-bad-pairs) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/gauthamnholla/coding-practice/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
+| [2514-count-anagrams](https://github.com/gauthamnholla/coding-practice/tree/master/2514-count-anagrams) |
 | [2856-minimum-array-length-after-pair-removals](https://github.com/gauthamnholla/coding-practice/tree/master/2856-minimum-array-length-after-pair-removals) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/gauthamnholla/coding-practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3035-maximum-palindromes-after-operations](https://github.com/gauthamnholla/coding-practice/tree/master/3035-maximum-palindromes-after-operations) |
@@ -5805,6 +5809,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2324-find-triangular-sum-of-an-array](https://github.com/gauthamnholla/coding-practice/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2338-count-the-number-of-ideal-arrays](https://github.com/gauthamnholla/coding-practice/tree/master/2338-count-the-number-of-ideal-arrays) |
 | [2400-number-of-ways-to-reach-a-position-after-exactly-k-steps](https://github.com/gauthamnholla/coding-practice/tree/master/2400-number-of-ways-to-reach-a-position-after-exactly-k-steps) |
+| [2514-count-anagrams](https://github.com/gauthamnholla/coding-practice/tree/master/2514-count-anagrams) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/gauthamnholla/coding-practice/tree/master/2597-the-number-of-beautiful-subsets) |
 | [3179-find-the-n-th-value-after-k-seconds](https://github.com/gauthamnholla/coding-practice/tree/master/3179-find-the-n-th-value-after-k-seconds) |
 | [3201-distribute-candies-among-children-ii](https://github.com/gauthamnholla/coding-practice/tree/master/3201-distribute-candies-among-children-ii) |
