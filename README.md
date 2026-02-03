@@ -2630,6 +2630,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2460-apply-operations-to-an-array](https://github.com/gauthamnholla/coding-practice/tree/master/2460-apply-operations-to-an-array) |
 | [2479-meeting-rooms-iii](https://github.com/gauthamnholla/coding-practice/tree/master/2479-meeting-rooms-iii) |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/gauthamnholla/coding-practice/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
+| [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/gauthamnholla/coding-practice/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
 | [2532-time-to-cross-a-bridge](https://github.com/gauthamnholla/coding-practice/tree/master/2532-time-to-cross-a-bridge) |
 | [2562-find-the-array-concatenation-value](https://github.com/gauthamnholla/coding-practice/tree/master/2562-find-the-array-concatenation-value) |
 | [2596-check-knight-tour-configuration](https://github.com/gauthamnholla/coding-practice/tree/master/2596-check-knight-tour-configuration) |
@@ -3590,6 +3591,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2470-number-of-subarrays-with-lcm-equal-to-k](https://github.com/gauthamnholla/coding-practice/tree/master/2470-number-of-subarrays-with-lcm-equal-to-k) |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/gauthamnholla/coding-practice/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 | [2485-find-the-pivot-integer](https://github.com/gauthamnholla/coding-practice/tree/master/2485-find-the-pivot-integer) |
+| [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/gauthamnholla/coding-practice/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
 | [2575-find-the-divisibility-array-of-a-string](https://github.com/gauthamnholla/coding-practice/tree/master/2575-find-the-divisibility-array-of-a-string) |
 | [2578-split-with-minimum-sum](https://github.com/gauthamnholla/coding-practice/tree/master/2578-split-with-minimum-sum) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/gauthamnholla/coding-practice/tree/master/2597-the-number-of-beautiful-subsets) |
@@ -5770,6 +5772,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2427-number-of-common-factors](https://github.com/gauthamnholla/coding-practice/tree/master/2427-number-of-common-factors) |
 | [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/gauthamnholla/coding-practice/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
 | [2470-number-of-subarrays-with-lcm-equal-to-k](https://github.com/gauthamnholla/coding-practice/tree/master/2470-number-of-subarrays-with-lcm-equal-to-k) |
+| [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/gauthamnholla/coding-practice/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
 | [2607-make-k-subarray-sums-equal](https://github.com/gauthamnholla/coding-practice/tree/master/2607-make-k-subarray-sums-equal) |
 | [2614-prime-in-diagonal](https://github.com/gauthamnholla/coding-practice/tree/master/2614-prime-in-diagonal) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/gauthamnholla/coding-practice/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
