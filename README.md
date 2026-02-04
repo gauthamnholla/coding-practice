@@ -2107,6 +2107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2552-count-increasing-quadruplets](https://github.com/gauthamnholla/coding-practice/tree/master/2552-count-increasing-quadruplets) |
 | [2761-prime-pairs-with-target-sum](https://github.com/gauthamnholla/coding-practice/tree/master/2761-prime-pairs-with-target-sum) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/gauthamnholla/coding-practice/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
+| [2843-count-symmetric-integers](https://github.com/gauthamnholla/coding-practice/tree/master/2843-count-symmetric-integers) |
 | [2860-happy-students](https://github.com/gauthamnholla/coding-practice/tree/master/2860-happy-students) |
 | [2970-count-the-number-of-incremovable-subarrays-i](https://github.com/gauthamnholla/coding-practice/tree/master/2970-count-the-number-of-incremovable-subarrays-i) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/gauthamnholla/coding-practice/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
@@ -3669,6 +3670,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2827-number-of-beautiful-integers-in-the-range](https://github.com/gauthamnholla/coding-practice/tree/master/2827-number-of-beautiful-integers-in-the-range) |
 | [2829-determine-the-minimum-sum-of-a-k-avoiding-array](https://github.com/gauthamnholla/coding-practice/tree/master/2829-determine-the-minimum-sum-of-a-k-avoiding-array) |
 | [2842-count-k-subsequences-of-a-string-with-maximum-beauty](https://github.com/gauthamnholla/coding-practice/tree/master/2842-count-k-subsequences-of-a-string-with-maximum-beauty) |
+| [2843-count-symmetric-integers](https://github.com/gauthamnholla/coding-practice/tree/master/2843-count-symmetric-integers) |
 | [2867-count-valid-paths-in-a-tree](https://github.com/gauthamnholla/coding-practice/tree/master/2867-count-valid-paths-in-a-tree) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/gauthamnholla/coding-practice/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [2965-find-missing-and-repeated-values](https://github.com/gauthamnholla/coding-practice/tree/master/2965-find-missing-and-repeated-values) |
