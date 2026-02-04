@@ -3656,6 +3656,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2750-ways-to-split-array-into-good-subarrays](https://github.com/gauthamnholla/coding-practice/tree/master/2750-ways-to-split-array-into-good-subarrays) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/gauthamnholla/coding-practice/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [2761-prime-pairs-with-target-sum](https://github.com/gauthamnholla/coding-practice/tree/master/2761-prime-pairs-with-target-sum) |
+| [2769-find-the-maximum-achievable-number](https://github.com/gauthamnholla/coding-practice/tree/master/2769-find-the-maximum-achievable-number) |
 | [2790-maximum-number-of-groups-with-increasing-length](https://github.com/gauthamnholla/coding-practice/tree/master/2790-maximum-number-of-groups-with-increasing-length) |
 | [2818-apply-operations-to-maximize-score](https://github.com/gauthamnholla/coding-practice/tree/master/2818-apply-operations-to-maximize-score) |
 | [2867-count-valid-paths-in-a-tree](https://github.com/gauthamnholla/coding-practice/tree/master/2867-count-valid-paths-in-a-tree) |
