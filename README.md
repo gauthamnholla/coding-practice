@@ -1383,6 +1383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2587-rearrange-array-to-maximize-prefix-score](https://github.com/gauthamnholla/coding-practice/tree/master/2587-rearrange-array-to-maximize-prefix-score) |
 | [2589-minimum-time-to-complete-all-tasks](https://github.com/gauthamnholla/coding-practice/tree/master/2589-minimum-time-to-complete-all-tasks) |
 | [2592-maximize-greatness-of-an-array](https://github.com/gauthamnholla/coding-practice/tree/master/2592-maximize-greatness-of-an-array) |
+| [2600-k-items-with-the-maximum-sum](https://github.com/gauthamnholla/coding-practice/tree/master/2600-k-items-with-the-maximum-sum) |
 | [2607-make-k-subarray-sums-equal](https://github.com/gauthamnholla/coding-practice/tree/master/2607-make-k-subarray-sums-equal) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/gauthamnholla/coding-practice/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2659-make-array-empty](https://github.com/gauthamnholla/coding-practice/tree/master/2659-make-array-empty) |
@@ -3626,6 +3627,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2582-pass-the-pillow](https://github.com/gauthamnholla/coding-practice/tree/master/2582-pass-the-pillow) |
 | [2584-split-the-array-to-make-coprime-products](https://github.com/gauthamnholla/coding-practice/tree/master/2584-split-the-array-to-make-coprime-products) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/gauthamnholla/coding-practice/tree/master/2597-the-number-of-beautiful-subsets) |
+| [2600-k-items-with-the-maximum-sum](https://github.com/gauthamnholla/coding-practice/tree/master/2600-k-items-with-the-maximum-sum) |
 | [2607-make-k-subarray-sums-equal](https://github.com/gauthamnholla/coding-practice/tree/master/2607-make-k-subarray-sums-equal) |
 | [2614-prime-in-diagonal](https://github.com/gauthamnholla/coding-practice/tree/master/2614-prime-in-diagonal) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/gauthamnholla/coding-practice/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
