@@ -926,6 +926,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2736-maximum-sum-queries](https://github.com/gauthamnholla/coding-practice/tree/master/2736-maximum-sum-queries) |
 | [2740-find-the-value-of-the-partition](https://github.com/gauthamnholla/coding-practice/tree/master/2740-find-the-value-of-the-partition) |
 | [2748-number-of-beautiful-pairs](https://github.com/gauthamnholla/coding-practice/tree/master/2748-number-of-beautiful-pairs) |
+| [2750-ways-to-split-array-into-good-subarrays](https://github.com/gauthamnholla/coding-practice/tree/master/2750-ways-to-split-array-into-good-subarrays) |
 | [2751-robot-collisions](https://github.com/gauthamnholla/coding-practice/tree/master/2751-robot-collisions) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/gauthamnholla/coding-practice/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [2772-apply-operations-to-make-all-array-elements-equal-to-zero](https://github.com/gauthamnholla/coding-practice/tree/master/2772-apply-operations-to-make-all-array-elements-equal-to-zero) |
@@ -2936,6 +2937,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2719-count-of-integers](https://github.com/gauthamnholla/coding-practice/tree/master/2719-count-of-integers) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/gauthamnholla/coding-practice/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2745-construct-the-longest-new-string](https://github.com/gauthamnholla/coding-practice/tree/master/2745-construct-the-longest-new-string) |
+| [2750-ways-to-split-array-into-good-subarrays](https://github.com/gauthamnholla/coding-practice/tree/master/2750-ways-to-split-array-into-good-subarrays) |
 | [2791-count-paths-that-can-form-a-palindrome-in-a-tree](https://github.com/gauthamnholla/coding-practice/tree/master/2791-count-paths-that-can-form-a-palindrome-in-a-tree) |
 | [2809-minimum-time-to-make-array-sum-at-most-x](https://github.com/gauthamnholla/coding-practice/tree/master/2809-minimum-time-to-make-array-sum-at-most-x) |
 | [2830-maximize-the-profit-as-the-salesman](https://github.com/gauthamnholla/coding-practice/tree/master/2830-maximize-the-profit-as-the-salesman) |
@@ -3649,6 +3651,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2739-total-distance-traveled](https://github.com/gauthamnholla/coding-practice/tree/master/2739-total-distance-traveled) |
 | [2745-construct-the-longest-new-string](https://github.com/gauthamnholla/coding-practice/tree/master/2745-construct-the-longest-new-string) |
 | [2748-number-of-beautiful-pairs](https://github.com/gauthamnholla/coding-practice/tree/master/2748-number-of-beautiful-pairs) |
+| [2750-ways-to-split-array-into-good-subarrays](https://github.com/gauthamnholla/coding-practice/tree/master/2750-ways-to-split-array-into-good-subarrays) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/gauthamnholla/coding-practice/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [2790-maximum-number-of-groups-with-increasing-length](https://github.com/gauthamnholla/coding-practice/tree/master/2790-maximum-number-of-groups-with-increasing-length) |
 | [2818-apply-operations-to-maximize-score](https://github.com/gauthamnholla/coding-practice/tree/master/2818-apply-operations-to-maximize-score) |
