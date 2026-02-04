@@ -2651,6 +2651,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2562-find-the-array-concatenation-value](https://github.com/gauthamnholla/coding-practice/tree/master/2562-find-the-array-concatenation-value) |
 | [2582-pass-the-pillow](https://github.com/gauthamnholla/coding-practice/tree/master/2582-pass-the-pillow) |
 | [2596-check-knight-tour-configuration](https://github.com/gauthamnholla/coding-practice/tree/master/2596-check-knight-tour-configuration) |
+| [2739-total-distance-traveled](https://github.com/gauthamnholla/coding-practice/tree/master/2739-total-distance-traveled) |
 | [2751-robot-collisions](https://github.com/gauthamnholla/coding-practice/tree/master/2751-robot-collisions) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/gauthamnholla/coding-practice/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [2974-minimum-number-game](https://github.com/gauthamnholla/coding-practice/tree/master/2974-minimum-number-game) |
@@ -3641,6 +3642,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2709-greatest-common-divisor-traversal](https://github.com/gauthamnholla/coding-practice/tree/master/2709-greatest-common-divisor-traversal) |
 | [2719-count-of-integers](https://github.com/gauthamnholla/coding-practice/tree/master/2719-count-of-integers) |
 | [2729-check-if-the-number-is-fascinating](https://github.com/gauthamnholla/coding-practice/tree/master/2729-check-if-the-number-is-fascinating) |
+| [2739-total-distance-traveled](https://github.com/gauthamnholla/coding-practice/tree/master/2739-total-distance-traveled) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/gauthamnholla/coding-practice/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [2790-maximum-number-of-groups-with-increasing-length](https://github.com/gauthamnholla/coding-practice/tree/master/2790-maximum-number-of-groups-with-increasing-length) |
 | [2818-apply-operations-to-maximize-score](https://github.com/gauthamnholla/coding-practice/tree/master/2818-apply-operations-to-maximize-score) |
