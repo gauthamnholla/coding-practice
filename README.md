@@ -929,6 +929,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2750-ways-to-split-array-into-good-subarrays](https://github.com/gauthamnholla/coding-practice/tree/master/2750-ways-to-split-array-into-good-subarrays) |
 | [2751-robot-collisions](https://github.com/gauthamnholla/coding-practice/tree/master/2751-robot-collisions) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/gauthamnholla/coding-practice/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
+| [2761-prime-pairs-with-target-sum](https://github.com/gauthamnholla/coding-practice/tree/master/2761-prime-pairs-with-target-sum) |
 | [2772-apply-operations-to-make-all-array-elements-equal-to-zero](https://github.com/gauthamnholla/coding-practice/tree/master/2772-apply-operations-to-make-all-array-elements-equal-to-zero) |
 | [2780-minimum-index-of-a-valid-split](https://github.com/gauthamnholla/coding-practice/tree/master/2780-minimum-index-of-a-valid-split) |
 | [2784-check-if-array-is-good](https://github.com/gauthamnholla/coding-practice/tree/master/2784-check-if-array-is-good) |
@@ -2102,6 +2103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2440-create-components-with-same-value](https://github.com/gauthamnholla/coding-practice/tree/master/2440-create-components-with-same-value) |
 | [2443-sum-of-number-and-its-reverse](https://github.com/gauthamnholla/coding-practice/tree/master/2443-sum-of-number-and-its-reverse) |
 | [2552-count-increasing-quadruplets](https://github.com/gauthamnholla/coding-practice/tree/master/2552-count-increasing-quadruplets) |
+| [2761-prime-pairs-with-target-sum](https://github.com/gauthamnholla/coding-practice/tree/master/2761-prime-pairs-with-target-sum) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/gauthamnholla/coding-practice/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [2860-happy-students](https://github.com/gauthamnholla/coding-practice/tree/master/2860-happy-students) |
 | [2970-count-the-number-of-incremovable-subarrays-i](https://github.com/gauthamnholla/coding-practice/tree/master/2970-count-the-number-of-incremovable-subarrays-i) |
@@ -3653,6 +3655,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2748-number-of-beautiful-pairs](https://github.com/gauthamnholla/coding-practice/tree/master/2748-number-of-beautiful-pairs) |
 | [2750-ways-to-split-array-into-good-subarrays](https://github.com/gauthamnholla/coding-practice/tree/master/2750-ways-to-split-array-into-good-subarrays) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/gauthamnholla/coding-practice/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
+| [2761-prime-pairs-with-target-sum](https://github.com/gauthamnholla/coding-practice/tree/master/2761-prime-pairs-with-target-sum) |
 | [2790-maximum-number-of-groups-with-increasing-length](https://github.com/gauthamnholla/coding-practice/tree/master/2790-maximum-number-of-groups-with-increasing-length) |
 | [2818-apply-operations-to-maximize-score](https://github.com/gauthamnholla/coding-practice/tree/master/2818-apply-operations-to-maximize-score) |
 | [2867-count-valid-paths-in-a-tree](https://github.com/gauthamnholla/coding-practice/tree/master/2867-count-valid-paths-in-a-tree) |
@@ -5841,6 +5844,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2709-greatest-common-divisor-traversal](https://github.com/gauthamnholla/coding-practice/tree/master/2709-greatest-common-divisor-traversal) |
 | [2748-number-of-beautiful-pairs](https://github.com/gauthamnholla/coding-practice/tree/master/2748-number-of-beautiful-pairs) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/gauthamnholla/coding-practice/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
+| [2761-prime-pairs-with-target-sum](https://github.com/gauthamnholla/coding-practice/tree/master/2761-prime-pairs-with-target-sum) |
 | [2818-apply-operations-to-maximize-score](https://github.com/gauthamnholla/coding-practice/tree/master/2818-apply-operations-to-maximize-score) |
 | [2867-count-valid-paths-in-a-tree](https://github.com/gauthamnholla/coding-practice/tree/master/2867-count-valid-paths-in-a-tree) |
 | [3044-most-frequent-prime](https://github.com/gauthamnholla/coding-practice/tree/master/3044-most-frequent-prime) |
