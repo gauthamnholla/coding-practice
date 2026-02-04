@@ -916,6 +916,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2684-maximum-number-of-moves-in-a-grid](https://github.com/gauthamnholla/coding-practice/tree/master/2684-maximum-number-of-moves-in-a-grid) |
 | [2689-rearranging-fruits](https://github.com/gauthamnholla/coding-practice/tree/master/2689-rearranging-fruits) |
 | [2706-buy-two-chocolates](https://github.com/gauthamnholla/coding-practice/tree/master/2706-buy-two-chocolates) |
+| [2709-greatest-common-divisor-traversal](https://github.com/gauthamnholla/coding-practice/tree/master/2709-greatest-common-divisor-traversal) |
 | [2711-difference-of-number-of-distinct-values-on-diagonals](https://github.com/gauthamnholla/coding-practice/tree/master/2711-difference-of-number-of-distinct-values-on-diagonals) |
 | [2713-maximum-strictly-increasing-cells-in-a-matrix](https://github.com/gauthamnholla/coding-practice/tree/master/2713-maximum-strictly-increasing-cells-in-a-matrix) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/gauthamnholla/coding-practice/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
@@ -3636,6 +3637,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2681-power-of-heroes](https://github.com/gauthamnholla/coding-practice/tree/master/2681-power-of-heroes) |
 | [2698-find-the-punishment-number-of-an-integer](https://github.com/gauthamnholla/coding-practice/tree/master/2698-find-the-punishment-number-of-an-integer) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/gauthamnholla/coding-practice/tree/master/2704-maximum-difference-by-remapping-a-digit) |
+| [2709-greatest-common-divisor-traversal](https://github.com/gauthamnholla/coding-practice/tree/master/2709-greatest-common-divisor-traversal) |
 | [2729-check-if-the-number-is-fascinating](https://github.com/gauthamnholla/coding-practice/tree/master/2729-check-if-the-number-is-fascinating) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/gauthamnholla/coding-practice/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [2790-maximum-number-of-groups-with-increasing-length](https://github.com/gauthamnholla/coding-practice/tree/master/2790-maximum-number-of-groups-with-increasing-length) |
@@ -5820,6 +5822,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2584-split-the-array-to-make-coprime-products](https://github.com/gauthamnholla/coding-practice/tree/master/2584-split-the-array-to-make-coprime-products) |
 | [2607-make-k-subarray-sums-equal](https://github.com/gauthamnholla/coding-practice/tree/master/2607-make-k-subarray-sums-equal) |
 | [2614-prime-in-diagonal](https://github.com/gauthamnholla/coding-practice/tree/master/2614-prime-in-diagonal) |
+| [2709-greatest-common-divisor-traversal](https://github.com/gauthamnholla/coding-practice/tree/master/2709-greatest-common-divisor-traversal) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/gauthamnholla/coding-practice/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [2818-apply-operations-to-maximize-score](https://github.com/gauthamnholla/coding-practice/tree/master/2818-apply-operations-to-maximize-score) |
 | [2867-count-valid-paths-in-a-tree](https://github.com/gauthamnholla/coding-practice/tree/master/2867-count-valid-paths-in-a-tree) |
@@ -6622,6 +6625,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2382-maximum-segment-sum-after-removals](https://github.com/gauthamnholla/coding-practice/tree/master/2382-maximum-segment-sum-after-removals) |
 | [2573-find-the-string-with-lcp](https://github.com/gauthamnholla/coding-practice/tree/master/2573-find-the-string-with-lcp) |
 | [2617-minimum-number-of-visited-cells-in-a-grid](https://github.com/gauthamnholla/coding-practice/tree/master/2617-minimum-number-of-visited-cells-in-a-grid) |
+| [2709-greatest-common-divisor-traversal](https://github.com/gauthamnholla/coding-practice/tree/master/2709-greatest-common-divisor-traversal) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/gauthamnholla/coding-practice/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Graph Theory
 |  |
