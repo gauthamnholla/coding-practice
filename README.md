@@ -2929,6 +2929,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2681-power-of-heroes](https://github.com/gauthamnholla/coding-practice/tree/master/2681-power-of-heroes) |
 | [2684-maximum-number-of-moves-in-a-grid](https://github.com/gauthamnholla/coding-practice/tree/master/2684-maximum-number-of-moves-in-a-grid) |
 | [2713-maximum-strictly-increasing-cells-in-a-matrix](https://github.com/gauthamnholla/coding-practice/tree/master/2713-maximum-strictly-increasing-cells-in-a-matrix) |
+| [2719-count-of-integers](https://github.com/gauthamnholla/coding-practice/tree/master/2719-count-of-integers) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/gauthamnholla/coding-practice/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2791-count-paths-that-can-form-a-palindrome-in-a-tree](https://github.com/gauthamnholla/coding-practice/tree/master/2791-count-paths-that-can-form-a-palindrome-in-a-tree) |
 | [2809-minimum-time-to-make-array-sum-at-most-x](https://github.com/gauthamnholla/coding-practice/tree/master/2809-minimum-time-to-make-array-sum-at-most-x) |
@@ -3638,6 +3639,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2698-find-the-punishment-number-of-an-integer](https://github.com/gauthamnholla/coding-practice/tree/master/2698-find-the-punishment-number-of-an-integer) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/gauthamnholla/coding-practice/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2709-greatest-common-divisor-traversal](https://github.com/gauthamnholla/coding-practice/tree/master/2709-greatest-common-divisor-traversal) |
+| [2719-count-of-integers](https://github.com/gauthamnholla/coding-practice/tree/master/2719-count-of-integers) |
 | [2729-check-if-the-number-is-fascinating](https://github.com/gauthamnholla/coding-practice/tree/master/2729-check-if-the-number-is-fascinating) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/gauthamnholla/coding-practice/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [2790-maximum-number-of-groups-with-increasing-length](https://github.com/gauthamnholla/coding-practice/tree/master/2790-maximum-number-of-groups-with-increasing-length) |
@@ -3987,6 +3989,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2573-find-the-string-with-lcp](https://github.com/gauthamnholla/coding-practice/tree/master/2573-find-the-string-with-lcp) |
 | [2575-find-the-divisibility-array-of-a-string](https://github.com/gauthamnholla/coding-practice/tree/master/2575-find-the-divisibility-array-of-a-string) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/gauthamnholla/coding-practice/tree/master/2697-lexicographically-smallest-palindrome) |
+| [2719-count-of-integers](https://github.com/gauthamnholla/coding-practice/tree/master/2719-count-of-integers) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/gauthamnholla/coding-practice/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2887-sort-vowels-in-a-string](https://github.com/gauthamnholla/coding-practice/tree/master/2887-sort-vowels-in-a-string) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/gauthamnholla/coding-practice/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
