@@ -1409,6 +1409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2842-count-k-subsequences-of-a-string-with-maximum-beauty](https://github.com/gauthamnholla/coding-practice/tree/master/2842-count-k-subsequences-of-a-string-with-maximum-beauty) |
 | [2844-minimum-operations-to-make-a-special-number](https://github.com/gauthamnholla/coding-practice/tree/master/2844-minimum-operations-to-make-a-special-number) |
 | [2856-minimum-array-length-after-pair-removals](https://github.com/gauthamnholla/coding-practice/tree/master/2856-minimum-array-length-after-pair-removals) |
+| [2864-maximum-odd-binary-number](https://github.com/gauthamnholla/coding-practice/tree/master/2864-maximum-odd-binary-number) |
 | [2931-maximum-spending-after-buying-items](https://github.com/gauthamnholla/coding-practice/tree/master/2931-maximum-spending-after-buying-items) |
 | [2938-separate-black-and-white-balls](https://github.com/gauthamnholla/coding-practice/tree/master/2938-separate-black-and-white-balls) |
 | [2952-minimum-number-of-coins-to-be-added](https://github.com/gauthamnholla/coding-practice/tree/master/2952-minimum-number-of-coins-to-be-added) |
@@ -3683,6 +3684,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2849-determine-if-a-cell-is-reachable-at-a-given-time](https://github.com/gauthamnholla/coding-practice/tree/master/2849-determine-if-a-cell-is-reachable-at-a-given-time) |
 | [2851-string-transformation](https://github.com/gauthamnholla/coding-practice/tree/master/2851-string-transformation) |
 | [2862-maximum-element-sum-of-a-complete-subset-of-indices](https://github.com/gauthamnholla/coding-practice/tree/master/2862-maximum-element-sum-of-a-complete-subset-of-indices) |
+| [2864-maximum-odd-binary-number](https://github.com/gauthamnholla/coding-practice/tree/master/2864-maximum-odd-binary-number) |
 | [2867-count-valid-paths-in-a-tree](https://github.com/gauthamnholla/coding-practice/tree/master/2867-count-valid-paths-in-a-tree) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/gauthamnholla/coding-practice/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [2965-find-missing-and-repeated-values](https://github.com/gauthamnholla/coding-practice/tree/master/2965-find-missing-and-repeated-values) |
@@ -4033,6 +4035,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2842-count-k-subsequences-of-a-string-with-maximum-beauty](https://github.com/gauthamnholla/coding-practice/tree/master/2842-count-k-subsequences-of-a-string-with-maximum-beauty) |
 | [2844-minimum-operations-to-make-a-special-number](https://github.com/gauthamnholla/coding-practice/tree/master/2844-minimum-operations-to-make-a-special-number) |
 | [2851-string-transformation](https://github.com/gauthamnholla/coding-practice/tree/master/2851-string-transformation) |
+| [2864-maximum-odd-binary-number](https://github.com/gauthamnholla/coding-practice/tree/master/2864-maximum-odd-binary-number) |
 | [2887-sort-vowels-in-a-string](https://github.com/gauthamnholla/coding-practice/tree/master/2887-sort-vowels-in-a-string) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/gauthamnholla/coding-practice/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [2933-high-access-employees](https://github.com/gauthamnholla/coding-practice/tree/master/2933-high-access-employees) |
