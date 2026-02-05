@@ -2954,6 +2954,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2827-number-of-beautiful-integers-in-the-range](https://github.com/gauthamnholla/coding-practice/tree/master/2827-number-of-beautiful-integers-in-the-range) |
 | [2830-maximize-the-profit-as-the-salesman](https://github.com/gauthamnholla/coding-practice/tree/master/2830-maximize-the-profit-as-the-salesman) |
 | [2850-minimum-moves-to-spread-stones-over-grid](https://github.com/gauthamnholla/coding-practice/tree/master/2850-minimum-moves-to-spread-stones-over-grid) |
+| [2851-string-transformation](https://github.com/gauthamnholla/coding-practice/tree/master/2851-string-transformation) |
 | [2858-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/gauthamnholla/coding-practice/tree/master/2858-minimum-edge-reversals-so-every-node-is-reachable) |
 | [2867-count-valid-paths-in-a-tree](https://github.com/gauthamnholla/coding-practice/tree/master/2867-count-valid-paths-in-a-tree) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/gauthamnholla/coding-practice/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
@@ -3679,6 +3680,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2843-count-symmetric-integers](https://github.com/gauthamnholla/coding-practice/tree/master/2843-count-symmetric-integers) |
 | [2844-minimum-operations-to-make-a-special-number](https://github.com/gauthamnholla/coding-practice/tree/master/2844-minimum-operations-to-make-a-special-number) |
 | [2849-determine-if-a-cell-is-reachable-at-a-given-time](https://github.com/gauthamnholla/coding-practice/tree/master/2849-determine-if-a-cell-is-reachable-at-a-given-time) |
+| [2851-string-transformation](https://github.com/gauthamnholla/coding-practice/tree/master/2851-string-transformation) |
 | [2867-count-valid-paths-in-a-tree](https://github.com/gauthamnholla/coding-practice/tree/master/2867-count-valid-paths-in-a-tree) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/gauthamnholla/coding-practice/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [2965-find-missing-and-repeated-values](https://github.com/gauthamnholla/coding-practice/tree/master/2965-find-missing-and-repeated-values) |
@@ -4028,6 +4030,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/gauthamnholla/coding-practice/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2842-count-k-subsequences-of-a-string-with-maximum-beauty](https://github.com/gauthamnholla/coding-practice/tree/master/2842-count-k-subsequences-of-a-string-with-maximum-beauty) |
 | [2844-minimum-operations-to-make-a-special-number](https://github.com/gauthamnholla/coding-practice/tree/master/2844-minimum-operations-to-make-a-special-number) |
+| [2851-string-transformation](https://github.com/gauthamnholla/coding-practice/tree/master/2851-string-transformation) |
 | [2887-sort-vowels-in-a-string](https://github.com/gauthamnholla/coding-practice/tree/master/2887-sort-vowels-in-a-string) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/gauthamnholla/coding-practice/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [2933-high-access-employees](https://github.com/gauthamnholla/coding-practice/tree/master/2933-high-access-employees) |
@@ -6510,6 +6513,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1508-longest-happy-prefix](https://github.com/gauthamnholla/coding-practice/tree/master/1508-longest-happy-prefix) |
 | [1764-form-array-by-concatenating-subarrays-of-another-array](https://github.com/gauthamnholla/coding-practice/tree/master/1764-form-array-by-concatenating-subarrays-of-another-array) |
 | [2326-sum-of-scores-of-built-strings](https://github.com/gauthamnholla/coding-practice/tree/master/2326-sum-of-scores-of-built-strings) |
+| [2851-string-transformation](https://github.com/gauthamnholla/coding-practice/tree/master/2851-string-transformation) |
 | [3006-find-beautiful-indices-in-the-given-array-i](https://github.com/gauthamnholla/coding-practice/tree/master/3006-find-beautiful-indices-in-the-given-array-i) |
 | [3008-find-beautiful-indices-in-the-given-array-ii](https://github.com/gauthamnholla/coding-practice/tree/master/3008-find-beautiful-indices-in-the-given-array-ii) |
 | [3455-shortest-matching-substring](https://github.com/gauthamnholla/coding-practice/tree/master/3455-shortest-matching-substring) |
