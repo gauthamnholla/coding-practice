@@ -3686,6 +3686,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2862-maximum-element-sum-of-a-complete-subset-of-indices](https://github.com/gauthamnholla/coding-practice/tree/master/2862-maximum-element-sum-of-a-complete-subset-of-indices) |
 | [2864-maximum-odd-binary-number](https://github.com/gauthamnholla/coding-practice/tree/master/2864-maximum-odd-binary-number) |
 | [2867-count-valid-paths-in-a-tree](https://github.com/gauthamnholla/coding-practice/tree/master/2867-count-valid-paths-in-a-tree) |
+| [2894-divisible-and-non-divisible-sums-difference](https://github.com/gauthamnholla/coding-practice/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/gauthamnholla/coding-practice/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [2965-find-missing-and-repeated-values](https://github.com/gauthamnholla/coding-practice/tree/master/2965-find-missing-and-repeated-values) |
 | [2967-minimum-cost-to-make-array-equalindromic](https://github.com/gauthamnholla/coding-practice/tree/master/2967-minimum-cost-to-make-array-equalindromic) |
