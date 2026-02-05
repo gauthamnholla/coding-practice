@@ -2461,6 +2461,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2856-minimum-array-length-after-pair-removals](https://github.com/gauthamnholla/coding-practice/tree/master/2856-minimum-array-length-after-pair-removals) |
 | [2933-high-access-employees](https://github.com/gauthamnholla/coding-practice/tree/master/2933-high-access-employees) |
 | [2947-count-beautiful-substrings-i](https://github.com/gauthamnholla/coding-practice/tree/master/2947-count-beautiful-substrings-i) |
+| [2949-count-beautiful-substrings-ii](https://github.com/gauthamnholla/coding-practice/tree/master/2949-count-beautiful-substrings-ii) |
 | [2965-find-missing-and-repeated-values](https://github.com/gauthamnholla/coding-practice/tree/master/2965-find-missing-and-repeated-values) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/gauthamnholla/coding-practice/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [2983-palindrome-rearrangement-queries](https://github.com/gauthamnholla/coding-practice/tree/master/2983-palindrome-rearrangement-queries) |
@@ -3697,6 +3698,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2939-maximum-xor-product](https://github.com/gauthamnholla/coding-practice/tree/master/2939-maximum-xor-product) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/gauthamnholla/coding-practice/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [2947-count-beautiful-substrings-i](https://github.com/gauthamnholla/coding-practice/tree/master/2947-count-beautiful-substrings-i) |
+| [2949-count-beautiful-substrings-ii](https://github.com/gauthamnholla/coding-practice/tree/master/2949-count-beautiful-substrings-ii) |
 | [2965-find-missing-and-repeated-values](https://github.com/gauthamnholla/coding-practice/tree/master/2965-find-missing-and-repeated-values) |
 | [2967-minimum-cost-to-make-array-equalindromic](https://github.com/gauthamnholla/coding-practice/tree/master/2967-minimum-cost-to-make-array-equalindromic) |
 | [3024-type-of-triangle](https://github.com/gauthamnholla/coding-practice/tree/master/3024-type-of-triangle) |
@@ -4051,6 +4053,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2933-high-access-employees](https://github.com/gauthamnholla/coding-practice/tree/master/2933-high-access-employees) |
 | [2938-separate-black-and-white-balls](https://github.com/gauthamnholla/coding-practice/tree/master/2938-separate-black-and-white-balls) |
 | [2947-count-beautiful-substrings-i](https://github.com/gauthamnholla/coding-practice/tree/master/2947-count-beautiful-substrings-i) |
+| [2949-count-beautiful-substrings-ii](https://github.com/gauthamnholla/coding-practice/tree/master/2949-count-beautiful-substrings-ii) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/gauthamnholla/coding-practice/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/gauthamnholla/coding-practice/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [2983-palindrome-rearrangement-queries](https://github.com/gauthamnholla/coding-practice/tree/master/2983-palindrome-rearrangement-queries) |
@@ -4938,6 +4941,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2772-apply-operations-to-make-all-array-elements-equal-to-zero](https://github.com/gauthamnholla/coding-practice/tree/master/2772-apply-operations-to-make-all-array-elements-equal-to-zero) |
 | [2906-construct-product-matrix](https://github.com/gauthamnholla/coding-practice/tree/master/2906-construct-product-matrix) |
 | [2947-count-beautiful-substrings-i](https://github.com/gauthamnholla/coding-practice/tree/master/2947-count-beautiful-substrings-i) |
+| [2949-count-beautiful-substrings-ii](https://github.com/gauthamnholla/coding-practice/tree/master/2949-count-beautiful-substrings-ii) |
 | [2968-apply-operations-to-maximize-frequency-score](https://github.com/gauthamnholla/coding-practice/tree/master/2968-apply-operations-to-maximize-frequency-score) |
 | [2971-find-polygon-with-the-largest-perimeter](https://github.com/gauthamnholla/coding-practice/tree/master/2971-find-polygon-with-the-largest-perimeter) |
 | [2983-palindrome-rearrangement-queries](https://github.com/gauthamnholla/coding-practice/tree/master/2983-palindrome-rearrangement-queries) |
@@ -5894,6 +5898,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2862-maximum-element-sum-of-a-complete-subset-of-indices](https://github.com/gauthamnholla/coding-practice/tree/master/2862-maximum-element-sum-of-a-complete-subset-of-indices) |
 | [2867-count-valid-paths-in-a-tree](https://github.com/gauthamnholla/coding-practice/tree/master/2867-count-valid-paths-in-a-tree) |
 | [2947-count-beautiful-substrings-i](https://github.com/gauthamnholla/coding-practice/tree/master/2947-count-beautiful-substrings-i) |
+| [2949-count-beautiful-substrings-ii](https://github.com/gauthamnholla/coding-practice/tree/master/2949-count-beautiful-substrings-ii) |
 | [3044-most-frequent-prime](https://github.com/gauthamnholla/coding-practice/tree/master/3044-most-frequent-prime) |
 | [3556-sum-of-largest-prime-substrings](https://github.com/gauthamnholla/coding-practice/tree/master/3556-sum-of-largest-prime-substrings) |
 | [3715-sum-of-perfect-square-ancestors](https://github.com/gauthamnholla/coding-practice/tree/master/3715-sum-of-perfect-square-ancestors) |
