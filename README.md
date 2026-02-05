@@ -943,6 +943,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2850-minimum-moves-to-spread-stones-over-grid](https://github.com/gauthamnholla/coding-practice/tree/master/2850-minimum-moves-to-spread-stones-over-grid) |
 | [2856-minimum-array-length-after-pair-removals](https://github.com/gauthamnholla/coding-practice/tree/master/2856-minimum-array-length-after-pair-removals) |
 | [2860-happy-students](https://github.com/gauthamnholla/coding-practice/tree/master/2860-happy-students) |
+| [2862-maximum-element-sum-of-a-complete-subset-of-indices](https://github.com/gauthamnholla/coding-practice/tree/master/2862-maximum-element-sum-of-a-complete-subset-of-indices) |
 | [2903-find-indices-with-index-and-value-difference-i](https://github.com/gauthamnholla/coding-practice/tree/master/2903-find-indices-with-index-and-value-difference-i) |
 | [2905-find-indices-with-index-and-value-difference-ii](https://github.com/gauthamnholla/coding-practice/tree/master/2905-find-indices-with-index-and-value-difference-ii) |
 | [2906-construct-product-matrix](https://github.com/gauthamnholla/coding-practice/tree/master/2906-construct-product-matrix) |
@@ -3681,6 +3682,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2844-minimum-operations-to-make-a-special-number](https://github.com/gauthamnholla/coding-practice/tree/master/2844-minimum-operations-to-make-a-special-number) |
 | [2849-determine-if-a-cell-is-reachable-at-a-given-time](https://github.com/gauthamnholla/coding-practice/tree/master/2849-determine-if-a-cell-is-reachable-at-a-given-time) |
 | [2851-string-transformation](https://github.com/gauthamnholla/coding-practice/tree/master/2851-string-transformation) |
+| [2862-maximum-element-sum-of-a-complete-subset-of-indices](https://github.com/gauthamnholla/coding-practice/tree/master/2862-maximum-element-sum-of-a-complete-subset-of-indices) |
 | [2867-count-valid-paths-in-a-tree](https://github.com/gauthamnholla/coding-practice/tree/master/2867-count-valid-paths-in-a-tree) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/gauthamnholla/coding-practice/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [2965-find-missing-and-repeated-values](https://github.com/gauthamnholla/coding-practice/tree/master/2965-find-missing-and-repeated-values) |
@@ -5873,6 +5875,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2761-prime-pairs-with-target-sum](https://github.com/gauthamnholla/coding-practice/tree/master/2761-prime-pairs-with-target-sum) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/gauthamnholla/coding-practice/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [2818-apply-operations-to-maximize-score](https://github.com/gauthamnholla/coding-practice/tree/master/2818-apply-operations-to-maximize-score) |
+| [2862-maximum-element-sum-of-a-complete-subset-of-indices](https://github.com/gauthamnholla/coding-practice/tree/master/2862-maximum-element-sum-of-a-complete-subset-of-indices) |
 | [2867-count-valid-paths-in-a-tree](https://github.com/gauthamnholla/coding-practice/tree/master/2867-count-valid-paths-in-a-tree) |
 | [3044-most-frequent-prime](https://github.com/gauthamnholla/coding-practice/tree/master/3044-most-frequent-prime) |
 | [3556-sum-of-largest-prime-substrings](https://github.com/gauthamnholla/coding-practice/tree/master/3556-sum-of-largest-prime-substrings) |
