@@ -957,6 +957,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2952-minimum-number-of-coins-to-be-added](https://github.com/gauthamnholla/coding-practice/tree/master/2952-minimum-number-of-coins-to-be-added) |
 | [2954-count-the-number-of-infection-sequences](https://github.com/gauthamnholla/coding-practice/tree/master/2954-count-the-number-of-infection-sequences) |
 | [2961-double-modular-exponentiation](https://github.com/gauthamnholla/coding-practice/tree/master/2961-double-modular-exponentiation) |
+| [2963-count-the-number-of-good-partitions](https://github.com/gauthamnholla/coding-practice/tree/master/2963-count-the-number-of-good-partitions) |
 | [2965-find-missing-and-repeated-values](https://github.com/gauthamnholla/coding-practice/tree/master/2965-find-missing-and-repeated-values) |
 | [2967-minimum-cost-to-make-array-equalindromic](https://github.com/gauthamnholla/coding-practice/tree/master/2967-minimum-cost-to-make-array-equalindromic) |
 | [2968-apply-operations-to-maximize-frequency-score](https://github.com/gauthamnholla/coding-practice/tree/master/2968-apply-operations-to-maximize-frequency-score) |
@@ -2464,6 +2465,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2933-high-access-employees](https://github.com/gauthamnholla/coding-practice/tree/master/2933-high-access-employees) |
 | [2947-count-beautiful-substrings-i](https://github.com/gauthamnholla/coding-practice/tree/master/2947-count-beautiful-substrings-i) |
 | [2949-count-beautiful-substrings-ii](https://github.com/gauthamnholla/coding-practice/tree/master/2949-count-beautiful-substrings-ii) |
+| [2963-count-the-number-of-good-partitions](https://github.com/gauthamnholla/coding-practice/tree/master/2963-count-the-number-of-good-partitions) |
 | [2965-find-missing-and-repeated-values](https://github.com/gauthamnholla/coding-practice/tree/master/2965-find-missing-and-repeated-values) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/gauthamnholla/coding-practice/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [2983-palindrome-rearrangement-queries](https://github.com/gauthamnholla/coding-practice/tree/master/2983-palindrome-rearrangement-queries) |
@@ -3704,6 +3706,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2949-count-beautiful-substrings-ii](https://github.com/gauthamnholla/coding-practice/tree/master/2949-count-beautiful-substrings-ii) |
 | [2954-count-the-number-of-infection-sequences](https://github.com/gauthamnholla/coding-practice/tree/master/2954-count-the-number-of-infection-sequences) |
 | [2961-double-modular-exponentiation](https://github.com/gauthamnholla/coding-practice/tree/master/2961-double-modular-exponentiation) |
+| [2963-count-the-number-of-good-partitions](https://github.com/gauthamnholla/coding-practice/tree/master/2963-count-the-number-of-good-partitions) |
 | [2965-find-missing-and-repeated-values](https://github.com/gauthamnholla/coding-practice/tree/master/2965-find-missing-and-repeated-values) |
 | [2967-minimum-cost-to-make-array-equalindromic](https://github.com/gauthamnholla/coding-practice/tree/master/2967-minimum-cost-to-make-array-equalindromic) |
 | [3024-type-of-triangle](https://github.com/gauthamnholla/coding-practice/tree/master/3024-type-of-triangle) |
@@ -5937,6 +5940,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2928-distribute-candies-among-children-i](https://github.com/gauthamnholla/coding-practice/tree/master/2928-distribute-candies-among-children-i) |
 | [2930-number-of-strings-which-can-be-rearranged-to-contain-substring](https://github.com/gauthamnholla/coding-practice/tree/master/2930-number-of-strings-which-can-be-rearranged-to-contain-substring) |
 | [2954-count-the-number-of-infection-sequences](https://github.com/gauthamnholla/coding-practice/tree/master/2954-count-the-number-of-infection-sequences) |
+| [2963-count-the-number-of-good-partitions](https://github.com/gauthamnholla/coding-practice/tree/master/2963-count-the-number-of-good-partitions) |
 | [3179-find-the-n-th-value-after-k-seconds](https://github.com/gauthamnholla/coding-practice/tree/master/3179-find-the-n-th-value-after-k-seconds) |
 | [3201-distribute-candies-among-children-ii](https://github.com/gauthamnholla/coding-practice/tree/master/3201-distribute-candies-among-children-ii) |
 | [3250-find-the-count-of-monotonic-pairs-i](https://github.com/gauthamnholla/coding-practice/tree/master/3250-find-the-count-of-monotonic-pairs-i) |
