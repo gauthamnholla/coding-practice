@@ -955,6 +955,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/gauthamnholla/coding-practice/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/gauthamnholla/coding-practice/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2952-minimum-number-of-coins-to-be-added](https://github.com/gauthamnholla/coding-practice/tree/master/2952-minimum-number-of-coins-to-be-added) |
+| [2954-count-the-number-of-infection-sequences](https://github.com/gauthamnholla/coding-practice/tree/master/2954-count-the-number-of-infection-sequences) |
 | [2965-find-missing-and-repeated-values](https://github.com/gauthamnholla/coding-practice/tree/master/2965-find-missing-and-repeated-values) |
 | [2967-minimum-cost-to-make-array-equalindromic](https://github.com/gauthamnholla/coding-practice/tree/master/2967-minimum-cost-to-make-array-equalindromic) |
 | [2968-apply-operations-to-maximize-frequency-score](https://github.com/gauthamnholla/coding-practice/tree/master/2968-apply-operations-to-maximize-frequency-score) |
@@ -3699,6 +3700,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/gauthamnholla/coding-practice/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [2947-count-beautiful-substrings-i](https://github.com/gauthamnholla/coding-practice/tree/master/2947-count-beautiful-substrings-i) |
 | [2949-count-beautiful-substrings-ii](https://github.com/gauthamnholla/coding-practice/tree/master/2949-count-beautiful-substrings-ii) |
+| [2954-count-the-number-of-infection-sequences](https://github.com/gauthamnholla/coding-practice/tree/master/2954-count-the-number-of-infection-sequences) |
 | [2965-find-missing-and-repeated-values](https://github.com/gauthamnholla/coding-practice/tree/master/2965-find-missing-and-repeated-values) |
 | [2967-minimum-cost-to-make-array-equalindromic](https://github.com/gauthamnholla/coding-practice/tree/master/2967-minimum-cost-to-make-array-equalindromic) |
 | [3024-type-of-triangle](https://github.com/gauthamnholla/coding-practice/tree/master/3024-type-of-triangle) |
@@ -5931,6 +5933,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2842-count-k-subsequences-of-a-string-with-maximum-beauty](https://github.com/gauthamnholla/coding-practice/tree/master/2842-count-k-subsequences-of-a-string-with-maximum-beauty) |
 | [2928-distribute-candies-among-children-i](https://github.com/gauthamnholla/coding-practice/tree/master/2928-distribute-candies-among-children-i) |
 | [2930-number-of-strings-which-can-be-rearranged-to-contain-substring](https://github.com/gauthamnholla/coding-practice/tree/master/2930-number-of-strings-which-can-be-rearranged-to-contain-substring) |
+| [2954-count-the-number-of-infection-sequences](https://github.com/gauthamnholla/coding-practice/tree/master/2954-count-the-number-of-infection-sequences) |
 | [3179-find-the-n-th-value-after-k-seconds](https://github.com/gauthamnholla/coding-practice/tree/master/3179-find-the-n-th-value-after-k-seconds) |
 | [3201-distribute-candies-among-children-ii](https://github.com/gauthamnholla/coding-practice/tree/master/3201-distribute-candies-among-children-ii) |
 | [3250-find-the-count-of-monotonic-pairs-i](https://github.com/gauthamnholla/coding-practice/tree/master/3250-find-the-count-of-monotonic-pairs-i) |
