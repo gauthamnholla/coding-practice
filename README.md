@@ -3678,6 +3678,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2842-count-k-subsequences-of-a-string-with-maximum-beauty](https://github.com/gauthamnholla/coding-practice/tree/master/2842-count-k-subsequences-of-a-string-with-maximum-beauty) |
 | [2843-count-symmetric-integers](https://github.com/gauthamnholla/coding-practice/tree/master/2843-count-symmetric-integers) |
 | [2844-minimum-operations-to-make-a-special-number](https://github.com/gauthamnholla/coding-practice/tree/master/2844-minimum-operations-to-make-a-special-number) |
+| [2849-determine-if-a-cell-is-reachable-at-a-given-time](https://github.com/gauthamnholla/coding-practice/tree/master/2849-determine-if-a-cell-is-reachable-at-a-given-time) |
 | [2867-count-valid-paths-in-a-tree](https://github.com/gauthamnholla/coding-practice/tree/master/2867-count-valid-paths-in-a-tree) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/gauthamnholla/coding-practice/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [2965-find-missing-and-repeated-values](https://github.com/gauthamnholla/coding-practice/tree/master/2965-find-missing-and-repeated-values) |
