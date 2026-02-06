@@ -971,6 +971,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/gauthamnholla/coding-practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/gauthamnholla/coding-practice/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3011-find-if-array-can-be-sorted](https://github.com/gauthamnholla/coding-practice/tree/master/3011-find-if-array-can-be-sorted) |
+| [3012-minimize-length-of-array-using-operations](https://github.com/gauthamnholla/coding-practice/tree/master/3012-minimize-length-of-array-using-operations) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/gauthamnholla/coding-practice/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3024-type-of-triangle](https://github.com/gauthamnholla/coding-practice/tree/master/3024-type-of-triangle) |
 | [3026-maximum-good-subarray-sum](https://github.com/gauthamnholla/coding-practice/tree/master/3026-maximum-good-subarray-sum) |
@@ -1419,6 +1420,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2952-minimum-number-of-coins-to-be-added](https://github.com/gauthamnholla/coding-practice/tree/master/2952-minimum-number-of-coins-to-be-added) |
 | [2967-minimum-cost-to-make-array-equalindromic](https://github.com/gauthamnholla/coding-practice/tree/master/2967-minimum-cost-to-make-array-equalindromic) |
 | [2971-find-polygon-with-the-largest-perimeter](https://github.com/gauthamnholla/coding-practice/tree/master/2971-find-polygon-with-the-largest-perimeter) |
+| [3012-minimize-length-of-array-using-operations](https://github.com/gauthamnholla/coding-practice/tree/master/3012-minimize-length-of-array-using-operations) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/gauthamnholla/coding-practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3035-maximum-palindromes-after-operations](https://github.com/gauthamnholla/coding-practice/tree/master/3035-maximum-palindromes-after-operations) |
 | [3068-find-the-maximum-sum-of-node-values](https://github.com/gauthamnholla/coding-practice/tree/master/3068-find-the-maximum-sum-of-node-values) |
@@ -3713,6 +3715,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2967-minimum-cost-to-make-array-equalindromic](https://github.com/gauthamnholla/coding-practice/tree/master/2967-minimum-cost-to-make-array-equalindromic) |
 | [3001-minimum-moves-to-capture-the-queen](https://github.com/gauthamnholla/coding-practice/tree/master/3001-minimum-moves-to-capture-the-queen) |
 | [3007-maximum-number-that-sum-of-the-prices-is-less-than-or-equal-to-k](https://github.com/gauthamnholla/coding-practice/tree/master/3007-maximum-number-that-sum-of-the-prices-is-less-than-or-equal-to-k) |
+| [3012-minimize-length-of-array-using-operations](https://github.com/gauthamnholla/coding-practice/tree/master/3012-minimize-length-of-array-using-operations) |
 | [3024-type-of-triangle](https://github.com/gauthamnholla/coding-practice/tree/master/3024-type-of-triangle) |
 | [3044-most-frequent-prime](https://github.com/gauthamnholla/coding-practice/tree/master/3044-most-frequent-prime) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/gauthamnholla/coding-practice/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
@@ -5913,6 +5916,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2867-count-valid-paths-in-a-tree](https://github.com/gauthamnholla/coding-practice/tree/master/2867-count-valid-paths-in-a-tree) |
 | [2947-count-beautiful-substrings-i](https://github.com/gauthamnholla/coding-practice/tree/master/2947-count-beautiful-substrings-i) |
 | [2949-count-beautiful-substrings-ii](https://github.com/gauthamnholla/coding-practice/tree/master/2949-count-beautiful-substrings-ii) |
+| [3012-minimize-length-of-array-using-operations](https://github.com/gauthamnholla/coding-practice/tree/master/3012-minimize-length-of-array-using-operations) |
 | [3044-most-frequent-prime](https://github.com/gauthamnholla/coding-practice/tree/master/3044-most-frequent-prime) |
 | [3556-sum-of-largest-prime-substrings](https://github.com/gauthamnholla/coding-practice/tree/master/3556-sum-of-largest-prime-substrings) |
 | [3715-sum-of-perfect-square-ancestors](https://github.com/gauthamnholla/coding-practice/tree/master/3715-sum-of-perfect-square-ancestors) |
