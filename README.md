@@ -2992,6 +2992,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/gauthamnholla/coding-practice/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/gauthamnholla/coding-practice/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 | [3148-maximum-difference-score-in-a-grid](https://github.com/gauthamnholla/coding-practice/tree/master/3148-maximum-difference-score-in-a-grid) |
+| [3154-find-number-of-ways-to-reach-the-k-th-stair](https://github.com/gauthamnholla/coding-practice/tree/master/3154-find-number-of-ways-to-reach-the-k-th-stair) |
 | [3218-minimum-cost-for-cutting-cake-i](https://github.com/gauthamnholla/coding-practice/tree/master/3218-minimum-cost-for-cutting-cake-i) |
 | [3225-maximum-score-from-grid-operations](https://github.com/gauthamnholla/coding-practice/tree/master/3225-maximum-score-from-grid-operations) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/gauthamnholla/coding-practice/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
@@ -3072,6 +3073,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/gauthamnholla/coding-practice/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2713-maximum-strictly-increasing-cells-in-a-matrix](https://github.com/gauthamnholla/coding-practice/tree/master/2713-maximum-strictly-increasing-cells-in-a-matrix) |
 | [2920-maximum-points-after-collecting-coins-from-all-nodes](https://github.com/gauthamnholla/coding-practice/tree/master/2920-maximum-points-after-collecting-coins-from-all-nodes) |
+| [3154-find-number-of-ways-to-reach-the-k-th-stair](https://github.com/gauthamnholla/coding-practice/tree/master/3154-find-number-of-ways-to-reach-the-k-th-stair) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/gauthamnholla/coding-practice/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 ## Two Pointers
 |  |
@@ -3727,6 +3729,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3102-minimize-manhattan-distances](https://github.com/gauthamnholla/coding-practice/tree/master/3102-minimize-manhattan-distances) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/gauthamnholla/coding-practice/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3153-sum-of-digit-differences-of-all-pairs](https://github.com/gauthamnholla/coding-practice/tree/master/3153-sum-of-digit-differences-of-all-pairs) |
+| [3154-find-number-of-ways-to-reach-the-k-th-stair](https://github.com/gauthamnholla/coding-practice/tree/master/3154-find-number-of-ways-to-reach-the-k-th-stair) |
 | [3179-find-the-n-th-value-after-k-seconds](https://github.com/gauthamnholla/coding-practice/tree/master/3179-find-the-n-th-value-after-k-seconds) |
 | [3201-distribute-candies-among-children-ii](https://github.com/gauthamnholla/coding-practice/tree/master/3201-distribute-candies-among-children-ii) |
 | [3235-check-if-the-rectangle-corner-is-reachable](https://github.com/gauthamnholla/coding-practice/tree/master/3235-check-if-the-rectangle-corner-is-reachable) |
@@ -4614,6 +4617,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3011-find-if-array-can-be-sorted](https://github.com/gauthamnholla/coding-practice/tree/master/3011-find-if-array-can-be-sorted) |
 | [3068-find-the-maximum-sum-of-node-values](https://github.com/gauthamnholla/coding-practice/tree/master/3068-find-the-maximum-sum-of-node-values) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/gauthamnholla/coding-practice/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3154-find-number-of-ways-to-reach-the-k-th-stair](https://github.com/gauthamnholla/coding-practice/tree/master/3154-find-number-of-ways-to-reach-the-k-th-stair) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/gauthamnholla/coding-practice/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/gauthamnholla/coding-practice/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3276-select-cells-in-grid-with-maximum-score](https://github.com/gauthamnholla/coding-practice/tree/master/3276-select-cells-in-grid-with-maximum-score) |
@@ -5964,6 +5968,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2954-count-the-number-of-infection-sequences](https://github.com/gauthamnholla/coding-practice/tree/master/2954-count-the-number-of-infection-sequences) |
 | [2963-count-the-number-of-good-partitions](https://github.com/gauthamnholla/coding-practice/tree/master/2963-count-the-number-of-good-partitions) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/gauthamnholla/coding-practice/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3154-find-number-of-ways-to-reach-the-k-th-stair](https://github.com/gauthamnholla/coding-practice/tree/master/3154-find-number-of-ways-to-reach-the-k-th-stair) |
 | [3179-find-the-n-th-value-after-k-seconds](https://github.com/gauthamnholla/coding-practice/tree/master/3179-find-the-n-th-value-after-k-seconds) |
 | [3201-distribute-candies-among-children-ii](https://github.com/gauthamnholla/coding-practice/tree/master/3201-distribute-candies-among-children-ii) |
 | [3250-find-the-count-of-monotonic-pairs-i](https://github.com/gauthamnholla/coding-practice/tree/master/3250-find-the-count-of-monotonic-pairs-i) |
