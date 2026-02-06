@@ -3750,6 +3750,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3260-find-the-largest-palindrome-divisible-by-k](https://github.com/gauthamnholla/coding-practice/tree/master/3260-find-the-largest-palindrome-divisible-by-k) |
 | [3270-find-the-key-of-the-numbers](https://github.com/gauthamnholla/coding-practice/tree/master/3270-find-the-key-of-the-numbers) |
 | [3272-find-the-count-of-good-integers](https://github.com/gauthamnholla/coding-practice/tree/master/3272-find-the-count-of-good-integers) |
+| [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/gauthamnholla/coding-practice/tree/master/3274-check-if-two-chessboard-squares-have-the-same-color) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/gauthamnholla/coding-practice/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/gauthamnholla/coding-practice/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/gauthamnholla/coding-practice/tree/master/3279-alice-and-bob-playing-flower-game) |
@@ -4109,6 +4110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/gauthamnholla/coding-practice/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3260-find-the-largest-palindrome-divisible-by-k](https://github.com/gauthamnholla/coding-practice/tree/master/3260-find-the-largest-palindrome-divisible-by-k) |
 | [3261-count-substrings-that-satisfy-k-constraint-ii](https://github.com/gauthamnholla/coding-practice/tree/master/3261-count-substrings-that-satisfy-k-constraint-ii) |
+| [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/gauthamnholla/coding-practice/tree/master/3274-check-if-two-chessboard-squares-have-the-same-color) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/gauthamnholla/coding-practice/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3316-find-maximum-removals-from-source-string](https://github.com/gauthamnholla/coding-practice/tree/master/3316-find-maximum-removals-from-source-string) |
 | [3327-check-if-dfs-strings-are-palindromes](https://github.com/gauthamnholla/coding-practice/tree/master/3327-check-if-dfs-strings-are-palindromes) |
