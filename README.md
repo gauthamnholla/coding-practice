@@ -1025,6 +1025,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3242-design-neighbor-sum-service](https://github.com/gauthamnholla/coding-practice/tree/master/3242-design-neighbor-sum-service) |
 | [3250-find-the-count-of-monotonic-pairs-i](https://github.com/gauthamnholla/coding-practice/tree/master/3250-find-the-count-of-monotonic-pairs-i) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/gauthamnholla/coding-practice/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
+| [3251-find-the-count-of-monotonic-pairs-ii](https://github.com/gauthamnholla/coding-practice/tree/master/3251-find-the-count-of-monotonic-pairs-ii) |
 | [3256-maximum-value-sum-by-placing-three-rooks-i](https://github.com/gauthamnholla/coding-practice/tree/master/3256-maximum-value-sum-by-placing-three-rooks-i) |
 | [3257-maximum-value-sum-by-placing-three-rooks-ii](https://github.com/gauthamnholla/coding-practice/tree/master/3257-maximum-value-sum-by-placing-three-rooks-ii) |
 | [3261-count-substrings-that-satisfy-k-constraint-ii](https://github.com/gauthamnholla/coding-practice/tree/master/3261-count-substrings-that-satisfy-k-constraint-ii) |
@@ -3001,6 +3002,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/gauthamnholla/coding-practice/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3241-time-taken-to-mark-all-nodes](https://github.com/gauthamnholla/coding-practice/tree/master/3241-time-taken-to-mark-all-nodes) |
 | [3250-find-the-count-of-monotonic-pairs-i](https://github.com/gauthamnholla/coding-practice/tree/master/3250-find-the-count-of-monotonic-pairs-i) |
+| [3251-find-the-count-of-monotonic-pairs-ii](https://github.com/gauthamnholla/coding-practice/tree/master/3251-find-the-count-of-monotonic-pairs-ii) |
 | [3256-maximum-value-sum-by-placing-three-rooks-i](https://github.com/gauthamnholla/coding-practice/tree/master/3256-maximum-value-sum-by-placing-three-rooks-i) |
 | [3257-maximum-value-sum-by-placing-three-rooks-ii](https://github.com/gauthamnholla/coding-practice/tree/master/3257-maximum-value-sum-by-placing-three-rooks-ii) |
 | [3276-select-cells-in-grid-with-maximum-score](https://github.com/gauthamnholla/coding-practice/tree/master/3276-select-cells-in-grid-with-maximum-score) |
@@ -3740,6 +3742,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3233-find-the-count-of-numbers-which-are-not-special](https://github.com/gauthamnholla/coding-practice/tree/master/3233-find-the-count-of-numbers-which-are-not-special) |
 | [3235-check-if-the-rectangle-corner-is-reachable](https://github.com/gauthamnholla/coding-practice/tree/master/3235-check-if-the-rectangle-corner-is-reachable) |
 | [3250-find-the-count-of-monotonic-pairs-i](https://github.com/gauthamnholla/coding-practice/tree/master/3250-find-the-count-of-monotonic-pairs-i) |
+| [3251-find-the-count-of-monotonic-pairs-ii](https://github.com/gauthamnholla/coding-practice/tree/master/3251-find-the-count-of-monotonic-pairs-ii) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/gauthamnholla/coding-practice/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/gauthamnholla/coding-practice/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/gauthamnholla/coding-practice/tree/master/3279-alice-and-bob-playing-flower-game) |
@@ -4996,6 +4999,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3224-minimum-array-changes-to-make-differences-equal](https://github.com/gauthamnholla/coding-practice/tree/master/3224-minimum-array-changes-to-make-differences-equal) |
 | [3225-maximum-score-from-grid-operations](https://github.com/gauthamnholla/coding-practice/tree/master/3225-maximum-score-from-grid-operations) |
 | [3250-find-the-count-of-monotonic-pairs-i](https://github.com/gauthamnholla/coding-practice/tree/master/3250-find-the-count-of-monotonic-pairs-i) |
+| [3251-find-the-count-of-monotonic-pairs-ii](https://github.com/gauthamnholla/coding-practice/tree/master/3251-find-the-count-of-monotonic-pairs-ii) |
 | [3261-count-substrings-that-satisfy-k-constraint-ii](https://github.com/gauthamnholla/coding-practice/tree/master/3261-count-substrings-that-satisfy-k-constraint-ii) |
 | [3355-zero-array-transformation-i](https://github.com/gauthamnholla/coding-practice/tree/master/3355-zero-array-transformation-i) |
 | [3362-zero-array-transformation-iii](https://github.com/gauthamnholla/coding-practice/tree/master/3362-zero-array-transformation-iii) |
@@ -5979,6 +5983,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3179-find-the-n-th-value-after-k-seconds](https://github.com/gauthamnholla/coding-practice/tree/master/3179-find-the-n-th-value-after-k-seconds) |
 | [3201-distribute-candies-among-children-ii](https://github.com/gauthamnholla/coding-practice/tree/master/3201-distribute-candies-among-children-ii) |
 | [3250-find-the-count-of-monotonic-pairs-i](https://github.com/gauthamnholla/coding-practice/tree/master/3250-find-the-count-of-monotonic-pairs-i) |
+| [3251-find-the-count-of-monotonic-pairs-ii](https://github.com/gauthamnholla/coding-practice/tree/master/3251-find-the-count-of-monotonic-pairs-ii) |
 | [3426-manhattan-distances-of-all-arrangements-of-pieces](https://github.com/gauthamnholla/coding-practice/tree/master/3426-manhattan-distances-of-all-arrangements-of-pieces) |
 | [3428-maximum-and-minimum-sums-of-at-most-size-k-subsequences](https://github.com/gauthamnholla/coding-practice/tree/master/3428-maximum-and-minimum-sums-of-at-most-size-k-subsequences) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/gauthamnholla/coding-practice/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
