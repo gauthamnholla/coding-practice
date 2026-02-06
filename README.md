@@ -1015,6 +1015,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3219-minimum-cost-for-cutting-cake-ii](https://github.com/gauthamnholla/coding-practice/tree/master/3219-minimum-cost-for-cutting-cake-ii) |
 | [3224-minimum-array-changes-to-make-differences-equal](https://github.com/gauthamnholla/coding-practice/tree/master/3224-minimum-array-changes-to-make-differences-equal) |
 | [3225-maximum-score-from-grid-operations](https://github.com/gauthamnholla/coding-practice/tree/master/3225-maximum-score-from-grid-operations) |
+| [3232-find-if-digit-game-can-be-won](https://github.com/gauthamnholla/coding-practice/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3235-check-if-the-rectangle-corner-is-reachable](https://github.com/gauthamnholla/coding-practice/tree/master/3235-check-if-the-rectangle-corner-is-reachable) |
 | [3239-minimum-number-of-flips-to-make-binary-grid-palindromic-i](https://github.com/gauthamnholla/coding-practice/tree/master/3239-minimum-number-of-flips-to-make-binary-grid-palindromic-i) |
 | [3240-minimum-number-of-flips-to-make-binary-grid-palindromic-ii](https://github.com/gauthamnholla/coding-practice/tree/master/3240-minimum-number-of-flips-to-make-binary-grid-palindromic-ii) |
@@ -3734,6 +3735,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3178-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/gauthamnholla/coding-practice/tree/master/3178-find-the-child-who-has-the-ball-after-k-seconds) |
 | [3179-find-the-n-th-value-after-k-seconds](https://github.com/gauthamnholla/coding-practice/tree/master/3179-find-the-n-th-value-after-k-seconds) |
 | [3201-distribute-candies-among-children-ii](https://github.com/gauthamnholla/coding-practice/tree/master/3201-distribute-candies-among-children-ii) |
+| [3232-find-if-digit-game-can-be-won](https://github.com/gauthamnholla/coding-practice/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3235-check-if-the-rectangle-corner-is-reachable](https://github.com/gauthamnholla/coding-practice/tree/master/3235-check-if-the-rectangle-corner-is-reachable) |
 | [3250-find-the-count-of-monotonic-pairs-i](https://github.com/gauthamnholla/coding-practice/tree/master/3250-find-the-count-of-monotonic-pairs-i) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/gauthamnholla/coding-practice/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
