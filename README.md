@@ -1004,6 +1004,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3142-check-if-grid-satisfies-conditions](https://github.com/gauthamnholla/coding-practice/tree/master/3142-check-if-grid-satisfies-conditions) |
 | [3143-maximum-points-inside-the-square](https://github.com/gauthamnholla/coding-practice/tree/master/3143-maximum-points-inside-the-square) |
 | [3148-maximum-difference-score-in-a-grid](https://github.com/gauthamnholla/coding-practice/tree/master/3148-maximum-difference-score-in-a-grid) |
+| [3153-sum-of-digit-differences-of-all-pairs](https://github.com/gauthamnholla/coding-practice/tree/master/3153-sum-of-digit-differences-of-all-pairs) |
 | [3159-find-occurrences-of-an-element-in-an-array](https://github.com/gauthamnholla/coding-practice/tree/master/3159-find-occurrences-of-an-element-in-an-array) |
 | [3169-count-days-without-meetings](https://github.com/gauthamnholla/coding-practice/tree/master/3169-count-days-without-meetings) |
 | [3179-find-the-n-th-value-after-k-seconds](https://github.com/gauthamnholla/coding-practice/tree/master/3179-find-the-n-th-value-after-k-seconds) |
@@ -2485,6 +2486,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3080-mark-elements-on-array-by-performing-queries](https://github.com/gauthamnholla/coding-practice/tree/master/3080-mark-elements-on-array-by-performing-queries) |
 | [3081-replace-question-marks-in-string-to-minimize-its-value](https://github.com/gauthamnholla/coding-practice/tree/master/3081-replace-question-marks-in-string-to-minimize-its-value) |
 | [3143-maximum-points-inside-the-square](https://github.com/gauthamnholla/coding-practice/tree/master/3143-maximum-points-inside-the-square) |
+| [3153-sum-of-digit-differences-of-all-pairs](https://github.com/gauthamnholla/coding-practice/tree/master/3153-sum-of-digit-differences-of-all-pairs) |
 | [3159-find-occurrences-of-an-element-in-an-array](https://github.com/gauthamnholla/coding-practice/tree/master/3159-find-occurrences-of-an-element-in-an-array) |
 | [3223-minimum-length-of-string-after-operations](https://github.com/gauthamnholla/coding-practice/tree/master/3223-minimum-length-of-string-after-operations) |
 | [3224-minimum-array-changes-to-make-differences-equal](https://github.com/gauthamnholla/coding-practice/tree/master/3224-minimum-array-changes-to-make-differences-equal) |
@@ -3724,6 +3726,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/gauthamnholla/coding-practice/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3102-minimize-manhattan-distances](https://github.com/gauthamnholla/coding-practice/tree/master/3102-minimize-manhattan-distances) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/gauthamnholla/coding-practice/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3153-sum-of-digit-differences-of-all-pairs](https://github.com/gauthamnholla/coding-practice/tree/master/3153-sum-of-digit-differences-of-all-pairs) |
 | [3179-find-the-n-th-value-after-k-seconds](https://github.com/gauthamnholla/coding-practice/tree/master/3179-find-the-n-th-value-after-k-seconds) |
 | [3201-distribute-candies-among-children-ii](https://github.com/gauthamnholla/coding-practice/tree/master/3201-distribute-candies-among-children-ii) |
 | [3235-check-if-the-rectangle-corner-is-reachable](https://github.com/gauthamnholla/coding-practice/tree/master/3235-check-if-the-rectangle-corner-is-reachable) |
@@ -5715,6 +5718,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3044-most-frequent-prime](https://github.com/gauthamnholla/coding-practice/tree/master/3044-most-frequent-prime) |
 | [3071-minimum-operations-to-write-the-letter-y-on-a-grid](https://github.com/gauthamnholla/coding-practice/tree/master/3071-minimum-operations-to-write-the-letter-y-on-a-grid) |
 | [3081-replace-question-marks-in-string-to-minimize-its-value](https://github.com/gauthamnholla/coding-practice/tree/master/3081-replace-question-marks-in-string-to-minimize-its-value) |
+| [3153-sum-of-digit-differences-of-all-pairs](https://github.com/gauthamnholla/coding-practice/tree/master/3153-sum-of-digit-differences-of-all-pairs) |
 | [3223-minimum-length-of-string-after-operations](https://github.com/gauthamnholla/coding-practice/tree/master/3223-minimum-length-of-string-after-operations) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/gauthamnholla/coding-practice/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3265-count-almost-equal-pairs-i](https://github.com/gauthamnholla/coding-practice/tree/master/3265-count-almost-equal-pairs-i) |
