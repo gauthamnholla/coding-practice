@@ -3746,6 +3746,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3250-find-the-count-of-monotonic-pairs-i](https://github.com/gauthamnholla/coding-practice/tree/master/3250-find-the-count-of-monotonic-pairs-i) |
 | [3251-find-the-count-of-monotonic-pairs-ii](https://github.com/gauthamnholla/coding-practice/tree/master/3251-find-the-count-of-monotonic-pairs-ii) |
 | [3260-find-the-largest-palindrome-divisible-by-k](https://github.com/gauthamnholla/coding-practice/tree/master/3260-find-the-largest-palindrome-divisible-by-k) |
+| [3270-find-the-key-of-the-numbers](https://github.com/gauthamnholla/coding-practice/tree/master/3270-find-the-key-of-the-numbers) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/gauthamnholla/coding-practice/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/gauthamnholla/coding-practice/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/gauthamnholla/coding-practice/tree/master/3279-alice-and-bob-playing-flower-game) |
