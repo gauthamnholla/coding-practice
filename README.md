@@ -2690,6 +2690,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2974-minimum-number-game](https://github.com/gauthamnholla/coding-practice/tree/master/2974-minimum-number-game) |
 | [3028-ant-on-the-boundary](https://github.com/gauthamnholla/coding-practice/tree/master/3028-ant-on-the-boundary) |
 | [3080-mark-elements-on-array-by-performing-queries](https://github.com/gauthamnholla/coding-practice/tree/master/3080-mark-elements-on-array-by-performing-queries) |
+| [3178-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/gauthamnholla/coding-practice/tree/master/3178-find-the-child-who-has-the-ball-after-k-seconds) |
 | [3179-find-the-n-th-value-after-k-seconds](https://github.com/gauthamnholla/coding-practice/tree/master/3179-find-the-n-th-value-after-k-seconds) |
 | [3242-design-neighbor-sum-service](https://github.com/gauthamnholla/coding-practice/tree/master/3242-design-neighbor-sum-service) |
 | [3336-water-bottles-ii](https://github.com/gauthamnholla/coding-practice/tree/master/3336-water-bottles-ii) |
@@ -3730,6 +3731,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/gauthamnholla/coding-practice/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3153-sum-of-digit-differences-of-all-pairs](https://github.com/gauthamnholla/coding-practice/tree/master/3153-sum-of-digit-differences-of-all-pairs) |
 | [3154-find-number-of-ways-to-reach-the-k-th-stair](https://github.com/gauthamnholla/coding-practice/tree/master/3154-find-number-of-ways-to-reach-the-k-th-stair) |
+| [3178-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/gauthamnholla/coding-practice/tree/master/3178-find-the-child-who-has-the-ball-after-k-seconds) |
 | [3179-find-the-n-th-value-after-k-seconds](https://github.com/gauthamnholla/coding-practice/tree/master/3179-find-the-n-th-value-after-k-seconds) |
 | [3201-distribute-candies-among-children-ii](https://github.com/gauthamnholla/coding-practice/tree/master/3201-distribute-candies-among-children-ii) |
 | [3235-check-if-the-rectangle-corner-is-reachable](https://github.com/gauthamnholla/coding-practice/tree/master/3235-check-if-the-rectangle-corner-is-reachable) |
