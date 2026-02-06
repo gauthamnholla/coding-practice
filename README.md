@@ -1040,6 +1040,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/gauthamnholla/coding-practice/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3288-length-of-the-longest-increasing-path](https://github.com/gauthamnholla/coding-practice/tree/master/3288-length-of-the-longest-increasing-path) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/gauthamnholla/coding-practice/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/gauthamnholla/coding-practice/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3301-maximize-the-total-height-of-unique-towers](https://github.com/gauthamnholla/coding-practice/tree/master/3301-maximize-the-total-height-of-unique-towers) |
 | [3311-construct-2d-grid-matching-graph-layout](https://github.com/gauthamnholla/coding-practice/tree/master/3311-construct-2d-grid-matching-graph-layout) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/gauthamnholla/coding-practice/tree/master/3314-construct-the-minimum-bitwise-array-i) |
@@ -3761,6 +3762,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3280-convert-date-to-binary](https://github.com/gauthamnholla/coding-practice/tree/master/3280-convert-date-to-binary) |
 | [3283-maximum-number-of-moves-to-kill-all-pawns](https://github.com/gauthamnholla/coding-practice/tree/master/3283-maximum-number-of-moves-to-kill-all-pawns) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/gauthamnholla/coding-practice/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/gauthamnholla/coding-practice/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3336-water-bottles-ii](https://github.com/gauthamnholla/coding-practice/tree/master/3336-water-bottles-ii) |
 | [3380-maximum-area-rectangle-with-point-constraints-i](https://github.com/gauthamnholla/coding-practice/tree/master/3380-maximum-area-rectangle-with-point-constraints-i) |
 | [3382-maximum-area-rectangle-with-point-constraints-ii](https://github.com/gauthamnholla/coding-practice/tree/master/3382-maximum-area-rectangle-with-point-constraints-ii) |
