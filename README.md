@@ -2123,6 +2123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2947-count-beautiful-substrings-i](https://github.com/gauthamnholla/coding-practice/tree/master/2947-count-beautiful-substrings-i) |
 | [2970-count-the-number-of-incremovable-subarrays-i](https://github.com/gauthamnholla/coding-practice/tree/master/2970-count-the-number-of-incremovable-subarrays-i) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/gauthamnholla/coding-practice/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
+| [3001-minimum-moves-to-capture-the-queen](https://github.com/gauthamnholla/coding-practice/tree/master/3001-minimum-moves-to-capture-the-queen) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/gauthamnholla/coding-practice/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3044-most-frequent-prime](https://github.com/gauthamnholla/coding-practice/tree/master/3044-most-frequent-prime) |
 | [3127-make-a-square-with-the-same-color](https://github.com/gauthamnholla/coding-practice/tree/master/3127-make-a-square-with-the-same-color) |
@@ -3709,6 +3710,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2963-count-the-number-of-good-partitions](https://github.com/gauthamnholla/coding-practice/tree/master/2963-count-the-number-of-good-partitions) |
 | [2965-find-missing-and-repeated-values](https://github.com/gauthamnholla/coding-practice/tree/master/2965-find-missing-and-repeated-values) |
 | [2967-minimum-cost-to-make-array-equalindromic](https://github.com/gauthamnholla/coding-practice/tree/master/2967-minimum-cost-to-make-array-equalindromic) |
+| [3001-minimum-moves-to-capture-the-queen](https://github.com/gauthamnholla/coding-practice/tree/master/3001-minimum-moves-to-capture-the-queen) |
 | [3024-type-of-triangle](https://github.com/gauthamnholla/coding-practice/tree/master/3024-type-of-triangle) |
 | [3044-most-frequent-prime](https://github.com/gauthamnholla/coding-practice/tree/master/3044-most-frequent-prime) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/gauthamnholla/coding-practice/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
