@@ -2142,6 +2142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3257-maximum-value-sum-by-placing-three-rooks-ii](https://github.com/gauthamnholla/coding-practice/tree/master/3257-maximum-value-sum-by-placing-three-rooks-ii) |
 | [3265-count-almost-equal-pairs-i](https://github.com/gauthamnholla/coding-practice/tree/master/3265-count-almost-equal-pairs-i) |
 | [3267-count-almost-equal-pairs-ii](https://github.com/gauthamnholla/coding-practice/tree/master/3267-count-almost-equal-pairs-ii) |
+| [3272-find-the-count-of-good-integers](https://github.com/gauthamnholla/coding-practice/tree/master/3272-find-the-count-of-good-integers) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/gauthamnholla/coding-practice/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/gauthamnholla/coding-practice/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3380-maximum-area-rectangle-with-point-constraints-i](https://github.com/gauthamnholla/coding-practice/tree/master/3380-maximum-area-rectangle-with-point-constraints-i) |
@@ -2498,6 +2499,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3242-design-neighbor-sum-service](https://github.com/gauthamnholla/coding-practice/tree/master/3242-design-neighbor-sum-service) |
 | [3265-count-almost-equal-pairs-i](https://github.com/gauthamnholla/coding-practice/tree/master/3265-count-almost-equal-pairs-i) |
 | [3267-count-almost-equal-pairs-ii](https://github.com/gauthamnholla/coding-practice/tree/master/3267-count-almost-equal-pairs-ii) |
+| [3272-find-the-count-of-good-integers](https://github.com/gauthamnholla/coding-practice/tree/master/3272-find-the-count-of-good-integers) |
 | [3311-construct-2d-grid-matching-graph-layout](https://github.com/gauthamnholla/coding-practice/tree/master/3311-construct-2d-grid-matching-graph-layout) |
 | [3316-find-maximum-removals-from-source-string](https://github.com/gauthamnholla/coding-practice/tree/master/3316-find-maximum-removals-from-source-string) |
 | [3327-check-if-dfs-strings-are-palindromes](https://github.com/gauthamnholla/coding-practice/tree/master/3327-check-if-dfs-strings-are-palindromes) |
@@ -3747,6 +3749,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3251-find-the-count-of-monotonic-pairs-ii](https://github.com/gauthamnholla/coding-practice/tree/master/3251-find-the-count-of-monotonic-pairs-ii) |
 | [3260-find-the-largest-palindrome-divisible-by-k](https://github.com/gauthamnholla/coding-practice/tree/master/3260-find-the-largest-palindrome-divisible-by-k) |
 | [3270-find-the-key-of-the-numbers](https://github.com/gauthamnholla/coding-practice/tree/master/3270-find-the-key-of-the-numbers) |
+| [3272-find-the-count-of-good-integers](https://github.com/gauthamnholla/coding-practice/tree/master/3272-find-the-count-of-good-integers) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/gauthamnholla/coding-practice/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/gauthamnholla/coding-practice/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/gauthamnholla/coding-practice/tree/master/3279-alice-and-bob-playing-flower-game) |
@@ -5990,6 +5993,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3201-distribute-candies-among-children-ii](https://github.com/gauthamnholla/coding-practice/tree/master/3201-distribute-candies-among-children-ii) |
 | [3250-find-the-count-of-monotonic-pairs-i](https://github.com/gauthamnholla/coding-practice/tree/master/3250-find-the-count-of-monotonic-pairs-i) |
 | [3251-find-the-count-of-monotonic-pairs-ii](https://github.com/gauthamnholla/coding-practice/tree/master/3251-find-the-count-of-monotonic-pairs-ii) |
+| [3272-find-the-count-of-good-integers](https://github.com/gauthamnholla/coding-practice/tree/master/3272-find-the-count-of-good-integers) |
 | [3426-manhattan-distances-of-all-arrangements-of-pieces](https://github.com/gauthamnholla/coding-practice/tree/master/3426-manhattan-distances-of-all-arrangements-of-pieces) |
 | [3428-maximum-and-minimum-sums-of-at-most-size-k-subsequences](https://github.com/gauthamnholla/coding-practice/tree/master/3428-maximum-and-minimum-sums-of-at-most-size-k-subsequences) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/gauthamnholla/coding-practice/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
