@@ -3019,6 +3019,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3276-select-cells-in-grid-with-maximum-score](https://github.com/gauthamnholla/coding-practice/tree/master/3276-select-cells-in-grid-with-maximum-score) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/gauthamnholla/coding-practice/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3316-find-maximum-removals-from-source-string](https://github.com/gauthamnholla/coding-practice/tree/master/3316-find-maximum-removals-from-source-string) |
+| [3317-find-the-number-of-possible-ways-for-an-event](https://github.com/gauthamnholla/coding-practice/tree/master/3317-find-the-number-of-possible-ways-for-an-event) |
 | [3332-maximum-points-tourist-can-earn](https://github.com/gauthamnholla/coding-practice/tree/master/3332-maximum-points-tourist-can-earn) |
 | [3367-maximize-sum-of-weights-after-edge-removals](https://github.com/gauthamnholla/coding-practice/tree/master/3367-maximize-sum-of-weights-after-edge-removals) |
 | [3376-minimum-time-to-break-locks-i](https://github.com/gauthamnholla/coding-practice/tree/master/3376-minimum-time-to-break-locks-i) |
@@ -3766,6 +3767,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/gauthamnholla/coding-practice/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/gauthamnholla/coding-practice/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3312-sorted-gcd-pair-queries](https://github.com/gauthamnholla/coding-practice/tree/master/3312-sorted-gcd-pair-queries) |
+| [3317-find-the-number-of-possible-ways-for-an-event](https://github.com/gauthamnholla/coding-practice/tree/master/3317-find-the-number-of-possible-ways-for-an-event) |
 | [3336-water-bottles-ii](https://github.com/gauthamnholla/coding-practice/tree/master/3336-water-bottles-ii) |
 | [3380-maximum-area-rectangle-with-point-constraints-i](https://github.com/gauthamnholla/coding-practice/tree/master/3380-maximum-area-rectangle-with-point-constraints-i) |
 | [3382-maximum-area-rectangle-with-point-constraints-ii](https://github.com/gauthamnholla/coding-practice/tree/master/3382-maximum-area-rectangle-with-point-constraints-ii) |
@@ -6017,6 +6019,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3251-find-the-count-of-monotonic-pairs-ii](https://github.com/gauthamnholla/coding-practice/tree/master/3251-find-the-count-of-monotonic-pairs-ii) |
 | [3272-find-the-count-of-good-integers](https://github.com/gauthamnholla/coding-practice/tree/master/3272-find-the-count-of-good-integers) |
 | [3312-sorted-gcd-pair-queries](https://github.com/gauthamnholla/coding-practice/tree/master/3312-sorted-gcd-pair-queries) |
+| [3317-find-the-number-of-possible-ways-for-an-event](https://github.com/gauthamnholla/coding-practice/tree/master/3317-find-the-number-of-possible-ways-for-an-event) |
 | [3426-manhattan-distances-of-all-arrangements-of-pieces](https://github.com/gauthamnholla/coding-practice/tree/master/3426-manhattan-distances-of-all-arrangements-of-pieces) |
 | [3428-maximum-and-minimum-sums-of-at-most-size-k-subsequences](https://github.com/gauthamnholla/coding-practice/tree/master/3428-maximum-and-minimum-sums-of-at-most-size-k-subsequences) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/gauthamnholla/coding-practice/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
