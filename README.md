@@ -1001,6 +1001,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/gauthamnholla/coding-practice/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3122-minimum-number-of-operations-to-satisfy-conditions](https://github.com/gauthamnholla/coding-practice/tree/master/3122-minimum-number-of-operations-to-satisfy-conditions) |
 | [3127-make-a-square-with-the-same-color](https://github.com/gauthamnholla/coding-practice/tree/master/3127-make-a-square-with-the-same-color) |
+| [3128-right-triangles](https://github.com/gauthamnholla/coding-practice/tree/master/3128-right-triangles) |
 | [3132-find-the-integer-added-to-array-ii](https://github.com/gauthamnholla/coding-practice/tree/master/3132-find-the-integer-added-to-array-ii) |
 | [3142-check-if-grid-satisfies-conditions](https://github.com/gauthamnholla/coding-practice/tree/master/3142-check-if-grid-satisfies-conditions) |
 | [3143-maximum-points-inside-the-square](https://github.com/gauthamnholla/coding-practice/tree/master/3143-maximum-points-inside-the-square) |
@@ -2501,6 +2502,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3071-minimum-operations-to-write-the-letter-y-on-a-grid](https://github.com/gauthamnholla/coding-practice/tree/master/3071-minimum-operations-to-write-the-letter-y-on-a-grid) |
 | [3080-mark-elements-on-array-by-performing-queries](https://github.com/gauthamnholla/coding-practice/tree/master/3080-mark-elements-on-array-by-performing-queries) |
 | [3081-replace-question-marks-in-string-to-minimize-its-value](https://github.com/gauthamnholla/coding-practice/tree/master/3081-replace-question-marks-in-string-to-minimize-its-value) |
+| [3128-right-triangles](https://github.com/gauthamnholla/coding-practice/tree/master/3128-right-triangles) |
 | [3143-maximum-points-inside-the-square](https://github.com/gauthamnholla/coding-practice/tree/master/3143-maximum-points-inside-the-square) |
 | [3153-sum-of-digit-differences-of-all-pairs](https://github.com/gauthamnholla/coding-practice/tree/master/3153-sum-of-digit-differences-of-all-pairs) |
 | [3159-find-occurrences-of-an-element-in-an-array](https://github.com/gauthamnholla/coding-practice/tree/master/3159-find-occurrences-of-an-element-in-an-array) |
@@ -3753,6 +3755,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3099-harshad-number](https://github.com/gauthamnholla/coding-practice/tree/master/3099-harshad-number) |
 | [3102-minimize-manhattan-distances](https://github.com/gauthamnholla/coding-practice/tree/master/3102-minimize-manhattan-distances) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/gauthamnholla/coding-practice/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3128-right-triangles](https://github.com/gauthamnholla/coding-practice/tree/master/3128-right-triangles) |
 | [3153-sum-of-digit-differences-of-all-pairs](https://github.com/gauthamnholla/coding-practice/tree/master/3153-sum-of-digit-differences-of-all-pairs) |
 | [3154-find-number-of-ways-to-reach-the-k-th-stair](https://github.com/gauthamnholla/coding-practice/tree/master/3154-find-number-of-ways-to-reach-the-k-th-stair) |
 | [3178-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/gauthamnholla/coding-practice/tree/master/3178-find-the-child-who-has-the-ball-after-k-seconds) |
@@ -5770,6 +5773,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3044-most-frequent-prime](https://github.com/gauthamnholla/coding-practice/tree/master/3044-most-frequent-prime) |
 | [3071-minimum-operations-to-write-the-letter-y-on-a-grid](https://github.com/gauthamnholla/coding-practice/tree/master/3071-minimum-operations-to-write-the-letter-y-on-a-grid) |
 | [3081-replace-question-marks-in-string-to-minimize-its-value](https://github.com/gauthamnholla/coding-practice/tree/master/3081-replace-question-marks-in-string-to-minimize-its-value) |
+| [3128-right-triangles](https://github.com/gauthamnholla/coding-practice/tree/master/3128-right-triangles) |
 | [3153-sum-of-digit-differences-of-all-pairs](https://github.com/gauthamnholla/coding-practice/tree/master/3153-sum-of-digit-differences-of-all-pairs) |
 | [3223-minimum-length-of-string-after-operations](https://github.com/gauthamnholla/coding-practice/tree/master/3223-minimum-length-of-string-after-operations) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/gauthamnholla/coding-practice/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -6022,6 +6026,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2954-count-the-number-of-infection-sequences](https://github.com/gauthamnholla/coding-practice/tree/master/2954-count-the-number-of-infection-sequences) |
 | [2963-count-the-number-of-good-partitions](https://github.com/gauthamnholla/coding-practice/tree/master/2963-count-the-number-of-good-partitions) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/gauthamnholla/coding-practice/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3128-right-triangles](https://github.com/gauthamnholla/coding-practice/tree/master/3128-right-triangles) |
 | [3154-find-number-of-ways-to-reach-the-k-th-stair](https://github.com/gauthamnholla/coding-practice/tree/master/3154-find-number-of-ways-to-reach-the-k-th-stair) |
 | [3179-find-the-n-th-value-after-k-seconds](https://github.com/gauthamnholla/coding-practice/tree/master/3179-find-the-n-th-value-after-k-seconds) |
 | [3201-distribute-candies-among-children-ii](https://github.com/gauthamnholla/coding-practice/tree/master/3201-distribute-candies-among-children-ii) |
