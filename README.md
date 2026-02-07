@@ -1455,6 +1455,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3301-maximize-the-total-height-of-unique-towers](https://github.com/gauthamnholla/coding-practice/tree/master/3301-maximize-the-total-height-of-unique-towers) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/gauthamnholla/coding-practice/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3326-minimum-division-operations-to-make-array-non-decreasing](https://github.com/gauthamnholla/coding-practice/tree/master/3326-minimum-division-operations-to-make-array-non-decreasing) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/gauthamnholla/coding-practice/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/gauthamnholla/coding-practice/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3362-zero-array-transformation-iii](https://github.com/gauthamnholla/coding-practice/tree/master/3362-zero-array-transformation-iii) |
 | [3413-maximum-coins-from-k-consecutive-bags](https://github.com/gauthamnholla/coding-practice/tree/master/3413-maximum-coins-from-k-consecutive-bags) |
@@ -3791,6 +3792,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3336-water-bottles-ii](https://github.com/gauthamnholla/coding-practice/tree/master/3336-water-bottles-ii) |
 | [3337-total-characters-in-string-after-transformations-ii](https://github.com/gauthamnholla/coding-practice/tree/master/3337-total-characters-in-string-after-transformations-ii) |
 | [3343-count-number-of-balanced-permutations](https://github.com/gauthamnholla/coding-practice/tree/master/3343-count-number-of-balanced-permutations) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/gauthamnholla/coding-practice/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3380-maximum-area-rectangle-with-point-constraints-i](https://github.com/gauthamnholla/coding-practice/tree/master/3380-maximum-area-rectangle-with-point-constraints-i) |
 | [3382-maximum-area-rectangle-with-point-constraints-ii](https://github.com/gauthamnholla/coding-practice/tree/master/3382-maximum-area-rectangle-with-point-constraints-ii) |
 | [3426-manhattan-distances-of-all-arrangements-of-pieces](https://github.com/gauthamnholla/coding-practice/tree/master/3426-manhattan-distances-of-all-arrangements-of-pieces) |
@@ -4155,6 +4157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3335-total-characters-in-string-after-transformations-i](https://github.com/gauthamnholla/coding-practice/tree/master/3335-total-characters-in-string-after-transformations-i) |
 | [3337-total-characters-in-string-after-transformations-ii](https://github.com/gauthamnholla/coding-practice/tree/master/3337-total-characters-in-string-after-transformations-ii) |
 | [3343-count-number-of-balanced-permutations](https://github.com/gauthamnholla/coding-practice/tree/master/3343-count-number-of-balanced-permutations) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/gauthamnholla/coding-practice/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/gauthamnholla/coding-practice/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3365-rearrange-k-substrings-to-form-target-string](https://github.com/gauthamnholla/coding-practice/tree/master/3365-rearrange-k-substrings-to-form-target-string) |
 | [3387-maximize-amount-after-two-days-of-conversions](https://github.com/gauthamnholla/coding-practice/tree/master/3387-maximize-amount-after-two-days-of-conversions) |
@@ -5157,6 +5160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2397-maximum-rows-covered-by-columns](https://github.com/gauthamnholla/coding-practice/tree/master/2397-maximum-rows-covered-by-columns) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/gauthamnholla/coding-practice/tree/master/2597-the-number-of-beautiful-subsets) |
 | [2698-find-the-punishment-number-of-an-integer](https://github.com/gauthamnholla/coding-practice/tree/master/2698-find-the-punishment-number-of-an-integer) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/gauthamnholla/coding-practice/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3376-minimum-time-to-break-locks-i](https://github.com/gauthamnholla/coding-practice/tree/master/3376-minimum-time-to-break-locks-i) |
 ## Binary Search
 |  |
@@ -6008,6 +6012,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3312-sorted-gcd-pair-queries](https://github.com/gauthamnholla/coding-practice/tree/master/3312-sorted-gcd-pair-queries) |
 | [3326-minimum-division-operations-to-make-array-non-decreasing](https://github.com/gauthamnholla/coding-practice/tree/master/3326-minimum-division-operations-to-make-array-non-decreasing) |
 | [3334-find-the-maximum-factor-score-of-array](https://github.com/gauthamnholla/coding-practice/tree/master/3334-find-the-maximum-factor-score-of-array) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/gauthamnholla/coding-practice/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3556-sum-of-largest-prime-substrings](https://github.com/gauthamnholla/coding-practice/tree/master/3556-sum-of-largest-prime-substrings) |
 | [3715-sum-of-perfect-square-ancestors](https://github.com/gauthamnholla/coding-practice/tree/master/3715-sum-of-perfect-square-ancestors) |
 | [3725-count-ways-to-choose-coprime-integers-from-rows](https://github.com/gauthamnholla/coding-practice/tree/master/3725-count-ways-to-choose-coprime-integers-from-rows) |
