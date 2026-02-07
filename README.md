@@ -2160,6 +2160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3272-find-the-count-of-good-integers](https://github.com/gauthamnholla/coding-practice/tree/master/3272-find-the-count-of-good-integers) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/gauthamnholla/coding-practice/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/gauthamnholla/coding-practice/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/gauthamnholla/coding-practice/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3380-maximum-area-rectangle-with-point-constraints-i](https://github.com/gauthamnholla/coding-practice/tree/master/3380-maximum-area-rectangle-with-point-constraints-i) |
 | [3435-frequencies-of-shortest-supersequences](https://github.com/gauthamnholla/coding-practice/tree/master/3435-frequencies-of-shortest-supersequences) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/gauthamnholla/coding-practice/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
@@ -3795,6 +3796,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3336-water-bottles-ii](https://github.com/gauthamnholla/coding-practice/tree/master/3336-water-bottles-ii) |
 | [3337-total-characters-in-string-after-transformations-ii](https://github.com/gauthamnholla/coding-practice/tree/master/3337-total-characters-in-string-after-transformations-ii) |
 | [3343-count-number-of-balanced-permutations](https://github.com/gauthamnholla/coding-practice/tree/master/3343-count-number-of-balanced-permutations) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/gauthamnholla/coding-practice/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/gauthamnholla/coding-practice/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3352-count-k-reducible-numbers-less-than-n](https://github.com/gauthamnholla/coding-practice/tree/master/3352-count-k-reducible-numbers-less-than-n) |
 | [3360-stone-removal-game](https://github.com/gauthamnholla/coding-practice/tree/master/3360-stone-removal-game) |
