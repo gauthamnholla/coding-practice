@@ -1439,6 +1439,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3075-maximize-happiness-of-selected-children](https://github.com/gauthamnholla/coding-practice/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3081-replace-question-marks-in-string-to-minimize-its-value](https://github.com/gauthamnholla/coding-practice/tree/master/3081-replace-question-marks-in-string-to-minimize-its-value) |
 | [3086-minimum-moves-to-pick-k-ones](https://github.com/gauthamnholla/coding-practice/tree/master/3086-minimum-moves-to-pick-k-ones) |
+| [3091-apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k](https://github.com/gauthamnholla/coding-practice/tree/master/3091-apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k) |
 | [3107-minimum-operations-to-make-median-of-array-equal-to-k](https://github.com/gauthamnholla/coding-practice/tree/master/3107-minimum-operations-to-make-median-of-array-equal-to-k) |
 | [3111-minimum-rectangles-to-cover-points](https://github.com/gauthamnholla/coding-practice/tree/master/3111-minimum-rectangles-to-cover-points) |
 | [3218-minimum-cost-for-cutting-cake-i](https://github.com/gauthamnholla/coding-practice/tree/master/3218-minimum-cost-for-cutting-cake-i) |
@@ -2143,6 +2144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3001-minimum-moves-to-capture-the-queen](https://github.com/gauthamnholla/coding-practice/tree/master/3001-minimum-moves-to-capture-the-queen) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/gauthamnholla/coding-practice/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3044-most-frequent-prime](https://github.com/gauthamnholla/coding-practice/tree/master/3044-most-frequent-prime) |
+| [3091-apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k](https://github.com/gauthamnholla/coding-practice/tree/master/3091-apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k) |
 | [3127-make-a-square-with-the-same-color](https://github.com/gauthamnholla/coding-practice/tree/master/3127-make-a-square-with-the-same-color) |
 | [3132-find-the-integer-added-to-array-ii](https://github.com/gauthamnholla/coding-practice/tree/master/3132-find-the-integer-added-to-array-ii) |
 | [3201-distribute-candies-among-children-ii](https://github.com/gauthamnholla/coding-practice/tree/master/3201-distribute-candies-among-children-ii) |
@@ -3745,6 +3747,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3024-type-of-triangle](https://github.com/gauthamnholla/coding-practice/tree/master/3024-type-of-triangle) |
 | [3044-most-frequent-prime](https://github.com/gauthamnholla/coding-practice/tree/master/3044-most-frequent-prime) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/gauthamnholla/coding-practice/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
+| [3091-apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k](https://github.com/gauthamnholla/coding-practice/tree/master/3091-apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k) |
 | [3102-minimize-manhattan-distances](https://github.com/gauthamnholla/coding-practice/tree/master/3102-minimize-manhattan-distances) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/gauthamnholla/coding-practice/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3153-sum-of-digit-differences-of-all-pairs](https://github.com/gauthamnholla/coding-practice/tree/master/3153-sum-of-digit-differences-of-all-pairs) |
