@@ -990,6 +990,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3074-apple-redistribution-into-boxes](https://github.com/gauthamnholla/coding-practice/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/gauthamnholla/coding-practice/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3077-maximum-strength-of-k-disjoint-subarrays](https://github.com/gauthamnholla/coding-practice/tree/master/3077-maximum-strength-of-k-disjoint-subarrays) |
+| [3079-find-the-sum-of-encrypted-integers](https://github.com/gauthamnholla/coding-practice/tree/master/3079-find-the-sum-of-encrypted-integers) |
 | [3080-mark-elements-on-array-by-performing-queries](https://github.com/gauthamnholla/coding-practice/tree/master/3080-mark-elements-on-array-by-performing-queries) |
 | [3086-minimum-moves-to-pick-k-ones](https://github.com/gauthamnholla/coding-practice/tree/master/3086-minimum-moves-to-pick-k-ones) |
 | [3096-minimum-levels-to-gain-more-points](https://github.com/gauthamnholla/coding-practice/tree/master/3096-minimum-levels-to-gain-more-points) |
@@ -3747,6 +3748,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3024-type-of-triangle](https://github.com/gauthamnholla/coding-practice/tree/master/3024-type-of-triangle) |
 | [3044-most-frequent-prime](https://github.com/gauthamnholla/coding-practice/tree/master/3044-most-frequent-prime) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/gauthamnholla/coding-practice/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
+| [3079-find-the-sum-of-encrypted-integers](https://github.com/gauthamnholla/coding-practice/tree/master/3079-find-the-sum-of-encrypted-integers) |
 | [3091-apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k](https://github.com/gauthamnholla/coding-practice/tree/master/3091-apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k) |
 | [3102-minimize-manhattan-distances](https://github.com/gauthamnholla/coding-practice/tree/master/3102-minimize-manhattan-distances) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/gauthamnholla/coding-practice/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
