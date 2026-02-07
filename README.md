@@ -2014,6 +2014,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3341-find-minimum-time-to-reach-last-room-i](https://github.com/gauthamnholla/coding-practice/tree/master/3341-find-minimum-time-to-reach-last-room-i) |
 | [3342-find-minimum-time-to-reach-last-room-ii](https://github.com/gauthamnholla/coding-practice/tree/master/3342-find-minimum-time-to-reach-last-room-ii) |
 | [3362-zero-array-transformation-iii](https://github.com/gauthamnholla/coding-practice/tree/master/3362-zero-array-transformation-iii) |
+| [3377-digit-operations-to-make-two-integers-equal](https://github.com/gauthamnholla/coding-practice/tree/master/3377-digit-operations-to-make-two-integers-equal) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/gauthamnholla/coding-practice/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3462-maximum-sum-with-at-most-k-elements](https://github.com/gauthamnholla/coding-practice/tree/master/3462-maximum-sum-with-at-most-k-elements) |
 | [3478-choose-k-elements-with-maximum-sum](https://github.com/gauthamnholla/coding-practice/tree/master/3478-choose-k-elements-with-maximum-sum) |
@@ -3797,6 +3798,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3348-smallest-divisible-digit-product-ii](https://github.com/gauthamnholla/coding-practice/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3352-count-k-reducible-numbers-less-than-n](https://github.com/gauthamnholla/coding-practice/tree/master/3352-count-k-reducible-numbers-less-than-n) |
 | [3360-stone-removal-game](https://github.com/gauthamnholla/coding-practice/tree/master/3360-stone-removal-game) |
+| [3377-digit-operations-to-make-two-integers-equal](https://github.com/gauthamnholla/coding-practice/tree/master/3377-digit-operations-to-make-two-integers-equal) |
 | [3380-maximum-area-rectangle-with-point-constraints-i](https://github.com/gauthamnholla/coding-practice/tree/master/3380-maximum-area-rectangle-with-point-constraints-i) |
 | [3382-maximum-area-rectangle-with-point-constraints-ii](https://github.com/gauthamnholla/coding-practice/tree/master/3382-maximum-area-rectangle-with-point-constraints-ii) |
 | [3426-manhattan-distances-of-all-arrangements-of-pieces](https://github.com/gauthamnholla/coding-practice/tree/master/3426-manhattan-distances-of-all-arrangements-of-pieces) |
@@ -6018,6 +6020,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3326-minimum-division-operations-to-make-array-non-decreasing](https://github.com/gauthamnholla/coding-practice/tree/master/3326-minimum-division-operations-to-make-array-non-decreasing) |
 | [3334-find-the-maximum-factor-score-of-array](https://github.com/gauthamnholla/coding-practice/tree/master/3334-find-the-maximum-factor-score-of-array) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/gauthamnholla/coding-practice/tree/master/3348-smallest-divisible-digit-product-ii) |
+| [3377-digit-operations-to-make-two-integers-equal](https://github.com/gauthamnholla/coding-practice/tree/master/3377-digit-operations-to-make-two-integers-equal) |
 | [3556-sum-of-largest-prime-substrings](https://github.com/gauthamnholla/coding-practice/tree/master/3556-sum-of-largest-prime-substrings) |
 | [3715-sum-of-perfect-square-ancestors](https://github.com/gauthamnholla/coding-practice/tree/master/3715-sum-of-perfect-square-ancestors) |
 | [3725-count-ways-to-choose-coprime-integers-from-rows](https://github.com/gauthamnholla/coding-practice/tree/master/3725-count-ways-to-choose-coprime-integers-from-rows) |
@@ -6716,6 +6719,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/gauthamnholla/coding-practice/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3341-find-minimum-time-to-reach-last-room-i](https://github.com/gauthamnholla/coding-practice/tree/master/3341-find-minimum-time-to-reach-last-room-i) |
 | [3342-find-minimum-time-to-reach-last-room-ii](https://github.com/gauthamnholla/coding-practice/tree/master/3342-find-minimum-time-to-reach-last-room-ii) |
+| [3377-digit-operations-to-make-two-integers-equal](https://github.com/gauthamnholla/coding-practice/tree/master/3377-digit-operations-to-make-two-integers-equal) |
 | [3419-minimize-the-maximum-edge-weight-of-graph](https://github.com/gauthamnholla/coding-practice/tree/master/3419-minimize-the-maximum-edge-weight-of-graph) |
 | [3620-network-recovery-pathways](https://github.com/gauthamnholla/coding-practice/tree/master/3620-network-recovery-pathways) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/gauthamnholla/coding-practice/tree/master/3650-minimum-cost-path-with-edge-reversals) |
@@ -6845,6 +6849,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3311-construct-2d-grid-matching-graph-layout](https://github.com/gauthamnholla/coding-practice/tree/master/3311-construct-2d-grid-matching-graph-layout) |
 | [3341-find-minimum-time-to-reach-last-room-i](https://github.com/gauthamnholla/coding-practice/tree/master/3341-find-minimum-time-to-reach-last-room-i) |
 | [3342-find-minimum-time-to-reach-last-room-ii](https://github.com/gauthamnholla/coding-practice/tree/master/3342-find-minimum-time-to-reach-last-room-ii) |
+| [3377-digit-operations-to-make-two-integers-equal](https://github.com/gauthamnholla/coding-practice/tree/master/3377-digit-operations-to-make-two-integers-equal) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/gauthamnholla/coding-practice/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Sweep Line
 |  |
