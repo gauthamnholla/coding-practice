@@ -1053,6 +1053,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3327-check-if-dfs-strings-are-palindromes](https://github.com/gauthamnholla/coding-practice/tree/master/3327-check-if-dfs-strings-are-palindromes) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/gauthamnholla/coding-practice/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3332-maximum-points-tourist-can-earn](https://github.com/gauthamnholla/coding-practice/tree/master/3332-maximum-points-tourist-can-earn) |
+| [3334-find-the-maximum-factor-score-of-array](https://github.com/gauthamnholla/coding-practice/tree/master/3334-find-the-maximum-factor-score-of-array) |
 | [3341-find-minimum-time-to-reach-last-room-i](https://github.com/gauthamnholla/coding-practice/tree/master/3341-find-minimum-time-to-reach-last-room-i) |
 | [3342-find-minimum-time-to-reach-last-room-ii](https://github.com/gauthamnholla/coding-practice/tree/master/3342-find-minimum-time-to-reach-last-room-ii) |
 | [3355-zero-array-transformation-i](https://github.com/gauthamnholla/coding-practice/tree/master/3355-zero-array-transformation-i) |
@@ -3780,6 +3781,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3312-sorted-gcd-pair-queries](https://github.com/gauthamnholla/coding-practice/tree/master/3312-sorted-gcd-pair-queries) |
 | [3317-find-the-number-of-possible-ways-for-an-event](https://github.com/gauthamnholla/coding-practice/tree/master/3317-find-the-number-of-possible-ways-for-an-event) |
 | [3326-minimum-division-operations-to-make-array-non-decreasing](https://github.com/gauthamnholla/coding-practice/tree/master/3326-minimum-division-operations-to-make-array-non-decreasing) |
+| [3334-find-the-maximum-factor-score-of-array](https://github.com/gauthamnholla/coding-practice/tree/master/3334-find-the-maximum-factor-score-of-array) |
 | [3336-water-bottles-ii](https://github.com/gauthamnholla/coding-practice/tree/master/3336-water-bottles-ii) |
 | [3380-maximum-area-rectangle-with-point-constraints-i](https://github.com/gauthamnholla/coding-practice/tree/master/3380-maximum-area-rectangle-with-point-constraints-i) |
 | [3382-maximum-area-rectangle-with-point-constraints-ii](https://github.com/gauthamnholla/coding-practice/tree/master/3382-maximum-area-rectangle-with-point-constraints-ii) |
@@ -5992,6 +5994,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3260-find-the-largest-palindrome-divisible-by-k](https://github.com/gauthamnholla/coding-practice/tree/master/3260-find-the-largest-palindrome-divisible-by-k) |
 | [3312-sorted-gcd-pair-queries](https://github.com/gauthamnholla/coding-practice/tree/master/3312-sorted-gcd-pair-queries) |
 | [3326-minimum-division-operations-to-make-array-non-decreasing](https://github.com/gauthamnholla/coding-practice/tree/master/3326-minimum-division-operations-to-make-array-non-decreasing) |
+| [3334-find-the-maximum-factor-score-of-array](https://github.com/gauthamnholla/coding-practice/tree/master/3334-find-the-maximum-factor-score-of-array) |
 | [3556-sum-of-largest-prime-substrings](https://github.com/gauthamnholla/coding-practice/tree/master/3556-sum-of-largest-prime-substrings) |
 | [3715-sum-of-perfect-square-ancestors](https://github.com/gauthamnholla/coding-practice/tree/master/3715-sum-of-perfect-square-ancestors) |
 | [3725-count-ways-to-choose-coprime-integers-from-rows](https://github.com/gauthamnholla/coding-practice/tree/master/3725-count-ways-to-choose-coprime-integers-from-rows) |
