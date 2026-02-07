@@ -2718,6 +2718,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3179-find-the-n-th-value-after-k-seconds](https://github.com/gauthamnholla/coding-practice/tree/master/3179-find-the-n-th-value-after-k-seconds) |
 | [3242-design-neighbor-sum-service](https://github.com/gauthamnholla/coding-practice/tree/master/3242-design-neighbor-sum-service) |
 | [3336-water-bottles-ii](https://github.com/gauthamnholla/coding-practice/tree/master/3336-water-bottles-ii) |
+| [3360-stone-removal-game](https://github.com/gauthamnholla/coding-practice/tree/master/3360-stone-removal-game) |
 | [3379-transformed-array](https://github.com/gauthamnholla/coding-practice/tree/master/3379-transformed-array) |
 | [3417-zigzag-grid-traversal-with-skip](https://github.com/gauthamnholla/coding-practice/tree/master/3417-zigzag-grid-traversal-with-skip) |
 | [3433-count-mentions-per-user](https://github.com/gauthamnholla/coding-practice/tree/master/3433-count-mentions-per-user) |
@@ -3795,6 +3796,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3343-count-number-of-balanced-permutations](https://github.com/gauthamnholla/coding-practice/tree/master/3343-count-number-of-balanced-permutations) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/gauthamnholla/coding-practice/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3352-count-k-reducible-numbers-less-than-n](https://github.com/gauthamnholla/coding-practice/tree/master/3352-count-k-reducible-numbers-less-than-n) |
+| [3360-stone-removal-game](https://github.com/gauthamnholla/coding-practice/tree/master/3360-stone-removal-game) |
 | [3380-maximum-area-rectangle-with-point-constraints-i](https://github.com/gauthamnholla/coding-practice/tree/master/3380-maximum-area-rectangle-with-point-constraints-i) |
 | [3382-maximum-area-rectangle-with-point-constraints-ii](https://github.com/gauthamnholla/coding-practice/tree/master/3382-maximum-area-rectangle-with-point-constraints-ii) |
 | [3426-manhattan-distances-of-all-arrangements-of-pieces](https://github.com/gauthamnholla/coding-practice/tree/master/3426-manhattan-distances-of-all-arrangements-of-pieces) |
