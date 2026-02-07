@@ -1054,6 +1054,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3331-find-subtree-sizes-after-changes](https://github.com/gauthamnholla/coding-practice/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3332-maximum-points-tourist-can-earn](https://github.com/gauthamnholla/coding-practice/tree/master/3332-maximum-points-tourist-can-earn) |
 | [3334-find-the-maximum-factor-score-of-array](https://github.com/gauthamnholla/coding-practice/tree/master/3334-find-the-maximum-factor-score-of-array) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/gauthamnholla/coding-practice/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3341-find-minimum-time-to-reach-last-room-i](https://github.com/gauthamnholla/coding-practice/tree/master/3341-find-minimum-time-to-reach-last-room-i) |
 | [3342-find-minimum-time-to-reach-last-room-ii](https://github.com/gauthamnholla/coding-practice/tree/master/3342-find-minimum-time-to-reach-last-room-ii) |
 | [3355-zero-array-transformation-i](https://github.com/gauthamnholla/coding-practice/tree/master/3355-zero-array-transformation-i) |
@@ -3036,6 +3037,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3317-find-the-number-of-possible-ways-for-an-event](https://github.com/gauthamnholla/coding-practice/tree/master/3317-find-the-number-of-possible-ways-for-an-event) |
 | [3332-maximum-points-tourist-can-earn](https://github.com/gauthamnholla/coding-practice/tree/master/3332-maximum-points-tourist-can-earn) |
 | [3335-total-characters-in-string-after-transformations-i](https://github.com/gauthamnholla/coding-practice/tree/master/3335-total-characters-in-string-after-transformations-i) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/gauthamnholla/coding-practice/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3337-total-characters-in-string-after-transformations-ii](https://github.com/gauthamnholla/coding-practice/tree/master/3337-total-characters-in-string-after-transformations-ii) |
 | [3343-count-number-of-balanced-permutations](https://github.com/gauthamnholla/coding-practice/tree/master/3343-count-number-of-balanced-permutations) |
 | [3352-count-k-reducible-numbers-less-than-n](https://github.com/gauthamnholla/coding-practice/tree/master/3352-count-k-reducible-numbers-less-than-n) |
@@ -3794,6 +3796,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3334-find-the-maximum-factor-score-of-array](https://github.com/gauthamnholla/coding-practice/tree/master/3334-find-the-maximum-factor-score-of-array) |
 | [3335-total-characters-in-string-after-transformations-i](https://github.com/gauthamnholla/coding-practice/tree/master/3335-total-characters-in-string-after-transformations-i) |
 | [3336-water-bottles-ii](https://github.com/gauthamnholla/coding-practice/tree/master/3336-water-bottles-ii) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/gauthamnholla/coding-practice/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3337-total-characters-in-string-after-transformations-ii](https://github.com/gauthamnholla/coding-practice/tree/master/3337-total-characters-in-string-after-transformations-ii) |
 | [3343-count-number-of-balanced-permutations](https://github.com/gauthamnholla/coding-practice/tree/master/3343-count-number-of-balanced-permutations) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/gauthamnholla/coding-practice/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -6021,6 +6024,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3312-sorted-gcd-pair-queries](https://github.com/gauthamnholla/coding-practice/tree/master/3312-sorted-gcd-pair-queries) |
 | [3326-minimum-division-operations-to-make-array-non-decreasing](https://github.com/gauthamnholla/coding-practice/tree/master/3326-minimum-division-operations-to-make-array-non-decreasing) |
 | [3334-find-the-maximum-factor-score-of-array](https://github.com/gauthamnholla/coding-practice/tree/master/3334-find-the-maximum-factor-score-of-array) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/gauthamnholla/coding-practice/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/gauthamnholla/coding-practice/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3377-digit-operations-to-make-two-integers-equal](https://github.com/gauthamnholla/coding-practice/tree/master/3377-digit-operations-to-make-two-integers-equal) |
 | [3556-sum-of-largest-prime-substrings](https://github.com/gauthamnholla/coding-practice/tree/master/3556-sum-of-largest-prime-substrings) |
