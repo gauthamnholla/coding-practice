@@ -3818,6 +3818,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3463-check-if-digits-are-equal-in-string-after-operations-ii](https://github.com/gauthamnholla/coding-practice/tree/master/3463-check-if-digits-are-equal-in-string-after-operations-ii) |
 | [3468-find-the-number-of-copy-arrays](https://github.com/gauthamnholla/coding-practice/tree/master/3468-find-the-number-of-copy-arrays) |
 | [3470-permutations-iv](https://github.com/gauthamnholla/coding-practice/tree/master/3470-permutations-iv) |
+| [3492-maximum-containers-on-a-ship](https://github.com/gauthamnholla/coding-practice/tree/master/3492-maximum-containers-on-a-ship) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/gauthamnholla/coding-practice/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3536-maximum-product-of-two-digits](https://github.com/gauthamnholla/coding-practice/tree/master/3536-maximum-product-of-two-digits) |
 | [3547-maximum-sum-of-edge-values-in-a-graph](https://github.com/gauthamnholla/coding-practice/tree/master/3547-maximum-sum-of-edge-values-in-a-graph) |
