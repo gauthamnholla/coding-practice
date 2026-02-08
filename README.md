@@ -3812,6 +3812,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3432-count-partitions-with-even-sum-difference](https://github.com/gauthamnholla/coding-practice/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3433-count-mentions-per-user](https://github.com/gauthamnholla/coding-practice/tree/master/3433-count-mentions-per-user) |
 | [3462-vowels-game-in-a-string](https://github.com/gauthamnholla/coding-practice/tree/master/3462-vowels-game-in-a-string) |
+| [3463-check-if-digits-are-equal-in-string-after-operations-ii](https://github.com/gauthamnholla/coding-practice/tree/master/3463-check-if-digits-are-equal-in-string-after-operations-ii) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/gauthamnholla/coding-practice/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3536-maximum-product-of-two-digits](https://github.com/gauthamnholla/coding-practice/tree/master/3536-maximum-product-of-two-digits) |
 | [3547-maximum-sum-of-edge-values-in-a-graph](https://github.com/gauthamnholla/coding-practice/tree/master/3547-maximum-sum-of-edge-values-in-a-graph) |
@@ -4181,6 +4182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3455-shortest-matching-substring](https://github.com/gauthamnholla/coding-practice/tree/master/3455-shortest-matching-substring) |
 | [3458-select-k-disjoint-special-substrings](https://github.com/gauthamnholla/coding-practice/tree/master/3458-select-k-disjoint-special-substrings) |
 | [3462-vowels-game-in-a-string](https://github.com/gauthamnholla/coding-practice/tree/master/3462-vowels-game-in-a-string) |
+| [3463-check-if-digits-are-equal-in-string-after-operations-ii](https://github.com/gauthamnholla/coding-practice/tree/master/3463-check-if-digits-are-equal-in-string-after-operations-ii) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/gauthamnholla/coding-practice/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/gauthamnholla/coding-practice/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3503-longest-palindrome-after-substring-concatenation-i](https://github.com/gauthamnholla/coding-practice/tree/master/3503-longest-palindrome-after-substring-concatenation-i) |
@@ -6030,6 +6032,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/gauthamnholla/coding-practice/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/gauthamnholla/coding-practice/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3377-digit-operations-to-make-two-integers-equal](https://github.com/gauthamnholla/coding-practice/tree/master/3377-digit-operations-to-make-two-integers-equal) |
+| [3463-check-if-digits-are-equal-in-string-after-operations-ii](https://github.com/gauthamnholla/coding-practice/tree/master/3463-check-if-digits-are-equal-in-string-after-operations-ii) |
 | [3556-sum-of-largest-prime-substrings](https://github.com/gauthamnholla/coding-practice/tree/master/3556-sum-of-largest-prime-substrings) |
 | [3715-sum-of-perfect-square-ancestors](https://github.com/gauthamnholla/coding-practice/tree/master/3715-sum-of-perfect-square-ancestors) |
 | [3725-count-ways-to-choose-coprime-integers-from-rows](https://github.com/gauthamnholla/coding-practice/tree/master/3725-count-ways-to-choose-coprime-integers-from-rows) |
@@ -6077,6 +6080,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3352-count-k-reducible-numbers-less-than-n](https://github.com/gauthamnholla/coding-practice/tree/master/3352-count-k-reducible-numbers-less-than-n) |
 | [3426-manhattan-distances-of-all-arrangements-of-pieces](https://github.com/gauthamnholla/coding-practice/tree/master/3426-manhattan-distances-of-all-arrangements-of-pieces) |
 | [3428-maximum-and-minimum-sums-of-at-most-size-k-subsequences](https://github.com/gauthamnholla/coding-practice/tree/master/3428-maximum-and-minimum-sums-of-at-most-size-k-subsequences) |
+| [3463-check-if-digits-are-equal-in-string-after-operations-ii](https://github.com/gauthamnholla/coding-practice/tree/master/3463-check-if-digits-are-equal-in-string-after-operations-ii) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/gauthamnholla/coding-practice/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/gauthamnholla/coding-practice/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
 | [3725-count-ways-to-choose-coprime-integers-from-rows](https://github.com/gauthamnholla/coding-practice/tree/master/3725-count-ways-to-choose-coprime-integers-from-rows) |
