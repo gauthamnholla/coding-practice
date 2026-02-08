@@ -3839,6 +3839,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3556-sum-of-largest-prime-substrings](https://github.com/gauthamnholla/coding-practice/tree/master/3556-sum-of-largest-prime-substrings) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/gauthamnholla/coding-practice/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/gauthamnholla/coding-practice/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
+| [3560-find-minimum-log-transportation-cost](https://github.com/gauthamnholla/coding-practice/tree/master/3560-find-minimum-log-transportation-cost) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/gauthamnholla/coding-practice/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/gauthamnholla/coding-practice/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/gauthamnholla/coding-practice/tree/master/3600-find-the-k-th-character-in-string-game-i) |
