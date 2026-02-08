@@ -3061,6 +3061,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/gauthamnholla/coding-practice/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3500-minimum-cost-to-divide-array-into-subarrays](https://github.com/gauthamnholla/coding-practice/tree/master/3500-minimum-cost-to-divide-array-into-subarrays) |
 | [3503-longest-palindrome-after-substring-concatenation-i](https://github.com/gauthamnholla/coding-practice/tree/master/3503-longest-palindrome-after-substring-concatenation-i) |
+| [3519-count-numbers-with-non-decreasing-digits](https://github.com/gauthamnholla/coding-practice/tree/master/3519-count-numbers-with-non-decreasing-digits) |
 | [3530-maximum-profit-from-valid-topological-order-in-dag](https://github.com/gauthamnholla/coding-practice/tree/master/3530-maximum-profit-from-valid-topological-order-in-dag) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/gauthamnholla/coding-practice/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3538-merge-operations-for-minimum-travel-time](https://github.com/gauthamnholla/coding-practice/tree/master/3538-merge-operations-for-minimum-travel-time) |
@@ -3827,6 +3828,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3513-number-of-unique-xor-triplets-i](https://github.com/gauthamnholla/coding-practice/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/gauthamnholla/coding-practice/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/gauthamnholla/coding-practice/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+| [3519-count-numbers-with-non-decreasing-digits](https://github.com/gauthamnholla/coding-practice/tree/master/3519-count-numbers-with-non-decreasing-digits) |
 | [3536-maximum-product-of-two-digits](https://github.com/gauthamnholla/coding-practice/tree/master/3536-maximum-product-of-two-digits) |
 | [3547-maximum-sum-of-edge-values-in-a-graph](https://github.com/gauthamnholla/coding-practice/tree/master/3547-maximum-sum-of-edge-values-in-a-graph) |
 | [3556-sum-of-largest-prime-substrings](https://github.com/gauthamnholla/coding-practice/tree/master/3556-sum-of-largest-prime-substrings) |
@@ -4201,6 +4203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3503-longest-palindrome-after-substring-concatenation-i](https://github.com/gauthamnholla/coding-practice/tree/master/3503-longest-palindrome-after-substring-concatenation-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/gauthamnholla/coding-practice/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/gauthamnholla/coding-practice/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+| [3519-count-numbers-with-non-decreasing-digits](https://github.com/gauthamnholla/coding-practice/tree/master/3519-count-numbers-with-non-decreasing-digits) |
 | [3529-count-cells-in-overlapping-horizontal-and-vertical-substrings](https://github.com/gauthamnholla/coding-practice/tree/master/3529-count-cells-in-overlapping-horizontal-and-vertical-substrings) |
 | [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/gauthamnholla/coding-practice/tree/master/3545-minimum-deletions-for-at-most-k-distinct-characters) |
 | [3556-sum-of-largest-prime-substrings](https://github.com/gauthamnholla/coding-practice/tree/master/3556-sum-of-largest-prime-substrings) |
