@@ -1086,6 +1086,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/gauthamnholla/coding-practice/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3462-maximum-sum-with-at-most-k-elements](https://github.com/gauthamnholla/coding-practice/tree/master/3462-maximum-sum-with-at-most-k-elements) |
 | [3467-transform-array-by-parity](https://github.com/gauthamnholla/coding-practice/tree/master/3467-transform-array-by-parity) |
+| [3468-find-the-number-of-copy-arrays](https://github.com/gauthamnholla/coding-practice/tree/master/3468-find-the-number-of-copy-arrays) |
 | [3478-choose-k-elements-with-maximum-sum](https://github.com/gauthamnholla/coding-practice/tree/master/3478-choose-k-elements-with-maximum-sum) |
 | [3486-longest-special-path-ii](https://github.com/gauthamnholla/coding-practice/tree/master/3486-longest-special-path-ii) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/gauthamnholla/coding-practice/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
@@ -3813,6 +3814,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3433-count-mentions-per-user](https://github.com/gauthamnholla/coding-practice/tree/master/3433-count-mentions-per-user) |
 | [3462-vowels-game-in-a-string](https://github.com/gauthamnholla/coding-practice/tree/master/3462-vowels-game-in-a-string) |
 | [3463-check-if-digits-are-equal-in-string-after-operations-ii](https://github.com/gauthamnholla/coding-practice/tree/master/3463-check-if-digits-are-equal-in-string-after-operations-ii) |
+| [3468-find-the-number-of-copy-arrays](https://github.com/gauthamnholla/coding-practice/tree/master/3468-find-the-number-of-copy-arrays) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/gauthamnholla/coding-practice/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3536-maximum-product-of-two-digits](https://github.com/gauthamnholla/coding-practice/tree/master/3536-maximum-product-of-two-digits) |
 | [3547-maximum-sum-of-edge-values-in-a-graph](https://github.com/gauthamnholla/coding-practice/tree/master/3547-maximum-sum-of-edge-values-in-a-graph) |
