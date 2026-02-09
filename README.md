@@ -1152,6 +1152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3625-count-number-of-trapezoids-ii](https://github.com/gauthamnholla/coding-practice/tree/master/3625-count-number-of-trapezoids-ii) |
 | [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/gauthamnholla/coding-practice/tree/master/3627-maximum-median-sum-of-subsequences-of-size-3) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/gauthamnholla/coding-practice/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
+| [3630-partition-array-for-maximum-xor-and-and](https://github.com/gauthamnholla/coding-practice/tree/master/3630-partition-array-for-maximum-xor-and-and) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/gauthamnholla/coding-practice/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3634-minimum-removals-to-balance-array](https://github.com/gauthamnholla/coding-practice/tree/master/3634-minimum-removals-to-balance-array) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/gauthamnholla/coding-practice/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
@@ -1490,6 +1491,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/gauthamnholla/coding-practice/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/gauthamnholla/coding-practice/tree/master/3627-maximum-median-sum-of-subsequences-of-size-3) |
 | [3628-maximum-number-of-subsequences-after-one-inserting](https://github.com/gauthamnholla/coding-practice/tree/master/3628-maximum-number-of-subsequences-after-one-inserting) |
+| [3630-partition-array-for-maximum-xor-and-and](https://github.com/gauthamnholla/coding-practice/tree/master/3630-partition-array-for-maximum-xor-and-and) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/gauthamnholla/coding-practice/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/gauthamnholla/coding-practice/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3645-maximum-total-from-optimal-activation-order](https://github.com/gauthamnholla/coding-practice/tree/master/3645-maximum-total-from-optimal-activation-order) |
@@ -2190,6 +2192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3548-equal-sum-grid-partition-ii](https://github.com/gauthamnholla/coding-practice/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3574-maximize-subarray-gcd-score](https://github.com/gauthamnholla/coding-practice/tree/master/3574-maximize-subarray-gcd-score) |
 | [3588-find-maximum-area-of-a-triangle](https://github.com/gauthamnholla/coding-practice/tree/master/3588-find-maximum-area-of-a-triangle) |
+| [3630-partition-array-for-maximum-xor-and-and](https://github.com/gauthamnholla/coding-practice/tree/master/3630-partition-array-for-maximum-xor-and-and) |
 | [3664-two-letter-card-game](https://github.com/gauthamnholla/coding-practice/tree/master/3664-two-letter-card-game) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/gauthamnholla/coding-practice/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3713-longest-balanced-substring-i](https://github.com/gauthamnholla/coding-practice/tree/master/3713-longest-balanced-substring-i) |
@@ -3876,6 +3879,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3625-count-number-of-trapezoids-ii](https://github.com/gauthamnholla/coding-practice/tree/master/3625-count-number-of-trapezoids-ii) |
 | [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/gauthamnholla/coding-practice/tree/master/3627-maximum-median-sum-of-subsequences-of-size-3) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/gauthamnholla/coding-practice/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
+| [3630-partition-array-for-maximum-xor-and-and](https://github.com/gauthamnholla/coding-practice/tree/master/3630-partition-array-for-maximum-xor-and-and) |
 | [3649-number-of-perfect-pairs](https://github.com/gauthamnholla/coding-practice/tree/master/3649-number-of-perfect-pairs) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/gauthamnholla/coding-practice/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/gauthamnholla/coding-practice/tree/master/3676-smallest-number-with-all-set-bits) |
@@ -4771,6 +4775,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/gauthamnholla/coding-practice/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 | [3615-longest-palindromic-path-in-graph](https://github.com/gauthamnholla/coding-practice/tree/master/3615-longest-palindromic-path-in-graph) |
 | [3621-number-of-integers-with-popcount-depth-equal-to-k-i](https://github.com/gauthamnholla/coding-practice/tree/master/3621-number-of-integers-with-popcount-depth-equal-to-k-i) |
+| [3630-partition-array-for-maximum-xor-and-and](https://github.com/gauthamnholla/coding-practice/tree/master/3630-partition-array-for-maximum-xor-and-and) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/gauthamnholla/coding-practice/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/gauthamnholla/coding-practice/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/gauthamnholla/coding-practice/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
