@@ -1169,6 +1169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/gauthamnholla/coding-practice/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 | [3654-minimum-sum-after-divisible-sum-deletions](https://github.com/gauthamnholla/coding-practice/tree/master/3654-minimum-sum-after-divisible-sum-deletions) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/gauthamnholla/coding-practice/tree/master/3661-maximum-walls-destroyed-by-robots) |
+| [3663-find-the-least-frequent-digit](https://github.com/gauthamnholla/coding-practice/tree/master/3663-find-the-least-frequent-digit) |
 | [3664-two-letter-card-game](https://github.com/gauthamnholla/coding-practice/tree/master/3664-two-letter-card-game) |
 | [3665-twisted-mirror-path-count](https://github.com/gauthamnholla/coding-practice/tree/master/3665-twisted-mirror-path-count) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/gauthamnholla/coding-practice/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
@@ -2581,6 +2582,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/gauthamnholla/coding-practice/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3636-threshold-majority-queries](https://github.com/gauthamnholla/coding-practice/tree/master/3636-threshold-majority-queries) |
 | [3654-minimum-sum-after-divisible-sum-deletions](https://github.com/gauthamnholla/coding-practice/tree/master/3654-minimum-sum-after-divisible-sum-deletions) |
+| [3663-find-the-least-frequent-digit](https://github.com/gauthamnholla/coding-practice/tree/master/3663-find-the-least-frequent-digit) |
 | [3664-two-letter-card-game](https://github.com/gauthamnholla/coding-practice/tree/master/3664-two-letter-card-game) |
 | [3678-design-task-manager](https://github.com/gauthamnholla/coding-practice/tree/master/3678-design-task-manager) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/gauthamnholla/coding-practice/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
@@ -3883,6 +3885,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3648-minimum-sensors-to-cover-grid](https://github.com/gauthamnholla/coding-practice/tree/master/3648-minimum-sensors-to-cover-grid) |
 | [3649-number-of-perfect-pairs](https://github.com/gauthamnholla/coding-practice/tree/master/3649-number-of-perfect-pairs) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/gauthamnholla/coding-practice/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3663-find-the-least-frequent-digit](https://github.com/gauthamnholla/coding-practice/tree/master/3663-find-the-least-frequent-digit) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/gauthamnholla/coding-practice/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/gauthamnholla/coding-practice/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/gauthamnholla/coding-practice/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
@@ -5890,6 +5893,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/gauthamnholla/coding-practice/tree/master/3545-minimum-deletions-for-at-most-k-distinct-characters) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/gauthamnholla/coding-practice/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3636-threshold-majority-queries](https://github.com/gauthamnholla/coding-practice/tree/master/3636-threshold-majority-queries) |
+| [3663-find-the-least-frequent-digit](https://github.com/gauthamnholla/coding-practice/tree/master/3663-find-the-least-frequent-digit) |
 | [3664-two-letter-card-game](https://github.com/gauthamnholla/coding-practice/tree/master/3664-two-letter-card-game) |
 | [3692-majority-frequency-characters](https://github.com/gauthamnholla/coding-practice/tree/master/3692-majority-frequency-characters) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/gauthamnholla/coding-practice/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
