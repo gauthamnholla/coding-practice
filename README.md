@@ -1130,6 +1130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3584-maximum-product-of-first-and-last-elements-of-a-subsequence](https://github.com/gauthamnholla/coding-practice/tree/master/3584-maximum-product-of-first-and-last-elements-of-a-subsequence) |
 | [3585-find-weighted-median-node-in-tree](https://github.com/gauthamnholla/coding-practice/tree/master/3585-find-weighted-median-node-in-tree) |
 | [3588-find-maximum-area-of-a-triangle](https://github.com/gauthamnholla/coding-practice/tree/master/3588-find-maximum-area-of-a-triangle) |
+| [3589-count-prime-gap-balanced-subarrays](https://github.com/gauthamnholla/coding-practice/tree/master/3589-count-prime-gap-balanced-subarrays) |
 | [3590-kth-smallest-path-xor-sum](https://github.com/gauthamnholla/coding-practice/tree/master/3590-kth-smallest-path-xor-sum) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/gauthamnholla/coding-practice/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3593-minimum-increments-to-equalize-leaf-paths](https://github.com/gauthamnholla/coding-practice/tree/master/3593-minimum-increments-to-equalize-leaf-paths) |
@@ -2102,6 +2103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3413-maximum-coins-from-k-consecutive-bags](https://github.com/gauthamnholla/coding-practice/tree/master/3413-maximum-coins-from-k-consecutive-bags) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/gauthamnholla/coding-practice/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/gauthamnholla/coding-practice/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
+| [3589-count-prime-gap-balanced-subarrays](https://github.com/gauthamnholla/coding-practice/tree/master/3589-count-prime-gap-balanced-subarrays) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/gauthamnholla/coding-practice/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/gauthamnholla/coding-practice/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/gauthamnholla/coding-practice/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
@@ -3852,6 +3854,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/gauthamnholla/coding-practice/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/gauthamnholla/coding-practice/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3588-find-maximum-area-of-a-triangle](https://github.com/gauthamnholla/coding-practice/tree/master/3588-find-maximum-area-of-a-triangle) |
+| [3589-count-prime-gap-balanced-subarrays](https://github.com/gauthamnholla/coding-practice/tree/master/3589-count-prime-gap-balanced-subarrays) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/gauthamnholla/coding-practice/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/gauthamnholla/coding-practice/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 | [3623-count-number-of-trapezoids-i](https://github.com/gauthamnholla/coding-practice/tree/master/3623-count-number-of-trapezoids-i) |
@@ -5985,6 +5988,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2618-maximize-the-minimum-powered-city](https://github.com/gauthamnholla/coding-practice/tree/master/2618-maximize-the-minimum-powered-city) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/gauthamnholla/coding-practice/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/gauthamnholla/coding-practice/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
+| [3589-count-prime-gap-balanced-subarrays](https://github.com/gauthamnholla/coding-practice/tree/master/3589-count-prime-gap-balanced-subarrays) |
 ## Game Theory
 |  |
 | ------- |
@@ -6074,6 +6078,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3556-sum-of-largest-prime-substrings](https://github.com/gauthamnholla/coding-practice/tree/master/3556-sum-of-largest-prime-substrings) |
 | [3569-maximize-count-of-distinct-primes-after-split](https://github.com/gauthamnholla/coding-practice/tree/master/3569-maximize-count-of-distinct-primes-after-split) |
 | [3574-maximize-subarray-gcd-score](https://github.com/gauthamnholla/coding-practice/tree/master/3574-maximize-subarray-gcd-score) |
+| [3589-count-prime-gap-balanced-subarrays](https://github.com/gauthamnholla/coding-practice/tree/master/3589-count-prime-gap-balanced-subarrays) |
 | [3715-sum-of-perfect-square-ancestors](https://github.com/gauthamnholla/coding-practice/tree/master/3715-sum-of-perfect-square-ancestors) |
 | [3725-count-ways-to-choose-coprime-integers-from-rows](https://github.com/gauthamnholla/coding-practice/tree/master/3725-count-ways-to-choose-coprime-integers-from-rows) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/gauthamnholla/coding-practice/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
@@ -6861,6 +6866,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2071-maximum-number-of-tasks-you-can-assign](https://github.com/gauthamnholla/coding-practice/tree/master/2071-maximum-number-of-tasks-you-can-assign) |
 | [2398-maximum-number-of-robots-within-budget](https://github.com/gauthamnholla/coding-practice/tree/master/2398-maximum-number-of-robots-within-budget) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/gauthamnholla/coding-practice/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
+| [3589-count-prime-gap-balanced-subarrays](https://github.com/gauthamnholla/coding-practice/tree/master/3589-count-prime-gap-balanced-subarrays) |
 ## Reservoir Sampling
 |  |
 | ------- |
