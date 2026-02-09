@@ -3864,6 +3864,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/gauthamnholla/coding-practice/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 | [3602-hexadecimal-and-hexatrigesimal-conversion](https://github.com/gauthamnholla/coding-practice/tree/master/3602-hexadecimal-and-hexatrigesimal-conversion) |
 | [3605-minimum-stability-factor-of-array](https://github.com/gauthamnholla/coding-practice/tree/master/3605-minimum-stability-factor-of-array) |
+| [3609-minimum-moves-to-reach-target-in-grid](https://github.com/gauthamnholla/coding-practice/tree/master/3609-minimum-moves-to-reach-target-in-grid) |
 | [3623-count-number-of-trapezoids-i](https://github.com/gauthamnholla/coding-practice/tree/master/3623-count-number-of-trapezoids-i) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/gauthamnholla/coding-practice/tree/master/3625-count-number-of-trapezoids-ii) |
 | [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/gauthamnholla/coding-practice/tree/master/3627-maximum-median-sum-of-subsequences-of-size-3) |
