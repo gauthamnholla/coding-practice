@@ -1142,6 +1142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/gauthamnholla/coding-practice/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/gauthamnholla/coding-practice/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/gauthamnholla/coding-practice/tree/master/3616-make-array-elements-equal-to-zero) |
+| [3618-split-array-by-prime-indices](https://github.com/gauthamnholla/coding-practice/tree/master/3618-split-array-by-prime-indices) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/gauthamnholla/coding-practice/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/gauthamnholla/coding-practice/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/gauthamnholla/coding-practice/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
@@ -3865,6 +3866,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3602-hexadecimal-and-hexatrigesimal-conversion](https://github.com/gauthamnholla/coding-practice/tree/master/3602-hexadecimal-and-hexatrigesimal-conversion) |
 | [3605-minimum-stability-factor-of-array](https://github.com/gauthamnholla/coding-practice/tree/master/3605-minimum-stability-factor-of-array) |
 | [3609-minimum-moves-to-reach-target-in-grid](https://github.com/gauthamnholla/coding-practice/tree/master/3609-minimum-moves-to-reach-target-in-grid) |
+| [3618-split-array-by-prime-indices](https://github.com/gauthamnholla/coding-practice/tree/master/3618-split-array-by-prime-indices) |
 | [3623-count-number-of-trapezoids-i](https://github.com/gauthamnholla/coding-practice/tree/master/3623-count-number-of-trapezoids-i) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/gauthamnholla/coding-practice/tree/master/3625-count-number-of-trapezoids-ii) |
 | [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/gauthamnholla/coding-practice/tree/master/3627-maximum-median-sum-of-subsequences-of-size-3) |
@@ -6093,6 +6095,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3589-count-prime-gap-balanced-subarrays](https://github.com/gauthamnholla/coding-practice/tree/master/3589-count-prime-gap-balanced-subarrays) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/gauthamnholla/coding-practice/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3605-minimum-stability-factor-of-array](https://github.com/gauthamnholla/coding-practice/tree/master/3605-minimum-stability-factor-of-array) |
+| [3618-split-array-by-prime-indices](https://github.com/gauthamnholla/coding-practice/tree/master/3618-split-array-by-prime-indices) |
 | [3715-sum-of-perfect-square-ancestors](https://github.com/gauthamnholla/coding-practice/tree/master/3715-sum-of-perfect-square-ancestors) |
 | [3725-count-ways-to-choose-coprime-integers-from-rows](https://github.com/gauthamnholla/coding-practice/tree/master/3725-count-ways-to-choose-coprime-integers-from-rows) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/gauthamnholla/coding-practice/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
