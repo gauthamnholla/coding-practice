@@ -3880,6 +3880,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/gauthamnholla/coding-practice/tree/master/3627-maximum-median-sum-of-subsequences-of-size-3) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/gauthamnholla/coding-practice/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3630-partition-array-for-maximum-xor-and-and](https://github.com/gauthamnholla/coding-practice/tree/master/3630-partition-array-for-maximum-xor-and-and) |
+| [3648-minimum-sensors-to-cover-grid](https://github.com/gauthamnholla/coding-practice/tree/master/3648-minimum-sensors-to-cover-grid) |
 | [3649-number-of-perfect-pairs](https://github.com/gauthamnholla/coding-practice/tree/master/3649-number-of-perfect-pairs) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/gauthamnholla/coding-practice/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/gauthamnholla/coding-practice/tree/master/3676-smallest-number-with-all-set-bits) |
