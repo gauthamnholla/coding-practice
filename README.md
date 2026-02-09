@@ -3095,6 +3095,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3615-longest-palindromic-path-in-graph](https://github.com/gauthamnholla/coding-practice/tree/master/3615-longest-palindromic-path-in-graph) |
 | [3618-find-the-original-typed-string-ii](https://github.com/gauthamnholla/coding-practice/tree/master/3618-find-the-original-typed-string-ii) |
 | [3620-network-recovery-pathways](https://github.com/gauthamnholla/coding-practice/tree/master/3620-network-recovery-pathways) |
+| [3621-number-of-integers-with-popcount-depth-equal-to-k-i](https://github.com/gauthamnholla/coding-practice/tree/master/3621-number-of-integers-with-popcount-depth-equal-to-k-i) |
 | [3628-maximum-number-of-subsequences-after-one-inserting](https://github.com/gauthamnholla/coding-practice/tree/master/3628-maximum-number-of-subsequences-after-one-inserting) |
 | [3640-trionic-array-ii](https://github.com/gauthamnholla/coding-practice/tree/master/3640-trionic-array-ii) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/gauthamnholla/coding-practice/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
@@ -3867,6 +3868,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3605-minimum-stability-factor-of-array](https://github.com/gauthamnholla/coding-practice/tree/master/3605-minimum-stability-factor-of-array) |
 | [3609-minimum-moves-to-reach-target-in-grid](https://github.com/gauthamnholla/coding-practice/tree/master/3609-minimum-moves-to-reach-target-in-grid) |
 | [3618-split-array-by-prime-indices](https://github.com/gauthamnholla/coding-practice/tree/master/3618-split-array-by-prime-indices) |
+| [3621-number-of-integers-with-popcount-depth-equal-to-k-i](https://github.com/gauthamnholla/coding-practice/tree/master/3621-number-of-integers-with-popcount-depth-equal-to-k-i) |
 | [3623-count-number-of-trapezoids-i](https://github.com/gauthamnholla/coding-practice/tree/master/3623-count-number-of-trapezoids-i) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/gauthamnholla/coding-practice/tree/master/3625-count-number-of-trapezoids-ii) |
 | [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/gauthamnholla/coding-practice/tree/master/3627-maximum-median-sum-of-subsequences-of-size-3) |
@@ -4764,6 +4766,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/gauthamnholla/coding-practice/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/gauthamnholla/coding-practice/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 | [3615-longest-palindromic-path-in-graph](https://github.com/gauthamnholla/coding-practice/tree/master/3615-longest-palindromic-path-in-graph) |
+| [3621-number-of-integers-with-popcount-depth-equal-to-k-i](https://github.com/gauthamnholla/coding-practice/tree/master/3621-number-of-integers-with-popcount-depth-equal-to-k-i) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/gauthamnholla/coding-practice/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/gauthamnholla/coding-practice/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/gauthamnholla/coding-practice/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
@@ -6146,6 +6149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3470-permutations-iv](https://github.com/gauthamnholla/coding-practice/tree/master/3470-permutations-iv) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/gauthamnholla/coding-practice/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/gauthamnholla/coding-practice/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
+| [3621-number-of-integers-with-popcount-depth-equal-to-k-i](https://github.com/gauthamnholla/coding-practice/tree/master/3621-number-of-integers-with-popcount-depth-equal-to-k-i) |
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/gauthamnholla/coding-practice/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
 | [3725-count-ways-to-choose-coprime-integers-from-rows](https://github.com/gauthamnholla/coding-practice/tree/master/3725-count-ways-to-choose-coprime-integers-from-rows) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/gauthamnholla/coding-practice/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
