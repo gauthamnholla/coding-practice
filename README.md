@@ -3869,6 +3869,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3609-minimum-moves-to-reach-target-in-grid](https://github.com/gauthamnholla/coding-practice/tree/master/3609-minimum-moves-to-reach-target-in-grid) |
 | [3618-split-array-by-prime-indices](https://github.com/gauthamnholla/coding-practice/tree/master/3618-split-array-by-prime-indices) |
 | [3621-number-of-integers-with-popcount-depth-equal-to-k-i](https://github.com/gauthamnholla/coding-practice/tree/master/3621-number-of-integers-with-popcount-depth-equal-to-k-i) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/gauthamnholla/coding-practice/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3623-count-number-of-trapezoids-i](https://github.com/gauthamnholla/coding-practice/tree/master/3623-count-number-of-trapezoids-i) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/gauthamnholla/coding-practice/tree/master/3625-count-number-of-trapezoids-ii) |
 | [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/gauthamnholla/coding-practice/tree/master/3627-maximum-median-sum-of-subsequences-of-size-3) |
