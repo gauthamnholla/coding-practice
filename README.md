@@ -1151,6 +1151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3623-count-number-of-trapezoids-i](https://github.com/gauthamnholla/coding-practice/tree/master/3623-count-number-of-trapezoids-i) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/gauthamnholla/coding-practice/tree/master/3625-count-number-of-trapezoids-ii) |
 | [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/gauthamnholla/coding-practice/tree/master/3627-maximum-median-sum-of-subsequences-of-size-3) |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/gauthamnholla/coding-practice/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/gauthamnholla/coding-practice/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3634-minimum-removals-to-balance-array](https://github.com/gauthamnholla/coding-practice/tree/master/3634-minimum-removals-to-balance-array) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/gauthamnholla/coding-practice/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
@@ -2574,6 +2575,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/gauthamnholla/coding-practice/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3623-count-number-of-trapezoids-i](https://github.com/gauthamnholla/coding-practice/tree/master/3623-count-number-of-trapezoids-i) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/gauthamnholla/coding-practice/tree/master/3625-count-number-of-trapezoids-ii) |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/gauthamnholla/coding-practice/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3636-threshold-majority-queries](https://github.com/gauthamnholla/coding-practice/tree/master/3636-threshold-majority-queries) |
 | [3654-minimum-sum-after-divisible-sum-deletions](https://github.com/gauthamnholla/coding-practice/tree/master/3654-minimum-sum-after-divisible-sum-deletions) |
 | [3664-two-letter-card-game](https://github.com/gauthamnholla/coding-practice/tree/master/3664-two-letter-card-game) |
@@ -3873,6 +3875,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3623-count-number-of-trapezoids-i](https://github.com/gauthamnholla/coding-practice/tree/master/3623-count-number-of-trapezoids-i) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/gauthamnholla/coding-practice/tree/master/3625-count-number-of-trapezoids-ii) |
 | [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/gauthamnholla/coding-practice/tree/master/3627-maximum-median-sum-of-subsequences-of-size-3) |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/gauthamnholla/coding-practice/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3649-number-of-perfect-pairs](https://github.com/gauthamnholla/coding-practice/tree/master/3649-number-of-perfect-pairs) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/gauthamnholla/coding-practice/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/gauthamnholla/coding-practice/tree/master/3676-smallest-number-with-all-set-bits) |
@@ -6100,6 +6103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/gauthamnholla/coding-practice/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3605-minimum-stability-factor-of-array](https://github.com/gauthamnholla/coding-practice/tree/master/3605-minimum-stability-factor-of-array) |
 | [3618-split-array-by-prime-indices](https://github.com/gauthamnholla/coding-practice/tree/master/3618-split-array-by-prime-indices) |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/gauthamnholla/coding-practice/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3715-sum-of-perfect-square-ancestors](https://github.com/gauthamnholla/coding-practice/tree/master/3715-sum-of-perfect-square-ancestors) |
 | [3725-count-ways-to-choose-coprime-integers-from-rows](https://github.com/gauthamnholla/coding-practice/tree/master/3725-count-ways-to-choose-coprime-integers-from-rows) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/gauthamnholla/coding-practice/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
@@ -6326,6 +6330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3552-grid-teleportation-traversal](https://github.com/gauthamnholla/coding-practice/tree/master/3552-grid-teleportation-traversal) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/gauthamnholla/coding-practice/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/gauthamnholla/coding-practice/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/gauthamnholla/coding-practice/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/gauthamnholla/coding-practice/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 | [3710-maximum-partition-factor](https://github.com/gauthamnholla/coding-practice/tree/master/3710-maximum-partition-factor) |
 | [3863-power-grid-maintenance](https://github.com/gauthamnholla/coding-practice/tree/master/3863-power-grid-maintenance) |
