@@ -1132,6 +1132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3588-find-maximum-area-of-a-triangle](https://github.com/gauthamnholla/coding-practice/tree/master/3588-find-maximum-area-of-a-triangle) |
 | [3589-count-prime-gap-balanced-subarrays](https://github.com/gauthamnholla/coding-practice/tree/master/3589-count-prime-gap-balanced-subarrays) |
 | [3590-kth-smallest-path-xor-sum](https://github.com/gauthamnholla/coding-practice/tree/master/3590-kth-smallest-path-xor-sum) |
+| [3591-check-if-any-element-has-prime-frequency](https://github.com/gauthamnholla/coding-practice/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/gauthamnholla/coding-practice/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3593-minimum-increments-to-equalize-leaf-paths](https://github.com/gauthamnholla/coding-practice/tree/master/3593-minimum-increments-to-equalize-leaf-paths) |
 | [3599-partition-array-to-minimize-xor](https://github.com/gauthamnholla/coding-practice/tree/master/3599-partition-array-to-minimize-xor) |
@@ -2564,6 +2565,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3572-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues](https://github.com/gauthamnholla/coding-practice/tree/master/3572-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/gauthamnholla/coding-practice/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3588-find-maximum-area-of-a-triangle](https://github.com/gauthamnholla/coding-practice/tree/master/3588-find-maximum-area-of-a-triangle) |
+| [3591-check-if-any-element-has-prime-frequency](https://github.com/gauthamnholla/coding-practice/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/gauthamnholla/coding-practice/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3606-coupon-code-validator](https://github.com/gauthamnholla/coding-practice/tree/master/3606-coupon-code-validator) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/gauthamnholla/coding-practice/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
@@ -3855,6 +3857,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/gauthamnholla/coding-practice/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3588-find-maximum-area-of-a-triangle](https://github.com/gauthamnholla/coding-practice/tree/master/3588-find-maximum-area-of-a-triangle) |
 | [3589-count-prime-gap-balanced-subarrays](https://github.com/gauthamnholla/coding-practice/tree/master/3589-count-prime-gap-balanced-subarrays) |
+| [3591-check-if-any-element-has-prime-frequency](https://github.com/gauthamnholla/coding-practice/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/gauthamnholla/coding-practice/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/gauthamnholla/coding-practice/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 | [3623-count-number-of-trapezoids-i](https://github.com/gauthamnholla/coding-practice/tree/master/3623-count-number-of-trapezoids-i) |
@@ -5861,6 +5864,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/gauthamnholla/coding-practice/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/gauthamnholla/coding-practice/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/gauthamnholla/coding-practice/tree/master/3545-minimum-deletions-for-at-most-k-distinct-characters) |
+| [3591-check-if-any-element-has-prime-frequency](https://github.com/gauthamnholla/coding-practice/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3636-threshold-majority-queries](https://github.com/gauthamnholla/coding-practice/tree/master/3636-threshold-majority-queries) |
 | [3664-two-letter-card-game](https://github.com/gauthamnholla/coding-practice/tree/master/3664-two-letter-card-game) |
 | [3692-majority-frequency-characters](https://github.com/gauthamnholla/coding-practice/tree/master/3692-majority-frequency-characters) |
@@ -6079,6 +6083,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3569-maximize-count-of-distinct-primes-after-split](https://github.com/gauthamnholla/coding-practice/tree/master/3569-maximize-count-of-distinct-primes-after-split) |
 | [3574-maximize-subarray-gcd-score](https://github.com/gauthamnholla/coding-practice/tree/master/3574-maximize-subarray-gcd-score) |
 | [3589-count-prime-gap-balanced-subarrays](https://github.com/gauthamnholla/coding-practice/tree/master/3589-count-prime-gap-balanced-subarrays) |
+| [3591-check-if-any-element-has-prime-frequency](https://github.com/gauthamnholla/coding-practice/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3715-sum-of-perfect-square-ancestors](https://github.com/gauthamnholla/coding-practice/tree/master/3715-sum-of-perfect-square-ancestors) |
 | [3725-count-ways-to-choose-coprime-integers-from-rows](https://github.com/gauthamnholla/coding-practice/tree/master/3725-count-ways-to-choose-coprime-integers-from-rows) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/gauthamnholla/coding-practice/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
