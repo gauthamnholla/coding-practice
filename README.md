@@ -3126,6 +3126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3725-count-ways-to-choose-coprime-integers-from-rows](https://github.com/gauthamnholla/coding-practice/tree/master/3725-count-ways-to-choose-coprime-integers-from-rows) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/gauthamnholla/coding-practice/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/gauthamnholla/coding-practice/tree/master/3742-maximum-path-score-in-a-grid) |
+| [3747-count-distinct-integers-after-removing-zeros](https://github.com/gauthamnholla/coding-practice/tree/master/3747-count-distinct-integers-after-removing-zeros) |
 | [3772-maximum-subgraph-score-in-a-tree](https://github.com/gauthamnholla/coding-practice/tree/master/3772-maximum-subgraph-score-in-a-tree) |
 | [3797-count-routes-to-climb-a-rectangular-grid](https://github.com/gauthamnholla/coding-practice/tree/master/3797-count-routes-to-climb-a-rectangular-grid) |
 | [3801-minimum-cost-to-merge-sorted-lists](https://github.com/gauthamnholla/coding-practice/tree/master/3801-minimum-cost-to-merge-sorted-lists) |
@@ -3916,6 +3917,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3733-minimum-time-to-complete-all-deliveries](https://github.com/gauthamnholla/coding-practice/tree/master/3733-minimum-time-to-complete-all-deliveries) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/gauthamnholla/coding-practice/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/gauthamnholla/coding-practice/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
+| [3747-count-distinct-integers-after-removing-zeros](https://github.com/gauthamnholla/coding-practice/tree/master/3747-count-distinct-integers-after-removing-zeros) |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/gauthamnholla/coding-practice/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 | [3752-lexicographically-smallest-negated-permutation-that-sums-to-target](https://github.com/gauthamnholla/coding-practice/tree/master/3752-lexicographically-smallest-negated-permutation-that-sums-to-target) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/gauthamnholla/coding-practice/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
