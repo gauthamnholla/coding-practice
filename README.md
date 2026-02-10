@@ -3118,6 +3118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3665-twisted-mirror-path-count](https://github.com/gauthamnholla/coding-practice/tree/master/3665-twisted-mirror-path-count) |
 | [3685-subsequence-sum-after-capping-elements](https://github.com/gauthamnholla/coding-practice/tree/master/3685-subsequence-sum-after-capping-elements) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/gauthamnholla/coding-practice/tree/master/3699-number-of-zigzag-arrays-i) |
+| [3700-number-of-zigzag-arrays-ii](https://github.com/gauthamnholla/coding-practice/tree/master/3700-number-of-zigzag-arrays-ii) |
 | [3725-count-ways-to-choose-coprime-integers-from-rows](https://github.com/gauthamnholla/coding-practice/tree/master/3725-count-ways-to-choose-coprime-integers-from-rows) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/gauthamnholla/coding-practice/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/gauthamnholla/coding-practice/tree/master/3742-maximum-path-score-in-a-grid) |
@@ -3901,6 +3902,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3681-maximum-xor-of-subsequences](https://github.com/gauthamnholla/coding-practice/tree/master/3681-maximum-xor-of-subsequences) |
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/gauthamnholla/coding-practice/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
 | [3697-compute-decimal-representation](https://github.com/gauthamnholla/coding-practice/tree/master/3697-compute-decimal-representation) |
+| [3700-number-of-zigzag-arrays-ii](https://github.com/gauthamnholla/coding-practice/tree/master/3700-number-of-zigzag-arrays-ii) |
 | [3715-sum-of-perfect-square-ancestors](https://github.com/gauthamnholla/coding-practice/tree/master/3715-sum-of-perfect-square-ancestors) |
 | [3725-count-ways-to-choose-coprime-integers-from-rows](https://github.com/gauthamnholla/coding-practice/tree/master/3725-count-ways-to-choose-coprime-integers-from-rows) |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/gauthamnholla/coding-practice/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
