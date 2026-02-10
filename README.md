@@ -3129,6 +3129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3742-maximum-path-score-in-a-grid](https://github.com/gauthamnholla/coding-practice/tree/master/3742-maximum-path-score-in-a-grid) |
 | [3747-count-distinct-integers-after-removing-zeros](https://github.com/gauthamnholla/coding-practice/tree/master/3747-count-distinct-integers-after-removing-zeros) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/gauthamnholla/coding-practice/tree/master/3751-total-waviness-of-numbers-in-range-i) |
+| [3753-total-waviness-of-numbers-in-range-ii](https://github.com/gauthamnholla/coding-practice/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 | [3772-maximum-subgraph-score-in-a-tree](https://github.com/gauthamnholla/coding-practice/tree/master/3772-maximum-subgraph-score-in-a-tree) |
 | [3797-count-routes-to-climb-a-rectangular-grid](https://github.com/gauthamnholla/coding-practice/tree/master/3797-count-routes-to-climb-a-rectangular-grid) |
 | [3801-minimum-cost-to-merge-sorted-lists](https://github.com/gauthamnholla/coding-practice/tree/master/3801-minimum-cost-to-merge-sorted-lists) |
@@ -3923,6 +3924,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/gauthamnholla/coding-practice/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/gauthamnholla/coding-practice/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3752-lexicographically-smallest-negated-permutation-that-sums-to-target](https://github.com/gauthamnholla/coding-practice/tree/master/3752-lexicographically-smallest-negated-permutation-that-sums-to-target) |
+| [3753-total-waviness-of-numbers-in-range-ii](https://github.com/gauthamnholla/coding-practice/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/gauthamnholla/coding-practice/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/gauthamnholla/coding-practice/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/gauthamnholla/coding-practice/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
