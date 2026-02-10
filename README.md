@@ -3891,6 +3891,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3669-balanced-k-factor-decomposition](https://github.com/gauthamnholla/coding-practice/tree/master/3669-balanced-k-factor-decomposition) |
 | [3671-sum-of-beautiful-subsequences](https://github.com/gauthamnholla/coding-practice/tree/master/3671-sum-of-beautiful-subsequences) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/gauthamnholla/coding-practice/tree/master/3676-smallest-number-with-all-set-bits) |
+| [3677-count-binary-palindromic-numbers](https://github.com/gauthamnholla/coding-practice/tree/master/3677-count-binary-palindromic-numbers) |
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/gauthamnholla/coding-practice/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
 | [3715-sum-of-perfect-square-ancestors](https://github.com/gauthamnholla/coding-practice/tree/master/3715-sum-of-perfect-square-ancestors) |
 | [3725-count-ways-to-choose-coprime-integers-from-rows](https://github.com/gauthamnholla/coding-practice/tree/master/3725-count-ways-to-choose-coprime-integers-from-rows) |
@@ -4786,6 +4787,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3630-partition-array-for-maximum-xor-and-and](https://github.com/gauthamnholla/coding-practice/tree/master/3630-partition-array-for-maximum-xor-and-and) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/gauthamnholla/coding-practice/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/gauthamnholla/coding-practice/tree/master/3676-smallest-number-with-all-set-bits) |
+| [3677-count-binary-palindromic-numbers](https://github.com/gauthamnholla/coding-practice/tree/master/3677-count-binary-palindromic-numbers) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/gauthamnholla/coding-practice/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/gauthamnholla/coding-practice/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 | [3755-find-maximum-balanced-xor-subarray-length](https://github.com/gauthamnholla/coding-practice/tree/master/3755-find-maximum-balanced-xor-subarray-length) |
