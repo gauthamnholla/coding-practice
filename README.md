@@ -1178,6 +1178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/gauthamnholla/coding-practice/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 | [3685-subsequence-sum-after-capping-elements](https://github.com/gauthamnholla/coding-practice/tree/master/3685-subsequence-sum-after-capping-elements) |
 | [3695-maximize-alternating-sum-using-swaps](https://github.com/gauthamnholla/coding-practice/tree/master/3695-maximize-alternating-sum-using-swaps) |
+| [3697-compute-decimal-representation](https://github.com/gauthamnholla/coding-practice/tree/master/3697-compute-decimal-representation) |
 | [3698-split-array-with-minimum-difference](https://github.com/gauthamnholla/coding-practice/tree/master/3698-split-array-with-minimum-difference) |
 | [3709-design-exam-scores-tracker](https://github.com/gauthamnholla/coding-practice/tree/master/3709-design-exam-scores-tracker) |
 | [3710-maximum-partition-factor](https://github.com/gauthamnholla/coding-practice/tree/master/3710-maximum-partition-factor) |
@@ -3899,6 +3900,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3680-generate-schedule](https://github.com/gauthamnholla/coding-practice/tree/master/3680-generate-schedule) |
 | [3681-maximum-xor-of-subsequences](https://github.com/gauthamnholla/coding-practice/tree/master/3681-maximum-xor-of-subsequences) |
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/gauthamnholla/coding-practice/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
+| [3697-compute-decimal-representation](https://github.com/gauthamnholla/coding-practice/tree/master/3697-compute-decimal-representation) |
 | [3715-sum-of-perfect-square-ancestors](https://github.com/gauthamnholla/coding-practice/tree/master/3715-sum-of-perfect-square-ancestors) |
 | [3725-count-ways-to-choose-coprime-integers-from-rows](https://github.com/gauthamnholla/coding-practice/tree/master/3725-count-ways-to-choose-coprime-integers-from-rows) |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/gauthamnholla/coding-practice/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
