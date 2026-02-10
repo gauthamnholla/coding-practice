@@ -1173,6 +1173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3664-two-letter-card-game](https://github.com/gauthamnholla/coding-practice/tree/master/3664-two-letter-card-game) |
 | [3665-twisted-mirror-path-count](https://github.com/gauthamnholla/coding-practice/tree/master/3665-twisted-mirror-path-count) |
 | [3671-sum-of-beautiful-subsequences](https://github.com/gauthamnholla/coding-practice/tree/master/3671-sum-of-beautiful-subsequences) |
+| [3680-generate-schedule](https://github.com/gauthamnholla/coding-practice/tree/master/3680-generate-schedule) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/gauthamnholla/coding-practice/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 | [3685-subsequence-sum-after-capping-elements](https://github.com/gauthamnholla/coding-practice/tree/master/3685-subsequence-sum-after-capping-elements) |
 | [3695-maximize-alternating-sum-using-swaps](https://github.com/gauthamnholla/coding-practice/tree/master/3695-maximize-alternating-sum-using-swaps) |
@@ -1498,6 +1499,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/gauthamnholla/coding-practice/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3645-maximum-total-from-optimal-activation-order](https://github.com/gauthamnholla/coding-practice/tree/master/3645-maximum-total-from-optimal-activation-order) |
 | [3675-minimum-operations-to-transform-string](https://github.com/gauthamnholla/coding-practice/tree/master/3675-minimum-operations-to-transform-string) |
+| [3680-generate-schedule](https://github.com/gauthamnholla/coding-practice/tree/master/3680-generate-schedule) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/gauthamnholla/coding-practice/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 | [3695-maximize-alternating-sum-using-swaps](https://github.com/gauthamnholla/coding-practice/tree/master/3695-maximize-alternating-sum-using-swaps) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/gauthamnholla/coding-practice/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
@@ -3892,6 +3894,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3671-sum-of-beautiful-subsequences](https://github.com/gauthamnholla/coding-practice/tree/master/3671-sum-of-beautiful-subsequences) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/gauthamnholla/coding-practice/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3677-count-binary-palindromic-numbers](https://github.com/gauthamnholla/coding-practice/tree/master/3677-count-binary-palindromic-numbers) |
+| [3680-generate-schedule](https://github.com/gauthamnholla/coding-practice/tree/master/3680-generate-schedule) |
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/gauthamnholla/coding-practice/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
 | [3715-sum-of-perfect-square-ancestors](https://github.com/gauthamnholla/coding-practice/tree/master/3715-sum-of-perfect-square-ancestors) |
 | [3725-count-ways-to-choose-coprime-integers-from-rows](https://github.com/gauthamnholla/coding-practice/tree/master/3725-count-ways-to-choose-coprime-integers-from-rows) |
