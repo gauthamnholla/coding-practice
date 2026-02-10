@@ -1172,6 +1172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3663-find-the-least-frequent-digit](https://github.com/gauthamnholla/coding-practice/tree/master/3663-find-the-least-frequent-digit) |
 | [3664-two-letter-card-game](https://github.com/gauthamnholla/coding-practice/tree/master/3664-two-letter-card-game) |
 | [3665-twisted-mirror-path-count](https://github.com/gauthamnholla/coding-practice/tree/master/3665-twisted-mirror-path-count) |
+| [3671-sum-of-beautiful-subsequences](https://github.com/gauthamnholla/coding-practice/tree/master/3671-sum-of-beautiful-subsequences) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/gauthamnholla/coding-practice/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 | [3685-subsequence-sum-after-capping-elements](https://github.com/gauthamnholla/coding-practice/tree/master/3685-subsequence-sum-after-capping-elements) |
 | [3695-maximize-alternating-sum-using-swaps](https://github.com/gauthamnholla/coding-practice/tree/master/3695-maximize-alternating-sum-using-swaps) |
@@ -3888,6 +3889,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3663-find-the-least-frequent-digit](https://github.com/gauthamnholla/coding-practice/tree/master/3663-find-the-least-frequent-digit) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/gauthamnholla/coding-practice/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 | [3669-balanced-k-factor-decomposition](https://github.com/gauthamnholla/coding-practice/tree/master/3669-balanced-k-factor-decomposition) |
+| [3671-sum-of-beautiful-subsequences](https://github.com/gauthamnholla/coding-practice/tree/master/3671-sum-of-beautiful-subsequences) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/gauthamnholla/coding-practice/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/gauthamnholla/coding-practice/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
 | [3715-sum-of-perfect-square-ancestors](https://github.com/gauthamnholla/coding-practice/tree/master/3715-sum-of-perfect-square-ancestors) |
@@ -4958,6 +4960,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3585-find-weighted-median-node-in-tree](https://github.com/gauthamnholla/coding-practice/tree/master/3585-find-weighted-median-node-in-tree) |
 | [3590-kth-smallest-path-xor-sum](https://github.com/gauthamnholla/coding-practice/tree/master/3590-kth-smallest-path-xor-sum) |
 | [3593-minimum-increments-to-equalize-leaf-paths](https://github.com/gauthamnholla/coding-practice/tree/master/3593-minimum-increments-to-equalize-leaf-paths) |
+| [3671-sum-of-beautiful-subsequences](https://github.com/gauthamnholla/coding-practice/tree/master/3671-sum-of-beautiful-subsequences) |
 | [3715-sum-of-perfect-square-ancestors](https://github.com/gauthamnholla/coding-practice/tree/master/3715-sum-of-perfect-square-ancestors) |
 | [3772-maximum-subgraph-score-in-a-tree](https://github.com/gauthamnholla/coding-practice/tree/master/3772-maximum-subgraph-score-in-a-tree) |
 | [3786-total-sum-of-interaction-cost-in-tree-groups](https://github.com/gauthamnholla/coding-practice/tree/master/3786-total-sum-of-interaction-cost-in-tree-groups) |
@@ -6119,6 +6122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/gauthamnholla/coding-practice/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/gauthamnholla/coding-practice/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3669-balanced-k-factor-decomposition](https://github.com/gauthamnholla/coding-practice/tree/master/3669-balanced-k-factor-decomposition) |
+| [3671-sum-of-beautiful-subsequences](https://github.com/gauthamnholla/coding-practice/tree/master/3671-sum-of-beautiful-subsequences) |
 | [3715-sum-of-perfect-square-ancestors](https://github.com/gauthamnholla/coding-practice/tree/master/3715-sum-of-perfect-square-ancestors) |
 | [3725-count-ways-to-choose-coprime-integers-from-rows](https://github.com/gauthamnholla/coding-practice/tree/master/3725-count-ways-to-choose-coprime-integers-from-rows) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/gauthamnholla/coding-practice/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
