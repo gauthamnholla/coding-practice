@@ -1213,6 +1213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3766-minimum-operations-to-make-binary-palindrome](https://github.com/gauthamnholla/coding-practice/tree/master/3766-minimum-operations-to-make-binary-palindrome) |
 | [3767-maximize-points-after-choosing-k-tasks](https://github.com/gauthamnholla/coding-practice/tree/master/3767-maximize-points-after-choosing-k-tasks) |
 | [3769-sort-integers-by-binary-reflection](https://github.com/gauthamnholla/coding-practice/tree/master/3769-sort-integers-by-binary-reflection) |
+| [3770-largest-prime-from-consecutive-prime-sum](https://github.com/gauthamnholla/coding-practice/tree/master/3770-largest-prime-from-consecutive-prime-sum) |
 | [3771-total-score-of-dungeon-runs](https://github.com/gauthamnholla/coding-practice/tree/master/3771-total-score-of-dungeon-runs) |
 | [3772-maximum-subgraph-score-in-a-tree](https://github.com/gauthamnholla/coding-practice/tree/master/3772-maximum-subgraph-score-in-a-tree) |
 | [3781-maximum-score-after-binary-swaps](https://github.com/gauthamnholla/coding-practice/tree/master/3781-maximum-score-after-binary-swaps) |
@@ -3939,6 +3940,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3762-minimum-operations-to-equalize-subarrays](https://github.com/gauthamnholla/coding-practice/tree/master/3762-minimum-operations-to-equalize-subarrays) |
 | [3765-complete-prime-number](https://github.com/gauthamnholla/coding-practice/tree/master/3765-complete-prime-number) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/gauthamnholla/coding-practice/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
+| [3770-largest-prime-from-consecutive-prime-sum](https://github.com/gauthamnholla/coding-practice/tree/master/3770-largest-prime-from-consecutive-prime-sum) |
 | [3830-find-closest-person](https://github.com/gauthamnholla/coding-practice/tree/master/3830-find-closest-person) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/gauthamnholla/coding-practice/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## String
@@ -6171,6 +6173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3725-count-ways-to-choose-coprime-integers-from-rows](https://github.com/gauthamnholla/coding-practice/tree/master/3725-count-ways-to-choose-coprime-integers-from-rows) |
 | [3765-complete-prime-number](https://github.com/gauthamnholla/coding-practice/tree/master/3765-complete-prime-number) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/gauthamnholla/coding-practice/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
+| [3770-largest-prime-from-consecutive-prime-sum](https://github.com/gauthamnholla/coding-practice/tree/master/3770-largest-prime-from-consecutive-prime-sum) |
 ## Combinatorics
 |  |
 | ------- |
