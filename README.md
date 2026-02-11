@@ -1227,6 +1227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/gauthamnholla/coding-practice/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 | [3797-count-routes-to-climb-a-rectangular-grid](https://github.com/gauthamnholla/coding-practice/tree/master/3797-count-routes-to-climb-a-rectangular-grid) |
 | [3801-minimum-cost-to-merge-sorted-lists](https://github.com/gauthamnholla/coding-practice/tree/master/3801-minimum-cost-to-merge-sorted-lists) |
+| [3805-count-caesar-cipher-pairs](https://github.com/gauthamnholla/coding-practice/tree/master/3805-count-caesar-cipher-pairs) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/gauthamnholla/coding-practice/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/gauthamnholla/coding-practice/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 | [3863-power-grid-maintenance](https://github.com/gauthamnholla/coding-practice/tree/master/3863-power-grid-maintenance) |
@@ -2623,6 +2624,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3784-minimum-deletion-cost-to-make-all-characters-equal](https://github.com/gauthamnholla/coding-practice/tree/master/3784-minimum-deletion-cost-to-make-all-characters-equal) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/gauthamnholla/coding-practice/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3790-smallest-all-ones-multiple](https://github.com/gauthamnholla/coding-practice/tree/master/3790-smallest-all-ones-multiple) |
+| [3805-count-caesar-cipher-pairs](https://github.com/gauthamnholla/coding-practice/tree/master/3805-count-caesar-cipher-pairs) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/gauthamnholla/coding-practice/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [3863-power-grid-maintenance](https://github.com/gauthamnholla/coding-practice/tree/master/3863-power-grid-maintenance) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/gauthamnholla/coding-practice/tree/master/3872-find-most-frequent-vowel-and-consonant) |
@@ -3947,6 +3949,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3783-mirror-distance-of-an-integer](https://github.com/gauthamnholla/coding-practice/tree/master/3783-mirror-distance-of-an-integer) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/gauthamnholla/coding-practice/tree/master/3789-minimum-cost-to-acquire-required-items) |
 | [3790-smallest-all-ones-multiple](https://github.com/gauthamnholla/coding-practice/tree/master/3790-smallest-all-ones-multiple) |
+| [3805-count-caesar-cipher-pairs](https://github.com/gauthamnholla/coding-practice/tree/master/3805-count-caesar-cipher-pairs) |
 | [3830-find-closest-person](https://github.com/gauthamnholla/coding-practice/tree/master/3830-find-closest-person) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/gauthamnholla/coding-practice/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## String
@@ -4333,6 +4336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3781-maximum-score-after-binary-swaps](https://github.com/gauthamnholla/coding-practice/tree/master/3781-maximum-score-after-binary-swaps) |
 | [3784-minimum-deletion-cost-to-make-all-characters-equal](https://github.com/gauthamnholla/coding-practice/tree/master/3784-minimum-deletion-cost-to-make-all-characters-equal) |
 | [3794-reverse-string-prefix](https://github.com/gauthamnholla/coding-practice/tree/master/3794-reverse-string-prefix) |
+| [3805-count-caesar-cipher-pairs](https://github.com/gauthamnholla/coding-practice/tree/master/3805-count-caesar-cipher-pairs) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/gauthamnholla/coding-practice/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Depth-First Search
 |  |
@@ -5962,6 +5966,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/gauthamnholla/coding-practice/tree/master/3746-minimum-string-length-after-balanced-removals) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/gauthamnholla/coding-practice/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/gauthamnholla/coding-practice/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
+| [3805-count-caesar-cipher-pairs](https://github.com/gauthamnholla/coding-practice/tree/master/3805-count-caesar-cipher-pairs) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/gauthamnholla/coding-practice/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Merge Sort
 |  |
