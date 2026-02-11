@@ -1209,6 +1209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3757-number-of-effective-subsequences](https://github.com/gauthamnholla/coding-practice/tree/master/3757-number-of-effective-subsequences) |
 | [3759-count-elements-with-at-least-k-greater-values](https://github.com/gauthamnholla/coding-practice/tree/master/3759-count-elements-with-at-least-k-greater-values) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/gauthamnholla/coding-practice/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
+| [3762-minimum-operations-to-equalize-subarrays](https://github.com/gauthamnholla/coding-practice/tree/master/3762-minimum-operations-to-equalize-subarrays) |
 | [3766-minimum-operations-to-make-binary-palindrome](https://github.com/gauthamnholla/coding-practice/tree/master/3766-minimum-operations-to-make-binary-palindrome) |
 | [3767-maximize-points-after-choosing-k-tasks](https://github.com/gauthamnholla/coding-practice/tree/master/3767-maximize-points-after-choosing-k-tasks) |
 | [3769-sort-integers-by-binary-reflection](https://github.com/gauthamnholla/coding-practice/tree/master/3769-sort-integers-by-binary-reflection) |
@@ -3934,6 +3935,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/gauthamnholla/coding-practice/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3757-number-of-effective-subsequences](https://github.com/gauthamnholla/coding-practice/tree/master/3757-number-of-effective-subsequences) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/gauthamnholla/coding-practice/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
+| [3762-minimum-operations-to-equalize-subarrays](https://github.com/gauthamnholla/coding-practice/tree/master/3762-minimum-operations-to-equalize-subarrays) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/gauthamnholla/coding-practice/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3830-find-closest-person](https://github.com/gauthamnholla/coding-practice/tree/master/3830-find-closest-person) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/gauthamnholla/coding-practice/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
@@ -5030,6 +5032,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3721-longest-balanced-subarray-ii](https://github.com/gauthamnholla/coding-practice/tree/master/3721-longest-balanced-subarray-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/gauthamnholla/coding-practice/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/gauthamnholla/coding-practice/tree/master/3739-count-subarrays-with-majority-element-ii) |
+| [3762-minimum-operations-to-equalize-subarrays](https://github.com/gauthamnholla/coding-practice/tree/master/3762-minimum-operations-to-equalize-subarrays) |
 | [3777-minimum-deletions-to-make-alternating-substring](https://github.com/gauthamnholla/coding-practice/tree/master/3777-minimum-deletions-to-make-alternating-substring) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/gauthamnholla/coding-practice/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 | [3790-fruits-into-baskets-ii](https://github.com/gauthamnholla/coding-practice/tree/master/3790-fruits-into-baskets-ii) |
@@ -5487,6 +5490,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3733-minimum-time-to-complete-all-deliveries](https://github.com/gauthamnholla/coding-practice/tree/master/3733-minimum-time-to-complete-all-deliveries) |
 | [3748-count-stable-subarrays](https://github.com/gauthamnholla/coding-practice/tree/master/3748-count-stable-subarrays) |
 | [3759-count-elements-with-at-least-k-greater-values](https://github.com/gauthamnholla/coding-practice/tree/master/3759-count-elements-with-at-least-k-greater-values) |
+| [3762-minimum-operations-to-equalize-subarrays](https://github.com/gauthamnholla/coding-practice/tree/master/3762-minimum-operations-to-equalize-subarrays) |
 | [3766-minimum-operations-to-make-binary-palindrome](https://github.com/gauthamnholla/coding-practice/tree/master/3766-minimum-operations-to-make-binary-palindrome) |
 | [3771-total-score-of-dungeon-runs](https://github.com/gauthamnholla/coding-practice/tree/master/3771-total-score-of-dungeon-runs) |
 | [3790-fruits-into-baskets-ii](https://github.com/gauthamnholla/coding-practice/tree/master/3790-fruits-into-baskets-ii) |
