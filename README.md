@@ -1206,6 +1206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3748-count-stable-subarrays](https://github.com/gauthamnholla/coding-practice/tree/master/3748-count-stable-subarrays) |
 | [3752-lexicographically-smallest-negated-permutation-that-sums-to-target](https://github.com/gauthamnholla/coding-practice/tree/master/3752-lexicographically-smallest-negated-permutation-that-sums-to-target) |
 | [3755-find-maximum-balanced-xor-subarray-length](https://github.com/gauthamnholla/coding-practice/tree/master/3755-find-maximum-balanced-xor-subarray-length) |
+| [3757-number-of-effective-subsequences](https://github.com/gauthamnholla/coding-practice/tree/master/3757-number-of-effective-subsequences) |
 | [3759-count-elements-with-at-least-k-greater-values](https://github.com/gauthamnholla/coding-practice/tree/master/3759-count-elements-with-at-least-k-greater-values) |
 | [3766-minimum-operations-to-make-binary-palindrome](https://github.com/gauthamnholla/coding-practice/tree/master/3766-minimum-operations-to-make-binary-palindrome) |
 | [3767-maximize-points-after-choosing-k-tasks](https://github.com/gauthamnholla/coding-practice/tree/master/3767-maximize-points-after-choosing-k-tasks) |
@@ -3130,6 +3131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3747-count-distinct-integers-after-removing-zeros](https://github.com/gauthamnholla/coding-practice/tree/master/3747-count-distinct-integers-after-removing-zeros) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/gauthamnholla/coding-practice/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/gauthamnholla/coding-practice/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
+| [3757-number-of-effective-subsequences](https://github.com/gauthamnholla/coding-practice/tree/master/3757-number-of-effective-subsequences) |
 | [3772-maximum-subgraph-score-in-a-tree](https://github.com/gauthamnholla/coding-practice/tree/master/3772-maximum-subgraph-score-in-a-tree) |
 | [3797-count-routes-to-climb-a-rectangular-grid](https://github.com/gauthamnholla/coding-practice/tree/master/3797-count-routes-to-climb-a-rectangular-grid) |
 | [3801-minimum-cost-to-merge-sorted-lists](https://github.com/gauthamnholla/coding-practice/tree/master/3801-minimum-cost-to-merge-sorted-lists) |
@@ -3928,6 +3930,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/gauthamnholla/coding-practice/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/gauthamnholla/coding-practice/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/gauthamnholla/coding-practice/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
+| [3757-number-of-effective-subsequences](https://github.com/gauthamnholla/coding-practice/tree/master/3757-number-of-effective-subsequences) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/gauthamnholla/coding-practice/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3830-find-closest-person](https://github.com/gauthamnholla/coding-practice/tree/master/3830-find-closest-person) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/gauthamnholla/coding-practice/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
@@ -4819,6 +4822,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/gauthamnholla/coding-practice/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/gauthamnholla/coding-practice/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 | [3755-find-maximum-balanced-xor-subarray-length](https://github.com/gauthamnholla/coding-practice/tree/master/3755-find-maximum-balanced-xor-subarray-length) |
+| [3757-number-of-effective-subsequences](https://github.com/gauthamnholla/coding-practice/tree/master/3757-number-of-effective-subsequences) |
 | [3766-minimum-operations-to-make-binary-palindrome](https://github.com/gauthamnholla/coding-practice/tree/master/3766-minimum-operations-to-make-binary-palindrome) |
 | [3801-minimum-cost-to-merge-sorted-lists](https://github.com/gauthamnholla/coding-practice/tree/master/3801-minimum-cost-to-merge-sorted-lists) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/gauthamnholla/coding-practice/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
@@ -6207,6 +6211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3621-number-of-integers-with-popcount-depth-equal-to-k-i](https://github.com/gauthamnholla/coding-practice/tree/master/3621-number-of-integers-with-popcount-depth-equal-to-k-i) |
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/gauthamnholla/coding-practice/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
 | [3725-count-ways-to-choose-coprime-integers-from-rows](https://github.com/gauthamnholla/coding-practice/tree/master/3725-count-ways-to-choose-coprime-integers-from-rows) |
+| [3757-number-of-effective-subsequences](https://github.com/gauthamnholla/coding-practice/tree/master/3757-number-of-effective-subsequences) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/gauthamnholla/coding-practice/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/gauthamnholla/coding-practice/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Breadth-First Search
