@@ -3950,6 +3950,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/gauthamnholla/coding-practice/tree/master/3789-minimum-cost-to-acquire-required-items) |
 | [3790-smallest-all-ones-multiple](https://github.com/gauthamnholla/coding-practice/tree/master/3790-smallest-all-ones-multiple) |
 | [3805-count-caesar-cipher-pairs](https://github.com/gauthamnholla/coding-practice/tree/master/3805-count-caesar-cipher-pairs) |
+| [3821-find-nth-smallest-integer-with-k-one-bits](https://github.com/gauthamnholla/coding-practice/tree/master/3821-find-nth-smallest-integer-with-k-one-bits) |
 | [3830-find-closest-person](https://github.com/gauthamnholla/coding-practice/tree/master/3830-find-closest-person) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/gauthamnholla/coding-practice/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## String
@@ -4844,6 +4845,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3757-number-of-effective-subsequences](https://github.com/gauthamnholla/coding-practice/tree/master/3757-number-of-effective-subsequences) |
 | [3766-minimum-operations-to-make-binary-palindrome](https://github.com/gauthamnholla/coding-practice/tree/master/3766-minimum-operations-to-make-binary-palindrome) |
 | [3801-minimum-cost-to-merge-sorted-lists](https://github.com/gauthamnholla/coding-practice/tree/master/3801-minimum-cost-to-merge-sorted-lists) |
+| [3821-find-nth-smallest-integer-with-k-one-bits](https://github.com/gauthamnholla/coding-practice/tree/master/3821-find-nth-smallest-integer-with-k-one-bits) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/gauthamnholla/coding-practice/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Tree
 |  |
@@ -6238,6 +6240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3725-count-ways-to-choose-coprime-integers-from-rows](https://github.com/gauthamnholla/coding-practice/tree/master/3725-count-ways-to-choose-coprime-integers-from-rows) |
 | [3757-number-of-effective-subsequences](https://github.com/gauthamnholla/coding-practice/tree/master/3757-number-of-effective-subsequences) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/gauthamnholla/coding-practice/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
+| [3821-find-nth-smallest-integer-with-k-one-bits](https://github.com/gauthamnholla/coding-practice/tree/master/3821-find-nth-smallest-integer-with-k-one-bits) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/gauthamnholla/coding-practice/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Breadth-First Search
 |  |
