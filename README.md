@@ -3941,6 +3941,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3765-complete-prime-number](https://github.com/gauthamnholla/coding-practice/tree/master/3765-complete-prime-number) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/gauthamnholla/coding-practice/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3770-largest-prime-from-consecutive-prime-sum](https://github.com/gauthamnholla/coding-practice/tree/master/3770-largest-prime-from-consecutive-prime-sum) |
+| [3782-last-remaining-integer-after-alternating-deletion-operations](https://github.com/gauthamnholla/coding-practice/tree/master/3782-last-remaining-integer-after-alternating-deletion-operations) |
 | [3830-find-closest-person](https://github.com/gauthamnholla/coding-practice/tree/master/3830-find-closest-person) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/gauthamnholla/coding-practice/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## String
@@ -5555,6 +5556,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2550-count-collisions-of-monkeys-on-a-polygon](https://github.com/gauthamnholla/coding-practice/tree/master/2550-count-collisions-of-monkeys-on-a-polygon) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/gauthamnholla/coding-practice/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/gauthamnholla/coding-practice/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
+| [3782-last-remaining-integer-after-alternating-deletion-operations](https://github.com/gauthamnholla/coding-practice/tree/master/3782-last-remaining-integer-after-alternating-deletion-operations) |
 ## Ordered Set
 |  |
 | ------- |
