@@ -1228,6 +1228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3797-count-routes-to-climb-a-rectangular-grid](https://github.com/gauthamnholla/coding-practice/tree/master/3797-count-routes-to-climb-a-rectangular-grid) |
 | [3801-minimum-cost-to-merge-sorted-lists](https://github.com/gauthamnholla/coding-practice/tree/master/3801-minimum-cost-to-merge-sorted-lists) |
 | [3805-count-caesar-cipher-pairs](https://github.com/gauthamnholla/coding-practice/tree/master/3805-count-caesar-cipher-pairs) |
+| [3828-final-element-after-subarray-deletions](https://github.com/gauthamnholla/coding-practice/tree/master/3828-final-element-after-subarray-deletions) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/gauthamnholla/coding-practice/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/gauthamnholla/coding-practice/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 | [3863-power-grid-maintenance](https://github.com/gauthamnholla/coding-practice/tree/master/3863-power-grid-maintenance) |
@@ -3951,6 +3952,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3790-smallest-all-ones-multiple](https://github.com/gauthamnholla/coding-practice/tree/master/3790-smallest-all-ones-multiple) |
 | [3805-count-caesar-cipher-pairs](https://github.com/gauthamnholla/coding-practice/tree/master/3805-count-caesar-cipher-pairs) |
 | [3821-find-nth-smallest-integer-with-k-one-bits](https://github.com/gauthamnholla/coding-practice/tree/master/3821-find-nth-smallest-integer-with-k-one-bits) |
+| [3828-final-element-after-subarray-deletions](https://github.com/gauthamnholla/coding-practice/tree/master/3828-final-element-after-subarray-deletions) |
 | [3830-find-closest-person](https://github.com/gauthamnholla/coding-practice/tree/master/3830-find-closest-person) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/gauthamnholla/coding-practice/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## String
@@ -5528,6 +5530,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/gauthamnholla/coding-practice/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [3462-vowels-game-in-a-string](https://github.com/gauthamnholla/coding-practice/tree/master/3462-vowels-game-in-a-string) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/gauthamnholla/coding-practice/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
+| [3828-final-element-after-subarray-deletions](https://github.com/gauthamnholla/coding-practice/tree/master/3828-final-element-after-subarray-deletions) |
 ## Recursion
 |  |
 | ------- |
@@ -6113,6 +6116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3283-maximum-number-of-moves-to-kill-all-pawns](https://github.com/gauthamnholla/coding-practice/tree/master/3283-maximum-number-of-moves-to-kill-all-pawns) |
 | [3462-vowels-game-in-a-string](https://github.com/gauthamnholla/coding-practice/tree/master/3462-vowels-game-in-a-string) |
 | [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/gauthamnholla/coding-practice/tree/master/3627-maximum-median-sum-of-subsequences-of-size-3) |
+| [3828-final-element-after-subarray-deletions](https://github.com/gauthamnholla/coding-practice/tree/master/3828-final-element-after-subarray-deletions) |
 ## Number Theory
 |  |
 | ------- |
