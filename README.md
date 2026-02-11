@@ -3942,6 +3942,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/gauthamnholla/coding-practice/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3770-largest-prime-from-consecutive-prime-sum](https://github.com/gauthamnholla/coding-practice/tree/master/3770-largest-prime-from-consecutive-prime-sum) |
 | [3782-last-remaining-integer-after-alternating-deletion-operations](https://github.com/gauthamnholla/coding-practice/tree/master/3782-last-remaining-integer-after-alternating-deletion-operations) |
+| [3783-mirror-distance-of-an-integer](https://github.com/gauthamnholla/coding-practice/tree/master/3783-mirror-distance-of-an-integer) |
 | [3830-find-closest-person](https://github.com/gauthamnholla/coding-practice/tree/master/3830-find-closest-person) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/gauthamnholla/coding-practice/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## String
