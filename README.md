@@ -229,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/gauthamnholla/coding-practice/tree/master/0695-max-area-of-island) |
 | [0697-degree-of-an-array](https://github.com/gauthamnholla/coding-practice/tree/master/0697-degree-of-an-array) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/gauthamnholla/coding-practice/tree/master/0698-partition-to-k-equal-sum-subsets) |
+| [0699-falling-squares](https://github.com/gauthamnholla/coding-practice/tree/master/0699-falling-squares) |
 | [0713-subarray-product-less-than-k](https://github.com/gauthamnholla/coding-practice/tree/master/0713-subarray-product-less-than-k) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/gauthamnholla/coding-practice/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/gauthamnholla/coding-practice/tree/master/0719-find-k-th-smallest-pair-distance) |
@@ -5033,6 +5034,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0315-count-of-smaller-numbers-after-self](https://github.com/gauthamnholla/coding-practice/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0327-count-of-range-sum](https://github.com/gauthamnholla/coding-practice/tree/master/0327-count-of-range-sum) |
 | [0406-queue-reconstruction-by-height](https://github.com/gauthamnholla/coding-practice/tree/master/0406-queue-reconstruction-by-height) |
+| [0699-falling-squares](https://github.com/gauthamnholla/coding-practice/tree/master/0699-falling-squares) |
 | [0732-my-calendar-iii](https://github.com/gauthamnholla/coding-practice/tree/master/0732-my-calendar-iii) |
 | [0850-rectangle-area-ii](https://github.com/gauthamnholla/coding-practice/tree/master/0850-rectangle-area-ii) |
 | [1157-online-majority-element-in-subarray](https://github.com/gauthamnholla/coding-practice/tree/master/1157-online-majority-element-in-subarray) |
@@ -5586,6 +5588,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/gauthamnholla/coding-practice/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [0456-132-pattern](https://github.com/gauthamnholla/coding-practice/tree/master/0456-132-pattern) |
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/gauthamnholla/coding-practice/tree/master/0497-random-point-in-non-overlapping-rectangles) |
+| [0699-falling-squares](https://github.com/gauthamnholla/coding-practice/tree/master/0699-falling-squares) |
 | [0732-my-calendar-iii](https://github.com/gauthamnholla/coding-practice/tree/master/0732-my-calendar-iii) |
 | [0850-rectangle-area-ii](https://github.com/gauthamnholla/coding-practice/tree/master/0850-rectangle-area-ii) |
 | [0855-exam-room](https://github.com/gauthamnholla/coding-practice/tree/master/0855-exam-room) |
