@@ -499,6 +499,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1363-largest-multiple-of-three](https://github.com/gauthamnholla/coding-practice/tree/master/1363-largest-multiple-of-three) |
 | [1366-rank-teams-by-votes](https://github.com/gauthamnholla/coding-practice/tree/master/1366-rank-teams-by-votes) |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/gauthamnholla/coding-practice/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [1375-number-of-times-binary-string-is-prefix-aligned](https://github.com/gauthamnholla/coding-practice/tree/master/1375-number-of-times-binary-string-is-prefix-aligned) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/gauthamnholla/coding-practice/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1383-maximum-performance-of-a-team](https://github.com/gauthamnholla/coding-practice/tree/master/1383-maximum-performance-of-a-team) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/gauthamnholla/coding-practice/tree/master/1385-find-the-distance-value-between-two-arrays) |
