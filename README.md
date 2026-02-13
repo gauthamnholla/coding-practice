@@ -240,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/gauthamnholla/coding-practice/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/gauthamnholla/coding-practice/tree/master/0733-flood-fill) |
 | [0739-daily-temperatures](https://github.com/gauthamnholla/coding-practice/tree/master/0739-daily-temperatures) |
+| [0740-delete-and-earn](https://github.com/gauthamnholla/coding-practice/tree/master/0740-delete-and-earn) |
 | [0741-cherry-pickup](https://github.com/gauthamnholla/coding-practice/tree/master/0741-cherry-pickup) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/gauthamnholla/coding-practice/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/gauthamnholla/coding-practice/tree/master/0745-find-smallest-letter-greater-than-target) |
@@ -2324,6 +2325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/gauthamnholla/coding-practice/tree/master/0721-accounts-merge) |
 | [0726-number-of-atoms](https://github.com/gauthamnholla/coding-practice/tree/master/0726-number-of-atoms) |
 | [0736-parse-lisp-expression](https://github.com/gauthamnholla/coding-practice/tree/master/0736-parse-lisp-expression) |
+| [0740-delete-and-earn](https://github.com/gauthamnholla/coding-practice/tree/master/0740-delete-and-earn) |
 | [0749-shortest-completing-word](https://github.com/gauthamnholla/coding-practice/tree/master/0749-shortest-completing-word) |
 | [0756-pyramid-transition-matrix](https://github.com/gauthamnholla/coding-practice/tree/master/0756-pyramid-transition-matrix) |
 | [0767-reorganize-string](https://github.com/gauthamnholla/coding-practice/tree/master/0767-reorganize-string) |
@@ -2887,6 +2889,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/gauthamnholla/coding-practice/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/gauthamnholla/coding-practice/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0730-count-different-palindromic-subsequences](https://github.com/gauthamnholla/coding-practice/tree/master/0730-count-different-palindromic-subsequences) |
+| [0740-delete-and-earn](https://github.com/gauthamnholla/coding-practice/tree/master/0740-delete-and-earn) |
 | [0741-cherry-pickup](https://github.com/gauthamnholla/coding-practice/tree/master/0741-cherry-pickup) |
 | [0747-min-cost-climbing-stairs](https://github.com/gauthamnholla/coding-practice/tree/master/0747-min-cost-climbing-stairs) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/gauthamnholla/coding-practice/tree/master/0787-cheapest-flights-within-k-stops) |
