@@ -249,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0749-shortest-completing-word](https://github.com/gauthamnholla/coding-practice/tree/master/0749-shortest-completing-word) |
 | [0749-contain-virus](https://github.com/gauthamnholla/coding-practice/tree/master/0749-contain-virus) |
 | [0759-set-intersection-size-at-least-two](https://github.com/gauthamnholla/coding-practice/tree/master/0759-set-intersection-size-at-least-two) |
+| [0764-largest-plus-sign](https://github.com/gauthamnholla/coding-practice/tree/master/0764-largest-plus-sign) |
 | [0768-max-chunks-to-make-sorted-ii](https://github.com/gauthamnholla/coding-practice/tree/master/0768-max-chunks-to-make-sorted-ii) |
 | [0775-global-and-local-inversions](https://github.com/gauthamnholla/coding-practice/tree/master/0775-global-and-local-inversions) |
 | [0777-toeplitz-matrix](https://github.com/gauthamnholla/coding-practice/tree/master/0777-toeplitz-matrix) |
@@ -2892,6 +2893,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0740-delete-and-earn](https://github.com/gauthamnholla/coding-practice/tree/master/0740-delete-and-earn) |
 | [0741-cherry-pickup](https://github.com/gauthamnholla/coding-practice/tree/master/0741-cherry-pickup) |
 | [0747-min-cost-climbing-stairs](https://github.com/gauthamnholla/coding-practice/tree/master/0747-min-cost-climbing-stairs) |
+| [0764-largest-plus-sign](https://github.com/gauthamnholla/coding-practice/tree/master/0764-largest-plus-sign) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/gauthamnholla/coding-practice/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0788-rotated-digits](https://github.com/gauthamnholla/coding-practice/tree/master/0788-rotated-digits) |
 | [0792-number-of-matching-subsequences](https://github.com/gauthamnholla/coding-practice/tree/master/0792-number-of-matching-subsequences) |
