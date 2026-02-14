@@ -547,6 +547,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/gauthamnholla/coding-practice/tree/master/1512-number-of-good-pairs) |
 | [1514-path-with-maximum-probability](https://github.com/gauthamnholla/coding-practice/tree/master/1514-path-with-maximum-probability) |
 | [1515-best-position-for-a-service-centre](https://github.com/gauthamnholla/coding-practice/tree/master/1515-best-position-for-a-service-centre) |
+| [1521-find-a-value-of-a-mysterious-function-closest-to-target](https://github.com/gauthamnholla/coding-practice/tree/master/1521-find-a-value-of-a-mysterious-function-closest-to-target) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/gauthamnholla/coding-practice/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1528-shuffle-string](https://github.com/gauthamnholla/coding-practice/tree/master/1528-shuffle-string) |
 | [1535-find-the-winner-of-an-array-game](https://github.com/gauthamnholla/coding-practice/tree/master/1535-find-the-winner-of-an-array-game) |
@@ -4806,6 +4807,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/gauthamnholla/coding-practice/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1457-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/gauthamnholla/coding-practice/tree/master/1457-pseudo-palindromic-paths-in-a-binary-tree) |
 | [1486-xor-operation-in-an-array](https://github.com/gauthamnholla/coding-practice/tree/master/1486-xor-operation-in-an-array) |
+| [1521-find-a-value-of-a-mysterious-function-closest-to-target](https://github.com/gauthamnholla/coding-practice/tree/master/1521-find-a-value-of-a-mysterious-function-closest-to-target) |
 | [1655-distribute-repeating-integers](https://github.com/gauthamnholla/coding-practice/tree/master/1655-distribute-repeating-integers) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/gauthamnholla/coding-practice/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1681-minimum-incompatibility](https://github.com/gauthamnholla/coding-practice/tree/master/1681-minimum-incompatibility) |
@@ -5066,6 +5068,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0850-rectangle-area-ii](https://github.com/gauthamnholla/coding-practice/tree/master/0850-rectangle-area-ii) |
 | [1157-online-majority-element-in-subarray](https://github.com/gauthamnholla/coding-practice/tree/master/1157-online-majority-element-in-subarray) |
 | [1395-count-number-of-teams](https://github.com/gauthamnholla/coding-practice/tree/master/1395-count-number-of-teams) |
+| [1521-find-a-value-of-a-mysterious-function-closest-to-target](https://github.com/gauthamnholla/coding-practice/tree/master/1521-find-a-value-of-a-mysterious-function-closest-to-target) |
 | [1622-fancy-sequence](https://github.com/gauthamnholla/coding-practice/tree/master/1622-fancy-sequence) |
 | [1649-create-sorted-array-through-instructions](https://github.com/gauthamnholla/coding-practice/tree/master/1649-create-sorted-array-through-instructions) |
 | [1687-delivering-boxes-from-storage-to-ports](https://github.com/gauthamnholla/coding-practice/tree/master/1687-delivering-boxes-from-storage-to-ports) |
@@ -5427,6 +5430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/gauthamnholla/coding-practice/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1439-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows](https://github.com/gauthamnholla/coding-practice/tree/master/1439-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/gauthamnholla/coding-practice/tree/master/1508-range-sum-of-sorted-subarray-sums) |
+| [1521-find-a-value-of-a-mysterious-function-closest-to-target](https://github.com/gauthamnholla/coding-practice/tree/master/1521-find-a-value-of-a-mysterious-function-closest-to-target) |
 | [1539-kth-missing-positive-number](https://github.com/gauthamnholla/coding-practice/tree/master/1539-kth-missing-positive-number) |
 | [1552-magnetic-force-between-two-balls](https://github.com/gauthamnholla/coding-practice/tree/master/1552-magnetic-force-between-two-balls) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/gauthamnholla/coding-practice/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
