@@ -2407,6 +2407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/gauthamnholla/coding-practice/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1124-longest-well-performing-interval](https://github.com/gauthamnholla/coding-practice/tree/master/1124-longest-well-performing-interval) |
 | [1128-number-of-equivalent-domino-pairs](https://github.com/gauthamnholla/coding-practice/tree/master/1128-number-of-equivalent-domino-pairs) |
+| [1138-alphabet-board-path](https://github.com/gauthamnholla/coding-practice/tree/master/1138-alphabet-board-path) |
 | [1146-snapshot-array](https://github.com/gauthamnholla/coding-practice/tree/master/1146-snapshot-array) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/gauthamnholla/coding-practice/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1169-invalid-transactions](https://github.com/gauthamnholla/coding-practice/tree/master/1169-invalid-transactions) |
@@ -4178,6 +4179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1096-brace-expansion-ii](https://github.com/gauthamnholla/coding-practice/tree/master/1096-brace-expansion-ii) |
 | [1106-parsing-a-boolean-expression](https://github.com/gauthamnholla/coding-practice/tree/master/1106-parsing-a-boolean-expression) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/gauthamnholla/coding-practice/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
+| [1138-alphabet-board-path](https://github.com/gauthamnholla/coding-practice/tree/master/1138-alphabet-board-path) |
 | [1147-longest-chunked-palindrome-decomposition](https://github.com/gauthamnholla/coding-practice/tree/master/1147-longest-chunked-palindrome-decomposition) |
 | [1154-day-of-the-year](https://github.com/gauthamnholla/coding-practice/tree/master/1154-day-of-the-year) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/gauthamnholla/coding-practice/tree/master/1160-find-words-that-can-be-formed-by-characters) |
