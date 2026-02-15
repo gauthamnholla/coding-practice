@@ -2399,6 +2399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1048-longest-string-chain](https://github.com/gauthamnholla/coding-practice/tree/master/1048-longest-string-chain) |
 | [1054-distant-barcodes](https://github.com/gauthamnholla/coding-practice/tree/master/1054-distant-barcodes) |
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/gauthamnholla/coding-practice/tree/master/1074-number-of-submatrices-that-sum-to-target) |
+| [1079-letter-tile-possibilities](https://github.com/gauthamnholla/coding-practice/tree/master/1079-letter-tile-possibilities) |
 | [1090-largest-values-from-labels](https://github.com/gauthamnholla/coding-practice/tree/master/1090-largest-values-from-labels) |
 | [1096-brace-expansion-ii](https://github.com/gauthamnholla/coding-practice/tree/master/1096-brace-expansion-ii) |
 | [1110-delete-nodes-and-return-forest](https://github.com/gauthamnholla/coding-practice/tree/master/1110-delete-nodes-and-return-forest) |
@@ -4172,6 +4173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1048-longest-string-chain](https://github.com/gauthamnholla/coding-practice/tree/master/1048-longest-string-chain) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/gauthamnholla/coding-practice/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1078-occurrences-after-bigram](https://github.com/gauthamnholla/coding-practice/tree/master/1078-occurrences-after-bigram) |
+| [1079-letter-tile-possibilities](https://github.com/gauthamnholla/coding-practice/tree/master/1079-letter-tile-possibilities) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/gauthamnholla/coding-practice/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1096-brace-expansion-ii](https://github.com/gauthamnholla/coding-practice/tree/master/1096-brace-expansion-ii) |
 | [1147-longest-chunked-palindrome-decomposition](https://github.com/gauthamnholla/coding-practice/tree/master/1147-longest-chunked-palindrome-decomposition) |
@@ -5328,6 +5330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0980-unique-paths-iii](https://github.com/gauthamnholla/coding-practice/tree/master/0980-unique-paths-iii) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/gauthamnholla/coding-practice/tree/master/0988-smallest-string-starting-from-leaf) |
 | [0996-number-of-squareful-arrays](https://github.com/gauthamnholla/coding-practice/tree/master/0996-number-of-squareful-arrays) |
+| [1079-letter-tile-possibilities](https://github.com/gauthamnholla/coding-practice/tree/master/1079-letter-tile-possibilities) |
 | [1096-brace-expansion-ii](https://github.com/gauthamnholla/coding-practice/tree/master/1096-brace-expansion-ii) |
 | [1219-path-with-maximum-gold](https://github.com/gauthamnholla/coding-practice/tree/master/1219-path-with-maximum-gold) |
 | [1238-circular-permutation-in-binary-representation](https://github.com/gauthamnholla/coding-practice/tree/master/1238-circular-permutation-in-binary-representation) |
@@ -5944,6 +5947,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0992-subarrays-with-k-different-integers](https://github.com/gauthamnholla/coding-practice/tree/master/0992-subarrays-with-k-different-integers) |
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/gauthamnholla/coding-practice/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1054-distant-barcodes](https://github.com/gauthamnholla/coding-practice/tree/master/1054-distant-barcodes) |
+| [1079-letter-tile-possibilities](https://github.com/gauthamnholla/coding-practice/tree/master/1079-letter-tile-possibilities) |
 | [1090-largest-values-from-labels](https://github.com/gauthamnholla/coding-practice/tree/master/1090-largest-values-from-labels) |
 | [1128-number-of-equivalent-domino-pairs](https://github.com/gauthamnholla/coding-practice/tree/master/1128-number-of-equivalent-domino-pairs) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/gauthamnholla/coding-practice/tree/master/1160-find-words-that-can-be-formed-by-characters) |
