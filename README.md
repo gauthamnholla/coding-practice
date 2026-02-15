@@ -4177,6 +4177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/gauthamnholla/coding-practice/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1096-brace-expansion-ii](https://github.com/gauthamnholla/coding-practice/tree/master/1096-brace-expansion-ii) |
 | [1106-parsing-a-boolean-expression](https://github.com/gauthamnholla/coding-practice/tree/master/1106-parsing-a-boolean-expression) |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/gauthamnholla/coding-practice/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1147-longest-chunked-palindrome-decomposition](https://github.com/gauthamnholla/coding-practice/tree/master/1147-longest-chunked-palindrome-decomposition) |
 | [1154-day-of-the-year](https://github.com/gauthamnholla/coding-practice/tree/master/1154-day-of-the-year) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/gauthamnholla/coding-practice/tree/master/1160-find-words-that-can-be-formed-by-characters) |
@@ -4706,6 +4707,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/gauthamnholla/coding-practice/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1096-brace-expansion-ii](https://github.com/gauthamnholla/coding-practice/tree/master/1096-brace-expansion-ii) |
 | [1106-parsing-a-boolean-expression](https://github.com/gauthamnholla/coding-practice/tree/master/1106-parsing-a-boolean-expression) |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/gauthamnholla/coding-practice/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1124-longest-well-performing-interval](https://github.com/gauthamnholla/coding-practice/tree/master/1124-longest-well-performing-interval) |
 | [1130-minimum-cost-tree-from-leaf-values](https://github.com/gauthamnholla/coding-practice/tree/master/1130-minimum-cost-tree-from-leaf-values) |
 | [1172-dinner-plate-stacks](https://github.com/gauthamnholla/coding-practice/tree/master/1172-dinner-plate-stacks) |
