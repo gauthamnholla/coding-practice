@@ -303,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0873-length-of-longest-fibonacci-subsequence](https://github.com/gauthamnholla/coding-practice/tree/master/0873-length-of-longest-fibonacci-subsequence) |
 | [0874-walking-robot-simulation](https://github.com/gauthamnholla/coding-practice/tree/master/0874-walking-robot-simulation) |
 | [0875-koko-eating-bananas](https://github.com/gauthamnholla/coding-practice/tree/master/0875-koko-eating-bananas) |
+| [0879-profitable-schemes](https://github.com/gauthamnholla/coding-practice/tree/master/0879-profitable-schemes) |
 | [0881-boats-to-save-people](https://github.com/gauthamnholla/coding-practice/tree/master/0881-boats-to-save-people) |
 | [0885-spiral-matrix-iii](https://github.com/gauthamnholla/coding-practice/tree/master/0885-spiral-matrix-iii) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/gauthamnholla/coding-practice/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -2933,6 +2934,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-new-21-game](https://github.com/gauthamnholla/coding-practice/tree/master/0867-new-21-game) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/gauthamnholla/coding-practice/tree/master/0871-minimum-number-of-refueling-stops) |
 | [0873-length-of-longest-fibonacci-subsequence](https://github.com/gauthamnholla/coding-practice/tree/master/0873-length-of-longest-fibonacci-subsequence) |
+| [0879-profitable-schemes](https://github.com/gauthamnholla/coding-practice/tree/master/0879-profitable-schemes) |
 | [0887-super-egg-drop](https://github.com/gauthamnholla/coding-practice/tree/master/0887-super-egg-drop) |
 | [0902-numbers-at-most-n-given-digit-set](https://github.com/gauthamnholla/coding-practice/tree/master/0902-numbers-at-most-n-given-digit-set) |
 | [0903-valid-permutations-for-di-sequence](https://github.com/gauthamnholla/coding-practice/tree/master/0903-valid-permutations-for-di-sequence) |
