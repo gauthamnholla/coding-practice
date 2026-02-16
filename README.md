@@ -421,6 +421,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1093-statistics-from-a-large-sample](https://github.com/gauthamnholla/coding-practice/tree/master/1093-statistics-from-a-large-sample) |
 | [1094-matrix-cells-in-distance-order](https://github.com/gauthamnholla/coding-practice/tree/master/1094-matrix-cells-in-distance-order) |
 | [1094-car-pooling](https://github.com/gauthamnholla/coding-practice/tree/master/1094-car-pooling) |
+| [1095-find-in-mountain-array](https://github.com/gauthamnholla/coding-practice/tree/master/1095-find-in-mountain-array) |
 | [1109-corporate-flight-bookings](https://github.com/gauthamnholla/coding-practice/tree/master/1109-corporate-flight-bookings) |
 | [1110-delete-nodes-and-return-forest](https://github.com/gauthamnholla/coding-practice/tree/master/1110-delete-nodes-and-return-forest) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/gauthamnholla/coding-practice/tree/master/1111-minimum-score-triangulation-of-polygon) |
@@ -5442,6 +5443,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/gauthamnholla/coding-practice/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/gauthamnholla/coding-practice/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1027-longest-arithmetic-subsequence](https://github.com/gauthamnholla/coding-practice/tree/master/1027-longest-arithmetic-subsequence) |
+| [1095-find-in-mountain-array](https://github.com/gauthamnholla/coding-practice/tree/master/1095-find-in-mountain-array) |
 | [1146-snapshot-array](https://github.com/gauthamnholla/coding-practice/tree/master/1146-snapshot-array) |
 | [1157-online-majority-element-in-subarray](https://github.com/gauthamnholla/coding-practice/tree/master/1157-online-majority-element-in-subarray) |
 | [1170-compare-strings-by-frequency-of-the-smallest-character](https://github.com/gauthamnholla/coding-practice/tree/master/1170-compare-strings-by-frequency-of-the-smallest-character) |
@@ -7081,6 +7083,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0278-first-bad-version](https://github.com/gauthamnholla/coding-practice/tree/master/0278-first-bad-version) |
 | [0843-guess-the-word](https://github.com/gauthamnholla/coding-practice/tree/master/0843-guess-the-word) |
+| [1095-find-in-mountain-array](https://github.com/gauthamnholla/coding-practice/tree/master/1095-find-in-mountain-array) |
 | [1237-find-positive-integer-solution-for-a-given-equation](https://github.com/gauthamnholla/coding-practice/tree/master/1237-find-positive-integer-solution-for-a-given-equation) |
 ## Union-Find
 |  |
