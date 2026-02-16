@@ -422,6 +422,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1094-matrix-cells-in-distance-order](https://github.com/gauthamnholla/coding-practice/tree/master/1094-matrix-cells-in-distance-order) |
 | [1094-car-pooling](https://github.com/gauthamnholla/coding-practice/tree/master/1094-car-pooling) |
 | [1095-find-in-mountain-array](https://github.com/gauthamnholla/coding-practice/tree/master/1095-find-in-mountain-array) |
+| [1105-filling-bookcase-shelves](https://github.com/gauthamnholla/coding-practice/tree/master/1105-filling-bookcase-shelves) |
 | [1109-corporate-flight-bookings](https://github.com/gauthamnholla/coding-practice/tree/master/1109-corporate-flight-bookings) |
 | [1110-delete-nodes-and-return-forest](https://github.com/gauthamnholla/coding-practice/tree/master/1110-delete-nodes-and-return-forest) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/gauthamnholla/coding-practice/tree/master/1111-minimum-score-triangulation-of-polygon) |
@@ -2959,6 +2960,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1043-partition-array-for-maximum-sum](https://github.com/gauthamnholla/coding-practice/tree/master/1043-partition-array-for-maximum-sum) |
 | [1048-longest-string-chain](https://github.com/gauthamnholla/coding-practice/tree/master/1048-longest-string-chain) |
 | [1049-last-stone-weight-ii](https://github.com/gauthamnholla/coding-practice/tree/master/1049-last-stone-weight-ii) |
+| [1105-filling-bookcase-shelves](https://github.com/gauthamnholla/coding-practice/tree/master/1105-filling-bookcase-shelves) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/gauthamnholla/coding-practice/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1125-smallest-sufficient-team](https://github.com/gauthamnholla/coding-practice/tree/master/1125-smallest-sufficient-team) |
 | [1130-minimum-cost-tree-from-leaf-values](https://github.com/gauthamnholla/coding-practice/tree/master/1130-minimum-cost-tree-from-leaf-values) |
