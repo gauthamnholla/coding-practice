@@ -302,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0871-minimum-number-of-refueling-stops](https://github.com/gauthamnholla/coding-practice/tree/master/0871-minimum-number-of-refueling-stops) |
 | [0873-length-of-longest-fibonacci-subsequence](https://github.com/gauthamnholla/coding-practice/tree/master/0873-length-of-longest-fibonacci-subsequence) |
 | [0874-walking-robot-simulation](https://github.com/gauthamnholla/coding-practice/tree/master/0874-walking-robot-simulation) |
+| [0875-koko-eating-bananas](https://github.com/gauthamnholla/coding-practice/tree/master/0875-koko-eating-bananas) |
 | [0881-boats-to-save-people](https://github.com/gauthamnholla/coding-practice/tree/master/0881-boats-to-save-people) |
 | [0885-spiral-matrix-iii](https://github.com/gauthamnholla/coding-practice/tree/master/0885-spiral-matrix-iii) |
 | [0890-lemonade-change](https://github.com/gauthamnholla/coding-practice/tree/master/0890-lemonade-change) |
@@ -5421,6 +5422,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0794-swim-in-rising-water](https://github.com/gauthamnholla/coding-practice/tree/master/0794-swim-in-rising-water) |
 | [0825-friends-of-appropriate-ages](https://github.com/gauthamnholla/coding-practice/tree/master/0825-friends-of-appropriate-ages) |
 | [0826-most-profit-assigning-work](https://github.com/gauthamnholla/coding-practice/tree/master/0826-most-profit-assigning-work) |
+| [0875-koko-eating-bananas](https://github.com/gauthamnholla/coding-practice/tree/master/0875-koko-eating-bananas) |
 | [0878-nth-magical-number](https://github.com/gauthamnholla/coding-practice/tree/master/0878-nth-magical-number) |
 | [0887-super-egg-drop](https://github.com/gauthamnholla/coding-practice/tree/master/0887-super-egg-drop) |
 | [0894-random-pick-with-blacklist](https://github.com/gauthamnholla/coding-practice/tree/master/0894-random-pick-with-blacklist) |
