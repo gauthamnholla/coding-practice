@@ -536,6 +536,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1444-number-of-ways-of-cutting-a-pizza](https://github.com/gauthamnholla/coding-practice/tree/master/1444-number-of-ways-of-cutting-a-pizza) |
 | [1449-form-largest-integer-with-digits-that-add-up-to-target](https://github.com/gauthamnholla/coding-practice/tree/master/1449-form-largest-integer-with-digits-that-add-up-to-target) |
 | [1450-number-of-students-doing-homework-at-a-given-time](https://github.com/gauthamnholla/coding-practice/tree/master/1450-number-of-students-doing-homework-at-a-given-time) |
+| [1452-people-whose-list-of-favorite-companies-is-not-a-subset-of-another-list](https://github.com/gauthamnholla/coding-practice/tree/master/1452-people-whose-list-of-favorite-companies-is-not-a-subset-of-another-list) |
 | [1453-maximum-number-of-darts-inside-of-a-circular-dartboard](https://github.com/gauthamnholla/coding-practice/tree/master/1453-maximum-number-of-darts-inside-of-a-circular-dartboard) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/gauthamnholla/coding-practice/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/gauthamnholla/coding-practice/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
@@ -2454,6 +2455,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1436-get-watched-videos-by-your-friends](https://github.com/gauthamnholla/coding-practice/tree/master/1436-get-watched-videos-by-your-friends) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/gauthamnholla/coding-practice/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/gauthamnholla/coding-practice/tree/master/1443-minimum-time-to-collect-all-apples-in-a-tree) |
+| [1452-people-whose-list-of-favorite-companies-is-not-a-subset-of-another-list](https://github.com/gauthamnholla/coding-practice/tree/master/1452-people-whose-list-of-favorite-companies-is-not-a-subset-of-another-list) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/gauthamnholla/coding-practice/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/gauthamnholla/coding-practice/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/gauthamnholla/coding-practice/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -4233,6 +4235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1433-check-if-a-string-can-break-another-string](https://github.com/gauthamnholla/coding-practice/tree/master/1433-check-if-a-string-can-break-another-string) |
 | [1447-simplified-fractions](https://github.com/gauthamnholla/coding-practice/tree/master/1447-simplified-fractions) |
 | [1451-rearrange-words-in-a-sentence](https://github.com/gauthamnholla/coding-practice/tree/master/1451-rearrange-words-in-a-sentence) |
+| [1452-people-whose-list-of-favorite-companies-is-not-a-subset-of-another-list](https://github.com/gauthamnholla/coding-practice/tree/master/1452-people-whose-list-of-favorite-companies-is-not-a-subset-of-another-list) |
 | [1487-making-file-names-unique](https://github.com/gauthamnholla/coding-practice/tree/master/1487-making-file-names-unique) |
 | [1508-longest-happy-prefix](https://github.com/gauthamnholla/coding-practice/tree/master/1508-longest-happy-prefix) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/gauthamnholla/coding-practice/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
