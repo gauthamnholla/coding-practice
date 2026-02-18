@@ -4820,6 +4820,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/gauthamnholla/coding-practice/tree/master/0645-set-mismatch) |
 | [0672-bulb-switcher-ii](https://github.com/gauthamnholla/coding-practice/tree/master/0672-bulb-switcher-ii) |
 | [0691-stickers-to-spell-word](https://github.com/gauthamnholla/coding-practice/tree/master/0691-stickers-to-spell-word) |
+| [0693-binary-number-with-alternating-bits](https://github.com/gauthamnholla/coding-practice/tree/master/0693-binary-number-with-alternating-bits) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/gauthamnholla/coding-practice/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0756-pyramid-transition-matrix](https://github.com/gauthamnholla/coding-practice/tree/master/0756-pyramid-transition-matrix) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/gauthamnholla/coding-practice/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
