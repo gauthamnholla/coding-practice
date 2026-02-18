@@ -491,6 +491,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1306-jump-game-iii](https://github.com/gauthamnholla/coding-practice/tree/master/1306-jump-game-iii) |
 | [1307-verbal-arithmetic-puzzle](https://github.com/gauthamnholla/coding-practice/tree/master/1307-verbal-arithmetic-puzzle) |
 | [1310-xor-queries-of-a-subarray](https://github.com/gauthamnholla/coding-practice/tree/master/1310-xor-queries-of-a-subarray) |
+| [1313-decompress-run-length-encoded-list](https://github.com/gauthamnholla/coding-practice/tree/master/1313-decompress-run-length-encoded-list) |
 | [1314-matrix-block-sum](https://github.com/gauthamnholla/coding-practice/tree/master/1314-matrix-block-sum) |
 | [1324-print-words-vertically](https://github.com/gauthamnholla/coding-practice/tree/master/1324-print-words-vertically) |
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/gauthamnholla/coding-practice/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
