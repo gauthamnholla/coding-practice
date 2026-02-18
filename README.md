@@ -516,6 +516,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/gauthamnholla/coding-practice/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1375-number-of-times-binary-string-is-prefix-aligned](https://github.com/gauthamnholla/coding-practice/tree/master/1375-number-of-times-binary-string-is-prefix-aligned) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/gauthamnholla/coding-practice/tree/master/1380-lucky-numbers-in-a-matrix) |
+| [1381-design-a-stack-with-increment-operation](https://github.com/gauthamnholla/coding-practice/tree/master/1381-design-a-stack-with-increment-operation) |
 | [1383-maximum-performance-of-a-team](https://github.com/gauthamnholla/coding-practice/tree/master/1383-maximum-performance-of-a-team) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/gauthamnholla/coding-practice/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1386-cinema-seat-allocation](https://github.com/gauthamnholla/coding-practice/tree/master/1386-cinema-seat-allocation) |
@@ -2718,6 +2719,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/gauthamnholla/coding-practice/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [1348-tweet-counts-per-frequency](https://github.com/gauthamnholla/coding-practice/tree/master/1348-tweet-counts-per-frequency) |
 | [1352-product-of-the-last-k-numbers](https://github.com/gauthamnholla/coding-practice/tree/master/1352-product-of-the-last-k-numbers) |
+| [1381-design-a-stack-with-increment-operation](https://github.com/gauthamnholla/coding-practice/tree/master/1381-design-a-stack-with-increment-operation) |
 | [1472-design-browser-history](https://github.com/gauthamnholla/coding-practice/tree/master/1472-design-browser-history) |
 | [1600-throne-inheritance](https://github.com/gauthamnholla/coding-practice/tree/master/1600-throne-inheritance) |
 | [1622-fancy-sequence](https://github.com/gauthamnholla/coding-practice/tree/master/1622-fancy-sequence) |
@@ -4762,6 +4764,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1124-longest-well-performing-interval](https://github.com/gauthamnholla/coding-practice/tree/master/1124-longest-well-performing-interval) |
 | [1130-minimum-cost-tree-from-leaf-values](https://github.com/gauthamnholla/coding-practice/tree/master/1130-minimum-cost-tree-from-leaf-values) |
 | [1172-dinner-plate-stacks](https://github.com/gauthamnholla/coding-practice/tree/master/1172-dinner-plate-stacks) |
+| [1381-design-a-stack-with-increment-operation](https://github.com/gauthamnholla/coding-practice/tree/master/1381-design-a-stack-with-increment-operation) |
 | [1472-design-browser-history](https://github.com/gauthamnholla/coding-practice/tree/master/1472-design-browser-history) |
 | [1552-build-an-array-with-stack-operations](https://github.com/gauthamnholla/coding-practice/tree/master/1552-build-an-array-with-stack-operations) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/gauthamnholla/coding-practice/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
