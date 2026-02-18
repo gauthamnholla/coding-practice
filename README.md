@@ -530,6 +530,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1403-minimum-subsequence-in-non-increasing-order](https://github.com/gauthamnholla/coding-practice/tree/master/1403-minimum-subsequence-in-non-increasing-order) |
 | [1406-stone-game-iii](https://github.com/gauthamnholla/coding-practice/tree/master/1406-stone-game-iii) |
 | [1408-string-matching-in-an-array](https://github.com/gauthamnholla/coding-practice/tree/master/1408-string-matching-in-an-array) |
+| [1409-queries-on-a-permutation-with-key](https://github.com/gauthamnholla/coding-practice/tree/master/1409-queries-on-a-permutation-with-key) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/gauthamnholla/coding-practice/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/gauthamnholla/coding-practice/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/gauthamnholla/coding-practice/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
@@ -2775,6 +2776,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/gauthamnholla/coding-practice/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [1324-print-words-vertically](https://github.com/gauthamnholla/coding-practice/tree/master/1324-print-words-vertically) |
 | [1389-create-target-array-in-the-given-order](https://github.com/gauthamnholla/coding-practice/tree/master/1389-create-target-array-in-the-given-order) |
+| [1409-queries-on-a-permutation-with-key](https://github.com/gauthamnholla/coding-practice/tree/master/1409-queries-on-a-permutation-with-key) |
 | [1535-find-the-winner-of-an-array-game](https://github.com/gauthamnholla/coding-practice/tree/master/1535-find-the-winner-of-an-array-game) |
 | [1552-build-an-array-with-stack-operations](https://github.com/gauthamnholla/coding-practice/tree/master/1552-build-an-array-with-stack-operations) |
 | [1642-water-bottles](https://github.com/gauthamnholla/coding-practice/tree/master/1642-water-bottles) |
@@ -6857,6 +6859,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0673-number-of-longest-increasing-subsequence](https://github.com/gauthamnholla/coding-practice/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [1157-online-majority-element-in-subarray](https://github.com/gauthamnholla/coding-practice/tree/master/1157-online-majority-element-in-subarray) |
 | [1395-count-number-of-teams](https://github.com/gauthamnholla/coding-practice/tree/master/1395-count-number-of-teams) |
+| [1409-queries-on-a-permutation-with-key](https://github.com/gauthamnholla/coding-practice/tree/master/1409-queries-on-a-permutation-with-key) |
 | [1649-create-sorted-array-through-instructions](https://github.com/gauthamnholla/coding-practice/tree/master/1649-create-sorted-array-through-instructions) |
 | [2179-count-good-triplets-in-an-array](https://github.com/gauthamnholla/coding-practice/tree/master/2179-count-good-triplets-in-an-array) |
 | [2193-minimum-number-of-moves-to-make-palindrome](https://github.com/gauthamnholla/coding-practice/tree/master/2193-minimum-number-of-moves-to-make-palindrome) |
