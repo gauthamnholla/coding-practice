@@ -219,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0659-split-array-into-consecutive-subsequences](https://github.com/gauthamnholla/coding-practice/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [0661-image-smoother](https://github.com/gauthamnholla/coding-practice/tree/master/0661-image-smoother) |
 | [0667-beautiful-arrangement-ii](https://github.com/gauthamnholla/coding-practice/tree/master/0667-beautiful-arrangement-ii) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/gauthamnholla/coding-practice/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/gauthamnholla/coding-practice/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0675-cut-off-trees-for-golf-event](https://github.com/gauthamnholla/coding-practice/tree/master/0675-cut-off-trees-for-golf-event) |
 | [0679-24-game](https://github.com/gauthamnholla/coding-practice/tree/master/0679-24-game) |
@@ -2920,6 +2921,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0646-maximum-length-of-pair-chain](https://github.com/gauthamnholla/coding-practice/tree/master/0646-maximum-length-of-pair-chain) |
 | [0650-2-keys-keyboard](https://github.com/gauthamnholla/coding-practice/tree/master/0650-2-keys-keyboard) |
 | [0664-strange-printer](https://github.com/gauthamnholla/coding-practice/tree/master/0664-strange-printer) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/gauthamnholla/coding-practice/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/gauthamnholla/coding-practice/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0691-stickers-to-spell-word](https://github.com/gauthamnholla/coding-practice/tree/master/0691-stickers-to-spell-word) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/gauthamnholla/coding-practice/tree/master/0698-partition-to-k-equal-sum-subsets) |
@@ -5113,6 +5115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0315-count-of-smaller-numbers-after-self](https://github.com/gauthamnholla/coding-practice/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0327-count-of-range-sum](https://github.com/gauthamnholla/coding-practice/tree/master/0327-count-of-range-sum) |
 | [0406-queue-reconstruction-by-height](https://github.com/gauthamnholla/coding-practice/tree/master/0406-queue-reconstruction-by-height) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/gauthamnholla/coding-practice/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0699-falling-squares](https://github.com/gauthamnholla/coding-practice/tree/master/0699-falling-squares) |
 | [0732-my-calendar-iii](https://github.com/gauthamnholla/coding-practice/tree/master/0732-my-calendar-iii) |
 | [0850-rectangle-area-ii](https://github.com/gauthamnholla/coding-practice/tree/master/0850-rectangle-area-ii) |
@@ -6834,6 +6837,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0315-count-of-smaller-numbers-after-self](https://github.com/gauthamnholla/coding-practice/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0327-count-of-range-sum](https://github.com/gauthamnholla/coding-practice/tree/master/0327-count-of-range-sum) |
 | [0406-queue-reconstruction-by-height](https://github.com/gauthamnholla/coding-practice/tree/master/0406-queue-reconstruction-by-height) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/gauthamnholla/coding-practice/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [1157-online-majority-element-in-subarray](https://github.com/gauthamnholla/coding-practice/tree/master/1157-online-majority-element-in-subarray) |
 | [1395-count-number-of-teams](https://github.com/gauthamnholla/coding-practice/tree/master/1395-count-number-of-teams) |
 | [1649-create-sorted-array-through-instructions](https://github.com/gauthamnholla/coding-practice/tree/master/1649-create-sorted-array-through-instructions) |
