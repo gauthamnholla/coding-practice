@@ -652,6 +652,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1706-where-will-the-ball-fall](https://github.com/gauthamnholla/coding-practice/tree/master/1706-where-will-the-ball-fall) |
 | [1707-maximum-xor-with-an-element-from-array](https://github.com/gauthamnholla/coding-practice/tree/master/1707-maximum-xor-with-an-element-from-array) |
 | [1710-maximum-units-on-a-truck](https://github.com/gauthamnholla/coding-practice/tree/master/1710-maximum-units-on-a-truck) |
+| [1711-count-good-meals](https://github.com/gauthamnholla/coding-practice/tree/master/1711-count-good-meals) |
 | [1712-ways-to-split-array-into-three-subarrays](https://github.com/gauthamnholla/coding-practice/tree/master/1712-ways-to-split-array-into-three-subarrays) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/gauthamnholla/coding-practice/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1728-cat-and-mouse-ii](https://github.com/gauthamnholla/coding-practice/tree/master/1728-cat-and-mouse-ii) |
@@ -2494,6 +2495,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/gauthamnholla/coding-practice/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/gauthamnholla/coding-practice/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/gauthamnholla/coding-practice/tree/master/1684-count-the-number-of-consistent-strings) |
+| [1711-count-good-meals](https://github.com/gauthamnholla/coding-practice/tree/master/1711-count-good-meals) |
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/gauthamnholla/coding-practice/tree/master/1742-maximum-number-of-balls-in-a-box) |
 | [1743-restore-the-array-from-adjacent-pairs](https://github.com/gauthamnholla/coding-practice/tree/master/1743-restore-the-array-from-adjacent-pairs) |
 | [1775-equal-sum-arrays-with-minimum-number-of-operations](https://github.com/gauthamnholla/coding-practice/tree/master/1775-equal-sum-arrays-with-minimum-number-of-operations) |
