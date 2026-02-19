@@ -616,6 +616,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1626-best-team-with-no-conflicts](https://github.com/gauthamnholla/coding-practice/tree/master/1626-best-team-with-no-conflicts) |
 | [1627-graph-connectivity-with-threshold](https://github.com/gauthamnholla/coding-practice/tree/master/1627-graph-connectivity-with-threshold) |
 | [1628-count-submatrices-with-all-ones](https://github.com/gauthamnholla/coding-practice/tree/master/1628-count-submatrices-with-all-ones) |
+| [1629-slowest-key](https://github.com/gauthamnholla/coding-practice/tree/master/1629-slowest-key) |
 | [1630-arithmetic-subarrays](https://github.com/gauthamnholla/coding-practice/tree/master/1630-arithmetic-subarrays) |
 | [1631-path-with-minimum-effort](https://github.com/gauthamnholla/coding-practice/tree/master/1631-path-with-minimum-effort) |
 | [1632-rank-transform-of-a-matrix](https://github.com/gauthamnholla/coding-practice/tree/master/1632-rank-transform-of-a-matrix) |
@@ -4280,6 +4281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1598-crawler-log-folder](https://github.com/gauthamnholla/coding-practice/tree/master/1598-crawler-log-folder) |
 | [1604-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period](https://github.com/gauthamnholla/coding-practice/tree/master/1604-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period) |
 | [1616-split-two-strings-to-make-palindrome](https://github.com/gauthamnholla/coding-practice/tree/master/1616-split-two-strings-to-make-palindrome) |
+| [1629-slowest-key](https://github.com/gauthamnholla/coding-practice/tree/master/1629-slowest-key) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/gauthamnholla/coding-practice/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/gauthamnholla/coding-practice/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/gauthamnholla/coding-practice/tree/master/1653-minimum-deletions-to-make-string-balanced) |
