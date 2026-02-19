@@ -603,6 +603,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/gauthamnholla/coding-practice/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1595-minimum-cost-to-connect-two-groups-of-points](https://github.com/gauthamnholla/coding-practice/tree/master/1595-minimum-cost-to-connect-two-groups-of-points) |
 | [1598-crawler-log-folder](https://github.com/gauthamnholla/coding-practice/tree/master/1598-crawler-log-folder) |
+| [1599-maximum-profit-of-operating-a-centennial-wheel](https://github.com/gauthamnholla/coding-practice/tree/master/1599-maximum-profit-of-operating-a-centennial-wheel) |
 | [1604-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period](https://github.com/gauthamnholla/coding-practice/tree/master/1604-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period) |
 | [1605-find-valid-matrix-given-row-and-column-sums](https://github.com/gauthamnholla/coding-practice/tree/master/1605-find-valid-matrix-given-row-and-column-sums) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/gauthamnholla/coding-practice/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
@@ -2783,6 +2784,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1409-queries-on-a-permutation-with-key](https://github.com/gauthamnholla/coding-practice/tree/master/1409-queries-on-a-permutation-with-key) |
 | [1535-find-the-winner-of-an-array-game](https://github.com/gauthamnholla/coding-practice/tree/master/1535-find-the-winner-of-an-array-game) |
 | [1552-build-an-array-with-stack-operations](https://github.com/gauthamnholla/coding-practice/tree/master/1552-build-an-array-with-stack-operations) |
+| [1599-maximum-profit-of-operating-a-centennial-wheel](https://github.com/gauthamnholla/coding-practice/tree/master/1599-maximum-profit-of-operating-a-centennial-wheel) |
 | [1642-water-bottles](https://github.com/gauthamnholla/coding-practice/tree/master/1642-water-bottles) |
 | [1646-get-maximum-in-generated-array](https://github.com/gauthamnholla/coding-practice/tree/master/1646-get-maximum-in-generated-array) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/gauthamnholla/coding-practice/tree/master/1667-find-kth-bit-in-nth-binary-string) |
