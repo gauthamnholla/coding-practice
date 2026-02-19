@@ -604,6 +604,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1595-minimum-cost-to-connect-two-groups-of-points](https://github.com/gauthamnholla/coding-practice/tree/master/1595-minimum-cost-to-connect-two-groups-of-points) |
 | [1598-crawler-log-folder](https://github.com/gauthamnholla/coding-practice/tree/master/1598-crawler-log-folder) |
 | [1599-maximum-profit-of-operating-a-centennial-wheel](https://github.com/gauthamnholla/coding-practice/tree/master/1599-maximum-profit-of-operating-a-centennial-wheel) |
+| [1601-maximum-number-of-achievable-transfer-requests](https://github.com/gauthamnholla/coding-practice/tree/master/1601-maximum-number-of-achievable-transfer-requests) |
 | [1604-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period](https://github.com/gauthamnholla/coding-practice/tree/master/1604-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period) |
 | [1605-find-valid-matrix-given-row-and-column-sums](https://github.com/gauthamnholla/coding-practice/tree/master/1605-find-valid-matrix-given-row-and-column-sums) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/gauthamnholla/coding-practice/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
@@ -2195,6 +2196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0906-super-palindromes](https://github.com/gauthamnholla/coding-practice/tree/master/0906-super-palindromes) |
 | [0949-largest-time-for-given-digits](https://github.com/gauthamnholla/coding-practice/tree/master/0949-largest-time-for-given-digits) |
 | [0970-powerful-integers](https://github.com/gauthamnholla/coding-practice/tree/master/0970-powerful-integers) |
+| [1601-maximum-number-of-achievable-transfer-requests](https://github.com/gauthamnholla/coding-practice/tree/master/1601-maximum-number-of-achievable-transfer-requests) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/gauthamnholla/coding-practice/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/gauthamnholla/coding-practice/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1925-count-square-sum-triples](https://github.com/gauthamnholla/coding-practice/tree/master/1925-count-square-sum-triples) |
@@ -4885,6 +4887,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1486-xor-operation-in-an-array](https://github.com/gauthamnholla/coding-practice/tree/master/1486-xor-operation-in-an-array) |
 | [1521-find-a-value-of-a-mysterious-function-closest-to-target](https://github.com/gauthamnholla/coding-practice/tree/master/1521-find-a-value-of-a-mysterious-function-closest-to-target) |
 | [1595-minimum-cost-to-connect-two-groups-of-points](https://github.com/gauthamnholla/coding-practice/tree/master/1595-minimum-cost-to-connect-two-groups-of-points) |
+| [1601-maximum-number-of-achievable-transfer-requests](https://github.com/gauthamnholla/coding-practice/tree/master/1601-maximum-number-of-achievable-transfer-requests) |
 | [1655-distribute-repeating-integers](https://github.com/gauthamnholla/coding-practice/tree/master/1655-distribute-repeating-integers) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/gauthamnholla/coding-practice/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1681-minimum-incompatibility](https://github.com/gauthamnholla/coding-practice/tree/master/1681-minimum-incompatibility) |
@@ -5414,6 +5417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1307-verbal-arithmetic-puzzle](https://github.com/gauthamnholla/coding-practice/tree/master/1307-verbal-arithmetic-puzzle) |
 | [1467-probability-of-a-two-boxes-having-the-same-number-of-distinct-balls](https://github.com/gauthamnholla/coding-practice/tree/master/1467-probability-of-a-two-boxes-having-the-same-number-of-distinct-balls) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/gauthamnholla/coding-practice/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
+| [1601-maximum-number-of-achievable-transfer-requests](https://github.com/gauthamnholla/coding-practice/tree/master/1601-maximum-number-of-achievable-transfer-requests) |
 | [1655-distribute-repeating-integers](https://github.com/gauthamnholla/coding-practice/tree/master/1655-distribute-repeating-integers) |
 | [1774-closest-dessert-cost](https://github.com/gauthamnholla/coding-practice/tree/master/1774-closest-dessert-cost) |
 | [1799-maximize-score-after-n-operations](https://github.com/gauthamnholla/coding-practice/tree/master/1799-maximize-score-after-n-operations) |
