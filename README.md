@@ -700,6 +700,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1822-sign-of-the-product-of-an-array](https://github.com/gauthamnholla/coding-practice/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/gauthamnholla/coding-practice/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1824-minimum-sideway-jumps](https://github.com/gauthamnholla/coding-practice/tree/master/1824-minimum-sideway-jumps) |
+| [1827-minimum-operations-to-make-the-array-increasing](https://github.com/gauthamnholla/coding-practice/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [1828-queries-on-number-of-points-inside-a-circle](https://github.com/gauthamnholla/coding-practice/tree/master/1828-queries-on-number-of-points-inside-a-circle) |
 | [1829-maximum-xor-for-each-query](https://github.com/gauthamnholla/coding-practice/tree/master/1829-maximum-xor-for-each-query) |
 | [1833-maximum-ice-cream-bars](https://github.com/gauthamnholla/coding-practice/tree/master/1833-maximum-ice-cream-bars) |
@@ -1417,6 +1418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1802-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/gauthamnholla/coding-practice/tree/master/1802-maximum-value-at-a-given-index-in-a-bounded-array) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/gauthamnholla/coding-practice/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1824-minimum-sideway-jumps](https://github.com/gauthamnholla/coding-practice/tree/master/1824-minimum-sideway-jumps) |
+| [1827-minimum-operations-to-make-the-array-increasing](https://github.com/gauthamnholla/coding-practice/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [1833-maximum-ice-cream-bars](https://github.com/gauthamnholla/coding-practice/tree/master/1833-maximum-ice-cream-bars) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/gauthamnholla/coding-practice/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/gauthamnholla/coding-practice/tree/master/1838-frequency-of-the-most-frequent-element) |
