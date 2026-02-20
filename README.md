@@ -1645,6 +1645,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0726-number-of-atoms](https://github.com/gauthamnholla/coding-practice/tree/master/0726-number-of-atoms) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/gauthamnholla/coding-practice/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0759-set-intersection-size-at-least-two](https://github.com/gauthamnholla/coding-practice/tree/master/0759-set-intersection-size-at-least-two) |
+| [0761-special-binary-string](https://github.com/gauthamnholla/coding-practice/tree/master/0761-special-binary-string) |
 | [0767-reorganize-string](https://github.com/gauthamnholla/coding-practice/tree/master/0767-reorganize-string) |
 | [0768-max-chunks-to-make-sorted-ii](https://github.com/gauthamnholla/coding-practice/tree/master/0768-max-chunks-to-make-sorted-ii) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/gauthamnholla/coding-practice/tree/master/0786-k-th-smallest-prime-fraction) |
@@ -6019,6 +6020,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0372-super-pow](https://github.com/gauthamnholla/coding-practice/tree/master/0372-super-pow) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/gauthamnholla/coding-practice/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0427-construct-quad-tree](https://github.com/gauthamnholla/coding-practice/tree/master/0427-construct-quad-tree) |
+| [0761-special-binary-string](https://github.com/gauthamnholla/coding-practice/tree/master/0761-special-binary-string) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/gauthamnholla/coding-practice/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0918-maximum-sum-circular-subarray](https://github.com/gauthamnholla/coding-practice/tree/master/0918-maximum-sum-circular-subarray) |
 | [0948-sort-an-array](https://github.com/gauthamnholla/coding-practice/tree/master/0948-sort-an-array) |
