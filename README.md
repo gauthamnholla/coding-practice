@@ -699,6 +699,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1819-number-of-different-subsequences-gcds](https://github.com/gauthamnholla/coding-practice/tree/master/1819-number-of-different-subsequences-gcds) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/gauthamnholla/coding-practice/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/gauthamnholla/coding-practice/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [1824-minimum-sideway-jumps](https://github.com/gauthamnholla/coding-practice/tree/master/1824-minimum-sideway-jumps) |
 | [1828-queries-on-number-of-points-inside-a-circle](https://github.com/gauthamnholla/coding-practice/tree/master/1828-queries-on-number-of-points-inside-a-circle) |
 | [1829-maximum-xor-for-each-query](https://github.com/gauthamnholla/coding-practice/tree/master/1829-maximum-xor-for-each-query) |
 | [1833-maximum-ice-cream-bars](https://github.com/gauthamnholla/coding-practice/tree/master/1833-maximum-ice-cream-bars) |
@@ -1415,6 +1416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1798-maximum-number-of-consecutive-values-you-can-make](https://github.com/gauthamnholla/coding-practice/tree/master/1798-maximum-number-of-consecutive-values-you-can-make) |
 | [1802-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/gauthamnholla/coding-practice/tree/master/1802-maximum-value-at-a-given-index-in-a-bounded-array) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/gauthamnholla/coding-practice/tree/master/1818-maximum-score-from-removing-substrings) |
+| [1824-minimum-sideway-jumps](https://github.com/gauthamnholla/coding-practice/tree/master/1824-minimum-sideway-jumps) |
 | [1833-maximum-ice-cream-bars](https://github.com/gauthamnholla/coding-practice/tree/master/1833-maximum-ice-cream-bars) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/gauthamnholla/coding-practice/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/gauthamnholla/coding-practice/tree/master/1838-frequency-of-the-most-frequent-element) |
@@ -3087,6 +3089,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1787-make-the-xor-of-all-segments-equal-to-zero](https://github.com/gauthamnholla/coding-practice/tree/master/1787-make-the-xor-of-all-segments-equal-to-zero) |
 | [1799-maximize-score-after-n-operations](https://github.com/gauthamnholla/coding-practice/tree/master/1799-maximize-score-after-n-operations) |
 | [1815-maximum-number-of-groups-getting-fresh-donuts](https://github.com/gauthamnholla/coding-practice/tree/master/1815-maximum-number-of-groups-getting-fresh-donuts) |
+| [1824-minimum-sideway-jumps](https://github.com/gauthamnholla/coding-practice/tree/master/1824-minimum-sideway-jumps) |
 | [1857-largest-color-value-in-a-directed-graph](https://github.com/gauthamnholla/coding-practice/tree/master/1857-largest-color-value-in-a-directed-graph) |
 | [1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible](https://github.com/gauthamnholla/coding-practice/tree/master/1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible) |
 | [1871-jump-game-vii](https://github.com/gauthamnholla/coding-practice/tree/master/1871-jump-game-vii) |
