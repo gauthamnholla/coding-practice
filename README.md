@@ -711,6 +711,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1840-maximum-building-height](https://github.com/gauthamnholla/coding-practice/tree/master/1840-maximum-building-height) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/gauthamnholla/coding-practice/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1847-closest-room](https://github.com/gauthamnholla/coding-practice/tree/master/1847-closest-room) |
+| [1848-minimum-distance-to-the-target-element](https://github.com/gauthamnholla/coding-practice/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1851-minimum-interval-to-include-each-query](https://github.com/gauthamnholla/coding-practice/tree/master/1851-minimum-interval-to-include-each-query) |
 | [1854-maximum-population-year](https://github.com/gauthamnholla/coding-practice/tree/master/1854-maximum-population-year) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/gauthamnholla/coding-practice/tree/master/1855-maximum-distance-between-a-pair-of-values) |
