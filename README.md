@@ -723,6 +723,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1876-map-of-highest-peak](https://github.com/gauthamnholla/coding-practice/tree/master/1876-map-of-highest-peak) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/gauthamnholla/coding-practice/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/gauthamnholla/coding-practice/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
+| [1879-minimum-xor-sum-of-two-arrays](https://github.com/gauthamnholla/coding-practice/tree/master/1879-minimum-xor-sum-of-two-arrays) |
 | [1882-process-tasks-using-servers](https://github.com/gauthamnholla/coding-practice/tree/master/1882-process-tasks-using-servers) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/gauthamnholla/coding-practice/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1889-minimum-space-wasted-from-packaging](https://github.com/gauthamnholla/coding-practice/tree/master/1889-minimum-space-wasted-from-packaging) |
@@ -3098,6 +3099,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible](https://github.com/gauthamnholla/coding-practice/tree/master/1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible) |
 | [1871-jump-game-vii](https://github.com/gauthamnholla/coding-practice/tree/master/1871-jump-game-vii) |
 | [1872-stone-game-viii](https://github.com/gauthamnholla/coding-practice/tree/master/1872-stone-game-viii) |
+| [1879-minimum-xor-sum-of-two-arrays](https://github.com/gauthamnholla/coding-practice/tree/master/1879-minimum-xor-sum-of-two-arrays) |
 | [1884-egg-drop-with-2-eggs-and-n-floors](https://github.com/gauthamnholla/coding-practice/tree/master/1884-egg-drop-with-2-eggs-and-n-floors) |
 | [1896-minimum-cost-to-change-the-final-value-of-expression](https://github.com/gauthamnholla/coding-practice/tree/master/1896-minimum-cost-to-change-the-final-value-of-expression) |
 | [1916-count-ways-to-build-rooms-in-an-ant-colony](https://github.com/gauthamnholla/coding-practice/tree/master/1916-count-ways-to-build-rooms-in-an-ant-colony) |
@@ -4922,6 +4924,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1829-maximum-xor-for-each-query](https://github.com/gauthamnholla/coding-practice/tree/master/1829-maximum-xor-for-each-query) |
 | [1835-find-xor-sum-of-all-pairs-bitwise-and](https://github.com/gauthamnholla/coding-practice/tree/master/1835-find-xor-sum-of-all-pairs-bitwise-and) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/gauthamnholla/coding-practice/tree/master/1863-sum-of-all-subset-xor-totals) |
+| [1879-minimum-xor-sum-of-two-arrays](https://github.com/gauthamnholla/coding-practice/tree/master/1879-minimum-xor-sum-of-two-arrays) |
 | [1915-number-of-wonderful-substrings](https://github.com/gauthamnholla/coding-practice/tree/master/1915-number-of-wonderful-substrings) |
 | [1938-maximum-genetic-difference-query](https://github.com/gauthamnholla/coding-practice/tree/master/1938-maximum-genetic-difference-query) |
 | [1994-the-number-of-good-subsets](https://github.com/gauthamnholla/coding-practice/tree/master/1994-the-number-of-good-subsets) |
@@ -6655,6 +6658,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1595-minimum-cost-to-connect-two-groups-of-points](https://github.com/gauthamnholla/coding-practice/tree/master/1595-minimum-cost-to-connect-two-groups-of-points) |
 | [1755-closest-subsequence-sum](https://github.com/gauthamnholla/coding-practice/tree/master/1755-closest-subsequence-sum) |
 | [1815-maximum-number-of-groups-getting-fresh-donuts](https://github.com/gauthamnholla/coding-practice/tree/master/1815-maximum-number-of-groups-getting-fresh-donuts) |
+| [1879-minimum-xor-sum-of-two-arrays](https://github.com/gauthamnholla/coding-practice/tree/master/1879-minimum-xor-sum-of-two-arrays) |
 | [1994-the-number-of-good-subsets](https://github.com/gauthamnholla/coding-practice/tree/master/1994-the-number-of-good-subsets) |
 | [2572-count-the-number-of-square-free-subsets](https://github.com/gauthamnholla/coding-practice/tree/master/2572-count-the-number-of-square-free-subsets) |
 | [2791-count-paths-that-can-form-a-palindrome-in-a-tree](https://github.com/gauthamnholla/coding-practice/tree/master/2791-count-paths-that-can-form-a-palindrome-in-a-tree) |
