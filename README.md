@@ -210,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0630-course-schedule-iii](https://github.com/gauthamnholla/coding-practice/tree/master/0630-course-schedule-iii) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/gauthamnholla/coding-practice/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0636-exclusive-time-of-functions](https://github.com/gauthamnholla/coding-practice/tree/master/0636-exclusive-time-of-functions) |
+| [0638-shopping-offers](https://github.com/gauthamnholla/coding-practice/tree/master/0638-shopping-offers) |
 | [0641-design-circular-deque](https://github.com/gauthamnholla/coding-practice/tree/master/0641-design-circular-deque) |
 | [0643-maximum-average-subarray-i](https://github.com/gauthamnholla/coding-practice/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/gauthamnholla/coding-practice/tree/master/0645-set-mismatch) |
@@ -2954,6 +2955,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0546-remove-boxes](https://github.com/gauthamnholla/coding-practice/tree/master/0546-remove-boxes) |
 | [0553-optimal-division](https://github.com/gauthamnholla/coding-practice/tree/master/0553-optimal-division) |
 | [0583-delete-operation-for-two-strings](https://github.com/gauthamnholla/coding-practice/tree/master/0583-delete-operation-for-two-strings) |
+| [0638-shopping-offers](https://github.com/gauthamnholla/coding-practice/tree/master/0638-shopping-offers) |
 | [0646-maximum-length-of-pair-chain](https://github.com/gauthamnholla/coding-practice/tree/master/0646-maximum-length-of-pair-chain) |
 | [0650-2-keys-keyboard](https://github.com/gauthamnholla/coding-practice/tree/master/0650-2-keys-keyboard) |
 | [0664-strange-printer](https://github.com/gauthamnholla/coding-practice/tree/master/0664-strange-printer) |
@@ -3262,6 +3264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0464-can-i-win](https://github.com/gauthamnholla/coding-practice/tree/master/0464-can-i-win) |
 | [0509-fibonacci-number](https://github.com/gauthamnholla/coding-practice/tree/master/0509-fibonacci-number) |
 | [0546-remove-boxes](https://github.com/gauthamnholla/coding-practice/tree/master/0546-remove-boxes) |
+| [0638-shopping-offers](https://github.com/gauthamnholla/coding-practice/tree/master/0638-shopping-offers) |
 | [0691-stickers-to-spell-word](https://github.com/gauthamnholla/coding-practice/tree/master/0691-stickers-to-spell-word) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/gauthamnholla/coding-practice/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0949-cat-and-mouse](https://github.com/gauthamnholla/coding-practice/tree/master/0949-cat-and-mouse) |
@@ -4868,6 +4871,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0477-total-hamming-distance](https://github.com/gauthamnholla/coding-practice/tree/master/0477-total-hamming-distance) |
 | [0491-non-decreasing-subsequences](https://github.com/gauthamnholla/coding-practice/tree/master/0491-non-decreasing-subsequences) |
 | [0526-beautiful-arrangement](https://github.com/gauthamnholla/coding-practice/tree/master/0526-beautiful-arrangement) |
+| [0638-shopping-offers](https://github.com/gauthamnholla/coding-practice/tree/master/0638-shopping-offers) |
 | [0645-set-mismatch](https://github.com/gauthamnholla/coding-practice/tree/master/0645-set-mismatch) |
 | [0672-bulb-switcher-ii](https://github.com/gauthamnholla/coding-practice/tree/master/0672-bulb-switcher-ii) |
 | [0691-stickers-to-spell-word](https://github.com/gauthamnholla/coding-practice/tree/master/0691-stickers-to-spell-word) |
@@ -5423,6 +5427,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0473-matchsticks-to-square](https://github.com/gauthamnholla/coding-practice/tree/master/0473-matchsticks-to-square) |
 | [0491-non-decreasing-subsequences](https://github.com/gauthamnholla/coding-practice/tree/master/0491-non-decreasing-subsequences) |
 | [0526-beautiful-arrangement](https://github.com/gauthamnholla/coding-practice/tree/master/0526-beautiful-arrangement) |
+| [0638-shopping-offers](https://github.com/gauthamnholla/coding-practice/tree/master/0638-shopping-offers) |
 | [0679-24-game](https://github.com/gauthamnholla/coding-practice/tree/master/0679-24-game) |
 | [0691-stickers-to-spell-word](https://github.com/gauthamnholla/coding-practice/tree/master/0691-stickers-to-spell-word) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/gauthamnholla/coding-practice/tree/master/0698-partition-to-k-equal-sum-subsets) |
@@ -6652,6 +6657,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0464-can-i-win](https://github.com/gauthamnholla/coding-practice/tree/master/0464-can-i-win) |
 | [0473-matchsticks-to-square](https://github.com/gauthamnholla/coding-practice/tree/master/0473-matchsticks-to-square) |
+| [0638-shopping-offers](https://github.com/gauthamnholla/coding-practice/tree/master/0638-shopping-offers) |
 | [0691-stickers-to-spell-word](https://github.com/gauthamnholla/coding-practice/tree/master/0691-stickers-to-spell-word) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/gauthamnholla/coding-practice/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0805-split-array-with-same-average](https://github.com/gauthamnholla/coding-practice/tree/master/0805-split-array-with-same-average) |
