@@ -216,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/gauthamnholla/coding-practice/tree/master/0645-set-mismatch) |
 | [0646-maximum-length-of-pair-chain](https://github.com/gauthamnholla/coding-practice/tree/master/0646-maximum-length-of-pair-chain) |
 | [0648-replace-words](https://github.com/gauthamnholla/coding-practice/tree/master/0648-replace-words) |
+| [0654-maximum-binary-tree](https://github.com/gauthamnholla/coding-practice/tree/master/0654-maximum-binary-tree) |
 | [0658-find-k-closest-elements](https://github.com/gauthamnholla/coding-practice/tree/master/0658-find-k-closest-elements) |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/gauthamnholla/coding-practice/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [0661-image-smoother](https://github.com/gauthamnholla/coding-practice/tree/master/0661-image-smoother) |
@@ -4775,6 +4776,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0589-n-ary-tree-preorder-traversal](https://github.com/gauthamnholla/coding-practice/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/gauthamnholla/coding-practice/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0636-exclusive-time-of-functions](https://github.com/gauthamnholla/coding-practice/tree/master/0636-exclusive-time-of-functions) |
+| [0654-maximum-binary-tree](https://github.com/gauthamnholla/coding-practice/tree/master/0654-maximum-binary-tree) |
 | [0682-baseball-game](https://github.com/gauthamnholla/coding-practice/tree/master/0682-baseball-game) |
 | [0726-number-of-atoms](https://github.com/gauthamnholla/coding-practice/tree/master/0726-number-of-atoms) |
 | [0735-asteroid-collision](https://github.com/gauthamnholla/coding-practice/tree/master/0735-asteroid-collision) |
@@ -5052,6 +5054,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0637-average-of-levels-in-binary-tree](https://github.com/gauthamnholla/coding-practice/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0652-find-duplicate-subtrees](https://github.com/gauthamnholla/coding-practice/tree/master/0652-find-duplicate-subtrees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/gauthamnholla/coding-practice/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0654-maximum-binary-tree](https://github.com/gauthamnholla/coding-practice/tree/master/0654-maximum-binary-tree) |
 | [0655-print-binary-tree](https://github.com/gauthamnholla/coding-practice/tree/master/0655-print-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/gauthamnholla/coding-practice/tree/master/0662-maximum-width-of-binary-tree) |
 | [0669-trim-a-binary-search-tree](https://github.com/gauthamnholla/coding-practice/tree/master/0669-trim-a-binary-search-tree) |
@@ -6025,6 +6028,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0372-super-pow](https://github.com/gauthamnholla/coding-practice/tree/master/0372-super-pow) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/gauthamnholla/coding-practice/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0427-construct-quad-tree](https://github.com/gauthamnholla/coding-practice/tree/master/0427-construct-quad-tree) |
+| [0654-maximum-binary-tree](https://github.com/gauthamnholla/coding-practice/tree/master/0654-maximum-binary-tree) |
 | [0761-special-binary-string](https://github.com/gauthamnholla/coding-practice/tree/master/0761-special-binary-string) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/gauthamnholla/coding-practice/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0918-maximum-sum-circular-subarray](https://github.com/gauthamnholla/coding-practice/tree/master/0918-maximum-sum-circular-subarray) |
@@ -6167,6 +6171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/gauthamnholla/coding-practice/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/gauthamnholla/coding-practice/tree/master/0503-next-greater-element-ii) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/gauthamnholla/coding-practice/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0654-maximum-binary-tree](https://github.com/gauthamnholla/coding-practice/tree/master/0654-maximum-binary-tree) |
 | [0739-daily-temperatures](https://github.com/gauthamnholla/coding-practice/tree/master/0739-daily-temperatures) |
 | [0768-max-chunks-to-make-sorted-ii](https://github.com/gauthamnholla/coding-practice/tree/master/0768-max-chunks-to-make-sorted-ii) |
 | [0853-car-fleet](https://github.com/gauthamnholla/coding-practice/tree/master/0853-car-fleet) |
@@ -6839,6 +6844,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0637-average-of-levels-in-binary-tree](https://github.com/gauthamnholla/coding-practice/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0652-find-duplicate-subtrees](https://github.com/gauthamnholla/coding-practice/tree/master/0652-find-duplicate-subtrees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/gauthamnholla/coding-practice/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0654-maximum-binary-tree](https://github.com/gauthamnholla/coding-practice/tree/master/0654-maximum-binary-tree) |
 | [0655-print-binary-tree](https://github.com/gauthamnholla/coding-practice/tree/master/0655-print-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/gauthamnholla/coding-practice/tree/master/0662-maximum-width-of-binary-tree) |
 | [0669-trim-a-binary-search-tree](https://github.com/gauthamnholla/coding-practice/tree/master/0669-trim-a-binary-search-tree) |
