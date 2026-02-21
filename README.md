@@ -480,6 +480,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1268-search-suggestions-system](https://github.com/gauthamnholla/coding-practice/tree/master/1268-search-suggestions-system) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/gauthamnholla/coding-practice/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/gauthamnholla/coding-practice/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/gauthamnholla/coding-practice/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1284-minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix](https://github.com/gauthamnholla/coding-practice/tree/master/1284-minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix) |
 | [1288-remove-covered-intervals](https://github.com/gauthamnholla/coding-practice/tree/master/1288-remove-covered-intervals) |
 | [1289-minimum-falling-path-sum-ii](https://github.com/gauthamnholla/coding-practice/tree/master/1289-minimum-falling-path-sum-ii) |
@@ -5547,6 +5548,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1208-get-equal-substrings-within-budget](https://github.com/gauthamnholla/coding-practice/tree/master/1208-get-equal-substrings-within-budget) |
 | [1237-find-positive-integer-solution-for-a-given-equation](https://github.com/gauthamnholla/coding-practice/tree/master/1237-find-positive-integer-solution-for-a-given-equation) |
 | [1268-search-suggestions-system](https://github.com/gauthamnholla/coding-practice/tree/master/1268-search-suggestions-system) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/gauthamnholla/coding-practice/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/gauthamnholla/coding-practice/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1300-sum-of-mutated-array-closest-to-target](https://github.com/gauthamnholla/coding-practice/tree/master/1300-sum-of-mutated-array-closest-to-target) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/gauthamnholla/coding-practice/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
