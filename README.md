@@ -4915,6 +4915,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0861-flipping-an-image](https://github.com/gauthamnholla/coding-practice/tree/master/0861-flipping-an-image) |
 | [0861-score-after-flipping-matrix](https://github.com/gauthamnholla/coding-practice/tree/master/0861-score-after-flipping-matrix) |
 | [0864-shortest-path-to-get-all-keys](https://github.com/gauthamnholla/coding-practice/tree/master/0864-shortest-path-to-get-all-keys) |
+| [0868-binary-gap](https://github.com/gauthamnholla/coding-practice/tree/master/0868-binary-gap) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/gauthamnholla/coding-practice/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0943-find-the-shortest-superstring](https://github.com/gauthamnholla/coding-practice/tree/master/0943-find-the-shortest-superstring) |
 | [0957-prison-cells-after-n-days](https://github.com/gauthamnholla/coding-practice/tree/master/0957-prison-cells-after-n-days) |
