@@ -600,6 +600,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/gauthamnholla/coding-practice/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1562-find-latest-group-of-size-m](https://github.com/gauthamnholla/coding-practice/tree/master/1562-find-latest-group-of-size-m) |
 | [1563-stone-game-v](https://github.com/gauthamnholla/coding-practice/tree/master/1563-stone-game-v) |
+| [1566-detect-pattern-of-length-m-repeated-k-or-more-times](https://github.com/gauthamnholla/coding-practice/tree/master/1566-detect-pattern-of-length-m-repeated-k-or-more-times) |
 | [1568-minimum-number-of-days-to-disconnect-island](https://github.com/gauthamnholla/coding-practice/tree/master/1568-minimum-number-of-days-to-disconnect-island) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/gauthamnholla/coding-practice/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/gauthamnholla/coding-practice/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
@@ -2224,6 +2225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0949-largest-time-for-given-digits](https://github.com/gauthamnholla/coding-practice/tree/master/0949-largest-time-for-given-digits) |
 | [0970-powerful-integers](https://github.com/gauthamnholla/coding-practice/tree/master/0970-powerful-integers) |
 | [1534-count-good-triplets](https://github.com/gauthamnholla/coding-practice/tree/master/1534-count-good-triplets) |
+| [1566-detect-pattern-of-length-m-repeated-k-or-more-times](https://github.com/gauthamnholla/coding-practice/tree/master/1566-detect-pattern-of-length-m-repeated-k-or-more-times) |
 | [1601-maximum-number-of-achievable-transfer-requests](https://github.com/gauthamnholla/coding-practice/tree/master/1601-maximum-number-of-achievable-transfer-requests) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/gauthamnholla/coding-practice/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/gauthamnholla/coding-practice/tree/master/1863-sum-of-all-subset-xor-totals) |
