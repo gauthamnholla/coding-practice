@@ -596,6 +596,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1552-magnetic-force-between-two-balls](https://github.com/gauthamnholla/coding-practice/tree/master/1552-magnetic-force-between-two-balls) |
 | [1558-minimum-numbers-of-function-calls-to-make-target-array](https://github.com/gauthamnholla/coding-practice/tree/master/1558-minimum-numbers-of-function-calls-to-make-target-array) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/gauthamnholla/coding-practice/tree/master/1559-detect-cycles-in-2d-grid) |
+| [1560-most-visited-sector-in-a-circular-track](https://github.com/gauthamnholla/coding-practice/tree/master/1560-most-visited-sector-in-a-circular-track) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/gauthamnholla/coding-practice/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1563-stone-game-v](https://github.com/gauthamnholla/coding-practice/tree/master/1563-stone-game-v) |
 | [1568-minimum-number-of-days-to-disconnect-island](https://github.com/gauthamnholla/coding-practice/tree/master/1568-minimum-number-of-days-to-disconnect-island) |
@@ -2816,6 +2817,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1503-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/gauthamnholla/coding-practice/tree/master/1503-last-moment-before-all-ants-fall-out-of-a-plank) |
 | [1535-find-the-winner-of-an-array-game](https://github.com/gauthamnholla/coding-practice/tree/master/1535-find-the-winner-of-an-array-game) |
 | [1552-build-an-array-with-stack-operations](https://github.com/gauthamnholla/coding-practice/tree/master/1552-build-an-array-with-stack-operations) |
+| [1560-most-visited-sector-in-a-circular-track](https://github.com/gauthamnholla/coding-practice/tree/master/1560-most-visited-sector-in-a-circular-track) |
 | [1599-maximum-profit-of-operating-a-centennial-wheel](https://github.com/gauthamnholla/coding-practice/tree/master/1599-maximum-profit-of-operating-a-centennial-wheel) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/gauthamnholla/coding-practice/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1642-water-bottles](https://github.com/gauthamnholla/coding-practice/tree/master/1642-water-bottles) |
