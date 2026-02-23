@@ -678,6 +678,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1713-minimum-operations-to-make-a-subsequence](https://github.com/gauthamnholla/coding-practice/tree/master/1713-minimum-operations-to-make-a-subsequence) |
 | [1718-construct-the-lexicographically-largest-valid-sequence](https://github.com/gauthamnholla/coding-practice/tree/master/1718-construct-the-lexicographically-largest-valid-sequence) |
 | [1719-number-of-ways-to-reconstruct-a-tree](https://github.com/gauthamnholla/coding-practice/tree/master/1719-number-of-ways-to-reconstruct-a-tree) |
+| [1720-decode-xored-array](https://github.com/gauthamnholla/coding-practice/tree/master/1720-decode-xored-array) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/gauthamnholla/coding-practice/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1728-cat-and-mouse-ii](https://github.com/gauthamnholla/coding-practice/tree/master/1728-cat-and-mouse-ii) |
 | [1735-count-ways-to-make-array-with-product](https://github.com/gauthamnholla/coding-practice/tree/master/1735-count-ways-to-make-array-with-product) |
@@ -4957,6 +4958,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1681-minimum-incompatibility](https://github.com/gauthamnholla/coding-practice/tree/master/1681-minimum-incompatibility) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/gauthamnholla/coding-practice/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1707-maximum-xor-with-an-element-from-array](https://github.com/gauthamnholla/coding-practice/tree/master/1707-maximum-xor-with-an-element-from-array) |
+| [1720-decode-xored-array](https://github.com/gauthamnholla/coding-practice/tree/master/1720-decode-xored-array) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/gauthamnholla/coding-practice/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [1738-find-kth-largest-xor-coordinate-value](https://github.com/gauthamnholla/coding-practice/tree/master/1738-find-kth-largest-xor-coordinate-value) |
 | [1755-closest-subsequence-sum](https://github.com/gauthamnholla/coding-practice/tree/master/1755-closest-subsequence-sum) |
