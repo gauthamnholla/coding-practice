@@ -680,6 +680,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1719-number-of-ways-to-reconstruct-a-tree](https://github.com/gauthamnholla/coding-practice/tree/master/1719-number-of-ways-to-reconstruct-a-tree) |
 | [1720-decode-xored-array](https://github.com/gauthamnholla/coding-practice/tree/master/1720-decode-xored-array) |
 | [1723-find-minimum-time-to-finish-all-jobs](https://github.com/gauthamnholla/coding-practice/tree/master/1723-find-minimum-time-to-finish-all-jobs) |
+| [1726-tuple-with-same-product](https://github.com/gauthamnholla/coding-practice/tree/master/1726-tuple-with-same-product) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/gauthamnholla/coding-practice/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1728-cat-and-mouse-ii](https://github.com/gauthamnholla/coding-practice/tree/master/1728-cat-and-mouse-ii) |
 | [1735-count-ways-to-make-array-with-product](https://github.com/gauthamnholla/coding-practice/tree/master/1735-count-ways-to-make-array-with-product) |
@@ -2545,6 +2546,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1711-count-good-meals](https://github.com/gauthamnholla/coding-practice/tree/master/1711-count-good-meals) |
 | [1713-minimum-operations-to-make-a-subsequence](https://github.com/gauthamnholla/coding-practice/tree/master/1713-minimum-operations-to-make-a-subsequence) |
 | [1719-number-of-ways-to-reconstruct-a-tree](https://github.com/gauthamnholla/coding-practice/tree/master/1719-number-of-ways-to-reconstruct-a-tree) |
+| [1726-tuple-with-same-product](https://github.com/gauthamnholla/coding-practice/tree/master/1726-tuple-with-same-product) |
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/gauthamnholla/coding-practice/tree/master/1742-maximum-number-of-balls-in-a-box) |
 | [1743-restore-the-array-from-adjacent-pairs](https://github.com/gauthamnholla/coding-practice/tree/master/1743-restore-the-array-from-adjacent-pairs) |
 | [1775-equal-sum-arrays-with-minimum-number-of-operations](https://github.com/gauthamnholla/coding-practice/tree/master/1775-equal-sum-arrays-with-minimum-number-of-operations) |
@@ -6136,6 +6138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1655-distribute-repeating-integers](https://github.com/gauthamnholla/coding-practice/tree/master/1655-distribute-repeating-integers) |
 | [1657-determine-if-two-strings-are-close](https://github.com/gauthamnholla/coding-practice/tree/master/1657-determine-if-two-strings-are-close) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/gauthamnholla/coding-practice/tree/master/1684-count-the-number-of-consistent-strings) |
+| [1726-tuple-with-same-product](https://github.com/gauthamnholla/coding-practice/tree/master/1726-tuple-with-same-product) |
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/gauthamnholla/coding-practice/tree/master/1742-maximum-number-of-balls-in-a-box) |
 | [1775-equal-sum-arrays-with-minimum-number-of-operations](https://github.com/gauthamnholla/coding-practice/tree/master/1775-equal-sum-arrays-with-minimum-number-of-operations) |
 | [1782-count-pairs-of-nodes](https://github.com/gauthamnholla/coding-practice/tree/master/1782-count-pairs-of-nodes) |
