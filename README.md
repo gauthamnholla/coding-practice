@@ -676,6 +676,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1711-count-good-meals](https://github.com/gauthamnholla/coding-practice/tree/master/1711-count-good-meals) |
 | [1712-ways-to-split-array-into-three-subarrays](https://github.com/gauthamnholla/coding-practice/tree/master/1712-ways-to-split-array-into-three-subarrays) |
 | [1713-minimum-operations-to-make-a-subsequence](https://github.com/gauthamnholla/coding-practice/tree/master/1713-minimum-operations-to-make-a-subsequence) |
+| [1718-construct-the-lexicographically-largest-valid-sequence](https://github.com/gauthamnholla/coding-practice/tree/master/1718-construct-the-lexicographically-largest-valid-sequence) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/gauthamnholla/coding-practice/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1728-cat-and-mouse-ii](https://github.com/gauthamnholla/coding-practice/tree/master/1728-cat-and-mouse-ii) |
 | [1735-count-ways-to-make-array-with-product](https://github.com/gauthamnholla/coding-practice/tree/master/1735-count-ways-to-make-array-with-product) |
@@ -5483,6 +5484,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/gauthamnholla/coding-practice/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1601-maximum-number-of-achievable-transfer-requests](https://github.com/gauthamnholla/coding-practice/tree/master/1601-maximum-number-of-achievable-transfer-requests) |
 | [1655-distribute-repeating-integers](https://github.com/gauthamnholla/coding-practice/tree/master/1655-distribute-repeating-integers) |
+| [1718-construct-the-lexicographically-largest-valid-sequence](https://github.com/gauthamnholla/coding-practice/tree/master/1718-construct-the-lexicographically-largest-valid-sequence) |
 | [1774-closest-dessert-cost](https://github.com/gauthamnholla/coding-practice/tree/master/1774-closest-dessert-cost) |
 | [1799-maximize-score-after-n-operations](https://github.com/gauthamnholla/coding-practice/tree/master/1799-maximize-score-after-n-operations) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/gauthamnholla/coding-practice/tree/master/1863-sum-of-all-subset-xor-totals) |
