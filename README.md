@@ -680,6 +680,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1719-number-of-ways-to-reconstruct-a-tree](https://github.com/gauthamnholla/coding-practice/tree/master/1719-number-of-ways-to-reconstruct-a-tree) |
 | [1720-decode-xored-array](https://github.com/gauthamnholla/coding-practice/tree/master/1720-decode-xored-array) |
 | [1723-find-minimum-time-to-finish-all-jobs](https://github.com/gauthamnholla/coding-practice/tree/master/1723-find-minimum-time-to-finish-all-jobs) |
+| [1725-number-of-rectangles-that-can-form-the-largest-square](https://github.com/gauthamnholla/coding-practice/tree/master/1725-number-of-rectangles-that-can-form-the-largest-square) |
 | [1726-tuple-with-same-product](https://github.com/gauthamnholla/coding-practice/tree/master/1726-tuple-with-same-product) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/gauthamnholla/coding-practice/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1728-cat-and-mouse-ii](https://github.com/gauthamnholla/coding-practice/tree/master/1728-cat-and-mouse-ii) |
