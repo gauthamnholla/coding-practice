@@ -2521,6 +2521,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/gauthamnholla/coding-practice/tree/master/1443-minimum-time-to-collect-all-apples-in-a-tree) |
 | [1452-people-whose-list-of-favorite-companies-is-not-a-subset-of-another-list](https://github.com/gauthamnholla/coding-practice/tree/master/1452-people-whose-list-of-favorite-companies-is-not-a-subset-of-another-list) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/gauthamnholla/coding-practice/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/gauthamnholla/coding-practice/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/gauthamnholla/coding-practice/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/gauthamnholla/coding-practice/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/gauthamnholla/coding-practice/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -4338,6 +4339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1447-simplified-fractions](https://github.com/gauthamnholla/coding-practice/tree/master/1447-simplified-fractions) |
 | [1451-rearrange-words-in-a-sentence](https://github.com/gauthamnholla/coding-practice/tree/master/1451-rearrange-words-in-a-sentence) |
 | [1452-people-whose-list-of-favorite-companies-is-not-a-subset-of-another-list](https://github.com/gauthamnholla/coding-practice/tree/master/1452-people-whose-list-of-favorite-companies-is-not-a-subset-of-another-list) |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/gauthamnholla/coding-practice/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1487-making-file-names-unique](https://github.com/gauthamnholla/coding-practice/tree/master/1487-making-file-names-unique) |
 | [1508-longest-happy-prefix](https://github.com/gauthamnholla/coding-practice/tree/master/1508-longest-happy-prefix) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/gauthamnholla/coding-practice/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
@@ -4960,6 +4962,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1434-number-of-ways-to-wear-different-hats-to-each-other](https://github.com/gauthamnholla/coding-practice/tree/master/1434-number-of-ways-to-wear-different-hats-to-each-other) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/gauthamnholla/coding-practice/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1457-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/gauthamnholla/coding-practice/tree/master/1457-pseudo-palindromic-paths-in-a-binary-tree) |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/gauthamnholla/coding-practice/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1486-xor-operation-in-an-array](https://github.com/gauthamnholla/coding-practice/tree/master/1486-xor-operation-in-an-array) |
 | [1521-find-a-value-of-a-mysterious-function-closest-to-target](https://github.com/gauthamnholla/coding-practice/tree/master/1521-find-a-value-of-a-mysterious-function-closest-to-target) |
 | [1558-minimum-numbers-of-function-calls-to-make-target-array](https://github.com/gauthamnholla/coding-practice/tree/master/1558-minimum-numbers-of-function-calls-to-make-target-array) |
@@ -7079,6 +7082,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0816-design-hashset](https://github.com/gauthamnholla/coding-practice/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/gauthamnholla/coding-practice/tree/master/0817-design-hashmap) |
 | [1147-longest-chunked-palindrome-decomposition](https://github.com/gauthamnholla/coding-practice/tree/master/1147-longest-chunked-palindrome-decomposition) |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/gauthamnholla/coding-practice/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1508-longest-happy-prefix](https://github.com/gauthamnholla/coding-practice/tree/master/1508-longest-happy-prefix) |
 | [2326-sum-of-scores-of-built-strings](https://github.com/gauthamnholla/coding-practice/tree/master/2326-sum-of-scores-of-built-strings) |
 | [3006-find-beautiful-indices-in-the-given-array-i](https://github.com/gauthamnholla/coding-practice/tree/master/3006-find-beautiful-indices-in-the-given-array-i) |
@@ -7115,6 +7119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0187-repeated-dna-sequences](https://github.com/gauthamnholla/coding-practice/tree/master/0187-repeated-dna-sequences) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/gauthamnholla/coding-practice/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [1147-longest-chunked-palindrome-decomposition](https://github.com/gauthamnholla/coding-practice/tree/master/1147-longest-chunked-palindrome-decomposition) |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/gauthamnholla/coding-practice/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1508-longest-happy-prefix](https://github.com/gauthamnholla/coding-practice/tree/master/1508-longest-happy-prefix) |
 | [2326-sum-of-scores-of-built-strings](https://github.com/gauthamnholla/coding-practice/tree/master/2326-sum-of-scores-of-built-strings) |
 | [3006-find-beautiful-indices-in-the-given-array-i](https://github.com/gauthamnholla/coding-practice/tree/master/3006-find-beautiful-indices-in-the-given-array-i) |
