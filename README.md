@@ -812,6 +812,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2094-finding-3-digit-even-numbers](https://github.com/gauthamnholla/coding-practice/tree/master/2094-finding-3-digit-even-numbers) |
 | [2100-find-good-days-to-rob-the-bank](https://github.com/gauthamnholla/coding-practice/tree/master/2100-find-good-days-to-rob-the-bank) |
 | [2101-detonate-the-maximum-bombs](https://github.com/gauthamnholla/coding-practice/tree/master/2101-detonate-the-maximum-bombs) |
+| [2104-sum-of-subarray-ranges](https://github.com/gauthamnholla/coding-practice/tree/master/2104-sum-of-subarray-ranges) |
 | [2105-watering-plants-ii](https://github.com/gauthamnholla/coding-practice/tree/master/2105-watering-plants-ii) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/gauthamnholla/coding-practice/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/gauthamnholla/coding-practice/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
@@ -4879,6 +4880,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1996-the-number-of-weak-characters-in-the-game](https://github.com/gauthamnholla/coding-practice/tree/master/1996-the-number-of-weak-characters-in-the-game) |
 | [2000-reverse-prefix-of-word](https://github.com/gauthamnholla/coding-practice/tree/master/2000-reverse-prefix-of-word) |
 | [2019-the-score-of-students-solving-math-expression](https://github.com/gauthamnholla/coding-practice/tree/master/2019-the-score-of-students-solving-math-expression) |
+| [2104-sum-of-subarray-ranges](https://github.com/gauthamnholla/coding-practice/tree/master/2104-sum-of-subarray-ranges) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/gauthamnholla/coding-practice/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2211-count-collisions-on-a-road](https://github.com/gauthamnholla/coding-practice/tree/master/2211-count-collisions-on-a-road) |
 | [2281-sum-of-total-strength-of-wizards](https://github.com/gauthamnholla/coding-practice/tree/master/2281-sum-of-total-strength-of-wizards) |
@@ -6262,6 +6264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1793-maximum-score-of-a-good-subarray](https://github.com/gauthamnholla/coding-practice/tree/master/1793-maximum-score-of-a-good-subarray) |
 | [1856-maximum-subarray-min-product](https://github.com/gauthamnholla/coding-practice/tree/master/1856-maximum-subarray-min-product) |
 | [1996-the-number-of-weak-characters-in-the-game](https://github.com/gauthamnholla/coding-practice/tree/master/1996-the-number-of-weak-characters-in-the-game) |
+| [2104-sum-of-subarray-ranges](https://github.com/gauthamnholla/coding-practice/tree/master/2104-sum-of-subarray-ranges) |
 | [2281-sum-of-total-strength-of-wizards](https://github.com/gauthamnholla/coding-practice/tree/master/2281-sum-of-total-strength-of-wizards) |
 | [2454-next-greater-element-iv](https://github.com/gauthamnholla/coding-practice/tree/master/2454-next-greater-element-iv) |
 | [2617-minimum-number-of-visited-cells-in-a-grid](https://github.com/gauthamnholla/coding-practice/tree/master/2617-minimum-number-of-visited-cells-in-a-grid) |
