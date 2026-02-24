@@ -804,6 +804,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2055-plates-between-candles](https://github.com/gauthamnholla/coding-practice/tree/master/2055-plates-between-candles) |
 | [2058-concatenation-of-array](https://github.com/gauthamnholla/coding-practice/tree/master/2058-concatenation-of-array) |
 | [2071-maximum-number-of-tasks-you-can-assign](https://github.com/gauthamnholla/coding-practice/tree/master/2071-maximum-number-of-tasks-you-can-assign) |
+| [2079-watering-plants](https://github.com/gauthamnholla/coding-practice/tree/master/2079-watering-plants) |
 | [2088-count-fertile-pyramids-in-a-land](https://github.com/gauthamnholla/coding-practice/tree/master/2088-count-fertile-pyramids-in-a-land) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/gauthamnholla/coding-practice/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/gauthamnholla/coding-practice/tree/master/2094-finding-3-digit-even-numbers) |
@@ -2863,6 +2864,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2022-convert-1d-array-into-2d-array](https://github.com/gauthamnholla/coding-practice/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2028-find-missing-observations](https://github.com/gauthamnholla/coding-practice/tree/master/2028-find-missing-observations) |
 | [2058-concatenation-of-array](https://github.com/gauthamnholla/coding-practice/tree/master/2058-concatenation-of-array) |
+| [2079-watering-plants](https://github.com/gauthamnholla/coding-practice/tree/master/2079-watering-plants) |
 | [2105-watering-plants-ii](https://github.com/gauthamnholla/coding-practice/tree/master/2105-watering-plants-ii) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/gauthamnholla/coding-practice/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/gauthamnholla/coding-practice/tree/master/2149-rearrange-array-elements-by-sign) |
