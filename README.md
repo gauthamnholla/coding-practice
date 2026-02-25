@@ -870,6 +870,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2249-count-lattice-points-inside-a-circle](https://github.com/gauthamnholla/coding-practice/tree/master/2249-count-lattice-points-inside-a-circle) |
 | [2250-count-number-of-rectangles-containing-each-point](https://github.com/gauthamnholla/coding-practice/tree/master/2250-count-number-of-rectangles-containing-each-point) |
 | [2251-number-of-flowers-in-full-bloom](https://github.com/gauthamnholla/coding-practice/tree/master/2251-number-of-flowers-in-full-bloom) |
+| [2255-count-prefixes-of-a-given-string](https://github.com/gauthamnholla/coding-practice/tree/master/2255-count-prefixes-of-a-given-string) |
 | [2258-escape-the-spreading-fire](https://github.com/gauthamnholla/coding-practice/tree/master/2258-escape-the-spreading-fire) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/gauthamnholla/coding-practice/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/gauthamnholla/coding-practice/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
@@ -4436,6 +4437,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2227-encrypt-and-decrypt-strings](https://github.com/gauthamnholla/coding-practice/tree/master/2227-encrypt-and-decrypt-strings) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/gauthamnholla/coding-practice/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2246-longest-path-with-different-adjacent-characters](https://github.com/gauthamnholla/coding-practice/tree/master/2246-longest-path-with-different-adjacent-characters) |
+| [2255-count-prefixes-of-a-given-string](https://github.com/gauthamnholla/coding-practice/tree/master/2255-count-prefixes-of-a-given-string) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/gauthamnholla/coding-practice/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2266-count-number-of-texts](https://github.com/gauthamnholla/coding-practice/tree/master/2266-count-number-of-texts) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/gauthamnholla/coding-practice/tree/master/2269-find-the-k-beauty-of-a-number) |
