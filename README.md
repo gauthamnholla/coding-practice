@@ -871,6 +871,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2250-count-number-of-rectangles-containing-each-point](https://github.com/gauthamnholla/coding-practice/tree/master/2250-count-number-of-rectangles-containing-each-point) |
 | [2251-number-of-flowers-in-full-bloom](https://github.com/gauthamnholla/coding-practice/tree/master/2251-number-of-flowers-in-full-bloom) |
 | [2255-count-prefixes-of-a-given-string](https://github.com/gauthamnholla/coding-practice/tree/master/2255-count-prefixes-of-a-given-string) |
+| [2256-minimum-average-difference](https://github.com/gauthamnholla/coding-practice/tree/master/2256-minimum-average-difference) |
 | [2258-escape-the-spreading-fire](https://github.com/gauthamnholla/coding-practice/tree/master/2258-escape-the-spreading-fire) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/gauthamnholla/coding-practice/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/gauthamnholla/coding-practice/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
@@ -5392,6 +5393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2234-maximum-total-beauty-of-the-gardens](https://github.com/gauthamnholla/coding-practice/tree/master/2234-maximum-total-beauty-of-the-gardens) |
 | [2245-maximum-trailing-zeros-in-a-cornered-path](https://github.com/gauthamnholla/coding-practice/tree/master/2245-maximum-trailing-zeros-in-a-cornered-path) |
 | [2251-number-of-flowers-in-full-bloom](https://github.com/gauthamnholla/coding-practice/tree/master/2251-number-of-flowers-in-full-bloom) |
+| [2256-minimum-average-difference](https://github.com/gauthamnholla/coding-practice/tree/master/2256-minimum-average-difference) |
 | [2271-maximum-white-tiles-covered-by-a-carpet](https://github.com/gauthamnholla/coding-practice/tree/master/2271-maximum-white-tiles-covered-by-a-carpet) |
 | [2281-sum-of-total-strength-of-wizards](https://github.com/gauthamnholla/coding-practice/tree/master/2281-sum-of-total-strength-of-wizards) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/gauthamnholla/coding-practice/tree/master/2302-count-subarrays-with-score-less-than-k) |
