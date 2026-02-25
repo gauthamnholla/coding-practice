@@ -863,6 +863,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2241-design-an-atm-machine](https://github.com/gauthamnholla/coding-practice/tree/master/2241-design-an-atm-machine) |
 | [2242-maximum-score-of-a-node-sequence](https://github.com/gauthamnholla/coding-practice/tree/master/2242-maximum-score-of-a-node-sequence) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/gauthamnholla/coding-practice/tree/master/2244-number-of-laser-beams-in-a-bank) |
+| [2244-minimum-rounds-to-complete-all-tasks](https://github.com/gauthamnholla/coding-practice/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2245-maximum-trailing-zeros-in-a-cornered-path](https://github.com/gauthamnholla/coding-practice/tree/master/2245-maximum-trailing-zeros-in-a-cornered-path) |
 | [2246-longest-path-with-different-adjacent-characters](https://github.com/gauthamnholla/coding-practice/tree/master/2246-longest-path-with-different-adjacent-characters) |
 | [2248-intersection-of-multiple-arrays](https://github.com/gauthamnholla/coding-practice/tree/master/2248-intersection-of-multiple-arrays) |
@@ -1506,6 +1507,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2233-maximum-product-after-k-increments](https://github.com/gauthamnholla/coding-practice/tree/master/2233-maximum-product-after-k-increments) |
 | [2234-maximum-total-beauty-of-the-gardens](https://github.com/gauthamnholla/coding-practice/tree/master/2234-maximum-total-beauty-of-the-gardens) |
 | [2241-design-an-atm-machine](https://github.com/gauthamnholla/coding-practice/tree/master/2241-design-an-atm-machine) |
+| [2244-minimum-rounds-to-complete-all-tasks](https://github.com/gauthamnholla/coding-practice/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2271-maximum-white-tiles-covered-by-a-carpet](https://github.com/gauthamnholla/coding-practice/tree/master/2271-maximum-white-tiles-covered-by-a-carpet) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/gauthamnholla/coding-practice/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [2285-maximum-total-importance-of-roads](https://github.com/gauthamnholla/coding-practice/tree/master/2285-maximum-total-importance-of-roads) |
@@ -2616,6 +2618,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2215-find-the-difference-of-two-arrays](https://github.com/gauthamnholla/coding-practice/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/gauthamnholla/coding-practice/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2227-encrypt-and-decrypt-strings](https://github.com/gauthamnholla/coding-practice/tree/master/2227-encrypt-and-decrypt-strings) |
+| [2244-minimum-rounds-to-complete-all-tasks](https://github.com/gauthamnholla/coding-practice/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2248-intersection-of-multiple-arrays](https://github.com/gauthamnholla/coding-practice/tree/master/2248-intersection-of-multiple-arrays) |
 | [2249-count-lattice-points-inside-a-circle](https://github.com/gauthamnholla/coding-practice/tree/master/2249-count-lattice-points-inside-a-circle) |
 | [2250-count-number-of-rectangles-containing-each-point](https://github.com/gauthamnholla/coding-practice/tree/master/2250-count-number-of-rectangles-containing-each-point) |
@@ -6204,6 +6207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2182-construct-string-with-repeat-limit](https://github.com/gauthamnholla/coding-practice/tree/master/2182-construct-string-with-repeat-limit) |
 | [2206-divide-array-into-equal-pairs](https://github.com/gauthamnholla/coding-practice/tree/master/2206-divide-array-into-equal-pairs) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/gauthamnholla/coding-practice/tree/master/2225-find-players-with-zero-or-one-losses) |
+| [2244-minimum-rounds-to-complete-all-tasks](https://github.com/gauthamnholla/coding-practice/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2248-intersection-of-multiple-arrays](https://github.com/gauthamnholla/coding-practice/tree/master/2248-intersection-of-multiple-arrays) |
 | [2364-count-number-of-bad-pairs](https://github.com/gauthamnholla/coding-practice/tree/master/2364-count-number-of-bad-pairs) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/gauthamnholla/coding-practice/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
