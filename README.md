@@ -855,6 +855,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2218-maximum-value-of-k-coins-from-piles](https://github.com/gauthamnholla/coding-practice/tree/master/2218-maximum-value-of-k-coins-from-piles) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/gauthamnholla/coding-practice/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/gauthamnholla/coding-practice/tree/master/2226-maximum-candies-allocated-to-k-children) |
+| [2227-encrypt-and-decrypt-strings](https://github.com/gauthamnholla/coding-practice/tree/master/2227-encrypt-and-decrypt-strings) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/gauthamnholla/coding-practice/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2233-maximum-product-after-k-increments](https://github.com/gauthamnholla/coding-practice/tree/master/2233-maximum-product-after-k-increments) |
 | [2234-maximum-total-beauty-of-the-gardens](https://github.com/gauthamnholla/coding-practice/tree/master/2234-maximum-total-beauty-of-the-gardens) |
@@ -2611,6 +2612,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2206-divide-array-into-equal-pairs](https://github.com/gauthamnholla/coding-practice/tree/master/2206-divide-array-into-equal-pairs) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/gauthamnholla/coding-practice/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/gauthamnholla/coding-practice/tree/master/2225-find-players-with-zero-or-one-losses) |
+| [2227-encrypt-and-decrypt-strings](https://github.com/gauthamnholla/coding-practice/tree/master/2227-encrypt-and-decrypt-strings) |
 | [2248-intersection-of-multiple-arrays](https://github.com/gauthamnholla/coding-practice/tree/master/2248-intersection-of-multiple-arrays) |
 | [2249-count-lattice-points-inside-a-circle](https://github.com/gauthamnholla/coding-practice/tree/master/2249-count-lattice-points-inside-a-circle) |
 | [2250-count-number-of-rectangles-containing-each-point](https://github.com/gauthamnholla/coding-practice/tree/master/2250-count-number-of-rectangles-containing-each-point) |
@@ -2812,6 +2814,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/gauthamnholla/coding-practice/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2023-design-movie-rental-system](https://github.com/gauthamnholla/coding-practice/tree/master/2023-design-movie-rental-system) |
 | [2169-simple-bank-system](https://github.com/gauthamnholla/coding-practice/tree/master/2169-simple-bank-system) |
+| [2227-encrypt-and-decrypt-strings](https://github.com/gauthamnholla/coding-practice/tree/master/2227-encrypt-and-decrypt-strings) |
 | [2429-design-a-food-rating-system](https://github.com/gauthamnholla/coding-practice/tree/master/2429-design-a-food-rating-system) |
 | [2678-design-graph-with-shortest-path-calculator](https://github.com/gauthamnholla/coding-practice/tree/master/2678-design-graph-with-shortest-path-calculator) |
 | [3242-design-neighbor-sum-service](https://github.com/gauthamnholla/coding-practice/tree/master/3242-design-neighbor-sum-service) |
@@ -4423,6 +4426,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2207-maximize-number-of-subsequences-in-a-string](https://github.com/gauthamnholla/coding-practice/tree/master/2207-maximize-number-of-subsequences-in-a-string) |
 | [2209-minimum-white-tiles-after-covering-with-carpets](https://github.com/gauthamnholla/coding-practice/tree/master/2209-minimum-white-tiles-after-covering-with-carpets) |
 | [2211-count-collisions-on-a-road](https://github.com/gauthamnholla/coding-practice/tree/master/2211-count-collisions-on-a-road) |
+| [2227-encrypt-and-decrypt-strings](https://github.com/gauthamnholla/coding-practice/tree/master/2227-encrypt-and-decrypt-strings) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/gauthamnholla/coding-practice/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2246-longest-path-with-different-adjacent-characters](https://github.com/gauthamnholla/coding-practice/tree/master/2246-longest-path-with-different-adjacent-characters) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/gauthamnholla/coding-practice/tree/master/2260-divide-a-string-into-groups-of-size-k) |
@@ -4811,6 +4815,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1707-maximum-xor-with-an-element-from-array](https://github.com/gauthamnholla/coding-practice/tree/master/1707-maximum-xor-with-an-element-from-array) |
 | [1803-count-pairs-with-xor-in-a-range](https://github.com/gauthamnholla/coding-practice/tree/master/1803-count-pairs-with-xor-in-a-range) |
 | [1938-maximum-genetic-difference-query](https://github.com/gauthamnholla/coding-practice/tree/master/1938-maximum-genetic-difference-query) |
+| [2227-encrypt-and-decrypt-strings](https://github.com/gauthamnholla/coding-practice/tree/master/2227-encrypt-and-decrypt-strings) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/gauthamnholla/coding-practice/tree/master/2977-minimum-cost-to-convert-string-ii) |
 ## Stack
 |  |
