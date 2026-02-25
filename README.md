@@ -845,6 +845,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2171-removing-minimum-number-of-magic-beans](https://github.com/gauthamnholla/coding-practice/tree/master/2171-removing-minimum-number-of-magic-beans) |
 | [2179-count-good-triplets-in-an-array](https://github.com/gauthamnholla/coding-practice/tree/master/2179-count-good-triplets-in-an-array) |
 | [2183-count-array-pairs-divisible-by-k](https://github.com/gauthamnholla/coding-practice/tree/master/2183-count-array-pairs-divisible-by-k) |
+| [2185-counting-words-with-a-given-prefix](https://github.com/gauthamnholla/coding-practice/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2187-minimum-time-to-complete-trips](https://github.com/gauthamnholla/coding-practice/tree/master/2187-minimum-time-to-complete-trips) |
 | [2189-maximum-path-quality-of-a-graph](https://github.com/gauthamnholla/coding-practice/tree/master/2189-maximum-path-quality-of-a-graph) |
 | [2191-sort-the-jumbled-numbers](https://github.com/gauthamnholla/coding-practice/tree/master/2191-sort-the-jumbled-numbers) |
@@ -4441,6 +4442,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2140-longest-subsequence-repeated-k-times](https://github.com/gauthamnholla/coding-practice/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/gauthamnholla/coding-practice/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2182-construct-string-with-repeat-limit](https://github.com/gauthamnholla/coding-practice/tree/master/2182-construct-string-with-repeat-limit) |
+| [2185-counting-words-with-a-given-prefix](https://github.com/gauthamnholla/coding-practice/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2193-minimum-number-of-moves-to-make-palindrome](https://github.com/gauthamnholla/coding-practice/tree/master/2193-minimum-number-of-moves-to-make-palindrome) |
 | [2207-maximize-number-of-subsequences-in-a-string](https://github.com/gauthamnholla/coding-practice/tree/master/2207-maximize-number-of-subsequences-in-a-string) |
 | [2209-minimum-white-tiles-after-covering-with-carpets](https://github.com/gauthamnholla/coding-practice/tree/master/2209-minimum-white-tiles-after-covering-with-carpets) |
@@ -7164,6 +7166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1408-string-matching-in-an-array](https://github.com/gauthamnholla/coding-practice/tree/master/1408-string-matching-in-an-array) |
 | [1508-longest-happy-prefix](https://github.com/gauthamnholla/coding-practice/tree/master/1508-longest-happy-prefix) |
 | [1764-form-array-by-concatenating-subarrays-of-another-array](https://github.com/gauthamnholla/coding-practice/tree/master/1764-form-array-by-concatenating-subarrays-of-another-array) |
+| [2185-counting-words-with-a-given-prefix](https://github.com/gauthamnholla/coding-practice/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2326-sum-of-scores-of-built-strings](https://github.com/gauthamnholla/coding-practice/tree/master/2326-sum-of-scores-of-built-strings) |
 | [2851-string-transformation](https://github.com/gauthamnholla/coding-practice/tree/master/2851-string-transformation) |
 | [3006-find-beautiful-indices-in-the-given-array-i](https://github.com/gauthamnholla/coding-practice/tree/master/3006-find-beautiful-indices-in-the-given-array-i) |
