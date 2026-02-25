@@ -859,6 +859,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/gauthamnholla/coding-practice/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2233-maximum-product-after-k-increments](https://github.com/gauthamnholla/coding-practice/tree/master/2233-maximum-product-after-k-increments) |
 | [2234-maximum-total-beauty-of-the-gardens](https://github.com/gauthamnholla/coding-practice/tree/master/2234-maximum-total-beauty-of-the-gardens) |
+| [2239-find-closest-number-to-zero](https://github.com/gauthamnholla/coding-practice/tree/master/2239-find-closest-number-to-zero) |
 | [2242-maximum-score-of-a-node-sequence](https://github.com/gauthamnholla/coding-practice/tree/master/2242-maximum-score-of-a-node-sequence) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/gauthamnholla/coding-practice/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2245-maximum-trailing-zeros-in-a-cornered-path](https://github.com/gauthamnholla/coding-practice/tree/master/2245-maximum-trailing-zeros-in-a-cornered-path) |
