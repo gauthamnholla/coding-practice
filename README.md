@@ -874,6 +874,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2256-minimum-average-difference](https://github.com/gauthamnholla/coding-practice/tree/master/2256-minimum-average-difference) |
 | [2258-escape-the-spreading-fire](https://github.com/gauthamnholla/coding-practice/tree/master/2258-escape-the-spreading-fire) |
 | [2260-minimum-consecutive-cards-to-pick-up](https://github.com/gauthamnholla/coding-practice/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
+| [2261-k-divisible-elements-subarrays](https://github.com/gauthamnholla/coding-practice/tree/master/2261-k-divisible-elements-subarrays) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/gauthamnholla/coding-practice/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/gauthamnholla/coding-practice/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2271-maximum-white-tiles-covered-by-a-carpet](https://github.com/gauthamnholla/coding-practice/tree/master/2271-maximum-white-tiles-covered-by-a-carpet) |
@@ -2286,6 +2287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2240-number-of-ways-to-buy-pens-and-pencils](https://github.com/gauthamnholla/coding-practice/tree/master/2240-number-of-ways-to-buy-pens-and-pencils) |
 | [2242-maximum-score-of-a-node-sequence](https://github.com/gauthamnholla/coding-practice/tree/master/2242-maximum-score-of-a-node-sequence) |
 | [2249-count-lattice-points-inside-a-circle](https://github.com/gauthamnholla/coding-practice/tree/master/2249-count-lattice-points-inside-a-circle) |
+| [2261-k-divisible-elements-subarrays](https://github.com/gauthamnholla/coding-practice/tree/master/2261-k-divisible-elements-subarrays) |
 | [2310-sum-of-numbers-with-units-digit-k](https://github.com/gauthamnholla/coding-practice/tree/master/2310-sum-of-numbers-with-units-digit-k) |
 | [2367-number-of-arithmetic-triplets](https://github.com/gauthamnholla/coding-practice/tree/master/2367-number-of-arithmetic-triplets) |
 | [2397-maximum-rows-covered-by-columns](https://github.com/gauthamnholla/coding-practice/tree/master/2397-maximum-rows-covered-by-columns) |
@@ -2628,6 +2630,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2250-count-number-of-rectangles-containing-each-point](https://github.com/gauthamnholla/coding-practice/tree/master/2250-count-number-of-rectangles-containing-each-point) |
 | [2251-number-of-flowers-in-full-bloom](https://github.com/gauthamnholla/coding-practice/tree/master/2251-number-of-flowers-in-full-bloom) |
 | [2260-minimum-consecutive-cards-to-pick-up](https://github.com/gauthamnholla/coding-practice/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
+| [2261-k-divisible-elements-subarrays](https://github.com/gauthamnholla/coding-practice/tree/master/2261-k-divisible-elements-subarrays) |
 | [2266-count-number-of-texts](https://github.com/gauthamnholla/coding-practice/tree/master/2266-count-number-of-texts) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/gauthamnholla/coding-practice/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/gauthamnholla/coding-practice/tree/master/2342-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -4829,6 +4832,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1803-count-pairs-with-xor-in-a-range](https://github.com/gauthamnholla/coding-practice/tree/master/1803-count-pairs-with-xor-in-a-range) |
 | [1938-maximum-genetic-difference-query](https://github.com/gauthamnholla/coding-practice/tree/master/1938-maximum-genetic-difference-query) |
 | [2227-encrypt-and-decrypt-strings](https://github.com/gauthamnholla/coding-practice/tree/master/2227-encrypt-and-decrypt-strings) |
+| [2261-k-divisible-elements-subarrays](https://github.com/gauthamnholla/coding-practice/tree/master/2261-k-divisible-elements-subarrays) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/gauthamnholla/coding-practice/tree/master/2977-minimum-cost-to-convert-string-ii) |
 ## Stack
 |  |
@@ -7132,6 +7136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1147-longest-chunked-palindrome-decomposition](https://github.com/gauthamnholla/coding-practice/tree/master/1147-longest-chunked-palindrome-decomposition) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/gauthamnholla/coding-practice/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1508-longest-happy-prefix](https://github.com/gauthamnholla/coding-practice/tree/master/1508-longest-happy-prefix) |
+| [2261-k-divisible-elements-subarrays](https://github.com/gauthamnholla/coding-practice/tree/master/2261-k-divisible-elements-subarrays) |
 | [2326-sum-of-scores-of-built-strings](https://github.com/gauthamnholla/coding-practice/tree/master/2326-sum-of-scores-of-built-strings) |
 | [3006-find-beautiful-indices-in-the-given-array-i](https://github.com/gauthamnholla/coding-practice/tree/master/3006-find-beautiful-indices-in-the-given-array-i) |
 | [3008-find-beautiful-indices-in-the-given-array-ii](https://github.com/gauthamnholla/coding-practice/tree/master/3008-find-beautiful-indices-in-the-given-array-ii) |
@@ -7169,6 +7174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1147-longest-chunked-palindrome-decomposition](https://github.com/gauthamnholla/coding-practice/tree/master/1147-longest-chunked-palindrome-decomposition) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/gauthamnholla/coding-practice/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1508-longest-happy-prefix](https://github.com/gauthamnholla/coding-practice/tree/master/1508-longest-happy-prefix) |
+| [2261-k-divisible-elements-subarrays](https://github.com/gauthamnholla/coding-practice/tree/master/2261-k-divisible-elements-subarrays) |
 | [2326-sum-of-scores-of-built-strings](https://github.com/gauthamnholla/coding-practice/tree/master/2326-sum-of-scores-of-built-strings) |
 | [3006-find-beautiful-indices-in-the-given-array-i](https://github.com/gauthamnholla/coding-practice/tree/master/3006-find-beautiful-indices-in-the-given-array-i) |
 | [3008-find-beautiful-indices-in-the-given-array-ii](https://github.com/gauthamnholla/coding-practice/tree/master/3008-find-beautiful-indices-in-the-given-array-ii) |
