@@ -888,6 +888,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/gauthamnholla/coding-practice/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [2280-minimum-lines-to-represent-a-line-chart](https://github.com/gauthamnholla/coding-practice/tree/master/2280-minimum-lines-to-represent-a-line-chart) |
 | [2281-sum-of-total-strength-of-wizards](https://github.com/gauthamnholla/coding-practice/tree/master/2281-sum-of-total-strength-of-wizards) |
+| [2284-sender-with-largest-word-count](https://github.com/gauthamnholla/coding-practice/tree/master/2284-sender-with-largest-word-count) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/gauthamnholla/coding-practice/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2304-minimum-path-cost-in-a-grid](https://github.com/gauthamnholla/coding-practice/tree/master/2304-minimum-path-cost-in-a-grid) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/gauthamnholla/coding-practice/tree/master/2307-replace-non-coprime-numbers-in-array) |
@@ -2638,6 +2639,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2266-count-number-of-texts](https://github.com/gauthamnholla/coding-practice/tree/master/2266-count-number-of-texts) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/gauthamnholla/coding-practice/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2275-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/gauthamnholla/coding-practice/tree/master/2275-largest-combination-with-bitwise-and-greater-than-zero) |
+| [2284-sender-with-largest-word-count](https://github.com/gauthamnholla/coding-practice/tree/master/2284-sender-with-largest-word-count) |
 | [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/gauthamnholla/coding-practice/tree/master/2342-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/gauthamnholla/coding-practice/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2363-merge-similar-items](https://github.com/gauthamnholla/coding-practice/tree/master/2363-merge-similar-items) |
@@ -4455,6 +4457,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/gauthamnholla/coding-practice/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2266-count-number-of-texts](https://github.com/gauthamnholla/coding-practice/tree/master/2266-count-number-of-texts) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/gauthamnholla/coding-practice/tree/master/2269-find-the-k-beauty-of-a-number) |
+| [2284-sender-with-largest-word-count](https://github.com/gauthamnholla/coding-practice/tree/master/2284-sender-with-largest-word-count) |
 | [2326-sum-of-scores-of-built-strings](https://github.com/gauthamnholla/coding-practice/tree/master/2326-sum-of-scores-of-built-strings) |
 | [2343-query-kth-smallest-trimmed-number](https://github.com/gauthamnholla/coding-practice/tree/master/2343-query-kth-smallest-trimmed-number) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/gauthamnholla/coding-practice/tree/master/2346-largest-3-same-digit-number-in-string) |
@@ -6232,6 +6235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/gauthamnholla/coding-practice/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2248-intersection-of-multiple-arrays](https://github.com/gauthamnholla/coding-practice/tree/master/2248-intersection-of-multiple-arrays) |
 | [2275-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/gauthamnholla/coding-practice/tree/master/2275-largest-combination-with-bitwise-and-greater-than-zero) |
+| [2284-sender-with-largest-word-count](https://github.com/gauthamnholla/coding-practice/tree/master/2284-sender-with-largest-word-count) |
 | [2364-count-number-of-bad-pairs](https://github.com/gauthamnholla/coding-practice/tree/master/2364-count-number-of-bad-pairs) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/gauthamnholla/coding-practice/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2514-count-anagrams](https://github.com/gauthamnholla/coding-practice/tree/master/2514-count-anagrams) |
