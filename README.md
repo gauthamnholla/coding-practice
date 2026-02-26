@@ -892,6 +892,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2301-match-substring-after-replacement](https://github.com/gauthamnholla/coding-practice/tree/master/2301-match-substring-after-replacement) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/gauthamnholla/coding-practice/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2304-minimum-path-cost-in-a-grid](https://github.com/gauthamnholla/coding-practice/tree/master/2304-minimum-path-cost-in-a-grid) |
+| [2305-fair-distribution-of-cookies](https://github.com/gauthamnholla/coding-practice/tree/master/2305-fair-distribution-of-cookies) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/gauthamnholla/coding-practice/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/gauthamnholla/coding-practice/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2317-maximum-xor-after-operations](https://github.com/gauthamnholla/coding-practice/tree/master/2317-maximum-xor-after-operations) |
@@ -3222,6 +3223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/gauthamnholla/coding-practice/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2272-substring-with-largest-variance](https://github.com/gauthamnholla/coding-practice/tree/master/2272-substring-with-largest-variance) |
 | [2304-minimum-path-cost-in-a-grid](https://github.com/gauthamnholla/coding-practice/tree/master/2304-minimum-path-cost-in-a-grid) |
+| [2305-fair-distribution-of-cookies](https://github.com/gauthamnholla/coding-practice/tree/master/2305-fair-distribution-of-cookies) |
 | [2310-sum-of-numbers-with-units-digit-k](https://github.com/gauthamnholla/coding-practice/tree/master/2310-sum-of-numbers-with-units-digit-k) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/gauthamnholla/coding-practice/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 | [2338-count-the-number-of-ideal-arrays](https://github.com/gauthamnholla/coding-practice/tree/master/2338-count-the-number-of-ideal-arrays) |
@@ -5054,6 +5056,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/gauthamnholla/coding-practice/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2206-divide-array-into-equal-pairs](https://github.com/gauthamnholla/coding-practice/tree/master/2206-divide-array-into-equal-pairs) |
 | [2275-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/gauthamnholla/coding-practice/tree/master/2275-largest-combination-with-bitwise-and-greater-than-zero) |
+| [2305-fair-distribution-of-cookies](https://github.com/gauthamnholla/coding-practice/tree/master/2305-fair-distribution-of-cookies) |
 | [2317-maximum-xor-after-operations](https://github.com/gauthamnholla/coding-practice/tree/master/2317-maximum-xor-after-operations) |
 | [2397-maximum-rows-covered-by-columns](https://github.com/gauthamnholla/coding-practice/tree/master/2397-maximum-rows-covered-by-columns) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/gauthamnholla/coding-practice/tree/master/2400-minimum-score-after-removals-on-a-tree) |
@@ -5578,6 +5581,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2174-next-greater-numerically-balanced-number](https://github.com/gauthamnholla/coding-practice/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2178-maximum-split-of-positive-even-integers](https://github.com/gauthamnholla/coding-practice/tree/master/2178-maximum-split-of-positive-even-integers) |
 | [2189-maximum-path-quality-of-a-graph](https://github.com/gauthamnholla/coding-practice/tree/master/2189-maximum-path-quality-of-a-graph) |
+| [2305-fair-distribution-of-cookies](https://github.com/gauthamnholla/coding-practice/tree/master/2305-fair-distribution-of-cookies) |
 | [2397-maximum-rows-covered-by-columns](https://github.com/gauthamnholla/coding-practice/tree/master/2397-maximum-rows-covered-by-columns) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/gauthamnholla/coding-practice/tree/master/2597-the-number-of-beautiful-subsets) |
 | [2698-find-the-punishment-number-of-an-integer](https://github.com/gauthamnholla/coding-practice/tree/master/2698-find-the-punishment-number-of-an-integer) |
@@ -6809,6 +6813,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1815-maximum-number-of-groups-getting-fresh-donuts](https://github.com/gauthamnholla/coding-practice/tree/master/1815-maximum-number-of-groups-getting-fresh-donuts) |
 | [1879-minimum-xor-sum-of-two-arrays](https://github.com/gauthamnholla/coding-practice/tree/master/1879-minimum-xor-sum-of-two-arrays) |
 | [1994-the-number-of-good-subsets](https://github.com/gauthamnholla/coding-practice/tree/master/1994-the-number-of-good-subsets) |
+| [2305-fair-distribution-of-cookies](https://github.com/gauthamnholla/coding-practice/tree/master/2305-fair-distribution-of-cookies) |
 | [2572-count-the-number-of-square-free-subsets](https://github.com/gauthamnholla/coding-practice/tree/master/2572-count-the-number-of-square-free-subsets) |
 | [2791-count-paths-that-can-form-a-palindrome-in-a-tree](https://github.com/gauthamnholla/coding-practice/tree/master/2791-count-paths-that-can-form-a-palindrome-in-a-tree) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/gauthamnholla/coding-practice/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
