@@ -893,6 +893,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/gauthamnholla/coding-practice/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2304-minimum-path-cost-in-a-grid](https://github.com/gauthamnholla/coding-practice/tree/master/2304-minimum-path-cost-in-a-grid) |
 | [2305-fair-distribution-of-cookies](https://github.com/gauthamnholla/coding-practice/tree/master/2305-fair-distribution-of-cookies) |
+| [2306-naming-a-company](https://github.com/gauthamnholla/coding-practice/tree/master/2306-naming-a-company) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/gauthamnholla/coding-practice/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/gauthamnholla/coding-practice/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2317-maximum-xor-after-operations](https://github.com/gauthamnholla/coding-practice/tree/master/2317-maximum-xor-after-operations) |
@@ -2295,6 +2296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2242-maximum-score-of-a-node-sequence](https://github.com/gauthamnholla/coding-practice/tree/master/2242-maximum-score-of-a-node-sequence) |
 | [2249-count-lattice-points-inside-a-circle](https://github.com/gauthamnholla/coding-practice/tree/master/2249-count-lattice-points-inside-a-circle) |
 | [2261-k-divisible-elements-subarrays](https://github.com/gauthamnholla/coding-practice/tree/master/2261-k-divisible-elements-subarrays) |
+| [2306-naming-a-company](https://github.com/gauthamnholla/coding-practice/tree/master/2306-naming-a-company) |
 | [2310-sum-of-numbers-with-units-digit-k](https://github.com/gauthamnholla/coding-practice/tree/master/2310-sum-of-numbers-with-units-digit-k) |
 | [2367-number-of-arithmetic-triplets](https://github.com/gauthamnholla/coding-practice/tree/master/2367-number-of-arithmetic-triplets) |
 | [2397-maximum-rows-covered-by-columns](https://github.com/gauthamnholla/coding-practice/tree/master/2397-maximum-rows-covered-by-columns) |
@@ -2643,6 +2645,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2275-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/gauthamnholla/coding-practice/tree/master/2275-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2284-sender-with-largest-word-count](https://github.com/gauthamnholla/coding-practice/tree/master/2284-sender-with-largest-word-count) |
 | [2301-match-substring-after-replacement](https://github.com/gauthamnholla/coding-practice/tree/master/2301-match-substring-after-replacement) |
+| [2306-naming-a-company](https://github.com/gauthamnholla/coding-practice/tree/master/2306-naming-a-company) |
 | [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/gauthamnholla/coding-practice/tree/master/2342-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/gauthamnholla/coding-practice/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2363-merge-similar-items](https://github.com/gauthamnholla/coding-practice/tree/master/2363-merge-similar-items) |
@@ -4463,6 +4466,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2269-find-the-k-beauty-of-a-number](https://github.com/gauthamnholla/coding-practice/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2284-sender-with-largest-word-count](https://github.com/gauthamnholla/coding-practice/tree/master/2284-sender-with-largest-word-count) |
 | [2301-match-substring-after-replacement](https://github.com/gauthamnholla/coding-practice/tree/master/2301-match-substring-after-replacement) |
+| [2306-naming-a-company](https://github.com/gauthamnholla/coding-practice/tree/master/2306-naming-a-company) |
 | [2326-sum-of-scores-of-built-strings](https://github.com/gauthamnholla/coding-practice/tree/master/2326-sum-of-scores-of-built-strings) |
 | [2343-query-kth-smallest-trimmed-number](https://github.com/gauthamnholla/coding-practice/tree/master/2343-query-kth-smallest-trimmed-number) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/gauthamnholla/coding-practice/tree/master/2346-largest-3-same-digit-number-in-string) |
@@ -5057,6 +5061,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2206-divide-array-into-equal-pairs](https://github.com/gauthamnholla/coding-practice/tree/master/2206-divide-array-into-equal-pairs) |
 | [2275-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/gauthamnholla/coding-practice/tree/master/2275-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2305-fair-distribution-of-cookies](https://github.com/gauthamnholla/coding-practice/tree/master/2305-fair-distribution-of-cookies) |
+| [2306-naming-a-company](https://github.com/gauthamnholla/coding-practice/tree/master/2306-naming-a-company) |
 | [2317-maximum-xor-after-operations](https://github.com/gauthamnholla/coding-practice/tree/master/2317-maximum-xor-after-operations) |
 | [2397-maximum-rows-covered-by-columns](https://github.com/gauthamnholla/coding-practice/tree/master/2397-maximum-rows-covered-by-columns) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/gauthamnholla/coding-practice/tree/master/2400-minimum-score-after-removals-on-a-tree) |
