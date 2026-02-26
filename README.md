@@ -2893,6 +2893,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/gauthamnholla/coding-practice/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [1324-print-words-vertically](https://github.com/gauthamnholla/coding-practice/tree/master/1324-print-words-vertically) |
 | [1389-create-target-array-in-the-given-order](https://github.com/gauthamnholla/coding-practice/tree/master/1389-create-target-array-in-the-given-order) |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/gauthamnholla/coding-practice/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1409-queries-on-a-permutation-with-key](https://github.com/gauthamnholla/coding-practice/tree/master/1409-queries-on-a-permutation-with-key) |
 | [1503-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/gauthamnholla/coding-practice/tree/master/1503-last-moment-before-all-ants-fall-out-of-a-plank) |
 | [1535-find-the-winner-of-an-array-game](https://github.com/gauthamnholla/coding-practice/tree/master/1535-find-the-winner-of-an-array-game) |
@@ -4392,6 +4393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1360-number-of-days-between-two-dates](https://github.com/gauthamnholla/coding-practice/tree/master/1360-number-of-days-between-two-dates) |
 | [1366-rank-teams-by-votes](https://github.com/gauthamnholla/coding-practice/tree/master/1366-rank-teams-by-votes) |
 | [1371-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/gauthamnholla/coding-practice/tree/master/1371-find-the-longest-substring-containing-vowels-in-even-counts) |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/gauthamnholla/coding-practice/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1405-longest-happy-string](https://github.com/gauthamnholla/coding-practice/tree/master/1405-longest-happy-string) |
 | [1408-string-matching-in-an-array](https://github.com/gauthamnholla/coding-practice/tree/master/1408-string-matching-in-an-array) |
 | [1433-check-if-a-string-can-break-another-string](https://github.com/gauthamnholla/coding-practice/tree/master/1433-check-if-a-string-can-break-another-string) |
@@ -5030,6 +5032,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/gauthamnholla/coding-practice/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1371-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/gauthamnholla/coding-practice/tree/master/1371-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1386-cinema-seat-allocation](https://github.com/gauthamnholla/coding-practice/tree/master/1386-cinema-seat-allocation) |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/gauthamnholla/coding-practice/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1434-number-of-ways-to-wear-different-hats-to-each-other](https://github.com/gauthamnholla/coding-practice/tree/master/1434-number-of-ways-to-wear-different-hats-to-each-other) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/gauthamnholla/coding-practice/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1457-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/gauthamnholla/coding-practice/tree/master/1457-pseudo-palindromic-paths-in-a-binary-tree) |
