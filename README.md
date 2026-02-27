@@ -1245,6 +1245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/gauthamnholla/coding-practice/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/gauthamnholla/coding-practice/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3593-minimum-increments-to-equalize-leaf-paths](https://github.com/gauthamnholla/coding-practice/tree/master/3593-minimum-increments-to-equalize-leaf-paths) |
+| [3594-minimum-time-to-transport-all-individuals](https://github.com/gauthamnholla/coding-practice/tree/master/3594-minimum-time-to-transport-all-individuals) |
 | [3599-partition-array-to-minimize-xor](https://github.com/gauthamnholla/coding-practice/tree/master/3599-partition-array-to-minimize-xor) |
 | [3603-minimum-cost-path-with-alternating-directions-ii](https://github.com/gauthamnholla/coding-practice/tree/master/3603-minimum-cost-path-with-alternating-directions-ii) |
 | [3605-minimum-stability-factor-of-array](https://github.com/gauthamnholla/coding-practice/tree/master/3605-minimum-stability-factor-of-array) |
@@ -2181,6 +2182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/gauthamnholla/coding-practice/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3572-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues](https://github.com/gauthamnholla/coding-practice/tree/master/3572-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/gauthamnholla/coding-practice/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
+| [3594-minimum-time-to-transport-all-individuals](https://github.com/gauthamnholla/coding-practice/tree/master/3594-minimum-time-to-transport-all-individuals) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/gauthamnholla/coding-practice/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3620-network-recovery-pathways](https://github.com/gauthamnholla/coding-practice/tree/master/3620-network-recovery-pathways) |
 | [3645-maximum-total-from-optimal-activation-order](https://github.com/gauthamnholla/coding-practice/tree/master/3645-maximum-total-from-optimal-activation-order) |
@@ -3332,6 +3334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/gauthamnholla/coding-practice/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3585-find-weighted-median-node-in-tree](https://github.com/gauthamnholla/coding-practice/tree/master/3585-find-weighted-median-node-in-tree) |
 | [3593-minimum-increments-to-equalize-leaf-paths](https://github.com/gauthamnholla/coding-practice/tree/master/3593-minimum-increments-to-equalize-leaf-paths) |
+| [3594-minimum-time-to-transport-all-individuals](https://github.com/gauthamnholla/coding-practice/tree/master/3594-minimum-time-to-transport-all-individuals) |
 | [3599-partition-array-to-minimize-xor](https://github.com/gauthamnholla/coding-practice/tree/master/3599-partition-array-to-minimize-xor) |
 | [3603-minimum-cost-path-with-alternating-directions-ii](https://github.com/gauthamnholla/coding-practice/tree/master/3603-minimum-cost-path-with-alternating-directions-ii) |
 | [3615-longest-palindromic-path-in-graph](https://github.com/gauthamnholla/coding-practice/tree/master/3615-longest-palindromic-path-in-graph) |
@@ -5108,6 +5111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/gauthamnholla/coding-practice/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/gauthamnholla/coding-practice/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3575-maximum-good-subtree-score](https://github.com/gauthamnholla/coding-practice/tree/master/3575-maximum-good-subtree-score) |
+| [3594-minimum-time-to-transport-all-individuals](https://github.com/gauthamnholla/coding-practice/tree/master/3594-minimum-time-to-transport-all-individuals) |
 | [3599-partition-array-to-minimize-xor](https://github.com/gauthamnholla/coding-practice/tree/master/3599-partition-array-to-minimize-xor) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/gauthamnholla/coding-practice/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/gauthamnholla/coding-practice/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
@@ -6837,6 +6841,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3376-minimum-time-to-break-locks-i](https://github.com/gauthamnholla/coding-practice/tree/master/3376-minimum-time-to-break-locks-i) |
 | [3530-maximum-profit-from-valid-topological-order-in-dag](https://github.com/gauthamnholla/coding-practice/tree/master/3530-maximum-profit-from-valid-topological-order-in-dag) |
 | [3575-maximum-good-subtree-score](https://github.com/gauthamnholla/coding-practice/tree/master/3575-maximum-good-subtree-score) |
+| [3594-minimum-time-to-transport-all-individuals](https://github.com/gauthamnholla/coding-practice/tree/master/3594-minimum-time-to-transport-all-individuals) |
 | [3615-longest-palindromic-path-in-graph](https://github.com/gauthamnholla/coding-practice/tree/master/3615-longest-palindromic-path-in-graph) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/gauthamnholla/coding-practice/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Graph
@@ -7247,6 +7252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3342-find-minimum-time-to-reach-last-room-ii](https://github.com/gauthamnholla/coding-practice/tree/master/3342-find-minimum-time-to-reach-last-room-ii) |
 | [3377-digit-operations-to-make-two-integers-equal](https://github.com/gauthamnholla/coding-practice/tree/master/3377-digit-operations-to-make-two-integers-equal) |
 | [3419-minimize-the-maximum-edge-weight-of-graph](https://github.com/gauthamnholla/coding-practice/tree/master/3419-minimize-the-maximum-edge-weight-of-graph) |
+| [3594-minimum-time-to-transport-all-individuals](https://github.com/gauthamnholla/coding-practice/tree/master/3594-minimum-time-to-transport-all-individuals) |
 | [3620-network-recovery-pathways](https://github.com/gauthamnholla/coding-practice/tree/master/3620-network-recovery-pathways) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/gauthamnholla/coding-practice/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Minimum Spanning Tree
@@ -7379,6 +7385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3341-find-minimum-time-to-reach-last-room-i](https://github.com/gauthamnholla/coding-practice/tree/master/3341-find-minimum-time-to-reach-last-room-i) |
 | [3342-find-minimum-time-to-reach-last-room-ii](https://github.com/gauthamnholla/coding-practice/tree/master/3342-find-minimum-time-to-reach-last-room-ii) |
 | [3377-digit-operations-to-make-two-integers-equal](https://github.com/gauthamnholla/coding-practice/tree/master/3377-digit-operations-to-make-two-integers-equal) |
+| [3594-minimum-time-to-transport-all-individuals](https://github.com/gauthamnholla/coding-practice/tree/master/3594-minimum-time-to-transport-all-individuals) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/gauthamnholla/coding-practice/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Sweep Line
 |  |
