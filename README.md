@@ -2183,6 +2183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3572-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues](https://github.com/gauthamnholla/coding-practice/tree/master/3572-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/gauthamnholla/coding-practice/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3594-minimum-time-to-transport-all-individuals](https://github.com/gauthamnholla/coding-practice/tree/master/3594-minimum-time-to-transport-all-individuals) |
+| [3604-minimum-time-to-reach-destination-in-directed-graph](https://github.com/gauthamnholla/coding-practice/tree/master/3604-minimum-time-to-reach-destination-in-directed-graph) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/gauthamnholla/coding-practice/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3620-network-recovery-pathways](https://github.com/gauthamnholla/coding-practice/tree/master/3620-network-recovery-pathways) |
 | [3645-maximum-total-from-optimal-activation-order](https://github.com/gauthamnholla/coding-practice/tree/master/3645-maximum-total-from-optimal-activation-order) |
@@ -7253,6 +7254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3377-digit-operations-to-make-two-integers-equal](https://github.com/gauthamnholla/coding-practice/tree/master/3377-digit-operations-to-make-two-integers-equal) |
 | [3419-minimize-the-maximum-edge-weight-of-graph](https://github.com/gauthamnholla/coding-practice/tree/master/3419-minimize-the-maximum-edge-weight-of-graph) |
 | [3594-minimum-time-to-transport-all-individuals](https://github.com/gauthamnholla/coding-practice/tree/master/3594-minimum-time-to-transport-all-individuals) |
+| [3604-minimum-time-to-reach-destination-in-directed-graph](https://github.com/gauthamnholla/coding-practice/tree/master/3604-minimum-time-to-reach-destination-in-directed-graph) |
 | [3620-network-recovery-pathways](https://github.com/gauthamnholla/coding-practice/tree/master/3620-network-recovery-pathways) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/gauthamnholla/coding-practice/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Minimum Spanning Tree
@@ -7386,6 +7388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3342-find-minimum-time-to-reach-last-room-ii](https://github.com/gauthamnholla/coding-practice/tree/master/3342-find-minimum-time-to-reach-last-room-ii) |
 | [3377-digit-operations-to-make-two-integers-equal](https://github.com/gauthamnholla/coding-practice/tree/master/3377-digit-operations-to-make-two-integers-equal) |
 | [3594-minimum-time-to-transport-all-individuals](https://github.com/gauthamnholla/coding-practice/tree/master/3594-minimum-time-to-transport-all-individuals) |
+| [3604-minimum-time-to-reach-destination-in-directed-graph](https://github.com/gauthamnholla/coding-practice/tree/master/3604-minimum-time-to-reach-destination-in-directed-graph) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/gauthamnholla/coding-practice/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Sweep Line
 |  |
