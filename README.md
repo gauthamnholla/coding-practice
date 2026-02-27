@@ -1108,6 +1108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3102-minimize-manhattan-distances](https://github.com/gauthamnholla/coding-practice/tree/master/3102-minimize-manhattan-distances) |
 | [3107-minimum-operations-to-make-median-of-array-equal-to-k](https://github.com/gauthamnholla/coding-practice/tree/master/3107-minimum-operations-to-make-median-of-array-equal-to-k) |
 | [3111-minimum-rectangles-to-cover-points](https://github.com/gauthamnholla/coding-practice/tree/master/3111-minimum-rectangles-to-cover-points) |
+| [3112-minimum-time-to-visit-disappearing-nodes](https://github.com/gauthamnholla/coding-practice/tree/master/3112-minimum-time-to-visit-disappearing-nodes) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/gauthamnholla/coding-practice/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3122-minimum-number-of-operations-to-satisfy-conditions](https://github.com/gauthamnholla/coding-practice/tree/master/3122-minimum-number-of-operations-to-satisfy-conditions) |
 | [3127-make-a-square-with-the-same-color](https://github.com/gauthamnholla/coding-practice/tree/master/3127-make-a-square-with-the-same-color) |
@@ -2168,6 +2169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/gauthamnholla/coding-practice/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3080-mark-elements-on-array-by-performing-queries](https://github.com/gauthamnholla/coding-practice/tree/master/3080-mark-elements-on-array-by-performing-queries) |
 | [3081-replace-question-marks-in-string-to-minimize-its-value](https://github.com/gauthamnholla/coding-practice/tree/master/3081-replace-question-marks-in-string-to-minimize-its-value) |
+| [3112-minimum-time-to-visit-disappearing-nodes](https://github.com/gauthamnholla/coding-practice/tree/master/3112-minimum-time-to-visit-disappearing-nodes) |
 | [3123-find-edges-in-shortest-paths](https://github.com/gauthamnholla/coding-practice/tree/master/3123-find-edges-in-shortest-paths) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/gauthamnholla/coding-practice/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/gauthamnholla/coding-practice/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
@@ -7249,6 +7251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2678-design-graph-with-shortest-path-calculator](https://github.com/gauthamnholla/coding-practice/tree/master/2678-design-graph-with-shortest-path-calculator) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/gauthamnholla/coding-practice/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/gauthamnholla/coding-practice/tree/master/2977-minimum-cost-to-convert-string-ii) |
+| [3112-minimum-time-to-visit-disappearing-nodes](https://github.com/gauthamnholla/coding-practice/tree/master/3112-minimum-time-to-visit-disappearing-nodes) |
 | [3123-find-edges-in-shortest-paths](https://github.com/gauthamnholla/coding-practice/tree/master/3123-find-edges-in-shortest-paths) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/gauthamnholla/coding-practice/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3341-find-minimum-time-to-reach-last-room-i](https://github.com/gauthamnholla/coding-practice/tree/master/3341-find-minimum-time-to-reach-last-room-i) |
@@ -7385,6 +7388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2045-second-minimum-time-to-reach-destination](https://github.com/gauthamnholla/coding-practice/tree/master/2045-second-minimum-time-to-reach-destination) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/gauthamnholla/coding-practice/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/gauthamnholla/coding-practice/tree/master/2977-minimum-cost-to-convert-string-ii) |
+| [3112-minimum-time-to-visit-disappearing-nodes](https://github.com/gauthamnholla/coding-practice/tree/master/3112-minimum-time-to-visit-disappearing-nodes) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/gauthamnholla/coding-practice/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3311-construct-2d-grid-matching-graph-layout](https://github.com/gauthamnholla/coding-practice/tree/master/3311-construct-2d-grid-matching-graph-layout) |
 | [3341-find-minimum-time-to-reach-last-room-i](https://github.com/gauthamnholla/coding-practice/tree/master/3341-find-minimum-time-to-reach-last-room-i) |
