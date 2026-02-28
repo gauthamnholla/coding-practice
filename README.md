@@ -759,6 +759,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1901-find-a-peak-element-ii](https://github.com/gauthamnholla/coding-practice/tree/master/1901-find-a-peak-element-ii) |
 | [1905-count-sub-islands](https://github.com/gauthamnholla/coding-practice/tree/master/1905-count-sub-islands) |
 | [1906-minimum-absolute-difference-queries](https://github.com/gauthamnholla/coding-practice/tree/master/1906-minimum-absolute-difference-queries) |
+| [1909-remove-one-element-to-make-the-array-strictly-increasing](https://github.com/gauthamnholla/coding-practice/tree/master/1909-remove-one-element-to-make-the-array-strictly-increasing) |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/gauthamnholla/coding-practice/tree/master/1911-maximum-alternating-subsequence-sum) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/gauthamnholla/coding-practice/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [1914-cyclically-rotating-a-grid](https://github.com/gauthamnholla/coding-practice/tree/master/1914-cyclically-rotating-a-grid) |
