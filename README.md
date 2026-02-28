@@ -762,6 +762,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1917-maximum-average-pass-ratio](https://github.com/gauthamnholla/coding-practice/tree/master/1917-maximum-average-pass-ratio) |
 | [1920-build-array-from-permutation](https://github.com/gauthamnholla/coding-practice/tree/master/1920-build-array-from-permutation) |
 | [1921-eliminate-maximum-number-of-monsters](https://github.com/gauthamnholla/coding-practice/tree/master/1921-eliminate-maximum-number-of-monsters) |
+| [1923-longest-common-subpath](https://github.com/gauthamnholla/coding-practice/tree/master/1923-longest-common-subpath) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/gauthamnholla/coding-practice/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [1937-maximum-number-of-points-with-cost](https://github.com/gauthamnholla/coding-practice/tree/master/1937-maximum-number-of-points-with-cost) |
 | [1938-maximum-genetic-difference-query](https://github.com/gauthamnholla/coding-practice/tree/master/1938-maximum-genetic-difference-query) |
@@ -5731,6 +5732,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1894-find-the-student-that-will-replace-the-chalk](https://github.com/gauthamnholla/coding-practice/tree/master/1894-find-the-student-that-will-replace-the-chalk) |
 | [1898-maximum-number-of-removable-characters](https://github.com/gauthamnholla/coding-practice/tree/master/1898-maximum-number-of-removable-characters) |
 | [1901-find-a-peak-element-ii](https://github.com/gauthamnholla/coding-practice/tree/master/1901-find-a-peak-element-ii) |
+| [1923-longest-common-subpath](https://github.com/gauthamnholla/coding-practice/tree/master/1923-longest-common-subpath) |
 | [1932-merge-bsts-to-create-single-bst](https://github.com/gauthamnholla/coding-practice/tree/master/1932-merge-bsts-to-create-single-bst) |
 | [1954-minimum-garden-perimeter-to-collect-enough-apples](https://github.com/gauthamnholla/coding-practice/tree/master/1954-minimum-garden-perimeter-to-collect-enough-apples) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/gauthamnholla/coding-practice/tree/master/1970-last-day-where-you-can-still-cross) |
@@ -7187,6 +7189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1147-longest-chunked-palindrome-decomposition](https://github.com/gauthamnholla/coding-practice/tree/master/1147-longest-chunked-palindrome-decomposition) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/gauthamnholla/coding-practice/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1508-longest-happy-prefix](https://github.com/gauthamnholla/coding-practice/tree/master/1508-longest-happy-prefix) |
+| [1923-longest-common-subpath](https://github.com/gauthamnholla/coding-practice/tree/master/1923-longest-common-subpath) |
 | [2261-k-divisible-elements-subarrays](https://github.com/gauthamnholla/coding-practice/tree/master/2261-k-divisible-elements-subarrays) |
 | [2326-sum-of-scores-of-built-strings](https://github.com/gauthamnholla/coding-practice/tree/master/2326-sum-of-scores-of-built-strings) |
 | [3006-find-beautiful-indices-in-the-given-array-i](https://github.com/gauthamnholla/coding-practice/tree/master/3006-find-beautiful-indices-in-the-given-array-i) |
@@ -7227,6 +7230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1147-longest-chunked-palindrome-decomposition](https://github.com/gauthamnholla/coding-practice/tree/master/1147-longest-chunked-palindrome-decomposition) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/gauthamnholla/coding-practice/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1508-longest-happy-prefix](https://github.com/gauthamnholla/coding-practice/tree/master/1508-longest-happy-prefix) |
+| [1923-longest-common-subpath](https://github.com/gauthamnholla/coding-practice/tree/master/1923-longest-common-subpath) |
 | [2261-k-divisible-elements-subarrays](https://github.com/gauthamnholla/coding-practice/tree/master/2261-k-divisible-elements-subarrays) |
 | [2326-sum-of-scores-of-built-strings](https://github.com/gauthamnholla/coding-practice/tree/master/2326-sum-of-scores-of-built-strings) |
 | [3006-find-beautiful-indices-in-the-given-array-i](https://github.com/gauthamnholla/coding-practice/tree/master/3006-find-beautiful-indices-in-the-given-array-i) |
@@ -7235,6 +7239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Suffix Array
 |  |
 | ------- |
+| [1923-longest-common-subpath](https://github.com/gauthamnholla/coding-practice/tree/master/1923-longest-common-subpath) |
 | [2326-sum-of-scores-of-built-strings](https://github.com/gauthamnholla/coding-practice/tree/master/2326-sum-of-scores-of-built-strings) |
 ## Shortest Path
 |  |
