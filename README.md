@@ -809,6 +809,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2039-the-time-when-the-network-becomes-idle](https://github.com/gauthamnholla/coding-practice/tree/master/2039-the-time-when-the-network-becomes-idle) |
 | [2049-count-nodes-with-the-highest-score](https://github.com/gauthamnholla/coding-practice/tree/master/2049-count-nodes-with-the-highest-score) |
 | [2050-parallel-courses-iii](https://github.com/gauthamnholla/coding-practice/tree/master/2050-parallel-courses-iii) |
+| [2053-kth-distinct-string-in-an-array](https://github.com/gauthamnholla/coding-practice/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2054-two-best-non-overlapping-events](https://github.com/gauthamnholla/coding-practice/tree/master/2054-two-best-non-overlapping-events) |
 | [2055-plates-between-candles](https://github.com/gauthamnholla/coding-practice/tree/master/2055-plates-between-candles) |
 | [2058-concatenation-of-array](https://github.com/gauthamnholla/coding-practice/tree/master/2058-concatenation-of-array) |
@@ -2639,6 +2640,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2023-design-movie-rental-system](https://github.com/gauthamnholla/coding-practice/tree/master/2023-design-movie-rental-system) |
 | [2025-maximum-number-of-ways-to-partition-an-array](https://github.com/gauthamnholla/coding-practice/tree/master/2025-maximum-number-of-ways-to-partition-an-array) |
 | [2032-two-out-of-three](https://github.com/gauthamnholla/coding-practice/tree/master/2032-two-out-of-three) |
+| [2053-kth-distinct-string-in-an-array](https://github.com/gauthamnholla/coding-practice/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/gauthamnholla/coding-practice/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2094-finding-3-digit-even-numbers](https://github.com/gauthamnholla/coding-practice/tree/master/2094-finding-3-digit-even-numbers) |
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/gauthamnholla/coding-practice/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
@@ -4469,6 +4471,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2019-the-score-of-students-solving-math-expression](https://github.com/gauthamnholla/coding-practice/tree/master/2019-the-score-of-students-solving-math-expression) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/gauthamnholla/coding-practice/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2038-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/gauthamnholla/coding-practice/tree/master/2038-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
+| [2053-kth-distinct-string-in-an-array](https://github.com/gauthamnholla/coding-practice/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2055-plates-between-candles](https://github.com/gauthamnholla/coding-practice/tree/master/2055-plates-between-candles) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/gauthamnholla/coding-practice/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2063-vowels-of-all-substrings](https://github.com/gauthamnholla/coding-practice/tree/master/2063-vowels-of-all-substrings) |
@@ -6273,6 +6276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/gauthamnholla/coding-practice/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
 | [2025-maximum-number-of-ways-to-partition-an-array](https://github.com/gauthamnholla/coding-practice/tree/master/2025-maximum-number-of-ways-to-partition-an-array) |
 | [2029-stone-game-ix](https://github.com/gauthamnholla/coding-practice/tree/master/2029-stone-game-ix) |
+| [2053-kth-distinct-string-in-an-array](https://github.com/gauthamnholla/coding-practice/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/gauthamnholla/coding-practice/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/gauthamnholla/coding-practice/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/gauthamnholla/coding-practice/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
