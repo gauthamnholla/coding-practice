@@ -797,6 +797,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2007-find-original-array-from-doubled-array](https://github.com/gauthamnholla/coding-practice/tree/master/2007-find-original-array-from-doubled-array) |
 | [2008-maximum-earnings-from-taxi](https://github.com/gauthamnholla/coding-practice/tree/master/2008-maximum-earnings-from-taxi) |
 | [2009-minimum-number-of-operations-to-make-array-continuous](https://github.com/gauthamnholla/coding-practice/tree/master/2009-minimum-number-of-operations-to-make-array-continuous) |
+| [2012-sum-of-beauty-in-the-array](https://github.com/gauthamnholla/coding-practice/tree/master/2012-sum-of-beauty-in-the-array) |
 | [2017-grid-game](https://github.com/gauthamnholla/coding-practice/tree/master/2017-grid-game) |
 | [2018-check-if-word-can-be-placed-in-crossword](https://github.com/gauthamnholla/coding-practice/tree/master/2018-check-if-word-can-be-placed-in-crossword) |
 | [2019-the-score-of-students-solving-math-expression](https://github.com/gauthamnholla/coding-practice/tree/master/2019-the-score-of-students-solving-math-expression) |
