@@ -815,6 +815,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2056-number-of-valid-move-combinations-on-chessboard](https://github.com/gauthamnholla/coding-practice/tree/master/2056-number-of-valid-move-combinations-on-chessboard) |
 | [2057-smallest-index-with-equal-value](https://github.com/gauthamnholla/coding-practice/tree/master/2057-smallest-index-with-equal-value) |
 | [2058-concatenation-of-array](https://github.com/gauthamnholla/coding-practice/tree/master/2058-concatenation-of-array) |
+| [2059-minimum-operations-to-convert-number](https://github.com/gauthamnholla/coding-practice/tree/master/2059-minimum-operations-to-convert-number) |
 | [2071-maximum-number-of-tasks-you-can-assign](https://github.com/gauthamnholla/coding-practice/tree/master/2071-maximum-number-of-tasks-you-can-assign) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/gauthamnholla/coding-practice/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2079-watering-plants](https://github.com/gauthamnholla/coding-practice/tree/master/2079-watering-plants) |
@@ -6742,6 +6743,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1993-operations-on-tree](https://github.com/gauthamnholla/coding-practice/tree/master/1993-operations-on-tree) |
 | [2039-the-time-when-the-network-becomes-idle](https://github.com/gauthamnholla/coding-practice/tree/master/2039-the-time-when-the-network-becomes-idle) |
 | [2045-second-minimum-time-to-reach-destination](https://github.com/gauthamnholla/coding-practice/tree/master/2045-second-minimum-time-to-reach-destination) |
+| [2059-minimum-operations-to-convert-number](https://github.com/gauthamnholla/coding-practice/tree/master/2059-minimum-operations-to-convert-number) |
 | [2092-find-all-people-with-secret](https://github.com/gauthamnholla/coding-practice/tree/master/2092-find-all-people-with-secret) |
 | [2101-detonate-the-maximum-bombs](https://github.com/gauthamnholla/coding-practice/tree/master/2101-detonate-the-maximum-bombs) |
 | [2121-find-if-path-exists-in-graph](https://github.com/gauthamnholla/coding-practice/tree/master/2121-find-if-path-exists-in-graph) |
