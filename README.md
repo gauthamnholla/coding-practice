@@ -804,6 +804,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2019-the-score-of-students-solving-math-expression](https://github.com/gauthamnholla/coding-practice/tree/master/2019-the-score-of-students-solving-math-expression) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/gauthamnholla/coding-practice/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2023-design-movie-rental-system](https://github.com/gauthamnholla/coding-practice/tree/master/2023-design-movie-rental-system) |
+| [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/gauthamnholla/coding-practice/tree/master/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2025-maximum-number-of-ways-to-partition-an-array](https://github.com/gauthamnholla/coding-practice/tree/master/2025-maximum-number-of-ways-to-partition-an-array) |
 | [2028-find-missing-observations](https://github.com/gauthamnholla/coding-practice/tree/master/2028-find-missing-observations) |
 | [2029-stone-game-ix](https://github.com/gauthamnholla/coding-practice/tree/master/2029-stone-game-ix) |
@@ -2652,6 +2653,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2013-detect-squares](https://github.com/gauthamnholla/coding-practice/tree/master/2013-detect-squares) |
 | [2019-the-score-of-students-solving-math-expression](https://github.com/gauthamnholla/coding-practice/tree/master/2019-the-score-of-students-solving-math-expression) |
 | [2023-design-movie-rental-system](https://github.com/gauthamnholla/coding-practice/tree/master/2023-design-movie-rental-system) |
+| [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/gauthamnholla/coding-practice/tree/master/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2025-maximum-number-of-ways-to-partition-an-array](https://github.com/gauthamnholla/coding-practice/tree/master/2025-maximum-number-of-ways-to-partition-an-array) |
 | [2032-two-out-of-three](https://github.com/gauthamnholla/coding-practice/tree/master/2032-two-out-of-three) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/gauthamnholla/coding-practice/tree/master/2053-kth-distinct-string-in-an-array) |
@@ -4485,6 +4487,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/gauthamnholla/coding-practice/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2000-reverse-prefix-of-word](https://github.com/gauthamnholla/coding-practice/tree/master/2000-reverse-prefix-of-word) |
 | [2019-the-score-of-students-solving-math-expression](https://github.com/gauthamnholla/coding-practice/tree/master/2019-the-score-of-students-solving-math-expression) |
+| [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/gauthamnholla/coding-practice/tree/master/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/gauthamnholla/coding-practice/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2038-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/gauthamnholla/coding-practice/tree/master/2038-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/gauthamnholla/coding-practice/tree/master/2053-kth-distinct-string-in-an-array) |
@@ -6295,6 +6298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/gauthamnholla/coding-practice/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/gauthamnholla/coding-practice/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2013-detect-squares](https://github.com/gauthamnholla/coding-practice/tree/master/2013-detect-squares) |
+| [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/gauthamnholla/coding-practice/tree/master/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2025-maximum-number-of-ways-to-partition-an-array](https://github.com/gauthamnholla/coding-practice/tree/master/2025-maximum-number-of-ways-to-partition-an-array) |
 | [2029-stone-game-ix](https://github.com/gauthamnholla/coding-practice/tree/master/2029-stone-game-ix) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/gauthamnholla/coding-practice/tree/master/2053-kth-distinct-string-in-an-array) |
