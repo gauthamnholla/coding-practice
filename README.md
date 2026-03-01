@@ -796,6 +796,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/gauthamnholla/coding-practice/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2007-find-original-array-from-doubled-array](https://github.com/gauthamnholla/coding-practice/tree/master/2007-find-original-array-from-doubled-array) |
 | [2008-maximum-earnings-from-taxi](https://github.com/gauthamnholla/coding-practice/tree/master/2008-maximum-earnings-from-taxi) |
+| [2009-minimum-number-of-operations-to-make-array-continuous](https://github.com/gauthamnholla/coding-practice/tree/master/2009-minimum-number-of-operations-to-make-array-continuous) |
 | [2017-grid-game](https://github.com/gauthamnholla/coding-practice/tree/master/2017-grid-game) |
 | [2018-check-if-word-can-be-placed-in-crossword](https://github.com/gauthamnholla/coding-practice/tree/master/2018-check-if-word-can-be-placed-in-crossword) |
 | [2019-the-score-of-students-solving-math-expression](https://github.com/gauthamnholla/coding-practice/tree/master/2019-the-score-of-students-solving-math-expression) |
@@ -2260,6 +2261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1838-frequency-of-the-most-frequent-element](https://github.com/gauthamnholla/coding-practice/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1871-jump-game-vii](https://github.com/gauthamnholla/coding-practice/tree/master/1871-jump-game-vii) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/gauthamnholla/coding-practice/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2009-minimum-number-of-operations-to-make-array-continuous](https://github.com/gauthamnholla/coding-practice/tree/master/2009-minimum-number-of-operations-to-make-array-continuous) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/gauthamnholla/coding-practice/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2090-k-radius-subarray-averages](https://github.com/gauthamnholla/coding-practice/tree/master/2090-k-radius-subarray-averages) |
 | [2134-minimum-swaps-to-group-all-1s-together-ii](https://github.com/gauthamnholla/coding-practice/tree/master/2134-minimum-swaps-to-group-all-1s-together-ii) |
@@ -2644,6 +2646,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/gauthamnholla/coding-practice/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2007-find-original-array-from-doubled-array](https://github.com/gauthamnholla/coding-practice/tree/master/2007-find-original-array-from-doubled-array) |
 | [2008-maximum-earnings-from-taxi](https://github.com/gauthamnholla/coding-practice/tree/master/2008-maximum-earnings-from-taxi) |
+| [2009-minimum-number-of-operations-to-make-array-continuous](https://github.com/gauthamnholla/coding-practice/tree/master/2009-minimum-number-of-operations-to-make-array-continuous) |
 | [2019-the-score-of-students-solving-math-expression](https://github.com/gauthamnholla/coding-practice/tree/master/2019-the-score-of-students-solving-math-expression) |
 | [2023-design-movie-rental-system](https://github.com/gauthamnholla/coding-practice/tree/master/2023-design-movie-rental-system) |
 | [2025-maximum-number-of-ways-to-partition-an-array](https://github.com/gauthamnholla/coding-practice/tree/master/2025-maximum-number-of-ways-to-partition-an-array) |
@@ -5765,6 +5768,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1954-minimum-garden-perimeter-to-collect-enough-apples](https://github.com/gauthamnholla/coding-practice/tree/master/1954-minimum-garden-perimeter-to-collect-enough-apples) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/gauthamnholla/coding-practice/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2008-maximum-earnings-from-taxi](https://github.com/gauthamnholla/coding-practice/tree/master/2008-maximum-earnings-from-taxi) |
+| [2009-minimum-number-of-operations-to-make-array-continuous](https://github.com/gauthamnholla/coding-practice/tree/master/2009-minimum-number-of-operations-to-make-array-continuous) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/gauthamnholla/coding-practice/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/gauthamnholla/coding-practice/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2054-two-best-non-overlapping-events](https://github.com/gauthamnholla/coding-practice/tree/master/2054-two-best-non-overlapping-events) |
