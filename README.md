@@ -1473,6 +1473,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1673-find-the-most-competitive-subsequence](https://github.com/gauthamnholla/coding-practice/tree/master/1673-find-the-most-competitive-subsequence) |
 | [1675-minimize-deviation-in-array](https://github.com/gauthamnholla/coding-practice/tree/master/1675-minimize-deviation-in-array) |
 | [1686-stone-game-vi](https://github.com/gauthamnholla/coding-practice/tree/master/1686-stone-game-vi) |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/gauthamnholla/coding-practice/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/gauthamnholla/coding-practice/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1703-minimum-adjacent-swaps-for-k-consecutive-ones](https://github.com/gauthamnholla/coding-practice/tree/master/1703-minimum-adjacent-swaps-for-k-consecutive-ones) |
 | [1705-maximum-number-of-eaten-apples](https://github.com/gauthamnholla/coding-practice/tree/master/1705-maximum-number-of-eaten-apples) |
@@ -4437,6 +4438,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/gauthamnholla/coding-practice/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/gauthamnholla/coding-practice/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/gauthamnholla/coding-practice/tree/master/1684-count-the-number-of-consistent-strings) |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/gauthamnholla/coding-practice/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/gauthamnholla/coding-practice/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/gauthamnholla/coding-practice/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/gauthamnholla/coding-practice/tree/master/1750-minimum-length-of-string-after-deleting-similar-ends) |
