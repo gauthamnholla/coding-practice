@@ -812,6 +812,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2053-kth-distinct-string-in-an-array](https://github.com/gauthamnholla/coding-practice/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2054-two-best-non-overlapping-events](https://github.com/gauthamnholla/coding-practice/tree/master/2054-two-best-non-overlapping-events) |
 | [2055-plates-between-candles](https://github.com/gauthamnholla/coding-practice/tree/master/2055-plates-between-candles) |
+| [2056-number-of-valid-move-combinations-on-chessboard](https://github.com/gauthamnholla/coding-practice/tree/master/2056-number-of-valid-move-combinations-on-chessboard) |
 | [2058-concatenation-of-array](https://github.com/gauthamnholla/coding-practice/tree/master/2058-concatenation-of-array) |
 | [2071-maximum-number-of-tasks-you-can-assign](https://github.com/gauthamnholla/coding-practice/tree/master/2071-maximum-number-of-tasks-you-can-assign) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/gauthamnholla/coding-practice/tree/master/2078-two-furthest-houses-with-different-colors) |
@@ -2939,6 +2940,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1920-build-array-from-permutation](https://github.com/gauthamnholla/coding-practice/tree/master/1920-build-array-from-permutation) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/gauthamnholla/coding-practice/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2028-find-missing-observations](https://github.com/gauthamnholla/coding-practice/tree/master/2028-find-missing-observations) |
+| [2056-number-of-valid-move-combinations-on-chessboard](https://github.com/gauthamnholla/coding-practice/tree/master/2056-number-of-valid-move-combinations-on-chessboard) |
 | [2058-concatenation-of-array](https://github.com/gauthamnholla/coding-practice/tree/master/2058-concatenation-of-array) |
 | [2079-watering-plants](https://github.com/gauthamnholla/coding-practice/tree/master/2079-watering-plants) |
 | [2105-watering-plants-ii](https://github.com/gauthamnholla/coding-practice/tree/master/2105-watering-plants-ii) |
@@ -4473,6 +4475,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2038-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/gauthamnholla/coding-practice/tree/master/2038-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/gauthamnholla/coding-practice/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2055-plates-between-candles](https://github.com/gauthamnholla/coding-practice/tree/master/2055-plates-between-candles) |
+| [2056-number-of-valid-move-combinations-on-chessboard](https://github.com/gauthamnholla/coding-practice/tree/master/2056-number-of-valid-move-combinations-on-chessboard) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/gauthamnholla/coding-practice/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2063-vowels-of-all-substrings](https://github.com/gauthamnholla/coding-practice/tree/master/2063-vowels-of-all-substrings) |
 | [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/gauthamnholla/coding-practice/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
@@ -5619,6 +5622,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1774-closest-dessert-cost](https://github.com/gauthamnholla/coding-practice/tree/master/1774-closest-dessert-cost) |
 | [1799-maximize-score-after-n-operations](https://github.com/gauthamnholla/coding-practice/tree/master/1799-maximize-score-after-n-operations) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/gauthamnholla/coding-practice/tree/master/1863-sum-of-all-subset-xor-totals) |
+| [2056-number-of-valid-move-combinations-on-chessboard](https://github.com/gauthamnholla/coding-practice/tree/master/2056-number-of-valid-move-combinations-on-chessboard) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/gauthamnholla/coding-practice/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/gauthamnholla/coding-practice/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/gauthamnholla/coding-practice/tree/master/2174-next-greater-numerically-balanced-number) |
