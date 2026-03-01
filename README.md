@@ -806,6 +806,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/gauthamnholla/coding-practice/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/gauthamnholla/coding-practice/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/gauthamnholla/coding-practice/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
+| [2039-the-time-when-the-network-becomes-idle](https://github.com/gauthamnholla/coding-practice/tree/master/2039-the-time-when-the-network-becomes-idle) |
 | [2049-count-nodes-with-the-highest-score](https://github.com/gauthamnholla/coding-practice/tree/master/2049-count-nodes-with-the-highest-score) |
 | [2050-parallel-courses-iii](https://github.com/gauthamnholla/coding-practice/tree/master/2050-parallel-courses-iii) |
 | [2054-two-best-non-overlapping-events](https://github.com/gauthamnholla/coding-practice/tree/master/2054-two-best-non-overlapping-events) |
@@ -6730,6 +6731,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1970-last-day-where-you-can-still-cross](https://github.com/gauthamnholla/coding-practice/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1992-find-all-groups-of-farmland](https://github.com/gauthamnholla/coding-practice/tree/master/1992-find-all-groups-of-farmland) |
 | [1993-operations-on-tree](https://github.com/gauthamnholla/coding-practice/tree/master/1993-operations-on-tree) |
+| [2039-the-time-when-the-network-becomes-idle](https://github.com/gauthamnholla/coding-practice/tree/master/2039-the-time-when-the-network-becomes-idle) |
 | [2045-second-minimum-time-to-reach-destination](https://github.com/gauthamnholla/coding-practice/tree/master/2045-second-minimum-time-to-reach-destination) |
 | [2092-find-all-people-with-secret](https://github.com/gauthamnholla/coding-practice/tree/master/2092-find-all-people-with-secret) |
 | [2101-detonate-the-maximum-bombs](https://github.com/gauthamnholla/coding-practice/tree/master/2101-detonate-the-maximum-bombs) |
@@ -7407,6 +7409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0990-satisfiability-of-equality-equations](https://github.com/gauthamnholla/coding-practice/tree/master/0990-satisfiability-of-equality-equations) |
 | [1719-number-of-ways-to-reconstruct-a-tree](https://github.com/gauthamnholla/coding-practice/tree/master/1719-number-of-ways-to-reconstruct-a-tree) |
+| [2039-the-time-when-the-network-becomes-idle](https://github.com/gauthamnholla/coding-practice/tree/master/2039-the-time-when-the-network-becomes-idle) |
 | [2045-second-minimum-time-to-reach-destination](https://github.com/gauthamnholla/coding-practice/tree/master/2045-second-minimum-time-to-reach-destination) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/gauthamnholla/coding-practice/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/gauthamnholla/coding-practice/tree/master/2977-minimum-cost-to-convert-string-ii) |
