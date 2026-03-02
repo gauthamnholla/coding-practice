@@ -869,6 +869,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2183-count-array-pairs-divisible-by-k](https://github.com/gauthamnholla/coding-practice/tree/master/2183-count-array-pairs-divisible-by-k) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/gauthamnholla/coding-practice/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2187-minimum-time-to-complete-trips](https://github.com/gauthamnholla/coding-practice/tree/master/2187-minimum-time-to-complete-trips) |
+| [2188-minimum-time-to-finish-the-race](https://github.com/gauthamnholla/coding-practice/tree/master/2188-minimum-time-to-finish-the-race) |
 | [2189-maximum-path-quality-of-a-graph](https://github.com/gauthamnholla/coding-practice/tree/master/2189-maximum-path-quality-of-a-graph) |
 | [2190-most-frequent-number-following-key-in-an-array](https://github.com/gauthamnholla/coding-practice/tree/master/2190-most-frequent-number-following-key-in-an-array) |
 | [2191-sort-the-jumbled-numbers](https://github.com/gauthamnholla/coding-practice/tree/master/2191-sort-the-jumbled-numbers) |
@@ -3279,6 +3280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2100-find-good-days-to-rob-the-bank](https://github.com/gauthamnholla/coding-practice/tree/master/2100-find-good-days-to-rob-the-bank) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/gauthamnholla/coding-practice/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/gauthamnholla/coding-practice/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
+| [2188-minimum-time-to-finish-the-race](https://github.com/gauthamnholla/coding-practice/tree/master/2188-minimum-time-to-finish-the-race) |
 | [2209-minimum-white-tiles-after-covering-with-carpets](https://github.com/gauthamnholla/coding-practice/tree/master/2209-minimum-white-tiles-after-covering-with-carpets) |
 | [2218-maximum-value-of-k-coins-from-piles](https://github.com/gauthamnholla/coding-practice/tree/master/2218-maximum-value-of-k-coins-from-piles) |
 | [2266-count-number-of-texts](https://github.com/gauthamnholla/coding-practice/tree/master/2266-count-number-of-texts) |
