@@ -864,6 +864,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2166-design-bitset](https://github.com/gauthamnholla/coding-practice/tree/master/2166-design-bitset) |
 | [2169-simple-bank-system](https://github.com/gauthamnholla/coding-practice/tree/master/2169-simple-bank-system) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/gauthamnholla/coding-practice/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [2170-minimum-operations-to-make-the-array-alternating](https://github.com/gauthamnholla/coding-practice/tree/master/2170-minimum-operations-to-make-the-array-alternating) |
 | [2171-removing-minimum-number-of-magic-beans](https://github.com/gauthamnholla/coding-practice/tree/master/2171-removing-minimum-number-of-magic-beans) |
 | [2172-maximum-and-sum-of-array](https://github.com/gauthamnholla/coding-practice/tree/master/2172-maximum-and-sum-of-array) |
 | [2179-count-good-triplets-in-an-array](https://github.com/gauthamnholla/coding-practice/tree/master/2179-count-good-triplets-in-an-array) |
@@ -1544,6 +1545,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2141-maximum-running-time-of-n-computers](https://github.com/gauthamnholla/coding-practice/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/gauthamnholla/coding-practice/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/gauthamnholla/coding-practice/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
+| [2170-minimum-operations-to-make-the-array-alternating](https://github.com/gauthamnholla/coding-practice/tree/master/2170-minimum-operations-to-make-the-array-alternating) |
 | [2171-removing-minimum-number-of-magic-beans](https://github.com/gauthamnholla/coding-practice/tree/master/2171-removing-minimum-number-of-magic-beans) |
 | [2178-maximum-split-of-positive-even-integers](https://github.com/gauthamnholla/coding-practice/tree/master/2178-maximum-split-of-positive-even-integers) |
 | [2182-construct-string-with-repeat-limit](https://github.com/gauthamnholla/coding-practice/tree/master/2182-construct-string-with-repeat-limit) |
@@ -2677,6 +2679,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2157-groups-of-strings](https://github.com/gauthamnholla/coding-practice/tree/master/2157-groups-of-strings) |
 | [2166-design-bitset](https://github.com/gauthamnholla/coding-practice/tree/master/2166-design-bitset) |
 | [2169-simple-bank-system](https://github.com/gauthamnholla/coding-practice/tree/master/2169-simple-bank-system) |
+| [2170-minimum-operations-to-make-the-array-alternating](https://github.com/gauthamnholla/coding-practice/tree/master/2170-minimum-operations-to-make-the-array-alternating) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/gauthamnholla/coding-practice/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2182-construct-string-with-repeat-limit](https://github.com/gauthamnholla/coding-practice/tree/master/2182-construct-string-with-repeat-limit) |
 | [2190-most-frequent-number-following-key-in-an-array](https://github.com/gauthamnholla/coding-practice/tree/master/2190-most-frequent-number-following-key-in-an-array) |
@@ -6328,6 +6331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/gauthamnholla/coding-practice/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/gauthamnholla/coding-practice/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/gauthamnholla/coding-practice/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
+| [2170-minimum-operations-to-make-the-array-alternating](https://github.com/gauthamnholla/coding-practice/tree/master/2170-minimum-operations-to-make-the-array-alternating) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/gauthamnholla/coding-practice/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2182-construct-string-with-repeat-limit](https://github.com/gauthamnholla/coding-practice/tree/master/2182-construct-string-with-repeat-limit) |
 | [2190-most-frequent-number-following-key-in-an-array](https://github.com/gauthamnholla/coding-practice/tree/master/2190-most-frequent-number-following-key-in-an-array) |
