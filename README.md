@@ -872,6 +872,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2189-maximum-path-quality-of-a-graph](https://github.com/gauthamnholla/coding-practice/tree/master/2189-maximum-path-quality-of-a-graph) |
 | [2191-sort-the-jumbled-numbers](https://github.com/gauthamnholla/coding-practice/tree/master/2191-sort-the-jumbled-numbers) |
 | [2195-append-k-integers-with-minimal-sum](https://github.com/gauthamnholla/coding-practice/tree/master/2195-append-k-integers-with-minimal-sum) |
+| [2201-count-artifacts-that-can-be-extracted](https://github.com/gauthamnholla/coding-practice/tree/master/2201-count-artifacts-that-can-be-extracted) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/gauthamnholla/coding-practice/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2206-divide-array-into-equal-pairs](https://github.com/gauthamnholla/coding-practice/tree/master/2206-divide-array-into-equal-pairs) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/gauthamnholla/coding-practice/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -2675,6 +2676,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2169-simple-bank-system](https://github.com/gauthamnholla/coding-practice/tree/master/2169-simple-bank-system) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/gauthamnholla/coding-practice/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2182-construct-string-with-repeat-limit](https://github.com/gauthamnholla/coding-practice/tree/master/2182-construct-string-with-repeat-limit) |
+| [2201-count-artifacts-that-can-be-extracted](https://github.com/gauthamnholla/coding-practice/tree/master/2201-count-artifacts-that-can-be-extracted) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/gauthamnholla/coding-practice/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2206-divide-array-into-equal-pairs](https://github.com/gauthamnholla/coding-practice/tree/master/2206-divide-array-into-equal-pairs) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/gauthamnholla/coding-practice/tree/master/2215-find-the-difference-of-two-arrays) |
@@ -2974,6 +2976,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2169-simple-bank-system](https://github.com/gauthamnholla/coding-practice/tree/master/2169-simple-bank-system) |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/gauthamnholla/coding-practice/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/gauthamnholla/coding-practice/tree/master/2180-count-integers-with-even-digit-sum) |
+| [2201-count-artifacts-that-can-be-extracted](https://github.com/gauthamnholla/coding-practice/tree/master/2201-count-artifacts-that-can-be-extracted) |
 | [2211-count-collisions-on-a-road](https://github.com/gauthamnholla/coding-practice/tree/master/2211-count-collisions-on-a-road) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/gauthamnholla/coding-practice/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/gauthamnholla/coding-practice/tree/master/2274-keep-multiplying-found-values-by-two) |
