@@ -856,6 +856,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/gauthamnholla/coding-practice/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/gauthamnholla/coding-practice/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/gauthamnholla/coding-practice/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
+| [2155-all-divisions-with-the-highest-score-of-a-binary-array](https://github.com/gauthamnholla/coding-practice/tree/master/2155-all-divisions-with-the-highest-score-of-a-binary-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/gauthamnholla/coding-practice/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/gauthamnholla/coding-practice/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [2169-simple-bank-system](https://github.com/gauthamnholla/coding-practice/tree/master/2169-simple-bank-system) |
