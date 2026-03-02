@@ -861,6 +861,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2157-groups-of-strings](https://github.com/gauthamnholla/coding-practice/tree/master/2157-groups-of-strings) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/gauthamnholla/coding-practice/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/gauthamnholla/coding-practice/tree/master/2164-sort-even-and-odd-indices-independently) |
+| [2166-design-bitset](https://github.com/gauthamnholla/coding-practice/tree/master/2166-design-bitset) |
 | [2169-simple-bank-system](https://github.com/gauthamnholla/coding-practice/tree/master/2169-simple-bank-system) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/gauthamnholla/coding-practice/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2171-removing-minimum-number-of-magic-beans](https://github.com/gauthamnholla/coding-practice/tree/master/2171-removing-minimum-number-of-magic-beans) |
@@ -2670,6 +2671,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/gauthamnholla/coding-practice/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [2135-count-words-obtained-after-adding-a-letter](https://github.com/gauthamnholla/coding-practice/tree/master/2135-count-words-obtained-after-adding-a-letter) |
 | [2157-groups-of-strings](https://github.com/gauthamnholla/coding-practice/tree/master/2157-groups-of-strings) |
+| [2166-design-bitset](https://github.com/gauthamnholla/coding-practice/tree/master/2166-design-bitset) |
 | [2169-simple-bank-system](https://github.com/gauthamnholla/coding-practice/tree/master/2169-simple-bank-system) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/gauthamnholla/coding-practice/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2182-construct-string-with-repeat-limit](https://github.com/gauthamnholla/coding-practice/tree/master/2182-construct-string-with-repeat-limit) |
@@ -2888,6 +2890,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/gauthamnholla/coding-practice/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2013-detect-squares](https://github.com/gauthamnholla/coding-practice/tree/master/2013-detect-squares) |
 | [2023-design-movie-rental-system](https://github.com/gauthamnholla/coding-practice/tree/master/2023-design-movie-rental-system) |
+| [2166-design-bitset](https://github.com/gauthamnholla/coding-practice/tree/master/2166-design-bitset) |
 | [2169-simple-bank-system](https://github.com/gauthamnholla/coding-practice/tree/master/2169-simple-bank-system) |
 | [2227-encrypt-and-decrypt-strings](https://github.com/gauthamnholla/coding-practice/tree/master/2227-encrypt-and-decrypt-strings) |
 | [2241-design-an-atm-machine](https://github.com/gauthamnholla/coding-practice/tree/master/2241-design-an-atm-machine) |
@@ -4509,6 +4512,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2140-longest-subsequence-repeated-k-times](https://github.com/gauthamnholla/coding-practice/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/gauthamnholla/coding-practice/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2157-groups-of-strings](https://github.com/gauthamnholla/coding-practice/tree/master/2157-groups-of-strings) |
+| [2166-design-bitset](https://github.com/gauthamnholla/coding-practice/tree/master/2166-design-bitset) |
 | [2182-construct-string-with-repeat-limit](https://github.com/gauthamnholla/coding-practice/tree/master/2182-construct-string-with-repeat-limit) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/gauthamnholla/coding-practice/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2193-minimum-number-of-moves-to-make-palindrome](https://github.com/gauthamnholla/coding-practice/tree/master/2193-minimum-number-of-moves-to-make-palindrome) |
