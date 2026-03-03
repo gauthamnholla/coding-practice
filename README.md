@@ -860,6 +860,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/gauthamnholla/coding-practice/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/gauthamnholla/coding-practice/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/gauthamnholla/coding-practice/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
+| [2150-find-all-lonely-numbers-in-the-array](https://github.com/gauthamnholla/coding-practice/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2151-maximum-good-people-based-on-statements](https://github.com/gauthamnholla/coding-practice/tree/master/2151-maximum-good-people-based-on-statements) |
 | [2155-all-divisions-with-the-highest-score-of-a-binary-array](https://github.com/gauthamnholla/coding-practice/tree/master/2155-all-divisions-with-the-highest-score-of-a-binary-array) |
 | [2157-groups-of-strings](https://github.com/gauthamnholla/coding-practice/tree/master/2157-groups-of-strings) |
@@ -2681,6 +2682,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/gauthamnholla/coding-practice/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/gauthamnholla/coding-practice/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [2135-count-words-obtained-after-adding-a-letter](https://github.com/gauthamnholla/coding-practice/tree/master/2135-count-words-obtained-after-adding-a-letter) |
+| [2150-find-all-lonely-numbers-in-the-array](https://github.com/gauthamnholla/coding-practice/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2157-groups-of-strings](https://github.com/gauthamnholla/coding-practice/tree/master/2157-groups-of-strings) |
 | [2166-design-bitset](https://github.com/gauthamnholla/coding-practice/tree/master/2166-design-bitset) |
 | [2169-simple-bank-system](https://github.com/gauthamnholla/coding-practice/tree/master/2169-simple-bank-system) |
@@ -6342,6 +6344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/gauthamnholla/coding-practice/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/gauthamnholla/coding-practice/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/gauthamnholla/coding-practice/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
+| [2150-find-all-lonely-numbers-in-the-array](https://github.com/gauthamnholla/coding-practice/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2170-minimum-operations-to-make-the-array-alternating](https://github.com/gauthamnholla/coding-practice/tree/master/2170-minimum-operations-to-make-the-array-alternating) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/gauthamnholla/coding-practice/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2182-construct-string-with-repeat-limit](https://github.com/gauthamnholla/coding-practice/tree/master/2182-construct-string-with-repeat-limit) |
