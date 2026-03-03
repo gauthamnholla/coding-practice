@@ -887,6 +887,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/gauthamnholla/coding-practice/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2206-divide-array-into-equal-pairs](https://github.com/gauthamnholla/coding-practice/tree/master/2206-divide-array-into-equal-pairs) |
 | [2208-minimum-operations-to-halve-array-sum](https://github.com/gauthamnholla/coding-practice/tree/master/2208-minimum-operations-to-halve-array-sum) |
+| [2212-maximum-points-in-an-archery-competition](https://github.com/gauthamnholla/coding-practice/tree/master/2212-maximum-points-in-an-archery-competition) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/gauthamnholla/coding-practice/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/gauthamnholla/coding-practice/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2217-find-palindrome-with-fixed-length](https://github.com/gauthamnholla/coding-practice/tree/master/2217-find-palindrome-with-fixed-length) |
@@ -2347,6 +2348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2171-removing-minimum-number-of-magic-beans](https://github.com/gauthamnholla/coding-practice/tree/master/2171-removing-minimum-number-of-magic-beans) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/gauthamnholla/coding-practice/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/gauthamnholla/coding-practice/tree/master/2202-sum-of-k-mirror-numbers) |
+| [2212-maximum-points-in-an-archery-competition](https://github.com/gauthamnholla/coding-practice/tree/master/2212-maximum-points-in-an-archery-competition) |
 | [2234-maximum-total-beauty-of-the-gardens](https://github.com/gauthamnholla/coding-practice/tree/master/2234-maximum-total-beauty-of-the-gardens) |
 | [2240-number-of-ways-to-buy-pens-and-pencils](https://github.com/gauthamnholla/coding-practice/tree/master/2240-number-of-ways-to-buy-pens-and-pencils) |
 | [2242-maximum-score-of-a-node-sequence](https://github.com/gauthamnholla/coding-practice/tree/master/2242-maximum-score-of-a-node-sequence) |
@@ -5155,6 +5157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/gauthamnholla/coding-practice/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2172-maximum-and-sum-of-array](https://github.com/gauthamnholla/coding-practice/tree/master/2172-maximum-and-sum-of-array) |
 | [2206-divide-array-into-equal-pairs](https://github.com/gauthamnholla/coding-practice/tree/master/2206-divide-array-into-equal-pairs) |
+| [2212-maximum-points-in-an-archery-competition](https://github.com/gauthamnholla/coding-practice/tree/master/2212-maximum-points-in-an-archery-competition) |
 | [2275-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/gauthamnholla/coding-practice/tree/master/2275-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2305-fair-distribution-of-cookies](https://github.com/gauthamnholla/coding-practice/tree/master/2305-fair-distribution-of-cookies) |
 | [2306-naming-a-company](https://github.com/gauthamnholla/coding-practice/tree/master/2306-naming-a-company) |
@@ -5689,6 +5692,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2174-next-greater-numerically-balanced-number](https://github.com/gauthamnholla/coding-practice/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2178-maximum-split-of-positive-even-integers](https://github.com/gauthamnholla/coding-practice/tree/master/2178-maximum-split-of-positive-even-integers) |
 | [2189-maximum-path-quality-of-a-graph](https://github.com/gauthamnholla/coding-practice/tree/master/2189-maximum-path-quality-of-a-graph) |
+| [2212-maximum-points-in-an-archery-competition](https://github.com/gauthamnholla/coding-practice/tree/master/2212-maximum-points-in-an-archery-competition) |
 | [2305-fair-distribution-of-cookies](https://github.com/gauthamnholla/coding-practice/tree/master/2305-fair-distribution-of-cookies) |
 | [2397-maximum-rows-covered-by-columns](https://github.com/gauthamnholla/coding-practice/tree/master/2397-maximum-rows-covered-by-columns) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/gauthamnholla/coding-practice/tree/master/2597-the-number-of-beautiful-subsets) |
