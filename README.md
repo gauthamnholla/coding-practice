@@ -786,6 +786,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1982-find-array-given-subset-sums](https://github.com/gauthamnholla/coding-practice/tree/master/1982-find-array-given-subset-sums) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/gauthamnholla/coding-practice/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/gauthamnholla/coding-practice/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
+| [1986-minimum-number-of-work-sessions-to-finish-the-tasks](https://github.com/gauthamnholla/coding-practice/tree/master/1986-minimum-number-of-work-sessions-to-finish-the-tasks) |
 | [1991-find-the-middle-index-in-array](https://github.com/gauthamnholla/coding-practice/tree/master/1991-find-the-middle-index-in-array) |
 | [1992-find-all-groups-of-farmland](https://github.com/gauthamnholla/coding-practice/tree/master/1992-find-all-groups-of-farmland) |
 | [1993-operations-on-tree](https://github.com/gauthamnholla/coding-practice/tree/master/1993-operations-on-tree) |
@@ -3275,6 +3276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1937-maximum-number-of-points-with-cost](https://github.com/gauthamnholla/coding-practice/tree/master/1937-maximum-number-of-points-with-cost) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/gauthamnholla/coding-practice/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [1981-minimize-the-difference-between-target-and-chosen-elements](https://github.com/gauthamnholla/coding-practice/tree/master/1981-minimize-the-difference-between-target-and-chosen-elements) |
+| [1986-minimum-number-of-work-sessions-to-finish-the-tasks](https://github.com/gauthamnholla/coding-practice/tree/master/1986-minimum-number-of-work-sessions-to-finish-the-tasks) |
 | [1994-the-number-of-good-subsets](https://github.com/gauthamnholla/coding-practice/tree/master/1994-the-number-of-good-subsets) |
 | [1997-first-day-where-you-have-been-in-all-the-rooms](https://github.com/gauthamnholla/coding-practice/tree/master/1997-first-day-where-you-have-been-in-all-the-rooms) |
 | [2008-maximum-earnings-from-taxi](https://github.com/gauthamnholla/coding-practice/tree/master/2008-maximum-earnings-from-taxi) |
@@ -5134,6 +5136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1879-minimum-xor-sum-of-two-arrays](https://github.com/gauthamnholla/coding-practice/tree/master/1879-minimum-xor-sum-of-two-arrays) |
 | [1915-number-of-wonderful-substrings](https://github.com/gauthamnholla/coding-practice/tree/master/1915-number-of-wonderful-substrings) |
 | [1938-maximum-genetic-difference-query](https://github.com/gauthamnholla/coding-practice/tree/master/1938-maximum-genetic-difference-query) |
+| [1986-minimum-number-of-work-sessions-to-finish-the-tasks](https://github.com/gauthamnholla/coding-practice/tree/master/1986-minimum-number-of-work-sessions-to-finish-the-tasks) |
 | [1994-the-number-of-good-subsets](https://github.com/gauthamnholla/coding-practice/tree/master/1994-the-number-of-good-subsets) |
 | [2032-two-out-of-three](https://github.com/gauthamnholla/coding-practice/tree/master/2032-two-out-of-three) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/gauthamnholla/coding-practice/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
@@ -5670,6 +5673,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1799-maximize-score-after-n-operations](https://github.com/gauthamnholla/coding-practice/tree/master/1799-maximize-score-after-n-operations) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/gauthamnholla/coding-practice/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1980-find-unique-binary-string](https://github.com/gauthamnholla/coding-practice/tree/master/1980-find-unique-binary-string) |
+| [1986-minimum-number-of-work-sessions-to-finish-the-tasks](https://github.com/gauthamnholla/coding-practice/tree/master/1986-minimum-number-of-work-sessions-to-finish-the-tasks) |
 | [2056-number-of-valid-move-combinations-on-chessboard](https://github.com/gauthamnholla/coding-practice/tree/master/2056-number-of-valid-move-combinations-on-chessboard) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/gauthamnholla/coding-practice/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2151-maximum-good-people-based-on-statements](https://github.com/gauthamnholla/coding-practice/tree/master/2151-maximum-good-people-based-on-statements) |
@@ -6921,6 +6925,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1755-closest-subsequence-sum](https://github.com/gauthamnholla/coding-practice/tree/master/1755-closest-subsequence-sum) |
 | [1815-maximum-number-of-groups-getting-fresh-donuts](https://github.com/gauthamnholla/coding-practice/tree/master/1815-maximum-number-of-groups-getting-fresh-donuts) |
 | [1879-minimum-xor-sum-of-two-arrays](https://github.com/gauthamnholla/coding-practice/tree/master/1879-minimum-xor-sum-of-two-arrays) |
+| [1986-minimum-number-of-work-sessions-to-finish-the-tasks](https://github.com/gauthamnholla/coding-practice/tree/master/1986-minimum-number-of-work-sessions-to-finish-the-tasks) |
 | [1994-the-number-of-good-subsets](https://github.com/gauthamnholla/coding-practice/tree/master/1994-the-number-of-good-subsets) |
 | [2172-maximum-and-sum-of-array](https://github.com/gauthamnholla/coding-practice/tree/master/2172-maximum-and-sum-of-array) |
 | [2305-fair-distribution-of-cookies](https://github.com/gauthamnholla/coding-practice/tree/master/2305-fair-distribution-of-cookies) |
