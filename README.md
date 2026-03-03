@@ -872,6 +872,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2170-minimum-operations-to-make-the-array-alternating](https://github.com/gauthamnholla/coding-practice/tree/master/2170-minimum-operations-to-make-the-array-alternating) |
 | [2171-removing-minimum-number-of-magic-beans](https://github.com/gauthamnholla/coding-practice/tree/master/2171-removing-minimum-number-of-magic-beans) |
 | [2172-maximum-and-sum-of-array](https://github.com/gauthamnholla/coding-practice/tree/master/2172-maximum-and-sum-of-array) |
+| [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/gauthamnholla/coding-practice/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
 | [2179-count-good-triplets-in-an-array](https://github.com/gauthamnholla/coding-practice/tree/master/2179-count-good-triplets-in-an-array) |
 | [2183-count-array-pairs-divisible-by-k](https://github.com/gauthamnholla/coding-practice/tree/master/2183-count-array-pairs-divisible-by-k) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/gauthamnholla/coding-practice/tree/master/2185-counting-words-with-a-given-prefix) |
