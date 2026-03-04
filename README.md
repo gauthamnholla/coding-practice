@@ -936,6 +936,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2317-maximum-xor-after-operations](https://github.com/gauthamnholla/coding-practice/tree/master/2317-maximum-xor-after-operations) |
 | [2319-check-if-matrix-is-x-matrix](https://github.com/gauthamnholla/coding-practice/tree/master/2319-check-if-matrix-is-x-matrix) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/gauthamnholla/coding-practice/tree/master/2320-find-all-k-distant-indices-in-an-array) |
+| [2321-maximum-score-of-spliced-array](https://github.com/gauthamnholla/coding-practice/tree/master/2321-maximum-score-of-spliced-array) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/gauthamnholla/coding-practice/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2326-spiral-matrix-iv](https://github.com/gauthamnholla/coding-practice/tree/master/2326-spiral-matrix-iv) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/gauthamnholla/coding-practice/tree/master/2328-number-of-increasing-paths-in-a-grid) |
@@ -3313,6 +3314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2305-fair-distribution-of-cookies](https://github.com/gauthamnholla/coding-practice/tree/master/2305-fair-distribution-of-cookies) |
 | [2310-sum-of-numbers-with-units-digit-k](https://github.com/gauthamnholla/coding-practice/tree/master/2310-sum-of-numbers-with-units-digit-k) |
 | [2312-selling-pieces-of-wood](https://github.com/gauthamnholla/coding-practice/tree/master/2312-selling-pieces-of-wood) |
+| [2321-maximum-score-of-spliced-array](https://github.com/gauthamnholla/coding-practice/tree/master/2321-maximum-score-of-spliced-array) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/gauthamnholla/coding-practice/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 | [2338-count-the-number-of-ideal-arrays](https://github.com/gauthamnholla/coding-practice/tree/master/2338-count-the-number-of-ideal-arrays) |
 | [2376-count-special-integers](https://github.com/gauthamnholla/coding-practice/tree/master/2376-count-special-integers) |
