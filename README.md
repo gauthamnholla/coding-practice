@@ -949,6 +949,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2343-query-kth-smallest-trimmed-number](https://github.com/gauthamnholla/coding-practice/tree/master/2343-query-kth-smallest-trimmed-number) |
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/gauthamnholla/coding-practice/tree/master/2344-minimum-deletions-to-make-array-divisible) |
 | [2352-equal-row-and-column-pairs](https://github.com/gauthamnholla/coding-practice/tree/master/2352-equal-row-and-column-pairs) |
+| [2354-number-of-excellent-pairs](https://github.com/gauthamnholla/coding-practice/tree/master/2354-number-of-excellent-pairs) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/gauthamnholla/coding-practice/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2358-maximum-number-of-groups-entering-a-competition](https://github.com/gauthamnholla/coding-practice/tree/master/2358-maximum-number-of-groups-entering-a-competition) |
 | [2363-merge-similar-items](https://github.com/gauthamnholla/coding-practice/tree/master/2363-merge-similar-items) |
@@ -2723,6 +2724,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2306-naming-a-company](https://github.com/gauthamnholla/coding-practice/tree/master/2306-naming-a-company) |
 | [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/gauthamnholla/coding-practice/tree/master/2342-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2352-equal-row-and-column-pairs](https://github.com/gauthamnholla/coding-practice/tree/master/2352-equal-row-and-column-pairs) |
+| [2354-number-of-excellent-pairs](https://github.com/gauthamnholla/coding-practice/tree/master/2354-number-of-excellent-pairs) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/gauthamnholla/coding-practice/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2363-merge-similar-items](https://github.com/gauthamnholla/coding-practice/tree/master/2363-merge-similar-items) |
 | [2364-count-number-of-bad-pairs](https://github.com/gauthamnholla/coding-practice/tree/master/2364-count-number-of-bad-pairs) |
@@ -5172,6 +5174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2305-fair-distribution-of-cookies](https://github.com/gauthamnholla/coding-practice/tree/master/2305-fair-distribution-of-cookies) |
 | [2306-naming-a-company](https://github.com/gauthamnholla/coding-practice/tree/master/2306-naming-a-company) |
 | [2317-maximum-xor-after-operations](https://github.com/gauthamnholla/coding-practice/tree/master/2317-maximum-xor-after-operations) |
+| [2354-number-of-excellent-pairs](https://github.com/gauthamnholla/coding-practice/tree/master/2354-number-of-excellent-pairs) |
 | [2397-maximum-rows-covered-by-columns](https://github.com/gauthamnholla/coding-practice/tree/master/2397-maximum-rows-covered-by-columns) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/gauthamnholla/coding-practice/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2401-longest-nice-subarray](https://github.com/gauthamnholla/coding-practice/tree/master/2401-longest-nice-subarray) |
@@ -5856,6 +5859,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2326-sum-of-scores-of-built-strings](https://github.com/gauthamnholla/coding-practice/tree/master/2326-sum-of-scores-of-built-strings) |
 | [2332-the-latest-time-to-catch-a-bus](https://github.com/gauthamnholla/coding-practice/tree/master/2332-the-latest-time-to-catch-a-bus) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/gauthamnholla/coding-practice/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2354-number-of-excellent-pairs](https://github.com/gauthamnholla/coding-practice/tree/master/2354-number-of-excellent-pairs) |
 | [2358-maximum-number-of-groups-entering-a-competition](https://github.com/gauthamnholla/coding-practice/tree/master/2358-maximum-number-of-groups-entering-a-competition) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/gauthamnholla/coding-practice/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/gauthamnholla/coding-practice/tree/master/2392-successful-pairs-of-spells-and-potions) |
