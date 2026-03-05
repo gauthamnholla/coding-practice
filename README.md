@@ -13,6 +13,7 @@
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/gauthamnholla/coding-practice/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2444-count-subarrays-with-fixed-bounds](https://github.com/gauthamnholla/coding-practice/tree/master/2444-count-subarrays-with-fixed-bounds) |
 | [2451-odd-string-difference](https://github.com/gauthamnholla/coding-practice/tree/master/2451-odd-string-difference) |
+| [2452-words-within-two-edits-of-dictionary](https://github.com/gauthamnholla/coding-practice/tree/master/2452-words-within-two-edits-of-dictionary) |
 ## Hash Table
 |  |
 | ------- |
@@ -40,10 +41,12 @@
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/gauthamnholla/coding-practice/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [2416-sum-of-prefix-scores-of-strings](https://github.com/gauthamnholla/coding-practice/tree/master/2416-sum-of-prefix-scores-of-strings) |
 | [2451-odd-string-difference](https://github.com/gauthamnholla/coding-practice/tree/master/2451-odd-string-difference) |
+| [2452-words-within-two-edits-of-dictionary](https://github.com/gauthamnholla/coding-practice/tree/master/2452-words-within-two-edits-of-dictionary) |
 ## Trie
 |  |
 | ------- |
 | [2416-sum-of-prefix-scores-of-strings](https://github.com/gauthamnholla/coding-practice/tree/master/2416-sum-of-prefix-scores-of-strings) |
+| [2452-words-within-two-edits-of-dictionary](https://github.com/gauthamnholla/coding-practice/tree/master/2452-words-within-two-edits-of-dictionary) |
 ## Bit Manipulation
 |  |
 | ------- |
