@@ -23,6 +23,7 @@
 | [2506-count-pairs-of-similar-strings](https://github.com/gauthamnholla/coding-practice/tree/master/2506-count-pairs-of-similar-strings) |
 | [2509-cycle-length-queries-in-a-tree](https://github.com/gauthamnholla/coding-practice/tree/master/2509-cycle-length-queries-in-a-tree) |
 | [2518-number-of-great-partitions](https://github.com/gauthamnholla/coding-practice/tree/master/2518-number-of-great-partitions) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/gauthamnholla/coding-practice/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Hash Table
 |  |
 | ------- |
@@ -44,6 +45,7 @@
 | [2453-destroy-sequential-targets](https://github.com/gauthamnholla/coding-practice/tree/master/2453-destroy-sequential-targets) |
 | [2499-minimum-total-cost-to-make-arrays-unequal](https://github.com/gauthamnholla/coding-practice/tree/master/2499-minimum-total-cost-to-make-arrays-unequal) |
 | [2506-count-pairs-of-similar-strings](https://github.com/gauthamnholla/coding-practice/tree/master/2506-count-pairs-of-similar-strings) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/gauthamnholla/coding-practice/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Greedy
 |  |
 | ------- |
@@ -90,6 +92,7 @@
 |  |
 | ------- |
 | [2498-frog-jump-ii](https://github.com/gauthamnholla/coding-practice/tree/master/2498-frog-jump-ii) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/gauthamnholla/coding-practice/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Tree
 |  |
 | ------- |
