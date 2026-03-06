@@ -18,6 +18,7 @@
 | [2452-words-within-two-edits-of-dictionary](https://github.com/gauthamnholla/coding-practice/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2453-destroy-sequential-targets](https://github.com/gauthamnholla/coding-practice/tree/master/2453-destroy-sequential-targets) |
 | [2496-maximum-value-of-a-string-in-an-array](https://github.com/gauthamnholla/coding-practice/tree/master/2496-maximum-value-of-a-string-in-an-array) |
+| [2498-frog-jump-ii](https://github.com/gauthamnholla/coding-practice/tree/master/2498-frog-jump-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -40,6 +41,7 @@
 | ------- |
 | [2350-shortest-impossible-sequence-of-rolls](https://github.com/gauthamnholla/coding-practice/tree/master/2350-shortest-impossible-sequence-of-rolls) |
 | [2383-minimum-hours-of-training-to-win-a-competition](https://github.com/gauthamnholla/coding-practice/tree/master/2383-minimum-hours-of-training-to-win-a-competition) |
+| [2498-frog-jump-ii](https://github.com/gauthamnholla/coding-practice/tree/master/2498-frog-jump-ii) |
 ## Matrix
 |  |
 | ------- |
@@ -73,4 +75,8 @@
 |  |
 | ------- |
 | [2444-count-subarrays-with-fixed-bounds](https://github.com/gauthamnholla/coding-practice/tree/master/2444-count-subarrays-with-fixed-bounds) |
+## Binary Search
+|  |
+| ------- |
+| [2498-frog-jump-ii](https://github.com/gauthamnholla/coding-practice/tree/master/2498-frog-jump-ii) |
 <!---LeetCode Topics End-->
