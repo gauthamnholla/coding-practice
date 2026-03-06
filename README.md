@@ -24,6 +24,7 @@
 | [2509-cycle-length-queries-in-a-tree](https://github.com/gauthamnholla/coding-practice/tree/master/2509-cycle-length-queries-in-a-tree) |
 | [2518-number-of-great-partitions](https://github.com/gauthamnholla/coding-practice/tree/master/2518-number-of-great-partitions) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/gauthamnholla/coding-practice/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
+| [2530-maximal-score-after-applying-k-operations](https://github.com/gauthamnholla/coding-practice/tree/master/2530-maximal-score-after-applying-k-operations) |
 ## Hash Table
 |  |
 | ------- |
@@ -53,6 +54,7 @@
 | [2383-minimum-hours-of-training-to-win-a-competition](https://github.com/gauthamnholla/coding-practice/tree/master/2383-minimum-hours-of-training-to-win-a-competition) |
 | [2498-frog-jump-ii](https://github.com/gauthamnholla/coding-practice/tree/master/2498-frog-jump-ii) |
 | [2499-minimum-total-cost-to-make-arrays-unequal](https://github.com/gauthamnholla/coding-practice/tree/master/2499-minimum-total-cost-to-make-arrays-unequal) |
+| [2530-maximal-score-after-applying-k-operations](https://github.com/gauthamnholla/coding-practice/tree/master/2530-maximal-score-after-applying-k-operations) |
 ## Matrix
 |  |
 | ------- |
@@ -105,4 +107,8 @@
 |  |
 | ------- |
 | [2518-number-of-great-partitions](https://github.com/gauthamnholla/coding-practice/tree/master/2518-number-of-great-partitions) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2530-maximal-score-after-applying-k-operations](https://github.com/gauthamnholla/coding-practice/tree/master/2530-maximal-score-after-applying-k-operations) |
 <!---LeetCode Topics End-->
