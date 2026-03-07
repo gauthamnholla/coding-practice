@@ -64,6 +64,7 @@
 | ------- |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/gauthamnholla/coding-practice/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/gauthamnholla/coding-practice/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
+| [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/gauthamnholla/coding-practice/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2416-sum-of-prefix-scores-of-strings](https://github.com/gauthamnholla/coding-practice/tree/master/2416-sum-of-prefix-scores-of-strings) |
 | [2451-odd-string-difference](https://github.com/gauthamnholla/coding-practice/tree/master/2451-odd-string-difference) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/gauthamnholla/coding-practice/tree/master/2452-words-within-two-edits-of-dictionary) |
@@ -86,6 +87,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/gauthamnholla/coding-practice/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2444-count-subarrays-with-fixed-bounds](https://github.com/gauthamnholla/coding-practice/tree/master/2444-count-subarrays-with-fixed-bounds) |
 ## Monotonic Queue
 |  |
@@ -107,6 +109,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/gauthamnholla/coding-practice/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2518-number-of-great-partitions](https://github.com/gauthamnholla/coding-practice/tree/master/2518-number-of-great-partitions) |
 ## Heap (Priority Queue)
 |  |
