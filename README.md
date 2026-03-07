@@ -31,6 +31,7 @@
 | [2568-minimum-impossible-or](https://github.com/gauthamnholla/coding-practice/tree/master/2568-minimum-impossible-or) |
 | [2569-handling-sum-queries-after-update](https://github.com/gauthamnholla/coding-practice/tree/master/2569-handling-sum-queries-after-update) |
 | [2585-number-of-ways-to-earn-points](https://github.com/gauthamnholla/coding-practice/tree/master/2585-number-of-ways-to-earn-points) |
+| [2586-count-the-number-of-vowel-strings-in-range](https://github.com/gauthamnholla/coding-practice/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 ## Hash Table
 |  |
 | ------- |
@@ -54,6 +55,7 @@
 | [2499-minimum-total-cost-to-make-arrays-unequal](https://github.com/gauthamnholla/coding-practice/tree/master/2499-minimum-total-cost-to-make-arrays-unequal) |
 | [2506-count-pairs-of-similar-strings](https://github.com/gauthamnholla/coding-practice/tree/master/2506-count-pairs-of-similar-strings) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/gauthamnholla/coding-practice/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
+| [2586-count-the-number-of-vowel-strings-in-range](https://github.com/gauthamnholla/coding-practice/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 ## Greedy
 |  |
 | ------- |
@@ -79,6 +81,7 @@
 | [2496-maximum-value-of-a-string-in-an-array](https://github.com/gauthamnholla/coding-practice/tree/master/2496-maximum-value-of-a-string-in-an-array) |
 | [2506-count-pairs-of-similar-strings](https://github.com/gauthamnholla/coding-practice/tree/master/2506-count-pairs-of-similar-strings) |
 | [2564-substring-xor-queries](https://github.com/gauthamnholla/coding-practice/tree/master/2564-substring-xor-queries) |
+| [2586-count-the-number-of-vowel-strings-in-range](https://github.com/gauthamnholla/coding-practice/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 ## Trie
 |  |
 | ------- |
