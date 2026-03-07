@@ -27,6 +27,7 @@
 | [2530-maximal-score-after-applying-k-operations](https://github.com/gauthamnholla/coding-practice/tree/master/2530-maximal-score-after-applying-k-operations) |
 | [2555-maximize-win-from-two-segments](https://github.com/gauthamnholla/coding-practice/tree/master/2555-maximize-win-from-two-segments) |
 | [2560-house-robber-iv](https://github.com/gauthamnholla/coding-practice/tree/master/2560-house-robber-iv) |
+| [2564-substring-xor-queries](https://github.com/gauthamnholla/coding-practice/tree/master/2564-substring-xor-queries) |
 ## Hash Table
 |  |
 | ------- |
@@ -38,6 +39,7 @@
 | [2453-destroy-sequential-targets](https://github.com/gauthamnholla/coding-practice/tree/master/2453-destroy-sequential-targets) |
 | [2499-minimum-total-cost-to-make-arrays-unequal](https://github.com/gauthamnholla/coding-practice/tree/master/2499-minimum-total-cost-to-make-arrays-unequal) |
 | [2506-count-pairs-of-similar-strings](https://github.com/gauthamnholla/coding-practice/tree/master/2506-count-pairs-of-similar-strings) |
+| [2564-substring-xor-queries](https://github.com/gauthamnholla/coding-practice/tree/master/2564-substring-xor-queries) |
 ## Counting
 |  |
 | ------- |
@@ -73,6 +75,7 @@
 | [2452-words-within-two-edits-of-dictionary](https://github.com/gauthamnholla/coding-practice/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2496-maximum-value-of-a-string-in-an-array](https://github.com/gauthamnholla/coding-practice/tree/master/2496-maximum-value-of-a-string-in-an-array) |
 | [2506-count-pairs-of-similar-strings](https://github.com/gauthamnholla/coding-practice/tree/master/2506-count-pairs-of-similar-strings) |
+| [2564-substring-xor-queries](https://github.com/gauthamnholla/coding-practice/tree/master/2564-substring-xor-queries) |
 ## Trie
 |  |
 | ------- |
@@ -83,6 +86,7 @@
 | ------- |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/gauthamnholla/coding-practice/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2506-count-pairs-of-similar-strings](https://github.com/gauthamnholla/coding-practice/tree/master/2506-count-pairs-of-similar-strings) |
+| [2564-substring-xor-queries](https://github.com/gauthamnholla/coding-practice/tree/master/2564-substring-xor-queries) |
 ## Queue
 |  |
 | ------- |
