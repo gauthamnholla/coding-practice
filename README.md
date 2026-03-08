@@ -11,6 +11,7 @@
 | [2350-shortest-impossible-sequence-of-rolls](https://github.com/gauthamnholla/coding-practice/tree/master/2350-shortest-impossible-sequence-of-rolls) |
 | [2383-minimum-hours-of-training-to-win-a-competition](https://github.com/gauthamnholla/coding-practice/tree/master/2383-minimum-hours-of-training-to-win-a-competition) |
 | [2404-most-frequent-even-element](https://github.com/gauthamnholla/coding-practice/tree/master/2404-most-frequent-even-element) |
+| [2407-longest-increasing-subsequence-ii](https://github.com/gauthamnholla/coding-practice/tree/master/2407-longest-increasing-subsequence-ii) |
 | [2416-sum-of-prefix-scores-of-strings](https://github.com/gauthamnholla/coding-practice/tree/master/2416-sum-of-prefix-scores-of-strings) |
 | [2432-the-employee-that-worked-on-the-longest-task](https://github.com/gauthamnholla/coding-practice/tree/master/2432-the-employee-that-worked-on-the-longest-task) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/gauthamnholla/coding-practice/tree/master/2433-find-the-original-array-of-prefix-xor) |
@@ -100,6 +101,7 @@
 ## Queue
 |  |
 | ------- |
+| [2407-longest-increasing-subsequence-ii](https://github.com/gauthamnholla/coding-practice/tree/master/2407-longest-increasing-subsequence-ii) |
 | [2444-count-subarrays-with-fixed-bounds](https://github.com/gauthamnholla/coding-practice/tree/master/2444-count-subarrays-with-fixed-bounds) |
 ## Sliding Window
 |  |
@@ -110,6 +112,7 @@
 ## Monotonic Queue
 |  |
 | ------- |
+| [2407-longest-increasing-subsequence-ii](https://github.com/gauthamnholla/coding-practice/tree/master/2407-longest-increasing-subsequence-ii) |
 | [2444-count-subarrays-with-fixed-bounds](https://github.com/gauthamnholla/coding-practice/tree/master/2444-count-subarrays-with-fixed-bounds) |
 ## Binary Search
 |  |
@@ -130,6 +133,7 @@
 |  |
 | ------- |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/gauthamnholla/coding-practice/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
+| [2407-longest-increasing-subsequence-ii](https://github.com/gauthamnholla/coding-practice/tree/master/2407-longest-increasing-subsequence-ii) |
 | [2518-number-of-great-partitions](https://github.com/gauthamnholla/coding-practice/tree/master/2518-number-of-great-partitions) |
 | [2560-house-robber-iv](https://github.com/gauthamnholla/coding-practice/tree/master/2560-house-robber-iv) |
 | [2585-number-of-ways-to-earn-points](https://github.com/gauthamnholla/coding-practice/tree/master/2585-number-of-ways-to-earn-points) |
@@ -144,9 +148,18 @@
 ## Segment Tree
 |  |
 | ------- |
+| [2407-longest-increasing-subsequence-ii](https://github.com/gauthamnholla/coding-practice/tree/master/2407-longest-increasing-subsequence-ii) |
 | [2569-handling-sum-queries-after-update](https://github.com/gauthamnholla/coding-practice/tree/master/2569-handling-sum-queries-after-update) |
 ## Backtracking
 |  |
 | ------- |
 | [1980-find-unique-binary-string](https://github.com/gauthamnholla/coding-practice/tree/master/1980-find-unique-binary-string) |
+## Divide and Conquer
+|  |
+| ------- |
+| [2407-longest-increasing-subsequence-ii](https://github.com/gauthamnholla/coding-practice/tree/master/2407-longest-increasing-subsequence-ii) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2407-longest-increasing-subsequence-ii](https://github.com/gauthamnholla/coding-practice/tree/master/2407-longest-increasing-subsequence-ii) |
 <!---LeetCode Topics End-->
