@@ -28,6 +28,7 @@
 | [2518-number-of-great-partitions](https://github.com/gauthamnholla/coding-practice/tree/master/2518-number-of-great-partitions) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/gauthamnholla/coding-practice/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2530-maximal-score-after-applying-k-operations](https://github.com/gauthamnholla/coding-practice/tree/master/2530-maximal-score-after-applying-k-operations) |
+| [2537-count-the-number-of-good-subarrays](https://github.com/gauthamnholla/coding-practice/tree/master/2537-count-the-number-of-good-subarrays) |
 | [2555-maximize-win-from-two-segments](https://github.com/gauthamnholla/coding-practice/tree/master/2555-maximize-win-from-two-segments) |
 | [2560-house-robber-iv](https://github.com/gauthamnholla/coding-practice/tree/master/2560-house-robber-iv) |
 | [2564-substring-xor-queries](https://github.com/gauthamnholla/coding-practice/tree/master/2564-substring-xor-queries) |
@@ -47,6 +48,7 @@
 | [2453-destroy-sequential-targets](https://github.com/gauthamnholla/coding-practice/tree/master/2453-destroy-sequential-targets) |
 | [2499-minimum-total-cost-to-make-arrays-unequal](https://github.com/gauthamnholla/coding-practice/tree/master/2499-minimum-total-cost-to-make-arrays-unequal) |
 | [2506-count-pairs-of-similar-strings](https://github.com/gauthamnholla/coding-practice/tree/master/2506-count-pairs-of-similar-strings) |
+| [2537-count-the-number-of-good-subarrays](https://github.com/gauthamnholla/coding-practice/tree/master/2537-count-the-number-of-good-subarrays) |
 | [2564-substring-xor-queries](https://github.com/gauthamnholla/coding-practice/tree/master/2564-substring-xor-queries) |
 ## Counting
 |  |
@@ -110,6 +112,7 @@
 | ------- |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/gauthamnholla/coding-practice/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2444-count-subarrays-with-fixed-bounds](https://github.com/gauthamnholla/coding-practice/tree/master/2444-count-subarrays-with-fixed-bounds) |
+| [2537-count-the-number-of-good-subarrays](https://github.com/gauthamnholla/coding-practice/tree/master/2537-count-the-number-of-good-subarrays) |
 | [2555-maximize-win-from-two-segments](https://github.com/gauthamnholla/coding-practice/tree/master/2555-maximize-win-from-two-segments) |
 ## Monotonic Queue
 |  |
