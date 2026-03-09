@@ -41,6 +41,7 @@
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/gauthamnholla/coding-practice/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/gauthamnholla/coding-practice/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/gauthamnholla/coding-practice/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+| [2660-determine-the-winner-of-a-bowling-game](https://github.com/gauthamnholla/coding-practice/tree/master/2660-determine-the-winner-of-a-bowling-game) |
 ## Hash Table
 |  |
 | ------- |
@@ -182,4 +183,8 @@
 |  |
 | ------- |
 | [2407-longest-increasing-subsequence-ii](https://github.com/gauthamnholla/coding-practice/tree/master/2407-longest-increasing-subsequence-ii) |
+## Simulation
+|  |
+| ------- |
+| [2660-determine-the-winner-of-a-bowling-game](https://github.com/gauthamnholla/coding-practice/tree/master/2660-determine-the-winner-of-a-bowling-game) |
 <!---LeetCode Topics End-->
