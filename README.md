@@ -166,6 +166,7 @@
 | [2585-number-of-ways-to-earn-points](https://github.com/gauthamnholla/coding-practice/tree/master/2585-number-of-ways-to-earn-points) |
 | [2606-find-the-substring-with-maximum-cost](https://github.com/gauthamnholla/coding-practice/tree/master/2606-find-the-substring-with-maximum-cost) |
 | [2673-make-costs-of-paths-equal-in-a-binary-tree](https://github.com/gauthamnholla/coding-practice/tree/master/2673-make-costs-of-paths-equal-in-a-binary-tree) |
+| [3129-find-all-possible-stable-binary-arrays-i](https://github.com/gauthamnholla/coding-practice/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -199,4 +200,8 @@
 |  |
 | ------- |
 | [2605-form-smallest-number-from-two-digit-arrays](https://github.com/gauthamnholla/coding-practice/tree/master/2605-form-smallest-number-from-two-digit-arrays) |
+## Prefix Sum
+|  |
+| ------- |
+| [3129-find-all-possible-stable-binary-arrays-i](https://github.com/gauthamnholla/coding-practice/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 <!---LeetCode Topics End-->
