@@ -37,6 +37,7 @@
 | [2569-handling-sum-queries-after-update](https://github.com/gauthamnholla/coding-practice/tree/master/2569-handling-sum-queries-after-update) |
 | [2585-number-of-ways-to-earn-points](https://github.com/gauthamnholla/coding-practice/tree/master/2585-number-of-ways-to-earn-points) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/gauthamnholla/coding-practice/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
+| [2606-find-the-substring-with-maximum-cost](https://github.com/gauthamnholla/coding-practice/tree/master/2606-find-the-substring-with-maximum-cost) |
 ## Hash Table
 |  |
 | ------- |
@@ -52,6 +53,7 @@
 | [2537-count-the-number-of-good-subarrays](https://github.com/gauthamnholla/coding-practice/tree/master/2537-count-the-number-of-good-subarrays) |
 | [2547-minimum-cost-to-split-an-array](https://github.com/gauthamnholla/coding-practice/tree/master/2547-minimum-cost-to-split-an-array) |
 | [2564-substring-xor-queries](https://github.com/gauthamnholla/coding-practice/tree/master/2564-substring-xor-queries) |
+| [2606-find-the-substring-with-maximum-cost](https://github.com/gauthamnholla/coding-practice/tree/master/2606-find-the-substring-with-maximum-cost) |
 ## Counting
 |  |
 | ------- |
@@ -93,6 +95,7 @@
 | [2506-count-pairs-of-similar-strings](https://github.com/gauthamnholla/coding-practice/tree/master/2506-count-pairs-of-similar-strings) |
 | [2564-substring-xor-queries](https://github.com/gauthamnholla/coding-practice/tree/master/2564-substring-xor-queries) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/gauthamnholla/coding-practice/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
+| [2606-find-the-substring-with-maximum-cost](https://github.com/gauthamnholla/coding-practice/tree/master/2606-find-the-substring-with-maximum-cost) |
 ## Trie
 |  |
 | ------- |
@@ -146,6 +149,7 @@
 | [2547-minimum-cost-to-split-an-array](https://github.com/gauthamnholla/coding-practice/tree/master/2547-minimum-cost-to-split-an-array) |
 | [2560-house-robber-iv](https://github.com/gauthamnholla/coding-practice/tree/master/2560-house-robber-iv) |
 | [2585-number-of-ways-to-earn-points](https://github.com/gauthamnholla/coding-practice/tree/master/2585-number-of-ways-to-earn-points) |
+| [2606-find-the-substring-with-maximum-cost](https://github.com/gauthamnholla/coding-practice/tree/master/2606-find-the-substring-with-maximum-cost) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
