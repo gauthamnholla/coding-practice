@@ -45,6 +45,7 @@
 | [2660-determine-the-winner-of-a-bowling-game](https://github.com/gauthamnholla/coding-practice/tree/master/2660-determine-the-winner-of-a-bowling-game) |
 | [2672-number-of-adjacent-elements-with-the-same-color](https://github.com/gauthamnholla/coding-practice/tree/master/2672-number-of-adjacent-elements-with-the-same-color) |
 | [2673-make-costs-of-paths-equal-in-a-binary-tree](https://github.com/gauthamnholla/coding-practice/tree/master/2673-make-costs-of-paths-equal-in-a-binary-tree) |
+| [2678-number-of-senior-citizens](https://github.com/gauthamnholla/coding-practice/tree/master/2678-number-of-senior-citizens) |
 ## Hash Table
 |  |
 | ------- |
@@ -108,6 +109,7 @@
 | [2564-substring-xor-queries](https://github.com/gauthamnholla/coding-practice/tree/master/2564-substring-xor-queries) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/gauthamnholla/coding-practice/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [2606-find-the-substring-with-maximum-cost](https://github.com/gauthamnholla/coding-practice/tree/master/2606-find-the-substring-with-maximum-cost) |
+| [2678-number-of-senior-citizens](https://github.com/gauthamnholla/coding-practice/tree/master/2678-number-of-senior-citizens) |
 ## Trie
 |  |
 | ------- |
