@@ -46,6 +46,7 @@
 | [2672-number-of-adjacent-elements-with-the-same-color](https://github.com/gauthamnholla/coding-practice/tree/master/2672-number-of-adjacent-elements-with-the-same-color) |
 | [2673-make-costs-of-paths-equal-in-a-binary-tree](https://github.com/gauthamnholla/coding-practice/tree/master/2673-make-costs-of-paths-equal-in-a-binary-tree) |
 | [2678-number-of-senior-citizens](https://github.com/gauthamnholla/coding-practice/tree/master/2678-number-of-senior-citizens) |
+| [2682-find-the-losers-of-the-circular-game](https://github.com/gauthamnholla/coding-practice/tree/master/2682-find-the-losers-of-the-circular-game) |
 ## Hash Table
 |  |
 | ------- |
@@ -65,6 +66,7 @@
 | [2606-find-the-substring-with-maximum-cost](https://github.com/gauthamnholla/coding-practice/tree/master/2606-find-the-substring-with-maximum-cost) |
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/gauthamnholla/coding-practice/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/gauthamnholla/coding-practice/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+| [2682-find-the-losers-of-the-circular-game](https://github.com/gauthamnholla/coding-practice/tree/master/2682-find-the-losers-of-the-circular-game) |
 ## Counting
 |  |
 | ------- |
@@ -198,6 +200,7 @@
 |  |
 | ------- |
 | [2660-determine-the-winner-of-a-bowling-game](https://github.com/gauthamnholla/coding-practice/tree/master/2660-determine-the-winner-of-a-bowling-game) |
+| [2682-find-the-losers-of-the-circular-game](https://github.com/gauthamnholla/coding-practice/tree/master/2682-find-the-losers-of-the-circular-game) |
 ## Enumeration
 |  |
 | ------- |
