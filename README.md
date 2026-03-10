@@ -47,6 +47,7 @@
 | [2673-make-costs-of-paths-equal-in-a-binary-tree](https://github.com/gauthamnholla/coding-practice/tree/master/2673-make-costs-of-paths-equal-in-a-binary-tree) |
 | [2678-number-of-senior-citizens](https://github.com/gauthamnholla/coding-practice/tree/master/2678-number-of-senior-citizens) |
 | [2682-find-the-losers-of-the-circular-game](https://github.com/gauthamnholla/coding-practice/tree/master/2682-find-the-losers-of-the-circular-game) |
+| [2683-neighboring-bitwise-xor](https://github.com/gauthamnholla/coding-practice/tree/master/2683-neighboring-bitwise-xor) |
 ## Hash Table
 |  |
 | ------- |
@@ -125,6 +126,7 @@
 | [2564-substring-xor-queries](https://github.com/gauthamnholla/coding-practice/tree/master/2564-substring-xor-queries) |
 | [2568-minimum-impossible-or](https://github.com/gauthamnholla/coding-practice/tree/master/2568-minimum-impossible-or) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/gauthamnholla/coding-practice/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+| [2683-neighboring-bitwise-xor](https://github.com/gauthamnholla/coding-practice/tree/master/2683-neighboring-bitwise-xor) |
 ## Queue
 |  |
 | ------- |
