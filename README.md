@@ -48,6 +48,7 @@
 | [2678-number-of-senior-citizens](https://github.com/gauthamnholla/coding-practice/tree/master/2678-number-of-senior-citizens) |
 | [2682-find-the-losers-of-the-circular-game](https://github.com/gauthamnholla/coding-practice/tree/master/2682-find-the-losers-of-the-circular-game) |
 | [2683-neighboring-bitwise-xor](https://github.com/gauthamnholla/coding-practice/tree/master/2683-neighboring-bitwise-xor) |
+| [2707-extra-characters-in-a-string](https://github.com/gauthamnholla/coding-practice/tree/master/2707-extra-characters-in-a-string) |
 ## Hash Table
 |  |
 | ------- |
@@ -68,6 +69,7 @@
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/gauthamnholla/coding-practice/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/gauthamnholla/coding-practice/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2682-find-the-losers-of-the-circular-game](https://github.com/gauthamnholla/coding-practice/tree/master/2682-find-the-losers-of-the-circular-game) |
+| [2707-extra-characters-in-a-string](https://github.com/gauthamnholla/coding-practice/tree/master/2707-extra-characters-in-a-string) |
 ## Counting
 |  |
 | ------- |
@@ -113,11 +115,13 @@
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/gauthamnholla/coding-practice/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [2606-find-the-substring-with-maximum-cost](https://github.com/gauthamnholla/coding-practice/tree/master/2606-find-the-substring-with-maximum-cost) |
 | [2678-number-of-senior-citizens](https://github.com/gauthamnholla/coding-practice/tree/master/2678-number-of-senior-citizens) |
+| [2707-extra-characters-in-a-string](https://github.com/gauthamnholla/coding-practice/tree/master/2707-extra-characters-in-a-string) |
 ## Trie
 |  |
 | ------- |
 | [2416-sum-of-prefix-scores-of-strings](https://github.com/gauthamnholla/coding-practice/tree/master/2416-sum-of-prefix-scores-of-strings) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/gauthamnholla/coding-practice/tree/master/2452-words-within-two-edits-of-dictionary) |
+| [2707-extra-characters-in-a-string](https://github.com/gauthamnholla/coding-practice/tree/master/2707-extra-characters-in-a-string) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -172,6 +176,7 @@
 | [2585-number-of-ways-to-earn-points](https://github.com/gauthamnholla/coding-practice/tree/master/2585-number-of-ways-to-earn-points) |
 | [2606-find-the-substring-with-maximum-cost](https://github.com/gauthamnholla/coding-practice/tree/master/2606-find-the-substring-with-maximum-cost) |
 | [2673-make-costs-of-paths-equal-in-a-binary-tree](https://github.com/gauthamnholla/coding-practice/tree/master/2673-make-costs-of-paths-equal-in-a-binary-tree) |
+| [2707-extra-characters-in-a-string](https://github.com/gauthamnholla/coding-practice/tree/master/2707-extra-characters-in-a-string) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/gauthamnholla/coding-practice/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 ## Heap (Priority Queue)
 |  |
