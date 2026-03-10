@@ -49,6 +49,7 @@
 | [2682-find-the-losers-of-the-circular-game](https://github.com/gauthamnholla/coding-practice/tree/master/2682-find-the-losers-of-the-circular-game) |
 | [2683-neighboring-bitwise-xor](https://github.com/gauthamnholla/coding-practice/tree/master/2683-neighboring-bitwise-xor) |
 | [2707-extra-characters-in-a-string](https://github.com/gauthamnholla/coding-practice/tree/master/2707-extra-characters-in-a-string) |
+| [2718-sum-of-matrix-after-queries](https://github.com/gauthamnholla/coding-practice/tree/master/2718-sum-of-matrix-after-queries) |
 ## Hash Table
 |  |
 | ------- |
@@ -70,6 +71,7 @@
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/gauthamnholla/coding-practice/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2682-find-the-losers-of-the-circular-game](https://github.com/gauthamnholla/coding-practice/tree/master/2682-find-the-losers-of-the-circular-game) |
 | [2707-extra-characters-in-a-string](https://github.com/gauthamnholla/coding-practice/tree/master/2707-extra-characters-in-a-string) |
+| [2718-sum-of-matrix-after-queries](https://github.com/gauthamnholla/coding-practice/tree/master/2718-sum-of-matrix-after-queries) |
 ## Counting
 |  |
 | ------- |
