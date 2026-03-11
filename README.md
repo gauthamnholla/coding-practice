@@ -53,6 +53,7 @@
 | [2741-special-permutations](https://github.com/gauthamnholla/coding-practice/tree/master/2741-special-permutations) |
 | [2742-painting-the-walls](https://github.com/gauthamnholla/coding-practice/tree/master/2742-painting-the-walls) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/gauthamnholla/coding-practice/tree/master/2744-find-maximum-number-of-string-pairs) |
+| [2746-decremental-string-concatenation](https://github.com/gauthamnholla/coding-practice/tree/master/2746-decremental-string-concatenation) |
 | [2786-visit-array-positions-to-maximize-score](https://github.com/gauthamnholla/coding-practice/tree/master/2786-visit-array-positions-to-maximize-score) |
 | [2788-split-strings-by-separator](https://github.com/gauthamnholla/coding-practice/tree/master/2788-split-strings-by-separator) |
 | [2789-largest-element-in-an-array-after-merge-operations](https://github.com/gauthamnholla/coding-practice/tree/master/2789-largest-element-in-an-array-after-merge-operations) |
@@ -130,6 +131,7 @@
 | [2678-number-of-senior-citizens](https://github.com/gauthamnholla/coding-practice/tree/master/2678-number-of-senior-citizens) |
 | [2707-extra-characters-in-a-string](https://github.com/gauthamnholla/coding-practice/tree/master/2707-extra-characters-in-a-string) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/gauthamnholla/coding-practice/tree/master/2744-find-maximum-number-of-string-pairs) |
+| [2746-decremental-string-concatenation](https://github.com/gauthamnholla/coding-practice/tree/master/2746-decremental-string-concatenation) |
 | [2788-split-strings-by-separator](https://github.com/gauthamnholla/coding-practice/tree/master/2788-split-strings-by-separator) |
 ## Trie
 |  |
@@ -197,6 +199,7 @@
 | [2707-extra-characters-in-a-string](https://github.com/gauthamnholla/coding-practice/tree/master/2707-extra-characters-in-a-string) |
 | [2741-special-permutations](https://github.com/gauthamnholla/coding-practice/tree/master/2741-special-permutations) |
 | [2742-painting-the-walls](https://github.com/gauthamnholla/coding-practice/tree/master/2742-painting-the-walls) |
+| [2746-decremental-string-concatenation](https://github.com/gauthamnholla/coding-practice/tree/master/2746-decremental-string-concatenation) |
 | [2786-visit-array-positions-to-maximize-score](https://github.com/gauthamnholla/coding-practice/tree/master/2786-visit-array-positions-to-maximize-score) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/gauthamnholla/coding-practice/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/gauthamnholla/coding-practice/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
