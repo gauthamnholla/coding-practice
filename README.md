@@ -53,6 +53,7 @@
 | [2741-special-permutations](https://github.com/gauthamnholla/coding-practice/tree/master/2741-special-permutations) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/gauthamnholla/coding-practice/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2786-visit-array-positions-to-maximize-score](https://github.com/gauthamnholla/coding-practice/tree/master/2786-visit-array-positions-to-maximize-score) |
+| [2788-split-strings-by-separator](https://github.com/gauthamnholla/coding-practice/tree/master/2788-split-strings-by-separator) |
 ## Hash Table
 |  |
 | ------- |
@@ -123,6 +124,7 @@
 | [2678-number-of-senior-citizens](https://github.com/gauthamnholla/coding-practice/tree/master/2678-number-of-senior-citizens) |
 | [2707-extra-characters-in-a-string](https://github.com/gauthamnholla/coding-practice/tree/master/2707-extra-characters-in-a-string) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/gauthamnholla/coding-practice/tree/master/2744-find-maximum-number-of-string-pairs) |
+| [2788-split-strings-by-separator](https://github.com/gauthamnholla/coding-practice/tree/master/2788-split-strings-by-separator) |
 ## Trie
 |  |
 | ------- |
