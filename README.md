@@ -56,6 +56,7 @@
 | [2788-split-strings-by-separator](https://github.com/gauthamnholla/coding-practice/tree/master/2788-split-strings-by-separator) |
 | [2789-largest-element-in-an-array-after-merge-operations](https://github.com/gauthamnholla/coding-practice/tree/master/2789-largest-element-in-an-array-after-merge-operations) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/gauthamnholla/coding-practice/tree/master/2798-number-of-employees-who-met-the-target) |
+| [2799-count-complete-subarrays-in-an-array](https://github.com/gauthamnholla/coding-practice/tree/master/2799-count-complete-subarrays-in-an-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -79,6 +80,7 @@
 | [2707-extra-characters-in-a-string](https://github.com/gauthamnholla/coding-practice/tree/master/2707-extra-characters-in-a-string) |
 | [2718-sum-of-matrix-after-queries](https://github.com/gauthamnholla/coding-practice/tree/master/2718-sum-of-matrix-after-queries) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/gauthamnholla/coding-practice/tree/master/2744-find-maximum-number-of-string-pairs) |
+| [2799-count-complete-subarrays-in-an-array](https://github.com/gauthamnholla/coding-practice/tree/master/2799-count-complete-subarrays-in-an-array) |
 ## Counting
 |  |
 | ------- |
@@ -156,6 +158,7 @@
 | [2444-count-subarrays-with-fixed-bounds](https://github.com/gauthamnholla/coding-practice/tree/master/2444-count-subarrays-with-fixed-bounds) |
 | [2537-count-the-number-of-good-subarrays](https://github.com/gauthamnholla/coding-practice/tree/master/2537-count-the-number-of-good-subarrays) |
 | [2555-maximize-win-from-two-segments](https://github.com/gauthamnholla/coding-practice/tree/master/2555-maximize-win-from-two-segments) |
+| [2799-count-complete-subarrays-in-an-array](https://github.com/gauthamnholla/coding-practice/tree/master/2799-count-complete-subarrays-in-an-array) |
 ## Monotonic Queue
 |  |
 | ------- |
