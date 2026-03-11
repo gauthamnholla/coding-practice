@@ -52,6 +52,7 @@
 | [2718-sum-of-matrix-after-queries](https://github.com/gauthamnholla/coding-practice/tree/master/2718-sum-of-matrix-after-queries) |
 | [2741-special-permutations](https://github.com/gauthamnholla/coding-practice/tree/master/2741-special-permutations) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/gauthamnholla/coding-practice/tree/master/2744-find-maximum-number-of-string-pairs) |
+| [2786-visit-array-positions-to-maximize-score](https://github.com/gauthamnholla/coding-practice/tree/master/2786-visit-array-positions-to-maximize-score) |
 ## Hash Table
 |  |
 | ------- |
@@ -185,6 +186,7 @@
 | [2673-make-costs-of-paths-equal-in-a-binary-tree](https://github.com/gauthamnholla/coding-practice/tree/master/2673-make-costs-of-paths-equal-in-a-binary-tree) |
 | [2707-extra-characters-in-a-string](https://github.com/gauthamnholla/coding-practice/tree/master/2707-extra-characters-in-a-string) |
 | [2741-special-permutations](https://github.com/gauthamnholla/coding-practice/tree/master/2741-special-permutations) |
+| [2786-visit-array-positions-to-maximize-score](https://github.com/gauthamnholla/coding-practice/tree/master/2786-visit-array-positions-to-maximize-score) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/gauthamnholla/coding-practice/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/gauthamnholla/coding-practice/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 ## Heap (Priority Queue)
