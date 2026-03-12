@@ -6,6 +6,7 @@
 | ------- |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/gauthamnholla/coding-practice/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/gauthamnholla/coding-practice/tree/master/1944-number-of-visible-people-in-a-queue) |
+| [1946-largest-number-after-mutating-substring](https://github.com/gauthamnholla/coding-practice/tree/master/1946-largest-number-after-mutating-substring) |
 | [1980-find-unique-binary-string](https://github.com/gauthamnholla/coding-practice/tree/master/1980-find-unique-binary-string) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/gauthamnholla/coding-practice/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [2347-best-poker-hand](https://github.com/gauthamnholla/coding-practice/tree/master/2347-best-poker-hand) |
@@ -100,6 +101,7 @@
 ## Greedy
 |  |
 | ------- |
+| [1946-largest-number-after-mutating-substring](https://github.com/gauthamnholla/coding-practice/tree/master/1946-largest-number-after-mutating-substring) |
 | [2350-shortest-impossible-sequence-of-rolls](https://github.com/gauthamnholla/coding-practice/tree/master/2350-shortest-impossible-sequence-of-rolls) |
 | [2383-minimum-hours-of-training-to-win-a-competition](https://github.com/gauthamnholla/coding-practice/tree/master/2383-minimum-hours-of-training-to-win-a-competition) |
 | [2498-frog-jump-ii](https://github.com/gauthamnholla/coding-practice/tree/master/2498-frog-jump-ii) |
@@ -119,6 +121,7 @@
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/gauthamnholla/coding-practice/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/gauthamnholla/coding-practice/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/gauthamnholla/coding-practice/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
+| [1946-largest-number-after-mutating-substring](https://github.com/gauthamnholla/coding-practice/tree/master/1946-largest-number-after-mutating-substring) |
 | [1980-find-unique-binary-string](https://github.com/gauthamnholla/coding-practice/tree/master/1980-find-unique-binary-string) |
 | [2416-sum-of-prefix-scores-of-strings](https://github.com/gauthamnholla/coding-practice/tree/master/2416-sum-of-prefix-scores-of-strings) |
 | [2446-determine-if-two-events-have-conflict](https://github.com/gauthamnholla/coding-practice/tree/master/2446-determine-if-two-events-have-conflict) |
