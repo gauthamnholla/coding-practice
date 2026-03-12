@@ -8,6 +8,7 @@
 | [1944-number-of-visible-people-in-a-queue](https://github.com/gauthamnholla/coding-practice/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [1946-largest-number-after-mutating-substring](https://github.com/gauthamnholla/coding-practice/tree/master/1946-largest-number-after-mutating-substring) |
 | [1947-maximum-compatibility-score-sum](https://github.com/gauthamnholla/coding-practice/tree/master/1947-maximum-compatibility-score-sum) |
+| [1953-maximum-number-of-weeks-for-which-you-can-work](https://github.com/gauthamnholla/coding-practice/tree/master/1953-maximum-number-of-weeks-for-which-you-can-work) |
 | [1980-find-unique-binary-string](https://github.com/gauthamnholla/coding-practice/tree/master/1980-find-unique-binary-string) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/gauthamnholla/coding-practice/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [2347-best-poker-hand](https://github.com/gauthamnholla/coding-practice/tree/master/2347-best-poker-hand) |
@@ -103,6 +104,7 @@
 |  |
 | ------- |
 | [1946-largest-number-after-mutating-substring](https://github.com/gauthamnholla/coding-practice/tree/master/1946-largest-number-after-mutating-substring) |
+| [1953-maximum-number-of-weeks-for-which-you-can-work](https://github.com/gauthamnholla/coding-practice/tree/master/1953-maximum-number-of-weeks-for-which-you-can-work) |
 | [2350-shortest-impossible-sequence-of-rolls](https://github.com/gauthamnholla/coding-practice/tree/master/2350-shortest-impossible-sequence-of-rolls) |
 | [2383-minimum-hours-of-training-to-win-a-competition](https://github.com/gauthamnholla/coding-practice/tree/master/2383-minimum-hours-of-training-to-win-a-competition) |
 | [2498-frog-jump-ii](https://github.com/gauthamnholla/coding-practice/tree/master/2498-frog-jump-ii) |
