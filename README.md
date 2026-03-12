@@ -11,6 +11,7 @@
 | [1953-maximum-number-of-weeks-for-which-you-can-work](https://github.com/gauthamnholla/coding-practice/tree/master/1953-maximum-number-of-weeks-for-which-you-can-work) |
 | [1955-count-number-of-special-subsequences](https://github.com/gauthamnholla/coding-practice/tree/master/1955-count-number-of-special-subsequences) |
 | [1959-minimum-total-space-wasted-with-k-resizing-operations](https://github.com/gauthamnholla/coding-practice/tree/master/1959-minimum-total-space-wasted-with-k-resizing-operations) |
+| [1964-find-the-longest-valid-obstacle-course-at-each-position](https://github.com/gauthamnholla/coding-practice/tree/master/1964-find-the-longest-valid-obstacle-course-at-each-position) |
 | [1980-find-unique-binary-string](https://github.com/gauthamnholla/coding-practice/tree/master/1980-find-unique-binary-string) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/gauthamnholla/coding-practice/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [2347-best-poker-hand](https://github.com/gauthamnholla/coding-practice/tree/master/2347-best-poker-hand) |
@@ -181,6 +182,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [1964-find-the-longest-valid-obstacle-course-at-each-position](https://github.com/gauthamnholla/coding-practice/tree/master/1964-find-the-longest-valid-obstacle-course-at-each-position) |
 | [2498-frog-jump-ii](https://github.com/gauthamnholla/coding-practice/tree/master/2498-frog-jump-ii) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/gauthamnholla/coding-practice/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2555-maximize-win-from-two-segments](https://github.com/gauthamnholla/coding-practice/tree/master/2555-maximize-win-from-two-segments) |
@@ -241,6 +243,7 @@
 ## Binary Indexed Tree
 |  |
 | ------- |
+| [1964-find-the-longest-valid-obstacle-course-at-each-position](https://github.com/gauthamnholla/coding-practice/tree/master/1964-find-the-longest-valid-obstacle-course-at-each-position) |
 | [2407-longest-increasing-subsequence-ii](https://github.com/gauthamnholla/coding-practice/tree/master/2407-longest-increasing-subsequence-ii) |
 ## Simulation
 |  |
