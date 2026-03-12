@@ -9,6 +9,7 @@
 | [1946-largest-number-after-mutating-substring](https://github.com/gauthamnholla/coding-practice/tree/master/1946-largest-number-after-mutating-substring) |
 | [1947-maximum-compatibility-score-sum](https://github.com/gauthamnholla/coding-practice/tree/master/1947-maximum-compatibility-score-sum) |
 | [1953-maximum-number-of-weeks-for-which-you-can-work](https://github.com/gauthamnholla/coding-practice/tree/master/1953-maximum-number-of-weeks-for-which-you-can-work) |
+| [1955-count-number-of-special-subsequences](https://github.com/gauthamnholla/coding-practice/tree/master/1955-count-number-of-special-subsequences) |
 | [1980-find-unique-binary-string](https://github.com/gauthamnholla/coding-practice/tree/master/1980-find-unique-binary-string) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/gauthamnholla/coding-practice/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [2347-best-poker-hand](https://github.com/gauthamnholla/coding-practice/tree/master/2347-best-poker-hand) |
@@ -198,6 +199,7 @@
 | ------- |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/gauthamnholla/coding-practice/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1947-maximum-compatibility-score-sum](https://github.com/gauthamnholla/coding-practice/tree/master/1947-maximum-compatibility-score-sum) |
+| [1955-count-number-of-special-subsequences](https://github.com/gauthamnholla/coding-practice/tree/master/1955-count-number-of-special-subsequences) |
 | [2407-longest-increasing-subsequence-ii](https://github.com/gauthamnholla/coding-practice/tree/master/2407-longest-increasing-subsequence-ii) |
 | [2518-number-of-great-partitions](https://github.com/gauthamnholla/coding-practice/tree/master/2518-number-of-great-partitions) |
 | [2547-minimum-cost-to-split-an-array](https://github.com/gauthamnholla/coding-practice/tree/master/2547-minimum-cost-to-split-an-array) |
