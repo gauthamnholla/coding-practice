@@ -14,6 +14,7 @@
 | [1964-find-the-longest-valid-obstacle-course-at-each-position](https://github.com/gauthamnholla/coding-practice/tree/master/1964-find-the-longest-valid-obstacle-course-at-each-position) |
 | [1980-find-unique-binary-string](https://github.com/gauthamnholla/coding-practice/tree/master/1980-find-unique-binary-string) |
 | [2289-steps-to-make-array-non-decreasing](https://github.com/gauthamnholla/coding-practice/tree/master/2289-steps-to-make-array-non-decreasing) |
+| [2293-min-max-game](https://github.com/gauthamnholla/coding-practice/tree/master/2293-min-max-game) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/gauthamnholla/coding-practice/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [2347-best-poker-hand](https://github.com/gauthamnholla/coding-practice/tree/master/2347-best-poker-hand) |
 | [2350-shortest-impossible-sequence-of-rolls](https://github.com/gauthamnholla/coding-practice/tree/master/2350-shortest-impossible-sequence-of-rolls) |
@@ -253,6 +254,7 @@
 |  |
 | ------- |
 | [2289-steps-to-make-array-non-decreasing](https://github.com/gauthamnholla/coding-practice/tree/master/2289-steps-to-make-array-non-decreasing) |
+| [2293-min-max-game](https://github.com/gauthamnholla/coding-practice/tree/master/2293-min-max-game) |
 | [2660-determine-the-winner-of-a-bowling-game](https://github.com/gauthamnholla/coding-practice/tree/master/2660-determine-the-winner-of-a-bowling-game) |
 | [2682-find-the-losers-of-the-circular-game](https://github.com/gauthamnholla/coding-practice/tree/master/2682-find-the-losers-of-the-circular-game) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/gauthamnholla/coding-practice/tree/master/2744-find-maximum-number-of-string-pairs) |
