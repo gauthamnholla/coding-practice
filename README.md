@@ -48,6 +48,7 @@
 | [2569-handling-sum-queries-after-update](https://github.com/gauthamnholla/coding-practice/tree/master/2569-handling-sum-queries-after-update) |
 | [2585-number-of-ways-to-earn-points](https://github.com/gauthamnholla/coding-practice/tree/master/2585-number-of-ways-to-earn-points) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/gauthamnholla/coding-practice/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
+| [2594-minimum-time-to-repair-cars](https://github.com/gauthamnholla/coding-practice/tree/master/2594-minimum-time-to-repair-cars) |
 | [2605-form-smallest-number-from-two-digit-arrays](https://github.com/gauthamnholla/coding-practice/tree/master/2605-form-smallest-number-from-two-digit-arrays) |
 | [2606-find-the-substring-with-maximum-cost](https://github.com/gauthamnholla/coding-practice/tree/master/2606-find-the-substring-with-maximum-cost) |
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/gauthamnholla/coding-practice/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
@@ -193,6 +194,7 @@
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/gauthamnholla/coding-practice/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2555-maximize-win-from-two-segments](https://github.com/gauthamnholla/coding-practice/tree/master/2555-maximize-win-from-two-segments) |
 | [2560-house-robber-iv](https://github.com/gauthamnholla/coding-practice/tree/master/2560-house-robber-iv) |
+| [2594-minimum-time-to-repair-cars](https://github.com/gauthamnholla/coding-practice/tree/master/2594-minimum-time-to-repair-cars) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/gauthamnholla/coding-practice/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Tree
 |  |
