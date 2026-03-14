@@ -71,6 +71,7 @@
 | [2765-longest-alternating-subarray](https://github.com/gauthamnholla/coding-practice/tree/master/2765-longest-alternating-subarray) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/gauthamnholla/coding-practice/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/gauthamnholla/coding-practice/tree/master/2778-sum-of-squares-of-special-elements) |
+| [2781-length-of-the-longest-valid-substring](https://github.com/gauthamnholla/coding-practice/tree/master/2781-length-of-the-longest-valid-substring) |
 | [2786-visit-array-positions-to-maximize-score](https://github.com/gauthamnholla/coding-practice/tree/master/2786-visit-array-positions-to-maximize-score) |
 | [2788-split-strings-by-separator](https://github.com/gauthamnholla/coding-practice/tree/master/2788-split-strings-by-separator) |
 | [2789-largest-element-in-an-array-after-merge-operations](https://github.com/gauthamnholla/coding-practice/tree/master/2789-largest-element-in-an-array-after-merge-operations) |
@@ -102,6 +103,7 @@
 | [2718-sum-of-matrix-after-queries](https://github.com/gauthamnholla/coding-practice/tree/master/2718-sum-of-matrix-after-queries) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/gauthamnholla/coding-practice/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2763-sum-of-imbalance-numbers-of-all-subarrays](https://github.com/gauthamnholla/coding-practice/tree/master/2763-sum-of-imbalance-numbers-of-all-subarrays) |
+| [2781-length-of-the-longest-valid-substring](https://github.com/gauthamnholla/coding-practice/tree/master/2781-length-of-the-longest-valid-substring) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/gauthamnholla/coding-practice/tree/master/2799-count-complete-subarrays-in-an-array) |
 ## Counting
 |  |
@@ -157,6 +159,7 @@
 | [2707-extra-characters-in-a-string](https://github.com/gauthamnholla/coding-practice/tree/master/2707-extra-characters-in-a-string) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/gauthamnholla/coding-practice/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2746-decremental-string-concatenation](https://github.com/gauthamnholla/coding-practice/tree/master/2746-decremental-string-concatenation) |
+| [2781-length-of-the-longest-valid-substring](https://github.com/gauthamnholla/coding-practice/tree/master/2781-length-of-the-longest-valid-substring) |
 | [2788-split-strings-by-separator](https://github.com/gauthamnholla/coding-practice/tree/master/2788-split-strings-by-separator) |
 ## Trie
 |  |
@@ -189,6 +192,7 @@
 | [2537-count-the-number-of-good-subarrays](https://github.com/gauthamnholla/coding-practice/tree/master/2537-count-the-number-of-good-subarrays) |
 | [2555-maximize-win-from-two-segments](https://github.com/gauthamnholla/coding-practice/tree/master/2555-maximize-win-from-two-segments) |
 | [2760-longest-even-odd-subarray-with-threshold](https://github.com/gauthamnholla/coding-practice/tree/master/2760-longest-even-odd-subarray-with-threshold) |
+| [2781-length-of-the-longest-valid-substring](https://github.com/gauthamnholla/coding-practice/tree/master/2781-length-of-the-longest-valid-substring) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/gauthamnholla/coding-practice/tree/master/2799-count-complete-subarrays-in-an-array) |
 ## Monotonic Queue
 |  |
