@@ -70,6 +70,7 @@
 | [2763-sum-of-imbalance-numbers-of-all-subarrays](https://github.com/gauthamnholla/coding-practice/tree/master/2763-sum-of-imbalance-numbers-of-all-subarrays) |
 | [2765-longest-alternating-subarray](https://github.com/gauthamnholla/coding-practice/tree/master/2765-longest-alternating-subarray) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/gauthamnholla/coding-practice/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/gauthamnholla/coding-practice/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2786-visit-array-positions-to-maximize-score](https://github.com/gauthamnholla/coding-practice/tree/master/2786-visit-array-positions-to-maximize-score) |
 | [2788-split-strings-by-separator](https://github.com/gauthamnholla/coding-practice/tree/master/2788-split-strings-by-separator) |
 | [2789-largest-element-in-an-array-after-merge-operations](https://github.com/gauthamnholla/coding-practice/tree/master/2789-largest-element-in-an-array-after-merge-operations) |
@@ -282,6 +283,7 @@
 | [2605-form-smallest-number-from-two-digit-arrays](https://github.com/gauthamnholla/coding-practice/tree/master/2605-form-smallest-number-from-two-digit-arrays) |
 | [2763-sum-of-imbalance-numbers-of-all-subarrays](https://github.com/gauthamnholla/coding-practice/tree/master/2763-sum-of-imbalance-numbers-of-all-subarrays) |
 | [2765-longest-alternating-subarray](https://github.com/gauthamnholla/coding-practice/tree/master/2765-longest-alternating-subarray) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/gauthamnholla/coding-practice/tree/master/2778-sum-of-squares-of-special-elements) |
 ## Prefix Sum
 |  |
 | ------- |
