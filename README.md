@@ -79,6 +79,7 @@
 | [2799-count-complete-subarrays-in-an-array](https://github.com/gauthamnholla/coding-practice/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [2826-sorting-three-groups](https://github.com/gauthamnholla/coding-practice/tree/master/2826-sorting-three-groups) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/gauthamnholla/coding-practice/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
+| [2835-minimum-operations-to-form-subsequence-with-target-sum](https://github.com/gauthamnholla/coding-practice/tree/master/2835-minimum-operations-to-form-subsequence-with-target-sum) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/gauthamnholla/coding-practice/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 ## Hash Table
 |  |
@@ -134,6 +135,7 @@
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/gauthamnholla/coding-practice/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 | [2673-make-costs-of-paths-equal-in-a-binary-tree](https://github.com/gauthamnholla/coding-practice/tree/master/2673-make-costs-of-paths-equal-in-a-binary-tree) |
 | [2789-largest-element-in-an-array-after-merge-operations](https://github.com/gauthamnholla/coding-practice/tree/master/2789-largest-element-in-an-array-after-merge-operations) |
+| [2835-minimum-operations-to-form-subsequence-with-target-sum](https://github.com/gauthamnholla/coding-practice/tree/master/2835-minimum-operations-to-form-subsequence-with-target-sum) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/gauthamnholla/coding-practice/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/gauthamnholla/coding-practice/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Matrix
@@ -183,6 +185,7 @@
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/gauthamnholla/coding-practice/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2683-neighboring-bitwise-xor](https://github.com/gauthamnholla/coding-practice/tree/master/2683-neighboring-bitwise-xor) |
 | [2741-special-permutations](https://github.com/gauthamnholla/coding-practice/tree/master/2741-special-permutations) |
+| [2835-minimum-operations-to-form-subsequence-with-target-sum](https://github.com/gauthamnholla/coding-practice/tree/master/2835-minimum-operations-to-form-subsequence-with-target-sum) |
 ## Queue
 |  |
 | ------- |
