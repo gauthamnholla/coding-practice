@@ -77,6 +77,7 @@
 | [2789-largest-element-in-an-array-after-merge-operations](https://github.com/gauthamnholla/coding-practice/tree/master/2789-largest-element-in-an-array-after-merge-operations) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/gauthamnholla/coding-practice/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/gauthamnholla/coding-practice/tree/master/2799-count-complete-subarrays-in-an-array) |
+| [2826-sorting-three-groups](https://github.com/gauthamnholla/coding-practice/tree/master/2826-sorting-three-groups) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/gauthamnholla/coding-practice/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 ## Hash Table
 |  |
@@ -209,6 +210,7 @@
 | [2555-maximize-win-from-two-segments](https://github.com/gauthamnholla/coding-practice/tree/master/2555-maximize-win-from-two-segments) |
 | [2560-house-robber-iv](https://github.com/gauthamnholla/coding-practice/tree/master/2560-house-robber-iv) |
 | [2594-minimum-time-to-repair-cars](https://github.com/gauthamnholla/coding-practice/tree/master/2594-minimum-time-to-repair-cars) |
+| [2826-sorting-three-groups](https://github.com/gauthamnholla/coding-practice/tree/master/2826-sorting-three-groups) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/gauthamnholla/coding-practice/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/gauthamnholla/coding-practice/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Tree
@@ -242,6 +244,7 @@
 | [2746-decremental-string-concatenation](https://github.com/gauthamnholla/coding-practice/tree/master/2746-decremental-string-concatenation) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/gauthamnholla/coding-practice/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2786-visit-array-positions-to-maximize-score](https://github.com/gauthamnholla/coding-practice/tree/master/2786-visit-array-positions-to-maximize-score) |
+| [2826-sorting-three-groups](https://github.com/gauthamnholla/coding-practice/tree/master/2826-sorting-three-groups) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/gauthamnholla/coding-practice/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/gauthamnholla/coding-practice/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 ## Heap (Priority Queue)
