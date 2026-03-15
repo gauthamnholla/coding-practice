@@ -78,6 +78,7 @@
 | [2798-number-of-employees-who-met-the-target](https://github.com/gauthamnholla/coding-practice/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/gauthamnholla/coding-practice/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [2826-sorting-three-groups](https://github.com/gauthamnholla/coding-practice/tree/master/2826-sorting-three-groups) |
+| [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/gauthamnholla/coding-practice/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/gauthamnholla/coding-practice/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 ## Hash Table
 |  |
@@ -163,6 +164,7 @@
 | [2746-decremental-string-concatenation](https://github.com/gauthamnholla/coding-practice/tree/master/2746-decremental-string-concatenation) |
 | [2781-length-of-the-longest-valid-substring](https://github.com/gauthamnholla/coding-practice/tree/master/2781-length-of-the-longest-valid-substring) |
 | [2788-split-strings-by-separator](https://github.com/gauthamnholla/coding-practice/tree/master/2788-split-strings-by-separator) |
+| [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/gauthamnholla/coding-practice/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 ## Trie
 |  |
 | ------- |
