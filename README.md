@@ -80,6 +80,7 @@
 | [2826-sorting-three-groups](https://github.com/gauthamnholla/coding-practice/tree/master/2826-sorting-three-groups) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/gauthamnholla/coding-practice/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [2835-minimum-operations-to-form-subsequence-with-target-sum](https://github.com/gauthamnholla/coding-practice/tree/master/2835-minimum-operations-to-form-subsequence-with-target-sum) |
+| [2836-maximize-value-of-function-in-a-ball-passing-game](https://github.com/gauthamnholla/coding-practice/tree/master/2836-maximize-value-of-function-in-a-ball-passing-game) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/gauthamnholla/coding-practice/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 ## Hash Table
 |  |
@@ -186,6 +187,7 @@
 | [2683-neighboring-bitwise-xor](https://github.com/gauthamnholla/coding-practice/tree/master/2683-neighboring-bitwise-xor) |
 | [2741-special-permutations](https://github.com/gauthamnholla/coding-practice/tree/master/2741-special-permutations) |
 | [2835-minimum-operations-to-form-subsequence-with-target-sum](https://github.com/gauthamnholla/coding-practice/tree/master/2835-minimum-operations-to-form-subsequence-with-target-sum) |
+| [2836-maximize-value-of-function-in-a-ball-passing-game](https://github.com/gauthamnholla/coding-practice/tree/master/2836-maximize-value-of-function-in-a-ball-passing-game) |
 ## Queue
 |  |
 | ------- |
@@ -250,6 +252,7 @@
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/gauthamnholla/coding-practice/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2786-visit-array-positions-to-maximize-score](https://github.com/gauthamnholla/coding-practice/tree/master/2786-visit-array-positions-to-maximize-score) |
 | [2826-sorting-three-groups](https://github.com/gauthamnholla/coding-practice/tree/master/2826-sorting-three-groups) |
+| [2836-maximize-value-of-function-in-a-ball-passing-game](https://github.com/gauthamnholla/coding-practice/tree/master/2836-maximize-value-of-function-in-a-ball-passing-game) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/gauthamnholla/coding-practice/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/gauthamnholla/coding-practice/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 ## Heap (Priority Queue)
