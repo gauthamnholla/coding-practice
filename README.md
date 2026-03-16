@@ -90,6 +90,7 @@
 | [2841-maximum-sum-of-almost-unique-subarray](https://github.com/gauthamnholla/coding-practice/tree/master/2841-maximum-sum-of-almost-unique-subarray) |
 | [2845-count-of-interesting-subarrays](https://github.com/gauthamnholla/coding-practice/tree/master/2845-count-of-interesting-subarrays) |
 | [2846-minimum-edge-weight-equilibrium-queries-in-a-tree](https://github.com/gauthamnholla/coding-practice/tree/master/2846-minimum-edge-weight-equilibrium-queries-in-a-tree) |
+| [2848-points-that-intersect-with-cars](https://github.com/gauthamnholla/coding-practice/tree/master/2848-points-that-intersect-with-cars) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/gauthamnholla/coding-practice/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 ## Hash Table
 |  |
@@ -123,6 +124,7 @@
 | [2831-find-the-longest-equal-subarray](https://github.com/gauthamnholla/coding-practice/tree/master/2831-find-the-longest-equal-subarray) |
 | [2841-maximum-sum-of-almost-unique-subarray](https://github.com/gauthamnholla/coding-practice/tree/master/2841-maximum-sum-of-almost-unique-subarray) |
 | [2845-count-of-interesting-subarrays](https://github.com/gauthamnholla/coding-practice/tree/master/2845-count-of-interesting-subarrays) |
+| [2848-points-that-intersect-with-cars](https://github.com/gauthamnholla/coding-practice/tree/master/2848-points-that-intersect-with-cars) |
 ## Counting
 |  |
 | ------- |
@@ -331,6 +333,7 @@
 | ------- |
 | [1959-minimum-total-space-wasted-with-k-resizing-operations](https://github.com/gauthamnholla/coding-practice/tree/master/1959-minimum-total-space-wasted-with-k-resizing-operations) |
 | [2845-count-of-interesting-subarrays](https://github.com/gauthamnholla/coding-practice/tree/master/2845-count-of-interesting-subarrays) |
+| [2848-points-that-intersect-with-cars](https://github.com/gauthamnholla/coding-practice/tree/master/2848-points-that-intersect-with-cars) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/gauthamnholla/coding-practice/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/gauthamnholla/coding-practice/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 ## Bitmask
