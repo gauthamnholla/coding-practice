@@ -81,6 +81,7 @@
 | [2808-minimum-seconds-to-equalize-a-circular-array](https://github.com/gauthamnholla/coding-practice/tree/master/2808-minimum-seconds-to-equalize-a-circular-array) |
 | [2811-check-if-it-is-possible-to-split-array](https://github.com/gauthamnholla/coding-practice/tree/master/2811-check-if-it-is-possible-to-split-array) |
 | [2815-max-pair-sum-in-an-array](https://github.com/gauthamnholla/coding-practice/tree/master/2815-max-pair-sum-in-an-array) |
+| [2817-minimum-absolute-difference-between-elements-with-constraint](https://github.com/gauthamnholla/coding-practice/tree/master/2817-minimum-absolute-difference-between-elements-with-constraint) |
 | [2826-sorting-three-groups](https://github.com/gauthamnholla/coding-practice/tree/master/2826-sorting-three-groups) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/gauthamnholla/coding-practice/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [2835-minimum-operations-to-form-subsequence-with-target-sum](https://github.com/gauthamnholla/coding-practice/tree/master/2835-minimum-operations-to-form-subsequence-with-target-sum) |
@@ -229,6 +230,7 @@
 | [2555-maximize-win-from-two-segments](https://github.com/gauthamnholla/coding-practice/tree/master/2555-maximize-win-from-two-segments) |
 | [2560-house-robber-iv](https://github.com/gauthamnholla/coding-practice/tree/master/2560-house-robber-iv) |
 | [2594-minimum-time-to-repair-cars](https://github.com/gauthamnholla/coding-practice/tree/master/2594-minimum-time-to-repair-cars) |
+| [2817-minimum-absolute-difference-between-elements-with-constraint](https://github.com/gauthamnholla/coding-practice/tree/master/2817-minimum-absolute-difference-between-elements-with-constraint) |
 | [2826-sorting-three-groups](https://github.com/gauthamnholla/coding-practice/tree/master/2826-sorting-three-groups) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/gauthamnholla/coding-practice/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/gauthamnholla/coding-practice/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
@@ -364,4 +366,8 @@
 |  |
 | ------- |
 | [1622-fancy-sequence](https://github.com/gauthamnholla/coding-practice/tree/master/1622-fancy-sequence) |
+## Ordered Set
+|  |
+| ------- |
+| [2817-minimum-absolute-difference-between-elements-with-constraint](https://github.com/gauthamnholla/coding-practice/tree/master/2817-minimum-absolute-difference-between-elements-with-constraint) |
 <!---LeetCode Topics End-->
