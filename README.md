@@ -78,6 +78,7 @@
 | [2789-largest-element-in-an-array-after-merge-operations](https://github.com/gauthamnholla/coding-practice/tree/master/2789-largest-element-in-an-array-after-merge-operations) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/gauthamnholla/coding-practice/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/gauthamnholla/coding-practice/tree/master/2799-count-complete-subarrays-in-an-array) |
+| [2808-minimum-seconds-to-equalize-a-circular-array](https://github.com/gauthamnholla/coding-practice/tree/master/2808-minimum-seconds-to-equalize-a-circular-array) |
 | [2826-sorting-three-groups](https://github.com/gauthamnholla/coding-practice/tree/master/2826-sorting-three-groups) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/gauthamnholla/coding-practice/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [2835-minimum-operations-to-form-subsequence-with-target-sum](https://github.com/gauthamnholla/coding-practice/tree/master/2835-minimum-operations-to-form-subsequence-with-target-sum) |
@@ -112,6 +113,7 @@
 | [2763-sum-of-imbalance-numbers-of-all-subarrays](https://github.com/gauthamnholla/coding-practice/tree/master/2763-sum-of-imbalance-numbers-of-all-subarrays) |
 | [2781-length-of-the-longest-valid-substring](https://github.com/gauthamnholla/coding-practice/tree/master/2781-length-of-the-longest-valid-substring) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/gauthamnholla/coding-practice/tree/master/2799-count-complete-subarrays-in-an-array) |
+| [2808-minimum-seconds-to-equalize-a-circular-array](https://github.com/gauthamnholla/coding-practice/tree/master/2808-minimum-seconds-to-equalize-a-circular-array) |
 | [2841-maximum-sum-of-almost-unique-subarray](https://github.com/gauthamnholla/coding-practice/tree/master/2841-maximum-sum-of-almost-unique-subarray) |
 | [2845-count-of-interesting-subarrays](https://github.com/gauthamnholla/coding-practice/tree/master/2845-count-of-interesting-subarrays) |
 ## Counting
