@@ -84,6 +84,7 @@
 | [2817-minimum-absolute-difference-between-elements-with-constraint](https://github.com/gauthamnholla/coding-practice/tree/master/2817-minimum-absolute-difference-between-elements-with-constraint) |
 | [2826-sorting-three-groups](https://github.com/gauthamnholla/coding-practice/tree/master/2826-sorting-three-groups) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/gauthamnholla/coding-practice/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
+| [2831-find-the-longest-equal-subarray](https://github.com/gauthamnholla/coding-practice/tree/master/2831-find-the-longest-equal-subarray) |
 | [2835-minimum-operations-to-form-subsequence-with-target-sum](https://github.com/gauthamnholla/coding-practice/tree/master/2835-minimum-operations-to-form-subsequence-with-target-sum) |
 | [2836-maximize-value-of-function-in-a-ball-passing-game](https://github.com/gauthamnholla/coding-practice/tree/master/2836-maximize-value-of-function-in-a-ball-passing-game) |
 | [2841-maximum-sum-of-almost-unique-subarray](https://github.com/gauthamnholla/coding-practice/tree/master/2841-maximum-sum-of-almost-unique-subarray) |
@@ -118,6 +119,7 @@
 | [2799-count-complete-subarrays-in-an-array](https://github.com/gauthamnholla/coding-practice/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [2808-minimum-seconds-to-equalize-a-circular-array](https://github.com/gauthamnholla/coding-practice/tree/master/2808-minimum-seconds-to-equalize-a-circular-array) |
 | [2815-max-pair-sum-in-an-array](https://github.com/gauthamnholla/coding-practice/tree/master/2815-max-pair-sum-in-an-array) |
+| [2831-find-the-longest-equal-subarray](https://github.com/gauthamnholla/coding-practice/tree/master/2831-find-the-longest-equal-subarray) |
 | [2841-maximum-sum-of-almost-unique-subarray](https://github.com/gauthamnholla/coding-practice/tree/master/2841-maximum-sum-of-almost-unique-subarray) |
 | [2845-count-of-interesting-subarrays](https://github.com/gauthamnholla/coding-practice/tree/master/2845-count-of-interesting-subarrays) |
 ## Counting
@@ -215,6 +217,7 @@
 | [2760-longest-even-odd-subarray-with-threshold](https://github.com/gauthamnholla/coding-practice/tree/master/2760-longest-even-odd-subarray-with-threshold) |
 | [2781-length-of-the-longest-valid-substring](https://github.com/gauthamnholla/coding-practice/tree/master/2781-length-of-the-longest-valid-substring) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/gauthamnholla/coding-practice/tree/master/2799-count-complete-subarrays-in-an-array) |
+| [2831-find-the-longest-equal-subarray](https://github.com/gauthamnholla/coding-practice/tree/master/2831-find-the-longest-equal-subarray) |
 | [2841-maximum-sum-of-almost-unique-subarray](https://github.com/gauthamnholla/coding-practice/tree/master/2841-maximum-sum-of-almost-unique-subarray) |
 ## Monotonic Queue
 |  |
@@ -232,6 +235,7 @@
 | [2594-minimum-time-to-repair-cars](https://github.com/gauthamnholla/coding-practice/tree/master/2594-minimum-time-to-repair-cars) |
 | [2817-minimum-absolute-difference-between-elements-with-constraint](https://github.com/gauthamnholla/coding-practice/tree/master/2817-minimum-absolute-difference-between-elements-with-constraint) |
 | [2826-sorting-three-groups](https://github.com/gauthamnholla/coding-practice/tree/master/2826-sorting-three-groups) |
+| [2831-find-the-longest-equal-subarray](https://github.com/gauthamnholla/coding-practice/tree/master/2831-find-the-longest-equal-subarray) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/gauthamnholla/coding-practice/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/gauthamnholla/coding-practice/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Tree
