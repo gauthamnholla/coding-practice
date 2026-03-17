@@ -97,6 +97,7 @@
 | [2861-maximum-number-of-alloys](https://github.com/gauthamnholla/coding-practice/tree/master/2861-maximum-number-of-alloys) |
 | [2865-beautiful-towers-i](https://github.com/gauthamnholla/coding-practice/tree/master/2865-beautiful-towers-i) |
 | [2866-beautiful-towers-ii](https://github.com/gauthamnholla/coding-practice/tree/master/2866-beautiful-towers-ii) |
+| [2869-minimum-operations-to-collect-elements](https://github.com/gauthamnholla/coding-practice/tree/master/2869-minimum-operations-to-collect-elements) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/gauthamnholla/coding-practice/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 ## Hash Table
 |  |
@@ -132,6 +133,7 @@
 | [2845-count-of-interesting-subarrays](https://github.com/gauthamnholla/coding-practice/tree/master/2845-count-of-interesting-subarrays) |
 | [2848-points-that-intersect-with-cars](https://github.com/gauthamnholla/coding-practice/tree/master/2848-points-that-intersect-with-cars) |
 | [2857-count-pairs-of-points-with-distance-k](https://github.com/gauthamnholla/coding-practice/tree/master/2857-count-pairs-of-points-with-distance-k) |
+| [2869-minimum-operations-to-collect-elements](https://github.com/gauthamnholla/coding-practice/tree/master/2869-minimum-operations-to-collect-elements) |
 ## Counting
 |  |
 | ------- |
@@ -216,6 +218,7 @@
 | [2846-minimum-edge-weight-equilibrium-queries-in-a-tree](https://github.com/gauthamnholla/coding-practice/tree/master/2846-minimum-edge-weight-equilibrium-queries-in-a-tree) |
 | [2857-count-pairs-of-points-with-distance-k](https://github.com/gauthamnholla/coding-practice/tree/master/2857-count-pairs-of-points-with-distance-k) |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/gauthamnholla/coding-practice/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
+| [2869-minimum-operations-to-collect-elements](https://github.com/gauthamnholla/coding-practice/tree/master/2869-minimum-operations-to-collect-elements) |
 ## Queue
 |  |
 | ------- |
