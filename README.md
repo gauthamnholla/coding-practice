@@ -96,6 +96,7 @@
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/gauthamnholla/coding-practice/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
 | [2861-maximum-number-of-alloys](https://github.com/gauthamnholla/coding-practice/tree/master/2861-maximum-number-of-alloys) |
 | [2865-beautiful-towers-i](https://github.com/gauthamnholla/coding-practice/tree/master/2865-beautiful-towers-i) |
+| [2866-beautiful-towers-ii](https://github.com/gauthamnholla/coding-practice/tree/master/2866-beautiful-towers-ii) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/gauthamnholla/coding-practice/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 ## Hash Table
 |  |
@@ -359,12 +360,14 @@
 | [1944-number-of-visible-people-in-a-queue](https://github.com/gauthamnholla/coding-practice/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2289-steps-to-make-array-non-decreasing](https://github.com/gauthamnholla/coding-practice/tree/master/2289-steps-to-make-array-non-decreasing) |
 | [2865-beautiful-towers-i](https://github.com/gauthamnholla/coding-practice/tree/master/2865-beautiful-towers-i) |
+| [2866-beautiful-towers-ii](https://github.com/gauthamnholla/coding-practice/tree/master/2866-beautiful-towers-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/gauthamnholla/coding-practice/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2289-steps-to-make-array-non-decreasing](https://github.com/gauthamnholla/coding-practice/tree/master/2289-steps-to-make-array-non-decreasing) |
 | [2865-beautiful-towers-i](https://github.com/gauthamnholla/coding-practice/tree/master/2865-beautiful-towers-i) |
+| [2866-beautiful-towers-ii](https://github.com/gauthamnholla/coding-practice/tree/master/2866-beautiful-towers-ii) |
 ## Union-Find
 |  |
 | ------- |
