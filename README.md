@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/gauthamnholla/coding-practice/tree/master/1582-special-positions-in-a-binary-matrix) |
+| [1583-count-unhappy-friends](https://github.com/gauthamnholla/coding-practice/tree/master/1583-count-unhappy-friends) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/gauthamnholla/coding-practice/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/gauthamnholla/coding-practice/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1928-minimum-cost-to-reach-destination-in-time](https://github.com/gauthamnholla/coding-practice/tree/master/1928-minimum-cost-to-reach-destination-in-time) |
@@ -336,6 +337,7 @@
 ## Simulation
 |  |
 | ------- |
+| [1583-count-unhappy-friends](https://github.com/gauthamnholla/coding-practice/tree/master/1583-count-unhappy-friends) |
 | [2289-steps-to-make-array-non-decreasing](https://github.com/gauthamnholla/coding-practice/tree/master/2289-steps-to-make-array-non-decreasing) |
 | [2293-min-max-game](https://github.com/gauthamnholla/coding-practice/tree/master/2293-min-max-game) |
 | [2295-replace-elements-in-an-array](https://github.com/gauthamnholla/coding-practice/tree/master/2295-replace-elements-in-an-array) |
