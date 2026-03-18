@@ -27,6 +27,7 @@
 | [2341-maximum-number-of-pairs-in-array](https://github.com/gauthamnholla/coding-practice/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [2347-best-poker-hand](https://github.com/gauthamnholla/coding-practice/tree/master/2347-best-poker-hand) |
 | [2350-shortest-impossible-sequence-of-rolls](https://github.com/gauthamnholla/coding-practice/tree/master/2350-shortest-impossible-sequence-of-rolls) |
+| [2369-check-if-there-is-a-valid-partition-for-the-array](https://github.com/gauthamnholla/coding-practice/tree/master/2369-check-if-there-is-a-valid-partition-for-the-array) |
 | [2383-minimum-hours-of-training-to-win-a-competition](https://github.com/gauthamnholla/coding-practice/tree/master/2383-minimum-hours-of-training-to-win-a-competition) |
 | [2404-most-frequent-even-element](https://github.com/gauthamnholla/coding-practice/tree/master/2404-most-frequent-even-element) |
 | [2407-longest-increasing-subsequence-ii](https://github.com/gauthamnholla/coding-practice/tree/master/2407-longest-increasing-subsequence-ii) |
@@ -289,6 +290,7 @@
 | [1955-count-number-of-special-subsequences](https://github.com/gauthamnholla/coding-practice/tree/master/1955-count-number-of-special-subsequences) |
 | [1959-minimum-total-space-wasted-with-k-resizing-operations](https://github.com/gauthamnholla/coding-practice/tree/master/1959-minimum-total-space-wasted-with-k-resizing-operations) |
 | [2289-steps-to-make-array-non-decreasing](https://github.com/gauthamnholla/coding-practice/tree/master/2289-steps-to-make-array-non-decreasing) |
+| [2369-check-if-there-is-a-valid-partition-for-the-array](https://github.com/gauthamnholla/coding-practice/tree/master/2369-check-if-there-is-a-valid-partition-for-the-array) |
 | [2407-longest-increasing-subsequence-ii](https://github.com/gauthamnholla/coding-practice/tree/master/2407-longest-increasing-subsequence-ii) |
 | [2518-number-of-great-partitions](https://github.com/gauthamnholla/coding-practice/tree/master/2518-number-of-great-partitions) |
 | [2547-minimum-cost-to-split-an-array](https://github.com/gauthamnholla/coding-practice/tree/master/2547-minimum-cost-to-split-an-array) |
