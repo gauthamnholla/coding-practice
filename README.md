@@ -70,6 +70,7 @@
 | [2682-find-the-losers-of-the-circular-game](https://github.com/gauthamnholla/coding-practice/tree/master/2682-find-the-losers-of-the-circular-game) |
 | [2683-neighboring-bitwise-xor](https://github.com/gauthamnholla/coding-practice/tree/master/2683-neighboring-bitwise-xor) |
 | [2707-extra-characters-in-a-string](https://github.com/gauthamnholla/coding-practice/tree/master/2707-extra-characters-in-a-string) |
+| [2717-semi-ordered-permutation](https://github.com/gauthamnholla/coding-practice/tree/master/2717-semi-ordered-permutation) |
 | [2718-sum-of-matrix-after-queries](https://github.com/gauthamnholla/coding-practice/tree/master/2718-sum-of-matrix-after-queries) |
 | [2741-special-permutations](https://github.com/gauthamnholla/coding-practice/tree/master/2741-special-permutations) |
 | [2742-painting-the-walls](https://github.com/gauthamnholla/coding-practice/tree/master/2742-painting-the-walls) |
@@ -355,6 +356,7 @@
 | [2303-calculate-amount-paid-in-taxes](https://github.com/gauthamnholla/coding-practice/tree/master/2303-calculate-amount-paid-in-taxes) |
 | [2660-determine-the-winner-of-a-bowling-game](https://github.com/gauthamnholla/coding-practice/tree/master/2660-determine-the-winner-of-a-bowling-game) |
 | [2682-find-the-losers-of-the-circular-game](https://github.com/gauthamnholla/coding-practice/tree/master/2682-find-the-losers-of-the-circular-game) |
+| [2717-semi-ordered-permutation](https://github.com/gauthamnholla/coding-practice/tree/master/2717-semi-ordered-permutation) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/gauthamnholla/coding-practice/tree/master/2744-find-maximum-number-of-string-pairs) |
 ## Enumeration
 |  |
