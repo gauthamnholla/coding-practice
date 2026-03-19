@@ -80,6 +80,7 @@
 | [2760-longest-even-odd-subarray-with-threshold](https://github.com/gauthamnholla/coding-practice/tree/master/2760-longest-even-odd-subarray-with-threshold) |
 | [2763-sum-of-imbalance-numbers-of-all-subarrays](https://github.com/gauthamnholla/coding-practice/tree/master/2763-sum-of-imbalance-numbers-of-all-subarrays) |
 | [2765-longest-alternating-subarray](https://github.com/gauthamnholla/coding-practice/tree/master/2765-longest-alternating-subarray) |
+| [2768-number-of-black-blocks](https://github.com/gauthamnholla/coding-practice/tree/master/2768-number-of-black-blocks) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/gauthamnholla/coding-practice/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/gauthamnholla/coding-practice/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2781-length-of-the-longest-valid-substring](https://github.com/gauthamnholla/coding-practice/tree/master/2781-length-of-the-longest-valid-substring) |
@@ -136,6 +137,7 @@
 | [2718-sum-of-matrix-after-queries](https://github.com/gauthamnholla/coding-practice/tree/master/2718-sum-of-matrix-after-queries) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/gauthamnholla/coding-practice/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2763-sum-of-imbalance-numbers-of-all-subarrays](https://github.com/gauthamnholla/coding-practice/tree/master/2763-sum-of-imbalance-numbers-of-all-subarrays) |
+| [2768-number-of-black-blocks](https://github.com/gauthamnholla/coding-practice/tree/master/2768-number-of-black-blocks) |
 | [2781-length-of-the-longest-valid-substring](https://github.com/gauthamnholla/coding-practice/tree/master/2781-length-of-the-longest-valid-substring) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/gauthamnholla/coding-practice/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [2808-minimum-seconds-to-equalize-a-circular-array](https://github.com/gauthamnholla/coding-practice/tree/master/2808-minimum-seconds-to-equalize-a-circular-array) |
@@ -367,6 +369,7 @@
 | [2735-collecting-chocolates](https://github.com/gauthamnholla/coding-practice/tree/master/2735-collecting-chocolates) |
 | [2763-sum-of-imbalance-numbers-of-all-subarrays](https://github.com/gauthamnholla/coding-practice/tree/master/2763-sum-of-imbalance-numbers-of-all-subarrays) |
 | [2765-longest-alternating-subarray](https://github.com/gauthamnholla/coding-practice/tree/master/2765-longest-alternating-subarray) |
+| [2768-number-of-black-blocks](https://github.com/gauthamnholla/coding-practice/tree/master/2768-number-of-black-blocks) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/gauthamnholla/coding-practice/tree/master/2778-sum-of-squares-of-special-elements) |
 ## Prefix Sum
 |  |
