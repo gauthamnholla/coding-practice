@@ -111,6 +111,7 @@
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/gauthamnholla/coding-practice/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 | [2871-split-array-into-maximum-number-of-subarrays](https://github.com/gauthamnholla/coding-practice/tree/master/2871-split-array-into-maximum-number-of-subarrays) |
 | [2873-maximum-value-of-an-ordered-triplet-i](https://github.com/gauthamnholla/coding-practice/tree/master/2873-maximum-value-of-an-ordered-triplet-i) |
+| [2874-maximum-value-of-an-ordered-triplet-ii](https://github.com/gauthamnholla/coding-practice/tree/master/2874-maximum-value-of-an-ordered-triplet-ii) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/gauthamnholla/coding-practice/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/gauthamnholla/coding-practice/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/gauthamnholla/coding-practice/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
