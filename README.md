@@ -120,6 +120,7 @@
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/gauthamnholla/coding-practice/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/gauthamnholla/coding-practice/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3643-flip-square-submatrix-vertically](https://github.com/gauthamnholla/coding-practice/tree/master/3643-flip-square-submatrix-vertically) |
+| [3866-first-unique-even-element](https://github.com/gauthamnholla/coding-practice/tree/master/3866-first-unique-even-element) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/gauthamnholla/coding-practice/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3868-minimum-cost-to-equalize-arrays-using-swaps](https://github.com/gauthamnholla/coding-practice/tree/master/3868-minimum-cost-to-equalize-arrays-using-swaps) |
 | [3872-longest-arithmetic-sequence-after-changing-at-most-one-element](https://github.com/gauthamnholla/coding-practice/tree/master/3872-longest-arithmetic-sequence-after-changing-at-most-one-element) |
@@ -164,6 +165,7 @@
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/gauthamnholla/coding-practice/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 | [2875-minimum-size-subarray-in-infinite-array](https://github.com/gauthamnholla/coding-practice/tree/master/2875-minimum-size-subarray-in-infinite-array) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/gauthamnholla/coding-practice/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [3866-first-unique-even-element](https://github.com/gauthamnholla/coding-practice/tree/master/3866-first-unique-even-element) |
 | [3868-minimum-cost-to-equalize-arrays-using-swaps](https://github.com/gauthamnholla/coding-practice/tree/master/3868-minimum-cost-to-equalize-arrays-using-swaps) |
 | [3873-maximum-points-activated-with-one-addition](https://github.com/gauthamnholla/coding-practice/tree/master/3873-maximum-points-activated-with-one-addition) |
 ## Counting
@@ -180,6 +182,7 @@
 | [2547-minimum-cost-to-split-an-array](https://github.com/gauthamnholla/coding-practice/tree/master/2547-minimum-cost-to-split-an-array) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/gauthamnholla/coding-practice/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/gauthamnholla/coding-practice/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
+| [3866-first-unique-even-element](https://github.com/gauthamnholla/coding-practice/tree/master/3866-first-unique-even-element) |
 | [3868-minimum-cost-to-equalize-arrays-using-swaps](https://github.com/gauthamnholla/coding-practice/tree/master/3868-minimum-cost-to-equalize-arrays-using-swaps) |
 ## Greedy
 |  |
