@@ -122,6 +122,7 @@
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/gauthamnholla/coding-practice/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/gauthamnholla/coding-practice/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3643-flip-square-submatrix-vertically](https://github.com/gauthamnholla/coding-practice/tree/master/3643-flip-square-submatrix-vertically) |
+| [3835-count-subarrays-with-cost-less-than-or-equal-to-k](https://github.com/gauthamnholla/coding-practice/tree/master/3835-count-subarrays-with-cost-less-than-or-equal-to-k) |
 | [3845-maximum-subarray-xor-with-bounded-range](https://github.com/gauthamnholla/coding-practice/tree/master/3845-maximum-subarray-xor-with-bounded-range) |
 | [3847-find-the-score-difference-in-a-game](https://github.com/gauthamnholla/coding-practice/tree/master/3847-find-the-score-difference-in-a-game) |
 | [3861-minimum-capacity-box](https://github.com/gauthamnholla/coding-practice/tree/master/3861-minimum-capacity-box) |
@@ -286,6 +287,7 @@
 | ------- |
 | [2407-longest-increasing-subsequence-ii](https://github.com/gauthamnholla/coding-practice/tree/master/2407-longest-increasing-subsequence-ii) |
 | [2444-count-subarrays-with-fixed-bounds](https://github.com/gauthamnholla/coding-practice/tree/master/2444-count-subarrays-with-fixed-bounds) |
+| [3835-count-subarrays-with-cost-less-than-or-equal-to-k](https://github.com/gauthamnholla/coding-practice/tree/master/3835-count-subarrays-with-cost-less-than-or-equal-to-k) |
 | [3845-maximum-subarray-xor-with-bounded-range](https://github.com/gauthamnholla/coding-practice/tree/master/3845-maximum-subarray-xor-with-bounded-range) |
 ## Sliding Window
 |  |
@@ -306,6 +308,7 @@
 | ------- |
 | [2407-longest-increasing-subsequence-ii](https://github.com/gauthamnholla/coding-practice/tree/master/2407-longest-increasing-subsequence-ii) |
 | [2444-count-subarrays-with-fixed-bounds](https://github.com/gauthamnholla/coding-practice/tree/master/2444-count-subarrays-with-fixed-bounds) |
+| [3835-count-subarrays-with-cost-less-than-or-equal-to-k](https://github.com/gauthamnholla/coding-practice/tree/master/3835-count-subarrays-with-cost-less-than-or-equal-to-k) |
 | [3845-maximum-subarray-xor-with-bounded-range](https://github.com/gauthamnholla/coding-practice/tree/master/3845-maximum-subarray-xor-with-bounded-range) |
 ## Binary Search
 |  |
