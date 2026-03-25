@@ -2,8 +2,8 @@
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Array
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/gauthamnholla/coding-practice/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1583-count-unhappy-friends](https://github.com/gauthamnholla/coding-practice/tree/master/1583-count-unhappy-friends) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/gauthamnholla/coding-practice/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
@@ -139,9 +139,10 @@
 | [3868-minimum-cost-to-equalize-arrays-using-swaps](https://github.com/gauthamnholla/coding-practice/tree/master/3868-minimum-cost-to-equalize-arrays-using-swaps) |
 | [3872-longest-arithmetic-sequence-after-changing-at-most-one-element](https://github.com/gauthamnholla/coding-practice/tree/master/3872-longest-arithmetic-sequence-after-changing-at-most-one-element) |
 | [3873-maximum-points-activated-with-one-addition](https://github.com/gauthamnholla/coding-practice/tree/master/3873-maximum-points-activated-with-one-addition) |
+| [3878-count-good-subarrays](https://github.com/gauthamnholla/coding-practice/tree/main/3878-count-good-subarrays/) | Hard |
 ## Hash Table
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [1980-find-unique-binary-string](https://github.com/gauthamnholla/coding-practice/tree/master/1980-find-unique-binary-string) |
 | [2295-replace-elements-in-an-array](https://github.com/gauthamnholla/coding-practice/tree/master/2295-replace-elements-in-an-array) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/gauthamnholla/coding-practice/tree/master/2341-maximum-number-of-pairs-in-array) |
@@ -183,8 +184,8 @@
 | [3868-minimum-cost-to-equalize-arrays-using-swaps](https://github.com/gauthamnholla/coding-practice/tree/master/3868-minimum-cost-to-equalize-arrays-using-swaps) |
 | [3873-maximum-points-activated-with-one-addition](https://github.com/gauthamnholla/coding-practice/tree/master/3873-maximum-points-activated-with-one-addition) |
 ## Counting
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/gauthamnholla/coding-practice/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [2347-best-poker-hand](https://github.com/gauthamnholla/coding-practice/tree/master/2347-best-poker-hand) |
 | [2404-most-frequent-even-element](https://github.com/gauthamnholla/coding-practice/tree/master/2404-most-frequent-even-element) |
@@ -199,8 +200,8 @@
 | [3866-first-unique-even-element](https://github.com/gauthamnholla/coding-practice/tree/master/3866-first-unique-even-element) |
 | [3868-minimum-cost-to-equalize-arrays-using-swaps](https://github.com/gauthamnholla/coding-practice/tree/master/3868-minimum-cost-to-equalize-arrays-using-swaps) |
 ## Greedy
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/gauthamnholla/coding-practice/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1946-largest-number-after-mutating-substring](https://github.com/gauthamnholla/coding-practice/tree/master/1946-largest-number-after-mutating-substring) |
 | [1953-maximum-number-of-weeks-for-which-you-can-work](https://github.com/gauthamnholla/coding-practice/tree/master/1953-maximum-number-of-weeks-for-which-you-can-work) |
@@ -224,8 +225,8 @@
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/gauthamnholla/coding-practice/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3868-minimum-cost-to-equalize-arrays-using-swaps](https://github.com/gauthamnholla/coding-practice/tree/master/3868-minimum-cost-to-equalize-arrays-using-swaps) |
 ## Matrix
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/gauthamnholla/coding-practice/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/gauthamnholla/coding-practice/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/gauthamnholla/coding-practice/tree/master/1727-largest-submatrix-with-rearrangements) |
@@ -238,8 +239,8 @@
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/gauthamnholla/coding-practice/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3643-flip-square-submatrix-vertically](https://github.com/gauthamnholla/coding-practice/tree/master/3643-flip-square-submatrix-vertically) |
 ## String
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0020-valid-parentheses](https://github.com/gauthamnholla/coding-practice/tree/master/0020-valid-parentheses) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/gauthamnholla/coding-practice/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/gauthamnholla/coding-practice/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
@@ -267,15 +268,15 @@
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/gauthamnholla/coding-practice/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
 | [2901-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/gauthamnholla/coding-practice/tree/master/2901-longest-unequal-adjacent-groups-subsequence-ii) |
 ## Trie
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [2416-sum-of-prefix-scores-of-strings](https://github.com/gauthamnholla/coding-practice/tree/master/2416-sum-of-prefix-scores-of-strings) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/gauthamnholla/coding-practice/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2707-extra-characters-in-a-string](https://github.com/gauthamnholla/coding-practice/tree/master/2707-extra-characters-in-a-string) |
 | [3845-maximum-subarray-xor-with-bounded-range](https://github.com/gauthamnholla/coding-practice/tree/master/3845-maximum-subarray-xor-with-bounded-range) |
 ## Bit Manipulation
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [1009-complement-of-base-10-integer](https://github.com/gauthamnholla/coding-practice/tree/master/1009-complement-of-base-10-integer) |
 | [1947-maximum-compatibility-score-sum](https://github.com/gauthamnholla/coding-practice/tree/master/1947-maximum-compatibility-score-sum) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/gauthamnholla/coding-practice/tree/master/2433-find-the-original-array-of-prefix-xor) |
@@ -294,17 +295,18 @@
 | [2871-split-array-into-maximum-number-of-subarrays](https://github.com/gauthamnholla/coding-practice/tree/master/2871-split-array-into-maximum-number-of-subarrays) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/gauthamnholla/coding-practice/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3845-maximum-subarray-xor-with-bounded-range](https://github.com/gauthamnholla/coding-practice/tree/master/3845-maximum-subarray-xor-with-bounded-range) |
+| [3878-count-good-subarrays](https://github.com/gauthamnholla/coding-practice/tree/main/3878-count-good-subarrays/) | Hard |
 ## Queue
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [2407-longest-increasing-subsequence-ii](https://github.com/gauthamnholla/coding-practice/tree/master/2407-longest-increasing-subsequence-ii) |
 | [2444-count-subarrays-with-fixed-bounds](https://github.com/gauthamnholla/coding-practice/tree/master/2444-count-subarrays-with-fixed-bounds) |
 | [3826-minimum-partition-score](https://github.com/gauthamnholla/coding-practice/tree/master/3826-minimum-partition-score) |
 | [3835-count-subarrays-with-cost-less-than-or-equal-to-k](https://github.com/gauthamnholla/coding-practice/tree/master/3835-count-subarrays-with-cost-less-than-or-equal-to-k) |
 | [3845-maximum-subarray-xor-with-bounded-range](https://github.com/gauthamnholla/coding-practice/tree/master/3845-maximum-subarray-xor-with-bounded-range) |
 ## Sliding Window
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/gauthamnholla/coding-practice/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2444-count-subarrays-with-fixed-bounds](https://github.com/gauthamnholla/coding-practice/tree/master/2444-count-subarrays-with-fixed-bounds) |
 | [2537-count-the-number-of-good-subarrays](https://github.com/gauthamnholla/coding-practice/tree/master/2537-count-the-number-of-good-subarrays) |
@@ -317,16 +319,16 @@
 | [2875-minimum-size-subarray-in-infinite-array](https://github.com/gauthamnholla/coding-practice/tree/master/2875-minimum-size-subarray-in-infinite-array) |
 | [3845-maximum-subarray-xor-with-bounded-range](https://github.com/gauthamnholla/coding-practice/tree/master/3845-maximum-subarray-xor-with-bounded-range) |
 ## Monotonic Queue
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [2407-longest-increasing-subsequence-ii](https://github.com/gauthamnholla/coding-practice/tree/master/2407-longest-increasing-subsequence-ii) |
 | [2444-count-subarrays-with-fixed-bounds](https://github.com/gauthamnholla/coding-practice/tree/master/2444-count-subarrays-with-fixed-bounds) |
 | [3826-minimum-partition-score](https://github.com/gauthamnholla/coding-practice/tree/master/3826-minimum-partition-score) |
 | [3835-count-subarrays-with-cost-less-than-or-equal-to-k](https://github.com/gauthamnholla/coding-practice/tree/master/3835-count-subarrays-with-cost-less-than-or-equal-to-k) |
 | [3845-maximum-subarray-xor-with-bounded-range](https://github.com/gauthamnholla/coding-practice/tree/master/3845-maximum-subarray-xor-with-bounded-range) |
 ## Binary Search
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [1964-find-the-longest-valid-obstacle-course-at-each-position](https://github.com/gauthamnholla/coding-practice/tree/master/1964-find-the-longest-valid-obstacle-course-at-each-position) |
 | [2498-frog-jump-ii](https://github.com/gauthamnholla/coding-practice/tree/master/2498-frog-jump-ii) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/gauthamnholla/coding-practice/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
@@ -341,19 +343,19 @@
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/gauthamnholla/coding-practice/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3824-minimum-k-to-reduce-array-within-limit](https://github.com/gauthamnholla/coding-practice/tree/master/3824-minimum-k-to-reduce-array-within-limit) |
 ## Tree
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [2509-cycle-length-queries-in-a-tree](https://github.com/gauthamnholla/coding-practice/tree/master/2509-cycle-length-queries-in-a-tree) |
 | [2673-make-costs-of-paths-equal-in-a-binary-tree](https://github.com/gauthamnholla/coding-practice/tree/master/2673-make-costs-of-paths-equal-in-a-binary-tree) |
 | [2846-minimum-edge-weight-equilibrium-queries-in-a-tree](https://github.com/gauthamnholla/coding-practice/tree/master/2846-minimum-edge-weight-equilibrium-queries-in-a-tree) |
 ## Binary Tree
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [2509-cycle-length-queries-in-a-tree](https://github.com/gauthamnholla/coding-practice/tree/master/2509-cycle-length-queries-in-a-tree) |
 | [2673-make-costs-of-paths-equal-in-a-binary-tree](https://github.com/gauthamnholla/coding-practice/tree/master/2673-make-costs-of-paths-equal-in-a-binary-tree) |
 ## Dynamic Programming
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/gauthamnholla/coding-practice/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/gauthamnholla/coding-practice/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1928-minimum-cost-to-reach-destination-in-time](https://github.com/gauthamnholla/coding-practice/tree/master/1928-minimum-cost-to-reach-destination-in-time) |
@@ -385,40 +387,40 @@
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/gauthamnholla/coding-practice/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 | [3826-minimum-partition-score](https://github.com/gauthamnholla/coding-practice/tree/master/3826-minimum-partition-score) |
 ## Heap (Priority Queue)
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/gauthamnholla/coding-practice/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2530-maximal-score-after-applying-k-operations](https://github.com/gauthamnholla/coding-practice/tree/master/2530-maximal-score-after-applying-k-operations) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/gauthamnholla/coding-practice/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 ## Brainteaser
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [2568-minimum-impossible-or](https://github.com/gauthamnholla/coding-practice/tree/master/2568-minimum-impossible-or) |
 ## Segment Tree
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [1622-fancy-sequence](https://github.com/gauthamnholla/coding-practice/tree/master/1622-fancy-sequence) |
 | [2407-longest-increasing-subsequence-ii](https://github.com/gauthamnholla/coding-practice/tree/master/2407-longest-increasing-subsequence-ii) |
 | [2569-handling-sum-queries-after-update](https://github.com/gauthamnholla/coding-practice/tree/master/2569-handling-sum-queries-after-update) |
 ## Backtracking
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/gauthamnholla/coding-practice/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1947-maximum-compatibility-score-sum](https://github.com/gauthamnholla/coding-practice/tree/master/1947-maximum-compatibility-score-sum) |
 | [1980-find-unique-binary-string](https://github.com/gauthamnholla/coding-practice/tree/master/1980-find-unique-binary-string) |
 ## Divide and Conquer
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [2407-longest-increasing-subsequence-ii](https://github.com/gauthamnholla/coding-practice/tree/master/2407-longest-increasing-subsequence-ii) |
 | [3826-minimum-partition-score](https://github.com/gauthamnholla/coding-practice/tree/master/3826-minimum-partition-score) |
 ## Binary Indexed Tree
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [1964-find-the-longest-valid-obstacle-course-at-each-position](https://github.com/gauthamnholla/coding-practice/tree/master/1964-find-the-longest-valid-obstacle-course-at-each-position) |
 | [2407-longest-increasing-subsequence-ii](https://github.com/gauthamnholla/coding-practice/tree/master/2407-longest-increasing-subsequence-ii) |
 ## Simulation
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [1583-count-unhappy-friends](https://github.com/gauthamnholla/coding-practice/tree/master/1583-count-unhappy-friends) |
 | [2289-steps-to-make-array-non-decreasing](https://github.com/gauthamnholla/coding-practice/tree/master/2289-steps-to-make-array-non-decreasing) |
 | [2293-min-max-game](https://github.com/gauthamnholla/coding-practice/tree/master/2293-min-max-game) |
@@ -432,8 +434,8 @@
 | [3847-find-the-score-difference-in-a-game](https://github.com/gauthamnholla/coding-practice/tree/master/3847-find-the-score-difference-in-a-game) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/gauthamnholla/coding-practice/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Enumeration
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [1620-coordinate-with-maximum-network-quality](https://github.com/gauthamnholla/coding-practice/tree/master/1620-coordinate-with-maximum-network-quality) |
 | [2605-form-smallest-number-from-two-digit-arrays](https://github.com/gauthamnholla/coding-practice/tree/master/2605-form-smallest-number-from-two-digit-arrays) |
 | [2735-collecting-chocolates](https://github.com/gauthamnholla/coding-practice/tree/master/2735-collecting-chocolates) |
@@ -445,8 +447,8 @@
 | [3833-count-dominant-indices](https://github.com/gauthamnholla/coding-practice/tree/master/3833-count-dominant-indices) |
 | [3872-longest-arithmetic-sequence-after-changing-at-most-one-element](https://github.com/gauthamnholla/coding-practice/tree/master/3872-longest-arithmetic-sequence-after-changing-at-most-one-element) |
 ## Prefix Sum
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/gauthamnholla/coding-practice/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1959-minimum-total-space-wasted-with-k-resizing-operations](https://github.com/gauthamnholla/coding-practice/tree/master/1959-minimum-total-space-wasted-with-k-resizing-operations) |
 | [2845-count-of-interesting-subarrays](https://github.com/gauthamnholla/coding-practice/tree/master/2845-count-of-interesting-subarrays) |
@@ -462,82 +464,84 @@
 | [3845-maximum-subarray-xor-with-bounded-range](https://github.com/gauthamnholla/coding-practice/tree/master/3845-maximum-subarray-xor-with-bounded-range) |
 | [3862-find-the-smallest-balanced-index](https://github.com/gauthamnholla/coding-practice/tree/master/3862-find-the-smallest-balanced-index) |
 ## Bitmask
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [1947-maximum-compatibility-score-sum](https://github.com/gauthamnholla/coding-practice/tree/master/1947-maximum-compatibility-score-sum) |
 | [2741-special-permutations](https://github.com/gauthamnholla/coding-practice/tree/master/2741-special-permutations) |
 ## Stack
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0020-valid-parentheses](https://github.com/gauthamnholla/coding-practice/tree/master/0020-valid-parentheses) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/gauthamnholla/coding-practice/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2216-minimum-deletions-to-make-array-beautiful](https://github.com/gauthamnholla/coding-practice/tree/master/2216-minimum-deletions-to-make-array-beautiful) |
 | [2289-steps-to-make-array-non-decreasing](https://github.com/gauthamnholla/coding-practice/tree/master/2289-steps-to-make-array-non-decreasing) |
 | [2865-beautiful-towers-i](https://github.com/gauthamnholla/coding-practice/tree/master/2865-beautiful-towers-i) |
 | [2866-beautiful-towers-ii](https://github.com/gauthamnholla/coding-practice/tree/master/2866-beautiful-towers-ii) |
+| [3878-count-good-subarrays](https://github.com/gauthamnholla/coding-practice/tree/main/3878-count-good-subarrays/) | Hard |
 ## Monotonic Stack
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/gauthamnholla/coding-practice/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2289-steps-to-make-array-non-decreasing](https://github.com/gauthamnholla/coding-practice/tree/master/2289-steps-to-make-array-non-decreasing) |
 | [2865-beautiful-towers-i](https://github.com/gauthamnholla/coding-practice/tree/master/2865-beautiful-towers-i) |
 | [2866-beautiful-towers-ii](https://github.com/gauthamnholla/coding-practice/tree/master/2866-beautiful-towers-ii) |
+| [3878-count-good-subarrays](https://github.com/gauthamnholla/coding-practice/tree/main/3878-count-good-subarrays/) | Hard |
 ## Union-Find
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [2612-minimum-reverse-operations](https://github.com/gauthamnholla/coding-practice/tree/master/2612-minimum-reverse-operations) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/gauthamnholla/coding-practice/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3873-maximum-points-activated-with-one-addition](https://github.com/gauthamnholla/coding-practice/tree/master/3873-maximum-points-activated-with-one-addition) |
 ## Graph Theory
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [1928-minimum-cost-to-reach-destination-in-time](https://github.com/gauthamnholla/coding-practice/tree/master/1928-minimum-cost-to-reach-destination-in-time) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/gauthamnholla/coding-practice/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Minimum Spanning Tree
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/gauthamnholla/coding-practice/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Linked List
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [2289-steps-to-make-array-non-decreasing](https://github.com/gauthamnholla/coding-practice/tree/master/2289-steps-to-make-array-non-decreasing) |
 ## Math
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [1622-fancy-sequence](https://github.com/gauthamnholla/coding-practice/tree/master/1622-fancy-sequence) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/gauthamnholla/coding-practice/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/gauthamnholla/coding-practice/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/gauthamnholla/coding-practice/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Design
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [1622-fancy-sequence](https://github.com/gauthamnholla/coding-practice/tree/master/1622-fancy-sequence) |
 ## Ordered Set
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [2612-minimum-reverse-operations](https://github.com/gauthamnholla/coding-practice/tree/master/2612-minimum-reverse-operations) |
 | [2817-minimum-absolute-difference-between-elements-with-constraint](https://github.com/gauthamnholla/coding-practice/tree/master/2817-minimum-absolute-difference-between-elements-with-constraint) |
 ## Depth-First Search
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [2846-minimum-edge-weight-equilibrium-queries-in-a-tree](https://github.com/gauthamnholla/coding-practice/tree/master/2846-minimum-edge-weight-equilibrium-queries-in-a-tree) |
 ## Sorting
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/gauthamnholla/coding-practice/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/gauthamnholla/coding-practice/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/gauthamnholla/coding-practice/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 ## Breadth-First Search
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [2612-minimum-reverse-operations](https://github.com/gauthamnholla/coding-practice/tree/master/2612-minimum-reverse-operations) |
 ## Two Pointers
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [3643-flip-square-submatrix-vertically](https://github.com/gauthamnholla/coding-practice/tree/master/3643-flip-square-submatrix-vertically) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/gauthamnholla/coding-practice/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Number Theory
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/gauthamnholla/coding-practice/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 <!---LeetCode Topics End-->
