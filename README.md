@@ -116,6 +116,7 @@
 | [2874-maximum-value-of-an-ordered-triplet-ii](https://github.com/gauthamnholla/coding-practice/tree/master/2874-maximum-value-of-an-ordered-triplet-ii) |
 | [2875-minimum-size-subarray-in-infinite-array](https://github.com/gauthamnholla/coding-practice/tree/master/2875-minimum-size-subarray-in-infinite-array) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/gauthamnholla/coding-practice/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/gauthamnholla/coding-practice/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
 | [2906-construct-product-matrix](https://github.com/gauthamnholla/coding-practice/tree/master/2906-construct-product-matrix) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/gauthamnholla/coding-practice/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/gauthamnholla/coding-practice/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
@@ -217,6 +218,7 @@
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/gauthamnholla/coding-practice/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 | [2871-split-array-into-maximum-number-of-subarrays](https://github.com/gauthamnholla/coding-practice/tree/master/2871-split-array-into-maximum-number-of-subarrays) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/gauthamnholla/coding-practice/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/gauthamnholla/coding-practice/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/gauthamnholla/coding-practice/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/gauthamnholla/coding-practice/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3868-minimum-cost-to-equalize-arrays-using-swaps](https://github.com/gauthamnholla/coding-practice/tree/master/3868-minimum-cost-to-equalize-arrays-using-swaps) |
@@ -260,6 +262,7 @@
 | [2781-length-of-the-longest-valid-substring](https://github.com/gauthamnholla/coding-practice/tree/master/2781-length-of-the-longest-valid-substring) |
 | [2788-split-strings-by-separator](https://github.com/gauthamnholla/coding-practice/tree/master/2788-split-strings-by-separator) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/gauthamnholla/coding-practice/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
+| [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/gauthamnholla/coding-practice/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
 ## Trie
 |  |
 | ------- |
@@ -373,6 +376,7 @@
 | [2826-sorting-three-groups](https://github.com/gauthamnholla/coding-practice/tree/master/2826-sorting-three-groups) |
 | [2836-maximize-value-of-function-in-a-ball-passing-game](https://github.com/gauthamnholla/coding-practice/tree/master/2836-maximize-value-of-function-in-a-ball-passing-game) |
 | [2846-minimum-edge-weight-equilibrium-queries-in-a-tree](https://github.com/gauthamnholla/coding-practice/tree/master/2846-minimum-edge-weight-equilibrium-queries-in-a-tree) |
+| [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/gauthamnholla/coding-practice/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/gauthamnholla/coding-practice/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/gauthamnholla/coding-practice/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 | [3826-minimum-partition-score](https://github.com/gauthamnholla/coding-practice/tree/master/3826-minimum-partition-score) |
