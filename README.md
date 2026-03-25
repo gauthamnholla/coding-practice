@@ -240,6 +240,7 @@
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/gauthamnholla/coding-practice/tree/master/0020-valid-parentheses) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/gauthamnholla/coding-practice/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/gauthamnholla/coding-practice/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/gauthamnholla/coding-practice/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
@@ -468,6 +469,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/gauthamnholla/coding-practice/tree/master/0020-valid-parentheses) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/gauthamnholla/coding-practice/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2216-minimum-deletions-to-make-array-beautiful](https://github.com/gauthamnholla/coding-practice/tree/master/2216-minimum-deletions-to-make-array-beautiful) |
 | [2289-steps-to-make-array-non-decreasing](https://github.com/gauthamnholla/coding-practice/tree/master/2289-steps-to-make-array-non-decreasing) |
