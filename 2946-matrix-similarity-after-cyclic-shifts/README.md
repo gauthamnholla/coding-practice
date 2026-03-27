@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/matrix-similarity-after-cyclic-shifts">3215. Matrix Similarity After Cyclic Shifts</a></h2><h3>Easy</h3><hr><p>You are given an <code>m x n</code> integer matrix <code>mat</code> and an integer <code>k</code>. The matrix rows are 0-indexed.</p>
+<h2><a href="https://leetcode.com/problems/matrix-similarity-after-cyclic-shifts">2946. Matrix Similarity After Cyclic Shifts</a></h2><h3>Easy</h3><hr><p>You are given an <code>m x n</code> integer matrix <code>mat</code> and an integer <code>k</code>. The matrix rows are 0-indexed.</p>
 
 <p>The following proccess happens <code>k</code> times:</p>
 
