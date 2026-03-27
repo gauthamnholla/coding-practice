@@ -133,6 +133,7 @@
 | [3835-count-subarrays-with-cost-less-than-or-equal-to-k](https://github.com/gauthamnholla/coding-practice/tree/master/3835-count-subarrays-with-cost-less-than-or-equal-to-k) |
 | [3845-maximum-subarray-xor-with-bounded-range](https://github.com/gauthamnholla/coding-practice/tree/master/3845-maximum-subarray-xor-with-bounded-range) |
 | [3847-find-the-score-difference-in-a-game](https://github.com/gauthamnholla/coding-practice/tree/master/3847-find-the-score-difference-in-a-game) |
+| [3854-minimum-operations-to-make-array-parity-alternating](https://github.com/gauthamnholla/coding-practice/tree/main/3854-minimum-operations-to-make-array-parity-alternating/) | Medium |
 | [3858-minimum-bitwise-or-from-grid](https://github.com/gauthamnholla/coding-practice/tree/main/3858-minimum-bitwise-or-from-grid/) | Medium |
 | [3859-count-subarrays-with-k-distinct-integers](https://github.com/gauthamnholla/coding-practice/tree/main/3859-count-subarrays-with-k-distinct-integers/) | Hard |
 | [3861-minimum-capacity-box](https://github.com/gauthamnholla/coding-practice/tree/master/3861-minimum-capacity-box) |
@@ -232,6 +233,7 @@
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/gauthamnholla/coding-practice/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/gauthamnholla/coding-practice/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/gauthamnholla/coding-practice/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
+| [3854-minimum-operations-to-make-array-parity-alternating](https://github.com/gauthamnholla/coding-practice/tree/main/3854-minimum-operations-to-make-array-parity-alternating/) | Medium |
 | [3858-minimum-bitwise-or-from-grid](https://github.com/gauthamnholla/coding-practice/tree/main/3858-minimum-bitwise-or-from-grid/) | Medium |
 | [3868-minimum-cost-to-equalize-arrays-using-swaps](https://github.com/gauthamnholla/coding-practice/tree/master/3868-minimum-cost-to-equalize-arrays-using-swaps) |
 ## Matrix
