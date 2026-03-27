@@ -133,6 +133,7 @@
 | [3835-count-subarrays-with-cost-less-than-or-equal-to-k](https://github.com/gauthamnholla/coding-practice/tree/master/3835-count-subarrays-with-cost-less-than-or-equal-to-k) |
 | [3845-maximum-subarray-xor-with-bounded-range](https://github.com/gauthamnholla/coding-practice/tree/master/3845-maximum-subarray-xor-with-bounded-range) |
 | [3847-find-the-score-difference-in-a-game](https://github.com/gauthamnholla/coding-practice/tree/master/3847-find-the-score-difference-in-a-game) |
+| [3858-minimum-bitwise-or-from-grid](https://github.com/gauthamnholla/coding-practice/tree/main/3858-minimum-bitwise-or-from-grid/) | Medium |
 | [3859-count-subarrays-with-k-distinct-integers](https://github.com/gauthamnholla/coding-practice/tree/main/3859-count-subarrays-with-k-distinct-integers/) | Hard |
 | [3861-minimum-capacity-box](https://github.com/gauthamnholla/coding-practice/tree/master/3861-minimum-capacity-box) |
 | [3862-find-the-smallest-balanced-index](https://github.com/gauthamnholla/coding-practice/tree/master/3862-find-the-smallest-balanced-index) |
@@ -231,6 +232,7 @@
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/gauthamnholla/coding-practice/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/gauthamnholla/coding-practice/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/gauthamnholla/coding-practice/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
+| [3858-minimum-bitwise-or-from-grid](https://github.com/gauthamnholla/coding-practice/tree/main/3858-minimum-bitwise-or-from-grid/) | Medium |
 | [3868-minimum-cost-to-equalize-arrays-using-swaps](https://github.com/gauthamnholla/coding-practice/tree/master/3868-minimum-cost-to-equalize-arrays-using-swaps) |
 ## Matrix
 | Problem Name | Difficulty |
@@ -247,6 +249,7 @@
 | [3548-equal-sum-grid-partition-ii](https://github.com/gauthamnholla/coding-practice/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/gauthamnholla/coding-practice/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3643-flip-square-submatrix-vertically](https://github.com/gauthamnholla/coding-practice/tree/master/3643-flip-square-submatrix-vertically) |
+| [3858-minimum-bitwise-or-from-grid](https://github.com/gauthamnholla/coding-practice/tree/main/3858-minimum-bitwise-or-from-grid/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -304,6 +307,7 @@
 | [2871-split-array-into-maximum-number-of-subarrays](https://github.com/gauthamnholla/coding-practice/tree/master/2871-split-array-into-maximum-number-of-subarrays) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/gauthamnholla/coding-practice/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3845-maximum-subarray-xor-with-bounded-range](https://github.com/gauthamnholla/coding-practice/tree/master/3845-maximum-subarray-xor-with-bounded-range) |
+| [3858-minimum-bitwise-or-from-grid](https://github.com/gauthamnholla/coding-practice/tree/main/3858-minimum-bitwise-or-from-grid/) | Medium |
 | [3877-minimum-removals-to-achieve-target-xor](https://github.com/gauthamnholla/coding-practice/tree/main/3877-minimum-removals-to-achieve-target-xor/) | Medium |
 | [3878-count-good-subarrays](https://github.com/gauthamnholla/coding-practice/tree/main/3878-count-good-subarrays/) | Hard |
 ## Queue
