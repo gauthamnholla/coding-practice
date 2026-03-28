@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/find-the-string-with-lcp">2708. Find the String with LCP</a></h2><h3>Hard</h3><hr><p>We define the <code>lcp</code> matrix of any <strong>0-indexed</strong> string <code>word</code> of <code>n</code> lowercase English letters as an <code>n x n</code> grid such that:</p>
+<h2><a href="https://leetcode.com/problems/find-the-string-with-lcp">2573. Find the String with LCP</a></h2><h3>Hard</h3><hr><p>We define the <code>lcp</code> matrix of any <strong>0-indexed</strong> string <code>word</code> of <code>n</code> lowercase English letters as an <code>n x n</code> grid such that:</p>
 
 <ul>
 	<li><code>lcp[i][j]</code> is equal to the length of the <strong>longest common prefix</strong> between the substrings <code>word[i,n-1]</code> and <code>word[j,n-1]</code>.</li>
