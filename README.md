@@ -132,6 +132,7 @@
 | [3826-minimum-partition-score](https://github.com/gauthamnholla/coding-practice/tree/master/3826-minimum-partition-score) |
 | [3833-count-dominant-indices](https://github.com/gauthamnholla/coding-practice/tree/master/3833-count-dominant-indices) |
 | [3835-count-subarrays-with-cost-less-than-or-equal-to-k](https://github.com/gauthamnholla/coding-practice/tree/master/3835-count-subarrays-with-cost-less-than-or-equal-to-k) |
+| [3843-first-element-with-unique-frequency](https://github.com/gauthamnholla/coding-practice/tree/main/3843-first-element-with-unique-frequency/) | Medium |
 | [3845-maximum-subarray-xor-with-bounded-range](https://github.com/gauthamnholla/coding-practice/tree/master/3845-maximum-subarray-xor-with-bounded-range) |
 | [3847-find-the-score-difference-in-a-game](https://github.com/gauthamnholla/coding-practice/tree/master/3847-find-the-score-difference-in-a-game) |
 | [3850-count-sequences-to-k](https://github.com/gauthamnholla/coding-practice/tree/main/3850-count-sequences-to-k/) | Hard |
@@ -191,6 +192,7 @@
 | [2875-minimum-size-subarray-in-infinite-array](https://github.com/gauthamnholla/coding-practice/tree/master/2875-minimum-size-subarray-in-infinite-array) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/gauthamnholla/coding-practice/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/gauthamnholla/coding-practice/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
+| [3843-first-element-with-unique-frequency](https://github.com/gauthamnholla/coding-practice/tree/main/3843-first-element-with-unique-frequency/) | Medium |
 | [3852-smallest-pair-with-different-frequencies](https://github.com/gauthamnholla/coding-practice/tree/main/3852-smallest-pair-with-different-frequencies/) | Easy |
 | [3859-count-subarrays-with-k-distinct-integers](https://github.com/gauthamnholla/coding-practice/tree/main/3859-count-subarrays-with-k-distinct-integers/) | Hard |
 | [3866-first-unique-even-element](https://github.com/gauthamnholla/coding-practice/tree/master/3866-first-unique-even-element) |
@@ -210,6 +212,7 @@
 | [2547-minimum-cost-to-split-an-array](https://github.com/gauthamnholla/coding-practice/tree/master/2547-minimum-cost-to-split-an-array) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/gauthamnholla/coding-practice/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/gauthamnholla/coding-practice/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
+| [3843-first-element-with-unique-frequency](https://github.com/gauthamnholla/coding-practice/tree/main/3843-first-element-with-unique-frequency/) | Medium |
 | [3852-smallest-pair-with-different-frequencies](https://github.com/gauthamnholla/coding-practice/tree/main/3852-smallest-pair-with-different-frequencies/) | Easy |
 | [3859-count-subarrays-with-k-distinct-integers](https://github.com/gauthamnholla/coding-practice/tree/main/3859-count-subarrays-with-k-distinct-integers/) | Hard |
 | [3866-first-unique-even-element](https://github.com/gauthamnholla/coding-practice/tree/master/3866-first-unique-even-element) |
