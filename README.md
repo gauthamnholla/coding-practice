@@ -132,6 +132,7 @@
 | [3826-minimum-partition-score](https://github.com/gauthamnholla/coding-practice/tree/master/3826-minimum-partition-score) |
 | [3833-count-dominant-indices](https://github.com/gauthamnholla/coding-practice/tree/master/3833-count-dominant-indices) |
 | [3835-count-subarrays-with-cost-less-than-or-equal-to-k](https://github.com/gauthamnholla/coding-practice/tree/master/3835-count-subarrays-with-cost-less-than-or-equal-to-k) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/gauthamnholla/coding-practice/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 | [3842-toggle-light-bulbs](https://github.com/gauthamnholla/coding-practice/tree/main/3842-toggle-light-bulbs/) | Easy |
 | [3843-first-element-with-unique-frequency](https://github.com/gauthamnholla/coding-practice/tree/main/3843-first-element-with-unique-frequency/) | Medium |
 | [3845-maximum-subarray-xor-with-bounded-range](https://github.com/gauthamnholla/coding-practice/tree/master/3845-maximum-subarray-xor-with-bounded-range) |
@@ -292,6 +293,7 @@
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/gauthamnholla/coding-practice/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/gauthamnholla/coding-practice/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
 | [2901-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/gauthamnholla/coding-practice/tree/master/2901-longest-unequal-adjacent-groups-subsequence-ii) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/gauthamnholla/coding-practice/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -376,6 +378,7 @@
 | [2509-cycle-length-queries-in-a-tree](https://github.com/gauthamnholla/coding-practice/tree/master/2509-cycle-length-queries-in-a-tree) |
 | [2673-make-costs-of-paths-equal-in-a-binary-tree](https://github.com/gauthamnholla/coding-practice/tree/master/2673-make-costs-of-paths-equal-in-a-binary-tree) |
 | [2846-minimum-edge-weight-equilibrium-queries-in-a-tree](https://github.com/gauthamnholla/coding-practice/tree/master/2846-minimum-edge-weight-equilibrium-queries-in-a-tree) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/gauthamnholla/coding-practice/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -432,6 +435,7 @@
 | [1622-fancy-sequence](https://github.com/gauthamnholla/coding-practice/tree/master/1622-fancy-sequence) |
 | [2407-longest-increasing-subsequence-ii](https://github.com/gauthamnholla/coding-practice/tree/master/2407-longest-increasing-subsequence-ii) |
 | [2569-handling-sum-queries-after-update](https://github.com/gauthamnholla/coding-practice/tree/master/2569-handling-sum-queries-after-update) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/gauthamnholla/coding-practice/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -443,6 +447,7 @@
 | ------- | ------- |
 | [2407-longest-increasing-subsequence-ii](https://github.com/gauthamnholla/coding-practice/tree/master/2407-longest-increasing-subsequence-ii) |
 | [3826-minimum-partition-score](https://github.com/gauthamnholla/coding-practice/tree/master/3826-minimum-partition-score) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/gauthamnholla/coding-practice/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 ## Binary Indexed Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
