@@ -56,6 +56,7 @@
 | [2564-substring-xor-queries](https://github.com/gauthamnholla/coding-practice/tree/master/2564-substring-xor-queries) |
 | [2568-minimum-impossible-or](https://github.com/gauthamnholla/coding-practice/tree/master/2568-minimum-impossible-or) |
 | [2569-handling-sum-queries-after-update](https://github.com/gauthamnholla/coding-practice/tree/master/2569-handling-sum-queries-after-update) |
+| [2573-find-the-string-with-lcp](https://github.com/gauthamnholla/coding-practice/tree/main/2573-find-the-string-with-lcp/) | Hard |
 | [2585-number-of-ways-to-earn-points](https://github.com/gauthamnholla/coding-practice/tree/master/2585-number-of-ways-to-earn-points) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/gauthamnholla/coding-practice/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [2594-minimum-time-to-repair-cars](https://github.com/gauthamnholla/coding-practice/tree/master/2594-minimum-time-to-repair-cars) |
@@ -233,6 +234,7 @@
 | [2499-minimum-total-cost-to-make-arrays-unequal](https://github.com/gauthamnholla/coding-practice/tree/master/2499-minimum-total-cost-to-make-arrays-unequal) |
 | [2530-maximal-score-after-applying-k-operations](https://github.com/gauthamnholla/coding-practice/tree/master/2530-maximal-score-after-applying-k-operations) |
 | [2560-house-robber-iv](https://github.com/gauthamnholla/coding-practice/tree/master/2560-house-robber-iv) |
+| [2573-find-the-string-with-lcp](https://github.com/gauthamnholla/coding-practice/tree/main/2573-find-the-string-with-lcp/) | Hard |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/gauthamnholla/coding-practice/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 | [2673-make-costs-of-paths-equal-in-a-binary-tree](https://github.com/gauthamnholla/coding-practice/tree/master/2673-make-costs-of-paths-equal-in-a-binary-tree) |
 | [2789-largest-element-in-an-array-after-merge-operations](https://github.com/gauthamnholla/coding-practice/tree/master/2789-largest-element-in-an-array-after-merge-operations) |
@@ -255,6 +257,7 @@
 | [1727-largest-submatrix-with-rearrangements](https://github.com/gauthamnholla/coding-practice/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/gauthamnholla/coding-practice/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/gauthamnholla/coding-practice/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
+| [2573-find-the-string-with-lcp](https://github.com/gauthamnholla/coding-practice/tree/main/2573-find-the-string-with-lcp/) | Hard |
 | [2906-construct-product-matrix](https://github.com/gauthamnholla/coding-practice/tree/master/2906-construct-product-matrix) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/gauthamnholla/coding-practice/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/gauthamnholla/coding-practice/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
@@ -282,6 +285,7 @@
 | [2496-maximum-value-of-a-string-in-an-array](https://github.com/gauthamnholla/coding-practice/tree/master/2496-maximum-value-of-a-string-in-an-array) |
 | [2506-count-pairs-of-similar-strings](https://github.com/gauthamnholla/coding-practice/tree/master/2506-count-pairs-of-similar-strings) |
 | [2564-substring-xor-queries](https://github.com/gauthamnholla/coding-practice/tree/master/2564-substring-xor-queries) |
+| [2573-find-the-string-with-lcp](https://github.com/gauthamnholla/coding-practice/tree/main/2573-find-the-string-with-lcp/) | Hard |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/gauthamnholla/coding-practice/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [2606-find-the-substring-with-maximum-cost](https://github.com/gauthamnholla/coding-practice/tree/master/2606-find-the-substring-with-maximum-cost) |
 | [2678-number-of-senior-citizens](https://github.com/gauthamnholla/coding-practice/tree/master/2678-number-of-senior-citizens) |
@@ -399,6 +403,7 @@
 | [2518-number-of-great-partitions](https://github.com/gauthamnholla/coding-practice/tree/master/2518-number-of-great-partitions) |
 | [2547-minimum-cost-to-split-an-array](https://github.com/gauthamnholla/coding-practice/tree/master/2547-minimum-cost-to-split-an-array) |
 | [2560-house-robber-iv](https://github.com/gauthamnholla/coding-practice/tree/master/2560-house-robber-iv) |
+| [2573-find-the-string-with-lcp](https://github.com/gauthamnholla/coding-practice/tree/main/2573-find-the-string-with-lcp/) | Hard |
 | [2585-number-of-ways-to-earn-points](https://github.com/gauthamnholla/coding-practice/tree/master/2585-number-of-ways-to-earn-points) |
 | [2606-find-the-substring-with-maximum-cost](https://github.com/gauthamnholla/coding-practice/tree/master/2606-find-the-substring-with-maximum-cost) |
 | [2673-make-costs-of-paths-equal-in-a-binary-tree](https://github.com/gauthamnholla/coding-practice/tree/master/2673-make-costs-of-paths-equal-in-a-binary-tree) |
@@ -528,6 +533,7 @@
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2573-find-the-string-with-lcp](https://github.com/gauthamnholla/coding-practice/tree/main/2573-find-the-string-with-lcp/) | Hard |
 | [2612-minimum-reverse-operations](https://github.com/gauthamnholla/coding-practice/tree/master/2612-minimum-reverse-operations) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/gauthamnholla/coding-practice/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3873-maximum-points-activated-with-one-addition](https://github.com/gauthamnholla/coding-practice/tree/master/3873-maximum-points-activated-with-one-addition) |
