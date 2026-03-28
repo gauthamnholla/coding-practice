@@ -132,6 +132,7 @@
 | [3826-minimum-partition-score](https://github.com/gauthamnholla/coding-practice/tree/master/3826-minimum-partition-score) |
 | [3833-count-dominant-indices](https://github.com/gauthamnholla/coding-practice/tree/master/3833-count-dominant-indices) |
 | [3835-count-subarrays-with-cost-less-than-or-equal-to-k](https://github.com/gauthamnholla/coding-practice/tree/master/3835-count-subarrays-with-cost-less-than-or-equal-to-k) |
+| [3842-toggle-light-bulbs](https://github.com/gauthamnholla/coding-practice/tree/main/3842-toggle-light-bulbs/) | Easy |
 | [3843-first-element-with-unique-frequency](https://github.com/gauthamnholla/coding-practice/tree/main/3843-first-element-with-unique-frequency/) | Medium |
 | [3845-maximum-subarray-xor-with-bounded-range](https://github.com/gauthamnholla/coding-practice/tree/master/3845-maximum-subarray-xor-with-bounded-range) |
 | [3847-find-the-score-difference-in-a-game](https://github.com/gauthamnholla/coding-practice/tree/master/3847-find-the-score-difference-in-a-game) |
@@ -192,6 +193,7 @@
 | [2875-minimum-size-subarray-in-infinite-array](https://github.com/gauthamnholla/coding-practice/tree/master/2875-minimum-size-subarray-in-infinite-array) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/gauthamnholla/coding-practice/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/gauthamnholla/coding-practice/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
+| [3842-toggle-light-bulbs](https://github.com/gauthamnholla/coding-practice/tree/main/3842-toggle-light-bulbs/) | Easy |
 | [3843-first-element-with-unique-frequency](https://github.com/gauthamnholla/coding-practice/tree/main/3843-first-element-with-unique-frequency/) | Medium |
 | [3852-smallest-pair-with-different-frequencies](https://github.com/gauthamnholla/coding-practice/tree/main/3852-smallest-pair-with-different-frequencies/) | Easy |
 | [3859-count-subarrays-with-k-distinct-integers](https://github.com/gauthamnholla/coding-practice/tree/main/3859-count-subarrays-with-k-distinct-integers/) | Hard |
@@ -460,6 +462,7 @@
 | [2744-find-maximum-number-of-string-pairs](https://github.com/gauthamnholla/coding-practice/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/gauthamnholla/coding-practice/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3819-rotate-non-negative-elements](https://github.com/gauthamnholla/coding-practice/tree/master/3819-rotate-non-negative-elements) |
+| [3842-toggle-light-bulbs](https://github.com/gauthamnholla/coding-practice/tree/main/3842-toggle-light-bulbs/) | Easy |
 | [3847-find-the-score-difference-in-a-game](https://github.com/gauthamnholla/coding-practice/tree/master/3847-find-the-score-difference-in-a-game) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/gauthamnholla/coding-practice/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Enumeration
@@ -566,6 +569,7 @@
 | [1727-largest-submatrix-with-rearrangements](https://github.com/gauthamnholla/coding-practice/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/gauthamnholla/coding-practice/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/gauthamnholla/coding-practice/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
+| [3842-toggle-light-bulbs](https://github.com/gauthamnholla/coding-practice/tree/main/3842-toggle-light-bulbs/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
