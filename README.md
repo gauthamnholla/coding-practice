@@ -130,6 +130,7 @@
 | [3643-flip-square-submatrix-vertically](https://github.com/gauthamnholla/coding-practice/tree/master/3643-flip-square-submatrix-vertically) |
 | [3724-minimum-operations-to-transform-array](https://github.com/gauthamnholla/coding-practice/tree/main/3724-minimum-operations-to-transform-array/) | Medium |
 | [3738-longest-non-decreasing-subarray-after-replacing-at-most-one-element](https://github.com/gauthamnholla/coding-practice/tree/main/3738-longest-non-decreasing-subarray-after-replacing-at-most-one-element/) | Medium |
+| [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/gauthamnholla/coding-practice/tree/main/3741-minimum-distance-between-three-equal-elements-ii/) | Medium |
 | [3814-maximum-capacity-within-budget](https://github.com/gauthamnholla/coding-practice/tree/main/3814-maximum-capacity-within-budget/) | Medium |
 | [3818-minimum-prefix-removal-to-make-array-strictly-increasing](https://github.com/gauthamnholla/coding-practice/tree/main/3818-minimum-prefix-removal-to-make-array-strictly-increasing/) | Medium |
 | [3819-rotate-non-negative-elements](https://github.com/gauthamnholla/coding-practice/tree/master/3819-rotate-non-negative-elements) |
@@ -200,6 +201,7 @@
 | [2875-minimum-size-subarray-in-infinite-array](https://github.com/gauthamnholla/coding-practice/tree/master/2875-minimum-size-subarray-in-infinite-array) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/gauthamnholla/coding-practice/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/gauthamnholla/coding-practice/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
+| [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/gauthamnholla/coding-practice/tree/main/3741-minimum-distance-between-three-equal-elements-ii/) | Medium |
 | [3842-toggle-light-bulbs](https://github.com/gauthamnholla/coding-practice/tree/main/3842-toggle-light-bulbs/) | Easy |
 | [3843-first-element-with-unique-frequency](https://github.com/gauthamnholla/coding-practice/tree/main/3843-first-element-with-unique-frequency/) | Medium |
 | [3852-smallest-pair-with-different-frequencies](https://github.com/gauthamnholla/coding-practice/tree/main/3852-smallest-pair-with-different-frequencies/) | Easy |
