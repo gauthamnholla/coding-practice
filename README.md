@@ -139,6 +139,7 @@
 | [3826-minimum-partition-score](https://github.com/gauthamnholla/coding-practice/tree/master/3826-minimum-partition-score) |
 | [3833-count-dominant-indices](https://github.com/gauthamnholla/coding-practice/tree/master/3833-count-dominant-indices) |
 | [3835-count-subarrays-with-cost-less-than-or-equal-to-k](https://github.com/gauthamnholla/coding-practice/tree/master/3835-count-subarrays-with-cost-less-than-or-equal-to-k) |
+| [3838-weighted-word-mapping](https://github.com/gauthamnholla/coding-practice/tree/main/3838-weighted-word-mapping/) | Easy |
 | [3839-number-of-prefix-connected-groups](https://github.com/gauthamnholla/coding-practice/tree/main/3839-number-of-prefix-connected-groups/) | Medium |
 | [3840-house-robber-v](https://github.com/gauthamnholla/coding-practice/tree/main/3840-house-robber-v/) | Medium |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/gauthamnholla/coding-practice/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
@@ -312,6 +313,7 @@
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/gauthamnholla/coding-practice/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/gauthamnholla/coding-practice/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
 | [2901-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/gauthamnholla/coding-practice/tree/master/2901-longest-unequal-adjacent-groups-subsequence-ii) |
+| [3838-weighted-word-mapping](https://github.com/gauthamnholla/coding-practice/tree/main/3838-weighted-word-mapping/) | Easy |
 | [3839-number-of-prefix-connected-groups](https://github.com/gauthamnholla/coding-practice/tree/main/3839-number-of-prefix-connected-groups/) | Medium |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/gauthamnholla/coding-practice/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 ## Trie
@@ -493,6 +495,7 @@
 | [2744-find-maximum-number-of-string-pairs](https://github.com/gauthamnholla/coding-practice/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/gauthamnholla/coding-practice/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3819-rotate-non-negative-elements](https://github.com/gauthamnholla/coding-practice/tree/master/3819-rotate-non-negative-elements) |
+| [3838-weighted-word-mapping](https://github.com/gauthamnholla/coding-practice/tree/main/3838-weighted-word-mapping/) | Easy |
 | [3842-toggle-light-bulbs](https://github.com/gauthamnholla/coding-practice/tree/main/3842-toggle-light-bulbs/) | Easy |
 | [3847-find-the-score-difference-in-a-game](https://github.com/gauthamnholla/coding-practice/tree/master/3847-find-the-score-difference-in-a-game) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/gauthamnholla/coding-practice/tree/master/3867-sum-of-gcd-of-formed-pairs) |
