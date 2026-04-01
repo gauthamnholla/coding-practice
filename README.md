@@ -138,6 +138,7 @@
 | [3825-longest-strictly-increasing-subsequence-with-non-zero-bitwise-and](https://github.com/gauthamnholla/coding-practice/tree/main/3825-longest-strictly-increasing-subsequence-with-non-zero-bitwise-and/) | Medium |
 | [3826-minimum-partition-score](https://github.com/gauthamnholla/coding-practice/tree/master/3826-minimum-partition-score) |
 | [3833-count-dominant-indices](https://github.com/gauthamnholla/coding-practice/tree/master/3833-count-dominant-indices) |
+| [3834-merge-adjacent-equal-elements](https://github.com/gauthamnholla/coding-practice/tree/main/3834-merge-adjacent-equal-elements/) | Medium |
 | [3835-count-subarrays-with-cost-less-than-or-equal-to-k](https://github.com/gauthamnholla/coding-practice/tree/master/3835-count-subarrays-with-cost-less-than-or-equal-to-k) |
 | [3836-maximum-score-using-exactly-k-pairs](https://github.com/gauthamnholla/coding-practice/tree/main/3836-maximum-score-using-exactly-k-pairs/) | Hard |
 | [3838-weighted-word-mapping](https://github.com/gauthamnholla/coding-practice/tree/main/3838-weighted-word-mapping/) | Easy |
@@ -499,6 +500,7 @@
 | [2744-find-maximum-number-of-string-pairs](https://github.com/gauthamnholla/coding-practice/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/gauthamnholla/coding-practice/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3819-rotate-non-negative-elements](https://github.com/gauthamnholla/coding-practice/tree/master/3819-rotate-non-negative-elements) |
+| [3834-merge-adjacent-equal-elements](https://github.com/gauthamnholla/coding-practice/tree/main/3834-merge-adjacent-equal-elements/) | Medium |
 | [3838-weighted-word-mapping](https://github.com/gauthamnholla/coding-practice/tree/main/3838-weighted-word-mapping/) | Easy |
 | [3842-toggle-light-bulbs](https://github.com/gauthamnholla/coding-practice/tree/main/3842-toggle-light-bulbs/) | Easy |
 | [3847-find-the-score-difference-in-a-game](https://github.com/gauthamnholla/coding-practice/tree/master/3847-find-the-score-difference-in-a-game) |
@@ -550,6 +552,7 @@
 | [2289-steps-to-make-array-non-decreasing](https://github.com/gauthamnholla/coding-practice/tree/master/2289-steps-to-make-array-non-decreasing) |
 | [2865-beautiful-towers-i](https://github.com/gauthamnholla/coding-practice/tree/master/2865-beautiful-towers-i) |
 | [2866-beautiful-towers-ii](https://github.com/gauthamnholla/coding-practice/tree/master/2866-beautiful-towers-ii) |
+| [3834-merge-adjacent-equal-elements](https://github.com/gauthamnholla/coding-practice/tree/main/3834-merge-adjacent-equal-elements/) | Medium |
 | [3878-count-good-subarrays](https://github.com/gauthamnholla/coding-practice/tree/main/3878-count-good-subarrays/) | Hard |
 ## Monotonic Stack
 | Problem Name | Difficulty |
