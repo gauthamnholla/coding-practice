@@ -131,6 +131,7 @@
 | [3724-minimum-operations-to-transform-array](https://github.com/gauthamnholla/coding-practice/tree/main/3724-minimum-operations-to-transform-array/) | Medium |
 | [3738-longest-non-decreasing-subarray-after-replacing-at-most-one-element](https://github.com/gauthamnholla/coding-practice/tree/main/3738-longest-non-decreasing-subarray-after-replacing-at-most-one-element/) | Medium |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/gauthamnholla/coding-practice/tree/main/3741-minimum-distance-between-three-equal-elements-ii/) | Medium |
+| [3809-best-reachable-tower](https://github.com/gauthamnholla/coding-practice/tree/main/3809-best-reachable-tower/) | Medium |
 | [3810-minimum-operations-to-reach-target-array](https://github.com/gauthamnholla/coding-practice/tree/main/3810-minimum-operations-to-reach-target-array/) | Medium |
 | [3814-maximum-capacity-within-budget](https://github.com/gauthamnholla/coding-practice/tree/main/3814-maximum-capacity-within-budget/) | Medium |
 | [3818-minimum-prefix-removal-to-make-array-strictly-increasing](https://github.com/gauthamnholla/coding-practice/tree/main/3818-minimum-prefix-removal-to-make-array-strictly-increasing/) | Medium |
