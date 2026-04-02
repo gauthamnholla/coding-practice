@@ -133,6 +133,7 @@
 | [3724-minimum-operations-to-transform-array](https://github.com/gauthamnholla/coding-practice/tree/main/3724-minimum-operations-to-transform-array/) | Medium |
 | [3738-longest-non-decreasing-subarray-after-replacing-at-most-one-element](https://github.com/gauthamnholla/coding-practice/tree/main/3738-longest-non-decreasing-subarray-after-replacing-at-most-one-element/) | Medium |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/gauthamnholla/coding-practice/tree/main/3741-minimum-distance-between-three-equal-elements-ii/) | Medium |
+| [3796-find-maximum-value-in-a-constrained-sequence](https://github.com/gauthamnholla/coding-practice/tree/main/3796-find-maximum-value-in-a-constrained-sequence/) | Medium |
 | [3809-best-reachable-tower](https://github.com/gauthamnholla/coding-practice/tree/main/3809-best-reachable-tower/) | Medium |
 | [3810-minimum-operations-to-reach-target-array](https://github.com/gauthamnholla/coding-practice/tree/main/3810-minimum-operations-to-reach-target-array/) | Medium |
 | [3814-maximum-capacity-within-budget](https://github.com/gauthamnholla/coding-practice/tree/main/3814-maximum-capacity-within-budget/) | Medium |
@@ -268,6 +269,7 @@
 | [3474-lexicographically-smallest-generated-string](https://github.com/gauthamnholla/coding-practice/tree/main/3474-lexicographically-smallest-generated-string/) | Hard |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/gauthamnholla/coding-practice/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3724-minimum-operations-to-transform-array](https://github.com/gauthamnholla/coding-practice/tree/main/3724-minimum-operations-to-transform-array/) | Medium |
+| [3796-find-maximum-value-in-a-constrained-sequence](https://github.com/gauthamnholla/coding-practice/tree/main/3796-find-maximum-value-in-a-constrained-sequence/) | Medium |
 | [3810-minimum-operations-to-reach-target-array](https://github.com/gauthamnholla/coding-practice/tree/main/3810-minimum-operations-to-reach-target-array/) | Medium |
 | [3854-minimum-operations-to-make-array-parity-alternating](https://github.com/gauthamnholla/coding-practice/tree/main/3854-minimum-operations-to-make-array-parity-alternating/) | Medium |
 | [3858-minimum-bitwise-or-from-grid](https://github.com/gauthamnholla/coding-practice/tree/main/3858-minimum-bitwise-or-from-grid/) | Medium |
