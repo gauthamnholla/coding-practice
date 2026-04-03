@@ -130,6 +130,7 @@
 | [3548-equal-sum-grid-partition-ii](https://github.com/gauthamnholla/coding-practice/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/gauthamnholla/coding-practice/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3643-flip-square-submatrix-vertically](https://github.com/gauthamnholla/coding-practice/tree/master/3643-flip-square-submatrix-vertically) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/gauthamnholla/coding-practice/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 | [3708-longest-fibonacci-subarray](https://github.com/gauthamnholla/coding-practice/tree/main/3708-longest-fibonacci-subarray/) | Medium |
 | [3724-minimum-operations-to-transform-array](https://github.com/gauthamnholla/coding-practice/tree/main/3724-minimum-operations-to-transform-array/) | Medium |
 | [3738-longest-non-decreasing-subarray-after-replacing-at-most-one-element](https://github.com/gauthamnholla/coding-practice/tree/main/3738-longest-non-decreasing-subarray-after-replacing-at-most-one-element/) | Medium |
@@ -359,6 +360,7 @@
 | [2869-minimum-operations-to-collect-elements](https://github.com/gauthamnholla/coding-practice/tree/master/2869-minimum-operations-to-collect-elements) |
 | [2871-split-array-into-maximum-number-of-subarrays](https://github.com/gauthamnholla/coding-practice/tree/master/2871-split-array-into-maximum-number-of-subarrays) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/gauthamnholla/coding-practice/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/gauthamnholla/coding-practice/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 | [3825-longest-strictly-increasing-subsequence-with-non-zero-bitwise-and](https://github.com/gauthamnholla/coding-practice/tree/main/3825-longest-strictly-increasing-subsequence-with-non-zero-bitwise-and/) | Medium |
 | [3845-maximum-subarray-xor-with-bounded-range](https://github.com/gauthamnholla/coding-practice/tree/master/3845-maximum-subarray-xor-with-bounded-range) |
 | [3858-minimum-bitwise-or-from-grid](https://github.com/gauthamnholla/coding-practice/tree/main/3858-minimum-bitwise-or-from-grid/) | Medium |
