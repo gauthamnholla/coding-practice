@@ -130,6 +130,7 @@
 | [3548-equal-sum-grid-partition-ii](https://github.com/gauthamnholla/coding-practice/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/gauthamnholla/coding-practice/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3643-flip-square-submatrix-vertically](https://github.com/gauthamnholla/coding-practice/tree/master/3643-flip-square-submatrix-vertically) |
+| [3701-compute-alternating-sum](https://github.com/gauthamnholla/coding-practice/tree/main/3701-compute-alternating-sum/) | Easy |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/gauthamnholla/coding-practice/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 | [3708-longest-fibonacci-subarray](https://github.com/gauthamnholla/coding-practice/tree/main/3708-longest-fibonacci-subarray/) | Medium |
 | [3724-minimum-operations-to-transform-array](https://github.com/gauthamnholla/coding-practice/tree/main/3724-minimum-operations-to-transform-array/) | Medium |
@@ -516,6 +517,7 @@
 | [2744-find-maximum-number-of-string-pairs](https://github.com/gauthamnholla/coding-practice/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2751-robot-collisions](https://github.com/gauthamnholla/coding-practice/tree/main/2751-robot-collisions/) | Hard |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/gauthamnholla/coding-practice/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
+| [3701-compute-alternating-sum](https://github.com/gauthamnholla/coding-practice/tree/main/3701-compute-alternating-sum/) | Easy |
 | [3819-rotate-non-negative-elements](https://github.com/gauthamnholla/coding-practice/tree/master/3819-rotate-non-negative-elements) |
 | [3834-merge-adjacent-equal-elements](https://github.com/gauthamnholla/coding-practice/tree/main/3834-merge-adjacent-equal-elements/) | Medium |
 | [3838-weighted-word-mapping](https://github.com/gauthamnholla/coding-practice/tree/main/3838-weighted-word-mapping/) | Easy |
