@@ -310,6 +310,7 @@
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/gauthamnholla/coding-practice/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1946-largest-number-after-mutating-substring](https://github.com/gauthamnholla/coding-practice/tree/master/1946-largest-number-after-mutating-substring) |
 | [1980-find-unique-binary-string](https://github.com/gauthamnholla/coding-practice/tree/master/1980-find-unique-binary-string) |
+| [2075-decode-the-slanted-ciphertext](https://github.com/gauthamnholla/coding-practice/tree/main/2075-decode-the-slanted-ciphertext/) | Medium |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/gauthamnholla/coding-practice/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2416-sum-of-prefix-scores-of-strings](https://github.com/gauthamnholla/coding-practice/tree/master/2416-sum-of-prefix-scores-of-strings) |
 | [2446-determine-if-two-events-have-conflict](https://github.com/gauthamnholla/coding-practice/tree/master/2446-determine-if-two-events-have-conflict) |
@@ -512,6 +513,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1583-count-unhappy-friends](https://github.com/gauthamnholla/coding-practice/tree/master/1583-count-unhappy-friends) |
+| [2075-decode-the-slanted-ciphertext](https://github.com/gauthamnholla/coding-practice/tree/main/2075-decode-the-slanted-ciphertext/) | Medium |
 | [2289-steps-to-make-array-non-decreasing](https://github.com/gauthamnholla/coding-practice/tree/master/2289-steps-to-make-array-non-decreasing) |
 | [2293-min-max-game](https://github.com/gauthamnholla/coding-practice/tree/master/2293-min-max-game) |
 | [2295-replace-elements-in-an-array](https://github.com/gauthamnholla/coding-practice/tree/master/2295-replace-elements-in-an-array) |
