@@ -312,6 +312,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/gauthamnholla/coding-practice/tree/master/0020-valid-parentheses) |
+| [0657-robot-return-to-origin](https://github.com/gauthamnholla/coding-practice/tree/main/0657-robot-return-to-origin/) | Easy |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/gauthamnholla/coding-practice/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/gauthamnholla/coding-practice/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/gauthamnholla/coding-practice/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
@@ -526,6 +527,7 @@
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0657-robot-return-to-origin](https://github.com/gauthamnholla/coding-practice/tree/main/0657-robot-return-to-origin/) | Easy |
 | [1583-count-unhappy-friends](https://github.com/gauthamnholla/coding-practice/tree/master/1583-count-unhappy-friends) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/gauthamnholla/coding-practice/tree/main/2075-decode-the-slanted-ciphertext/) | Medium |
 | [2289-steps-to-make-array-non-decreasing](https://github.com/gauthamnholla/coding-practice/tree/master/2289-steps-to-make-array-non-decreasing) |
