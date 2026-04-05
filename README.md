@@ -125,6 +125,7 @@
 | [2980-check-if-bitwise-or-has-trailing-zeros](https://github.com/gauthamnholla/coding-practice/tree/main/2980-check-if-bitwise-or-has-trailing-zeros/) | Easy |
 | [2997-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/gauthamnholla/coding-practice/tree/main/2997-minimum-number-of-operations-to-make-array-xor-equal-to-k/) | Medium |
 | [3002-maximum-size-of-a-set-after-removals](https://github.com/gauthamnholla/coding-practice/tree/main/3002-maximum-size-of-a-set-after-removals/) | Medium |
+| [3040-maximum-number-of-operations-with-the-same-score-ii](https://github.com/gauthamnholla/coding-practice/tree/main/3040-maximum-number-of-operations-with-the-same-score-ii/) | Medium |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/gauthamnholla/coding-practice/tree/main/3042-count-prefix-and-suffix-pairs-i/) | Easy |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/gauthamnholla/coding-practice/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/gauthamnholla/coding-practice/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
@@ -479,6 +480,7 @@
 | [2846-minimum-edge-weight-equilibrium-queries-in-a-tree](https://github.com/gauthamnholla/coding-practice/tree/master/2846-minimum-edge-weight-equilibrium-queries-in-a-tree) |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/gauthamnholla/coding-practice/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
 | [2901-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/gauthamnholla/coding-practice/tree/master/2901-longest-unequal-adjacent-groups-subsequence-ii) |
+| [3040-maximum-number-of-operations-with-the-same-score-ii](https://github.com/gauthamnholla/coding-practice/tree/main/3040-maximum-number-of-operations-with-the-same-score-ii/) | Medium |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/gauthamnholla/coding-practice/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/gauthamnholla/coding-practice/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/gauthamnholla/coding-practice/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
@@ -678,6 +680,7 @@
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [3040-maximum-number-of-operations-with-the-same-score-ii](https://github.com/gauthamnholla/coding-practice/tree/main/3040-maximum-number-of-operations-with-the-same-score-ii/) | Medium |
 | [3850-count-sequences-to-k](https://github.com/gauthamnholla/coding-practice/tree/main/3850-count-sequences-to-k/) | Hard |
 ## String Matching
 | Problem Name | Difficulty |
