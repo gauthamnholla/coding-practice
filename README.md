@@ -146,6 +146,7 @@
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/gauthamnholla/coding-practice/tree/main/3741-minimum-distance-between-three-equal-elements-ii/) | Medium |
 | [3795-minimum-subarray-length-with-distinct-sum-at-least-k](https://github.com/gauthamnholla/coding-practice/tree/main/3795-minimum-subarray-length-with-distinct-sum-at-least-k/) | Medium |
 | [3796-find-maximum-value-in-a-constrained-sequence](https://github.com/gauthamnholla/coding-practice/tree/main/3796-find-maximum-value-in-a-constrained-sequence/) | Medium |
+| [3804-number-of-centered-subarrays](https://github.com/gauthamnholla/coding-practice/tree/main/3804-number-of-centered-subarrays/) | Medium |
 | [3806-maximum-bitwise-and-after-increment-operations](https://github.com/gauthamnholla/coding-practice/tree/main/3806-maximum-bitwise-and-after-increment-operations/) | Hard |
 | [3809-best-reachable-tower](https://github.com/gauthamnholla/coding-practice/tree/main/3809-best-reachable-tower/) | Medium |
 | [3810-minimum-operations-to-reach-target-array](https://github.com/gauthamnholla/coding-practice/tree/main/3810-minimum-operations-to-reach-target-array/) | Medium |
@@ -229,6 +230,7 @@
 | [3548-equal-sum-grid-partition-ii](https://github.com/gauthamnholla/coding-practice/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/gauthamnholla/coding-practice/tree/main/3741-minimum-distance-between-three-equal-elements-ii/) | Medium |
 | [3795-minimum-subarray-length-with-distinct-sum-at-least-k](https://github.com/gauthamnholla/coding-practice/tree/main/3795-minimum-subarray-length-with-distinct-sum-at-least-k/) | Medium |
+| [3804-number-of-centered-subarrays](https://github.com/gauthamnholla/coding-practice/tree/main/3804-number-of-centered-subarrays/) | Medium |
 | [3810-minimum-operations-to-reach-target-array](https://github.com/gauthamnholla/coding-practice/tree/main/3810-minimum-operations-to-reach-target-array/) | Medium |
 | [3839-number-of-prefix-connected-groups](https://github.com/gauthamnholla/coding-practice/tree/main/3839-number-of-prefix-connected-groups/) | Medium |
 | [3842-toggle-light-bulbs](https://github.com/gauthamnholla/coding-practice/tree/main/3842-toggle-light-bulbs/) | Easy |
@@ -564,6 +566,7 @@
 | [2778-sum-of-squares-of-special-elements](https://github.com/gauthamnholla/coding-practice/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3546-equal-sum-grid-partition-i](https://github.com/gauthamnholla/coding-practice/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/gauthamnholla/coding-practice/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
+| [3804-number-of-centered-subarrays](https://github.com/gauthamnholla/coding-practice/tree/main/3804-number-of-centered-subarrays/) | Medium |
 | [3825-longest-strictly-increasing-subsequence-with-non-zero-bitwise-and](https://github.com/gauthamnholla/coding-practice/tree/main/3825-longest-strictly-increasing-subsequence-with-non-zero-bitwise-and/) | Medium |
 | [3833-count-dominant-indices](https://github.com/gauthamnholla/coding-practice/tree/master/3833-count-dominant-indices) |
 | [3872-longest-arithmetic-sequence-after-changing-at-most-one-element](https://github.com/gauthamnholla/coding-practice/tree/master/3872-longest-arithmetic-sequence-after-changing-at-most-one-element) |
