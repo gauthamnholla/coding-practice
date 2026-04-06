@@ -144,6 +144,7 @@
 | [3724-minimum-operations-to-transform-array](https://github.com/gauthamnholla/coding-practice/tree/main/3724-minimum-operations-to-transform-array/) | Medium |
 | [3738-longest-non-decreasing-subarray-after-replacing-at-most-one-element](https://github.com/gauthamnholla/coding-practice/tree/main/3738-longest-non-decreasing-subarray-after-replacing-at-most-one-element/) | Medium |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/gauthamnholla/coding-practice/tree/main/3741-minimum-distance-between-three-equal-elements-ii/) | Medium |
+| [3785-minimum-swaps-to-avoid-forbidden-values](https://github.com/gauthamnholla/coding-practice/tree/main/3785-minimum-swaps-to-avoid-forbidden-values/) | Hard |
 | [3795-minimum-subarray-length-with-distinct-sum-at-least-k](https://github.com/gauthamnholla/coding-practice/tree/main/3795-minimum-subarray-length-with-distinct-sum-at-least-k/) | Medium |
 | [3796-find-maximum-value-in-a-constrained-sequence](https://github.com/gauthamnholla/coding-practice/tree/main/3796-find-maximum-value-in-a-constrained-sequence/) | Medium |
 | [3804-number-of-centered-subarrays](https://github.com/gauthamnholla/coding-practice/tree/main/3804-number-of-centered-subarrays/) | Medium |
@@ -229,6 +230,7 @@
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/gauthamnholla/coding-practice/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3548-equal-sum-grid-partition-ii](https://github.com/gauthamnholla/coding-practice/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/gauthamnholla/coding-practice/tree/main/3741-minimum-distance-between-three-equal-elements-ii/) | Medium |
+| [3785-minimum-swaps-to-avoid-forbidden-values](https://github.com/gauthamnholla/coding-practice/tree/main/3785-minimum-swaps-to-avoid-forbidden-values/) | Hard |
 | [3795-minimum-subarray-length-with-distinct-sum-at-least-k](https://github.com/gauthamnholla/coding-practice/tree/main/3795-minimum-subarray-length-with-distinct-sum-at-least-k/) | Medium |
 | [3804-number-of-centered-subarrays](https://github.com/gauthamnholla/coding-practice/tree/main/3804-number-of-centered-subarrays/) | Medium |
 | [3810-minimum-operations-to-reach-target-array](https://github.com/gauthamnholla/coding-practice/tree/main/3810-minimum-operations-to-reach-target-array/) | Medium |
@@ -254,6 +256,7 @@
 | [2547-minimum-cost-to-split-an-array](https://github.com/gauthamnholla/coding-practice/tree/master/2547-minimum-cost-to-split-an-array) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/gauthamnholla/coding-practice/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/gauthamnholla/coding-practice/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
+| [3785-minimum-swaps-to-avoid-forbidden-values](https://github.com/gauthamnholla/coding-practice/tree/main/3785-minimum-swaps-to-avoid-forbidden-values/) | Hard |
 | [3839-number-of-prefix-connected-groups](https://github.com/gauthamnholla/coding-practice/tree/main/3839-number-of-prefix-connected-groups/) | Medium |
 | [3843-first-element-with-unique-frequency](https://github.com/gauthamnholla/coding-practice/tree/main/3843-first-element-with-unique-frequency/) | Medium |
 | [3852-smallest-pair-with-different-frequencies](https://github.com/gauthamnholla/coding-practice/tree/main/3852-smallest-pair-with-different-frequencies/) | Easy |
@@ -288,6 +291,7 @@
 | [3474-lexicographically-smallest-generated-string](https://github.com/gauthamnholla/coding-practice/tree/main/3474-lexicographically-smallest-generated-string/) | Hard |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/gauthamnholla/coding-practice/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3724-minimum-operations-to-transform-array](https://github.com/gauthamnholla/coding-practice/tree/main/3724-minimum-operations-to-transform-array/) | Medium |
+| [3785-minimum-swaps-to-avoid-forbidden-values](https://github.com/gauthamnholla/coding-practice/tree/main/3785-minimum-swaps-to-avoid-forbidden-values/) | Hard |
 | [3796-find-maximum-value-in-a-constrained-sequence](https://github.com/gauthamnholla/coding-practice/tree/main/3796-find-maximum-value-in-a-constrained-sequence/) | Medium |
 | [3806-maximum-bitwise-and-after-increment-operations](https://github.com/gauthamnholla/coding-practice/tree/main/3806-maximum-bitwise-and-after-increment-operations/) | Hard |
 | [3810-minimum-operations-to-reach-target-array](https://github.com/gauthamnholla/coding-practice/tree/main/3810-minimum-operations-to-reach-target-array/) | Medium |
