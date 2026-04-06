@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/walking-robot-simulation">906. Walking Robot Simulation</a></h2><h3>Medium</h3><hr><p>A robot on an infinite XY-plane starts at point <code>(0, 0)</code> facing north. The robot receives an array of integers <code>commands</code>, which represents a sequence of moves that it needs to execute. There are only three possible types of instructions the robot can receive:</p>
+<h2><a href="https://leetcode.com/problems/walking-robot-simulation">874. Walking Robot Simulation</a></h2><h3>Medium</h3><hr><p>A robot on an infinite XY-plane starts at point <code>(0, 0)</code> facing north. The robot receives an array of integers <code>commands</code>, which represents a sequence of moves that it needs to execute. There are only three possible types of instructions the robot can receive:</p>
 
 <ul>
 	<li><code>-2</code>: Turn left <code>90</code> degrees.</li>
