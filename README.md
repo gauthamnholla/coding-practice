@@ -145,6 +145,7 @@
 | [3724-minimum-operations-to-transform-array](https://github.com/gauthamnholla/coding-practice/tree/main/3724-minimum-operations-to-transform-array/) | Medium |
 | [3738-longest-non-decreasing-subarray-after-replacing-at-most-one-element](https://github.com/gauthamnholla/coding-practice/tree/main/3738-longest-non-decreasing-subarray-after-replacing-at-most-one-element/) | Medium |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/gauthamnholla/coding-practice/tree/main/3741-minimum-distance-between-three-equal-elements-ii/) | Medium |
+| [3780-maximum-sum-of-three-numbers-divisible-by-three](https://github.com/gauthamnholla/coding-practice/tree/main/3780-maximum-sum-of-three-numbers-divisible-by-three/) | Medium |
 | [3785-minimum-swaps-to-avoid-forbidden-values](https://github.com/gauthamnholla/coding-practice/tree/main/3785-minimum-swaps-to-avoid-forbidden-values/) | Hard |
 | [3795-minimum-subarray-length-with-distinct-sum-at-least-k](https://github.com/gauthamnholla/coding-practice/tree/main/3795-minimum-subarray-length-with-distinct-sum-at-least-k/) | Medium |
 | [3796-find-maximum-value-in-a-constrained-sequence](https://github.com/gauthamnholla/coding-practice/tree/main/3796-find-maximum-value-in-a-constrained-sequence/) | Medium |
@@ -293,6 +294,7 @@
 | [3474-lexicographically-smallest-generated-string](https://github.com/gauthamnholla/coding-practice/tree/main/3474-lexicographically-smallest-generated-string/) | Hard |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/gauthamnholla/coding-practice/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3724-minimum-operations-to-transform-array](https://github.com/gauthamnholla/coding-practice/tree/main/3724-minimum-operations-to-transform-array/) | Medium |
+| [3780-maximum-sum-of-three-numbers-divisible-by-three](https://github.com/gauthamnholla/coding-practice/tree/main/3780-maximum-sum-of-three-numbers-divisible-by-three/) | Medium |
 | [3785-minimum-swaps-to-avoid-forbidden-values](https://github.com/gauthamnholla/coding-practice/tree/main/3785-minimum-swaps-to-avoid-forbidden-values/) | Hard |
 | [3796-find-maximum-value-in-a-constrained-sequence](https://github.com/gauthamnholla/coding-practice/tree/main/3796-find-maximum-value-in-a-constrained-sequence/) | Medium |
 | [3806-maximum-bitwise-and-after-increment-operations](https://github.com/gauthamnholla/coding-practice/tree/main/3806-maximum-bitwise-and-after-increment-operations/) | Hard |
@@ -509,6 +511,7 @@
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/gauthamnholla/coding-practice/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2530-maximal-score-after-applying-k-operations](https://github.com/gauthamnholla/coding-practice/tree/master/2530-maximal-score-after-applying-k-operations) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/gauthamnholla/coding-practice/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [3780-maximum-sum-of-three-numbers-divisible-by-three](https://github.com/gauthamnholla/coding-practice/tree/main/3780-maximum-sum-of-three-numbers-divisible-by-three/) | Medium |
 ## Brainteaser
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -673,6 +676,7 @@
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/gauthamnholla/coding-practice/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/gauthamnholla/coding-practice/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/gauthamnholla/coding-practice/tree/main/3661-maximum-walls-destroyed-by-robots/) | Hard |
+| [3780-maximum-sum-of-three-numbers-divisible-by-three](https://github.com/gauthamnholla/coding-practice/tree/main/3780-maximum-sum-of-three-numbers-divisible-by-three/) | Medium |
 | [3806-maximum-bitwise-and-after-increment-operations](https://github.com/gauthamnholla/coding-practice/tree/main/3806-maximum-bitwise-and-after-increment-operations/) | Hard |
 | [3814-maximum-capacity-within-budget](https://github.com/gauthamnholla/coding-practice/tree/main/3814-maximum-capacity-within-budget/) | Medium |
 | [3842-toggle-light-bulbs](https://github.com/gauthamnholla/coding-practice/tree/main/3842-toggle-light-bulbs/) | Easy |
