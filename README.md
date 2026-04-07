@@ -550,6 +550,7 @@
 | [0657-robot-return-to-origin](https://github.com/gauthamnholla/coding-practice/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0874-walking-robot-simulation](https://github.com/gauthamnholla/coding-practice/tree/main/0874-walking-robot-simulation/) | Medium |
 | [1583-count-unhappy-friends](https://github.com/gauthamnholla/coding-practice/tree/master/1583-count-unhappy-friends) |
+| [2069-walking-robot-simulation-ii](https://github.com/gauthamnholla/coding-practice/tree/main/2069-walking-robot-simulation-ii/) | Medium |
 | [2075-decode-the-slanted-ciphertext](https://github.com/gauthamnholla/coding-practice/tree/main/2075-decode-the-slanted-ciphertext/) | Medium |
 | [2289-steps-to-make-array-non-decreasing](https://github.com/gauthamnholla/coding-practice/tree/master/2289-steps-to-make-array-non-decreasing) |
 | [2293-min-max-game](https://github.com/gauthamnholla/coding-practice/tree/master/2293-min-max-game) |
@@ -662,6 +663,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1622-fancy-sequence](https://github.com/gauthamnholla/coding-practice/tree/master/1622-fancy-sequence) |
+| [2069-walking-robot-simulation-ii](https://github.com/gauthamnholla/coding-practice/tree/main/2069-walking-robot-simulation-ii/) | Medium |
 ## Ordered Set
 | Problem Name | Difficulty |
 | ------- | ------- |
