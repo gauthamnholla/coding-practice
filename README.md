@@ -151,6 +151,7 @@
 | [3785-minimum-swaps-to-avoid-forbidden-values](https://github.com/gauthamnholla/coding-practice/tree/main/3785-minimum-swaps-to-avoid-forbidden-values/) | Hard |
 | [3795-minimum-subarray-length-with-distinct-sum-at-least-k](https://github.com/gauthamnholla/coding-practice/tree/main/3795-minimum-subarray-length-with-distinct-sum-at-least-k/) | Medium |
 | [3796-find-maximum-value-in-a-constrained-sequence](https://github.com/gauthamnholla/coding-practice/tree/main/3796-find-maximum-value-in-a-constrained-sequence/) | Medium |
+| [3799-word-squares-ii](https://github.com/gauthamnholla/coding-practice/tree/main/3799-word-squares-ii/) | Medium |
 | [3804-number-of-centered-subarrays](https://github.com/gauthamnholla/coding-practice/tree/main/3804-number-of-centered-subarrays/) | Medium |
 | [3806-maximum-bitwise-and-after-increment-operations](https://github.com/gauthamnholla/coding-practice/tree/main/3806-maximum-bitwise-and-after-increment-operations/) | Hard |
 | [3809-best-reachable-tower](https://github.com/gauthamnholla/coding-practice/tree/main/3809-best-reachable-tower/) | Medium |
@@ -362,6 +363,7 @@
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/gauthamnholla/coding-practice/tree/main/3042-count-prefix-and-suffix-pairs-i/) | Easy |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/gauthamnholla/coding-practice/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3474-lexicographically-smallest-generated-string](https://github.com/gauthamnholla/coding-practice/tree/main/3474-lexicographically-smallest-generated-string/) | Hard |
+| [3799-word-squares-ii](https://github.com/gauthamnholla/coding-practice/tree/main/3799-word-squares-ii/) | Medium |
 | [3838-weighted-word-mapping](https://github.com/gauthamnholla/coding-practice/tree/main/3838-weighted-word-mapping/) | Easy |
 | [3839-number-of-prefix-connected-groups](https://github.com/gauthamnholla/coding-practice/tree/main/3839-number-of-prefix-connected-groups/) | Medium |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/gauthamnholla/coding-practice/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
@@ -533,6 +535,7 @@
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/gauthamnholla/coding-practice/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1947-maximum-compatibility-score-sum](https://github.com/gauthamnholla/coding-practice/tree/master/1947-maximum-compatibility-score-sum) |
 | [1980-find-unique-binary-string](https://github.com/gauthamnholla/coding-practice/tree/master/1980-find-unique-binary-string) |
+| [3799-word-squares-ii](https://github.com/gauthamnholla/coding-practice/tree/main/3799-word-squares-ii/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -581,6 +584,7 @@
 | [2778-sum-of-squares-of-special-elements](https://github.com/gauthamnholla/coding-practice/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3546-equal-sum-grid-partition-i](https://github.com/gauthamnholla/coding-practice/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/gauthamnholla/coding-practice/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
+| [3799-word-squares-ii](https://github.com/gauthamnholla/coding-practice/tree/main/3799-word-squares-ii/) | Medium |
 | [3804-number-of-centered-subarrays](https://github.com/gauthamnholla/coding-practice/tree/main/3804-number-of-centered-subarrays/) | Medium |
 | [3825-longest-strictly-increasing-subsequence-with-non-zero-bitwise-and](https://github.com/gauthamnholla/coding-practice/tree/main/3825-longest-strictly-increasing-subsequence-with-non-zero-bitwise-and/) | Medium |
 | [3833-count-dominant-indices](https://github.com/gauthamnholla/coding-practice/tree/master/3833-count-dominant-indices) |
@@ -684,6 +688,7 @@
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/gauthamnholla/coding-practice/tree/main/3661-maximum-walls-destroyed-by-robots/) | Hard |
 | [3776-minimum-moves-to-balance-circular-array](https://github.com/gauthamnholla/coding-practice/tree/main/3776-minimum-moves-to-balance-circular-array/) | Medium |
 | [3780-maximum-sum-of-three-numbers-divisible-by-three](https://github.com/gauthamnholla/coding-practice/tree/main/3780-maximum-sum-of-three-numbers-divisible-by-three/) | Medium |
+| [3799-word-squares-ii](https://github.com/gauthamnholla/coding-practice/tree/main/3799-word-squares-ii/) | Medium |
 | [3806-maximum-bitwise-and-after-increment-operations](https://github.com/gauthamnholla/coding-practice/tree/main/3806-maximum-bitwise-and-after-increment-operations/) | Hard |
 | [3814-maximum-capacity-within-budget](https://github.com/gauthamnholla/coding-practice/tree/main/3814-maximum-capacity-within-budget/) | Medium |
 | [3842-toggle-light-bulbs](https://github.com/gauthamnholla/coding-practice/tree/main/3842-toggle-light-bulbs/) | Easy |
