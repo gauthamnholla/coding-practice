@@ -145,6 +145,7 @@
 | [3724-minimum-operations-to-transform-array](https://github.com/gauthamnholla/coding-practice/tree/main/3724-minimum-operations-to-transform-array/) | Medium |
 | [3738-longest-non-decreasing-subarray-after-replacing-at-most-one-element](https://github.com/gauthamnholla/coding-practice/tree/main/3738-longest-non-decreasing-subarray-after-replacing-at-most-one-element/) | Medium |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/gauthamnholla/coding-practice/tree/main/3741-minimum-distance-between-three-equal-elements-ii/) | Medium |
+| [3768-minimum-inversion-count-in-subarrays-of-fixed-length](https://github.com/gauthamnholla/coding-practice/tree/main/3768-minimum-inversion-count-in-subarrays-of-fixed-length/) | Hard |
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/gauthamnholla/coding-practice/tree/main/3774-absolute-difference-between-maximum-and-minimum-k-elements/) | Easy |
 | [3776-minimum-moves-to-balance-circular-array](https://github.com/gauthamnholla/coding-practice/tree/main/3776-minimum-moves-to-balance-circular-array/) | Medium |
 | [3779-minimum-number-of-operations-to-have-distinct-elements](https://github.com/gauthamnholla/coding-practice/tree/main/3779-minimum-number-of-operations-to-have-distinct-elements/) | Medium |
@@ -427,6 +428,7 @@
 | [2831-find-the-longest-equal-subarray](https://github.com/gauthamnholla/coding-practice/tree/master/2831-find-the-longest-equal-subarray) |
 | [2841-maximum-sum-of-almost-unique-subarray](https://github.com/gauthamnholla/coding-practice/tree/master/2841-maximum-sum-of-almost-unique-subarray) |
 | [2875-minimum-size-subarray-in-infinite-array](https://github.com/gauthamnholla/coding-practice/tree/master/2875-minimum-size-subarray-in-infinite-array) |
+| [3768-minimum-inversion-count-in-subarrays-of-fixed-length](https://github.com/gauthamnholla/coding-practice/tree/main/3768-minimum-inversion-count-in-subarrays-of-fixed-length/) | Hard |
 | [3795-minimum-subarray-length-with-distinct-sum-at-least-k](https://github.com/gauthamnholla/coding-practice/tree/main/3795-minimum-subarray-length-with-distinct-sum-at-least-k/) | Medium |
 | [3845-maximum-subarray-xor-with-bounded-range](https://github.com/gauthamnholla/coding-practice/tree/master/3845-maximum-subarray-xor-with-bounded-range) |
 | [3859-count-subarrays-with-k-distinct-integers](https://github.com/gauthamnholla/coding-practice/tree/main/3859-count-subarrays-with-k-distinct-integers/) | Hard |
@@ -529,6 +531,7 @@
 | [1622-fancy-sequence](https://github.com/gauthamnholla/coding-practice/tree/master/1622-fancy-sequence) |
 | [2407-longest-increasing-subsequence-ii](https://github.com/gauthamnholla/coding-practice/tree/master/2407-longest-increasing-subsequence-ii) |
 | [2569-handling-sum-queries-after-update](https://github.com/gauthamnholla/coding-practice/tree/master/2569-handling-sum-queries-after-update) |
+| [3768-minimum-inversion-count-in-subarrays-of-fixed-length](https://github.com/gauthamnholla/coding-practice/tree/main/3768-minimum-inversion-count-in-subarrays-of-fixed-length/) | Hard |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/gauthamnholla/coding-practice/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 ## Backtracking
 | Problem Name | Difficulty |
