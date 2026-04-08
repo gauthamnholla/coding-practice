@@ -145,6 +145,7 @@
 | [3724-minimum-operations-to-transform-array](https://github.com/gauthamnholla/coding-practice/tree/main/3724-minimum-operations-to-transform-array/) | Medium |
 | [3738-longest-non-decreasing-subarray-after-replacing-at-most-one-element](https://github.com/gauthamnholla/coding-practice/tree/main/3738-longest-non-decreasing-subarray-after-replacing-at-most-one-element/) | Medium |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/gauthamnholla/coding-practice/tree/main/3741-minimum-distance-between-three-equal-elements-ii/) | Medium |
+| [3743-maximize-cyclic-partition-score](https://github.com/gauthamnholla/coding-practice/tree/main/3743-maximize-cyclic-partition-score/) | Hard |
 | [3768-minimum-inversion-count-in-subarrays-of-fixed-length](https://github.com/gauthamnholla/coding-practice/tree/main/3768-minimum-inversion-count-in-subarrays-of-fixed-length/) | Hard |
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/gauthamnholla/coding-practice/tree/main/3774-absolute-difference-between-maximum-and-minimum-k-elements/) | Easy |
 | [3776-minimum-moves-to-balance-circular-array](https://github.com/gauthamnholla/coding-practice/tree/main/3776-minimum-moves-to-balance-circular-array/) | Medium |
@@ -509,6 +510,7 @@
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/gauthamnholla/coding-practice/tree/main/3661-maximum-walls-destroyed-by-robots/) | Hard |
 | [3693-climbing-stairs-ii](https://github.com/gauthamnholla/coding-practice/tree/main/3693-climbing-stairs-ii/) | Medium |
 | [3738-longest-non-decreasing-subarray-after-replacing-at-most-one-element](https://github.com/gauthamnholla/coding-practice/tree/main/3738-longest-non-decreasing-subarray-after-replacing-at-most-one-element/) | Medium |
+| [3743-maximize-cyclic-partition-score](https://github.com/gauthamnholla/coding-practice/tree/main/3743-maximize-cyclic-partition-score/) | Hard |
 | [3826-minimum-partition-score](https://github.com/gauthamnholla/coding-practice/tree/master/3826-minimum-partition-score) |
 | [3836-maximum-score-using-exactly-k-pairs](https://github.com/gauthamnholla/coding-practice/tree/main/3836-maximum-score-using-exactly-k-pairs/) | Hard |
 | [3840-house-robber-v](https://github.com/gauthamnholla/coding-practice/tree/main/3840-house-robber-v/) | Medium |
