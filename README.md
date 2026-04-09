@@ -195,6 +195,7 @@
 | [3876-construct-uniform-parity-array-ii](https://github.com/gauthamnholla/coding-practice/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
 | [3877-minimum-removals-to-achieve-target-xor](https://github.com/gauthamnholla/coding-practice/tree/main/3877-minimum-removals-to-achieve-target-xor/) | Medium |
 | [3878-count-good-subarrays](https://github.com/gauthamnholla/coding-practice/tree/main/3878-count-good-subarrays/) | Hard |
+| [3891-minimum-increase-to-maximize-special-indices](https://github.com/gauthamnholla/coding-practice/tree/main/3891-minimum-increase-to-maximize-special-indices/) | Medium |
 | [3892-minimum-operations-to-achieve-at-least-k-peaks](https://github.com/gauthamnholla/coding-practice/tree/main/3892-minimum-operations-to-achieve-at-least-k-peaks/) | Hard |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -314,6 +315,7 @@
 | [3854-minimum-operations-to-make-array-parity-alternating](https://github.com/gauthamnholla/coding-practice/tree/main/3854-minimum-operations-to-make-array-parity-alternating/) | Medium |
 | [3858-minimum-bitwise-or-from-grid](https://github.com/gauthamnholla/coding-practice/tree/main/3858-minimum-bitwise-or-from-grid/) | Medium |
 | [3868-minimum-cost-to-equalize-arrays-using-swaps](https://github.com/gauthamnholla/coding-practice/tree/master/3868-minimum-cost-to-equalize-arrays-using-swaps) |
+| [3891-minimum-increase-to-maximize-special-indices](https://github.com/gauthamnholla/coding-practice/tree/main/3891-minimum-increase-to-maximize-special-indices/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -520,6 +522,7 @@
 | [3840-house-robber-v](https://github.com/gauthamnholla/coding-practice/tree/main/3840-house-robber-v/) | Medium |
 | [3850-count-sequences-to-k](https://github.com/gauthamnholla/coding-practice/tree/main/3850-count-sequences-to-k/) | Hard |
 | [3877-minimum-removals-to-achieve-target-xor](https://github.com/gauthamnholla/coding-practice/tree/main/3877-minimum-removals-to-achieve-target-xor/) | Medium |
+| [3891-minimum-increase-to-maximize-special-indices](https://github.com/gauthamnholla/coding-practice/tree/main/3891-minimum-increase-to-maximize-special-indices/) | Medium |
 | [3892-minimum-operations-to-achieve-at-least-k-peaks](https://github.com/gauthamnholla/coding-practice/tree/main/3892-minimum-operations-to-achieve-at-least-k-peaks/) | Hard |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
@@ -620,6 +623,7 @@
 | [3826-minimum-partition-score](https://github.com/gauthamnholla/coding-practice/tree/master/3826-minimum-partition-score) |
 | [3845-maximum-subarray-xor-with-bounded-range](https://github.com/gauthamnholla/coding-practice/tree/master/3845-maximum-subarray-xor-with-bounded-range) |
 | [3862-find-the-smallest-balanced-index](https://github.com/gauthamnholla/coding-practice/tree/master/3862-find-the-smallest-balanced-index) |
+| [3891-minimum-increase-to-maximize-special-indices](https://github.com/gauthamnholla/coding-practice/tree/main/3891-minimum-increase-to-maximize-special-indices/) | Medium |
 ## Bitmask
 | Problem Name | Difficulty |
 | ------- | ------- |
