@@ -195,6 +195,7 @@
 | [3876-construct-uniform-parity-array-ii](https://github.com/gauthamnholla/coding-practice/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
 | [3877-minimum-removals-to-achieve-target-xor](https://github.com/gauthamnholla/coding-practice/tree/main/3877-minimum-removals-to-achieve-target-xor/) | Medium |
 | [3878-count-good-subarrays](https://github.com/gauthamnholla/coding-practice/tree/main/3878-count-good-subarrays/) | Hard |
+| [3892-minimum-operations-to-achieve-at-least-k-peaks](https://github.com/gauthamnholla/coding-practice/tree/main/3892-minimum-operations-to-achieve-at-least-k-peaks/) | Hard |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -519,6 +520,7 @@
 | [3840-house-robber-v](https://github.com/gauthamnholla/coding-practice/tree/main/3840-house-robber-v/) | Medium |
 | [3850-count-sequences-to-k](https://github.com/gauthamnholla/coding-practice/tree/main/3850-count-sequences-to-k/) | Hard |
 | [3877-minimum-removals-to-achieve-target-xor](https://github.com/gauthamnholla/coding-practice/tree/main/3877-minimum-removals-to-achieve-target-xor/) | Medium |
+| [3892-minimum-operations-to-achieve-at-least-k-peaks](https://github.com/gauthamnholla/coding-practice/tree/main/3892-minimum-operations-to-achieve-at-least-k-peaks/) | Hard |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
