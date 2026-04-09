@@ -196,6 +196,7 @@
 | [3876-construct-uniform-parity-array-ii](https://github.com/gauthamnholla/coding-practice/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
 | [3877-minimum-removals-to-achieve-target-xor](https://github.com/gauthamnholla/coding-practice/tree/main/3877-minimum-removals-to-achieve-target-xor/) | Medium |
 | [3878-count-good-subarrays](https://github.com/gauthamnholla/coding-practice/tree/main/3878-count-good-subarrays/) | Hard |
+| [3885-design-event-manager](https://github.com/gauthamnholla/coding-practice/tree/main/3885-design-event-manager/) | Medium |
 | [3886-sum-of-sortable-integers](https://github.com/gauthamnholla/coding-practice/tree/main/3886-sum-of-sortable-integers/) | Hard |
 | [3891-minimum-increase-to-maximize-special-indices](https://github.com/gauthamnholla/coding-practice/tree/main/3891-minimum-increase-to-maximize-special-indices/) | Medium |
 | [3892-minimum-operations-to-achieve-at-least-k-peaks](https://github.com/gauthamnholla/coding-practice/tree/main/3892-minimum-operations-to-achieve-at-least-k-peaks/) | Hard |
@@ -259,6 +260,7 @@
 | [3866-first-unique-even-element](https://github.com/gauthamnholla/coding-practice/tree/master/3866-first-unique-even-element) |
 | [3868-minimum-cost-to-equalize-arrays-using-swaps](https://github.com/gauthamnholla/coding-practice/tree/master/3868-minimum-cost-to-equalize-arrays-using-swaps) |
 | [3873-maximum-points-activated-with-one-addition](https://github.com/gauthamnholla/coding-practice/tree/master/3873-maximum-points-activated-with-one-addition) |
+| [3885-design-event-manager](https://github.com/gauthamnholla/coding-practice/tree/main/3885-design-event-manager/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -533,6 +535,7 @@
 | [2530-maximal-score-after-applying-k-operations](https://github.com/gauthamnholla/coding-practice/tree/master/2530-maximal-score-after-applying-k-operations) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/gauthamnholla/coding-practice/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3780-maximum-sum-of-three-numbers-divisible-by-three](https://github.com/gauthamnholla/coding-practice/tree/main/3780-maximum-sum-of-three-numbers-divisible-by-three/) | Medium |
+| [3885-design-event-manager](https://github.com/gauthamnholla/coding-practice/tree/main/3885-design-event-manager/) | Medium |
 ## Brainteaser
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -690,11 +693,13 @@
 | ------- | ------- |
 | [1622-fancy-sequence](https://github.com/gauthamnholla/coding-practice/tree/master/1622-fancy-sequence) |
 | [2069-walking-robot-simulation-ii](https://github.com/gauthamnholla/coding-practice/tree/main/2069-walking-robot-simulation-ii/) | Medium |
+| [3885-design-event-manager](https://github.com/gauthamnholla/coding-practice/tree/main/3885-design-event-manager/) | Medium |
 ## Ordered Set
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2612-minimum-reverse-operations](https://github.com/gauthamnholla/coding-practice/tree/master/2612-minimum-reverse-operations) |
 | [2817-minimum-absolute-difference-between-elements-with-constraint](https://github.com/gauthamnholla/coding-practice/tree/master/2817-minimum-absolute-difference-between-elements-with-constraint) |
+| [3885-design-event-manager](https://github.com/gauthamnholla/coding-practice/tree/main/3885-design-event-manager/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
