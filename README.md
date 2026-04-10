@@ -196,6 +196,7 @@
 | [3876-construct-uniform-parity-array-ii](https://github.com/gauthamnholla/coding-practice/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
 | [3877-minimum-removals-to-achieve-target-xor](https://github.com/gauthamnholla/coding-practice/tree/main/3877-minimum-removals-to-achieve-target-xor/) | Medium |
 | [3878-count-good-subarrays](https://github.com/gauthamnholla/coding-practice/tree/main/3878-count-good-subarrays/) | Hard |
+| [3880-minimum-absolute-difference-between-two-values](https://github.com/gauthamnholla/coding-practice/tree/main/3880-minimum-absolute-difference-between-two-values/) | Easy |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/gauthamnholla/coding-practice/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 | [3883-count-non-decreasing-arrays-with-given-digit-sums](https://github.com/gauthamnholla/coding-practice/tree/main/3883-count-non-decreasing-arrays-with-given-digit-sums/) | Hard |
 | [3885-design-event-manager](https://github.com/gauthamnholla/coding-practice/tree/main/3885-design-event-manager/) | Medium |
@@ -617,6 +618,7 @@
 | [3825-longest-strictly-increasing-subsequence-with-non-zero-bitwise-and](https://github.com/gauthamnholla/coding-practice/tree/main/3825-longest-strictly-increasing-subsequence-with-non-zero-bitwise-and/) | Medium |
 | [3833-count-dominant-indices](https://github.com/gauthamnholla/coding-practice/tree/master/3833-count-dominant-indices) |
 | [3872-longest-arithmetic-sequence-after-changing-at-most-one-element](https://github.com/gauthamnholla/coding-practice/tree/master/3872-longest-arithmetic-sequence-after-changing-at-most-one-element) |
+| [3880-minimum-absolute-difference-between-two-values](https://github.com/gauthamnholla/coding-practice/tree/main/3880-minimum-absolute-difference-between-two-values/) | Easy |
 | [3886-sum-of-sortable-integers](https://github.com/gauthamnholla/coding-practice/tree/main/3886-sum-of-sortable-integers/) | Hard |
 ## Prefix Sum
 | Problem Name | Difficulty |
