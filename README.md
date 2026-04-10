@@ -196,6 +196,7 @@
 | [3876-construct-uniform-parity-array-ii](https://github.com/gauthamnholla/coding-practice/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
 | [3877-minimum-removals-to-achieve-target-xor](https://github.com/gauthamnholla/coding-practice/tree/main/3877-minimum-removals-to-achieve-target-xor/) | Medium |
 | [3878-count-good-subarrays](https://github.com/gauthamnholla/coding-practice/tree/main/3878-count-good-subarrays/) | Hard |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/gauthamnholla/coding-practice/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 | [3883-count-non-decreasing-arrays-with-given-digit-sums](https://github.com/gauthamnholla/coding-practice/tree/main/3883-count-non-decreasing-arrays-with-given-digit-sums/) | Hard |
 | [3885-design-event-manager](https://github.com/gauthamnholla/coding-practice/tree/main/3885-design-event-manager/) | Medium |
 | [3886-sum-of-sortable-integers](https://github.com/gauthamnholla/coding-practice/tree/main/3886-sum-of-sortable-integers/) | Hard |
@@ -340,6 +341,7 @@
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/gauthamnholla/coding-practice/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3643-flip-square-submatrix-vertically](https://github.com/gauthamnholla/coding-practice/tree/master/3643-flip-square-submatrix-vertically) |
 | [3858-minimum-bitwise-or-from-grid](https://github.com/gauthamnholla/coding-practice/tree/main/3858-minimum-bitwise-or-from-grid/) | Medium |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/gauthamnholla/coding-practice/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -419,6 +421,7 @@
 | [3858-minimum-bitwise-or-from-grid](https://github.com/gauthamnholla/coding-practice/tree/main/3858-minimum-bitwise-or-from-grid/) | Medium |
 | [3877-minimum-removals-to-achieve-target-xor](https://github.com/gauthamnholla/coding-practice/tree/main/3877-minimum-removals-to-achieve-target-xor/) | Medium |
 | [3878-count-good-subarrays](https://github.com/gauthamnholla/coding-practice/tree/main/3878-count-good-subarrays/) | Hard |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/gauthamnholla/coding-practice/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -527,6 +530,7 @@
 | [3840-house-robber-v](https://github.com/gauthamnholla/coding-practice/tree/main/3840-house-robber-v/) | Medium |
 | [3850-count-sequences-to-k](https://github.com/gauthamnholla/coding-practice/tree/main/3850-count-sequences-to-k/) | Hard |
 | [3877-minimum-removals-to-achieve-target-xor](https://github.com/gauthamnholla/coding-practice/tree/main/3877-minimum-removals-to-achieve-target-xor/) | Medium |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/gauthamnholla/coding-practice/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 | [3883-count-non-decreasing-arrays-with-given-digit-sums](https://github.com/gauthamnholla/coding-practice/tree/main/3883-count-non-decreasing-arrays-with-given-digit-sums/) | Hard |
 | [3891-minimum-increase-to-maximize-special-indices](https://github.com/gauthamnholla/coding-practice/tree/main/3891-minimum-increase-to-maximize-special-indices/) | Medium |
 | [3892-minimum-operations-to-achieve-at-least-k-peaks](https://github.com/gauthamnholla/coding-practice/tree/main/3892-minimum-operations-to-achieve-at-least-k-peaks/) | Hard |
