@@ -141,6 +141,7 @@
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/gauthamnholla/coding-practice/tree/main/3655-xor-after-range-multiplication-queries-ii/) | Hard |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/gauthamnholla/coding-practice/tree/main/3661-maximum-walls-destroyed-by-robots/) | Hard |
 | [3690-split-and-merge-array-transformation](https://github.com/gauthamnholla/coding-practice/tree/main/3690-split-and-merge-array-transformation/) | Medium |
+| [3691-maximum-total-subarray-value-ii](https://github.com/gauthamnholla/coding-practice/tree/main/3691-maximum-total-subarray-value-ii/) | Hard |
 | [3693-climbing-stairs-ii](https://github.com/gauthamnholla/coding-practice/tree/main/3693-climbing-stairs-ii/) | Medium |
 | [3701-compute-alternating-sum](https://github.com/gauthamnholla/coding-practice/tree/main/3701-compute-alternating-sum/) | Easy |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/gauthamnholla/coding-practice/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
@@ -316,6 +317,7 @@
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/gauthamnholla/coding-practice/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/gauthamnholla/coding-practice/tree/main/3474-lexicographically-smallest-generated-string/) | Hard |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/gauthamnholla/coding-practice/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
+| [3691-maximum-total-subarray-value-ii](https://github.com/gauthamnholla/coding-practice/tree/main/3691-maximum-total-subarray-value-ii/) | Hard |
 | [3724-minimum-operations-to-transform-array](https://github.com/gauthamnholla/coding-practice/tree/main/3724-minimum-operations-to-transform-array/) | Medium |
 | [3776-minimum-moves-to-balance-circular-array](https://github.com/gauthamnholla/coding-practice/tree/main/3776-minimum-moves-to-balance-circular-array/) | Medium |
 | [3780-maximum-sum-of-three-numbers-divisible-by-three](https://github.com/gauthamnholla/coding-practice/tree/main/3780-maximum-sum-of-three-numbers-divisible-by-three/) | Medium |
@@ -547,6 +549,7 @@
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/gauthamnholla/coding-practice/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2530-maximal-score-after-applying-k-operations](https://github.com/gauthamnholla/coding-practice/tree/master/2530-maximal-score-after-applying-k-operations) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/gauthamnholla/coding-practice/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [3691-maximum-total-subarray-value-ii](https://github.com/gauthamnholla/coding-practice/tree/main/3691-maximum-total-subarray-value-ii/) | Hard |
 | [3780-maximum-sum-of-three-numbers-divisible-by-three](https://github.com/gauthamnholla/coding-practice/tree/main/3780-maximum-sum-of-three-numbers-divisible-by-three/) | Medium |
 | [3885-design-event-manager](https://github.com/gauthamnholla/coding-practice/tree/main/3885-design-event-manager/) | Medium |
 ## Brainteaser
@@ -559,6 +562,7 @@
 | [1622-fancy-sequence](https://github.com/gauthamnholla/coding-practice/tree/master/1622-fancy-sequence) |
 | [2407-longest-increasing-subsequence-ii](https://github.com/gauthamnholla/coding-practice/tree/master/2407-longest-increasing-subsequence-ii) |
 | [2569-handling-sum-queries-after-update](https://github.com/gauthamnholla/coding-practice/tree/master/2569-handling-sum-queries-after-update) |
+| [3691-maximum-total-subarray-value-ii](https://github.com/gauthamnholla/coding-practice/tree/main/3691-maximum-total-subarray-value-ii/) | Hard |
 | [3768-minimum-inversion-count-in-subarrays-of-fixed-length](https://github.com/gauthamnholla/coding-practice/tree/main/3768-minimum-inversion-count-in-subarrays-of-fixed-length/) | Hard |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/gauthamnholla/coding-practice/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 ## Backtracking
