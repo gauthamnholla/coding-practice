@@ -140,6 +140,7 @@
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/gauthamnholla/coding-practice/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/gauthamnholla/coding-practice/tree/main/3655-xor-after-range-multiplication-queries-ii/) | Hard |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/gauthamnholla/coding-practice/tree/main/3661-maximum-walls-destroyed-by-robots/) | Hard |
+| [3686-number-of-stable-subsequences](https://github.com/gauthamnholla/coding-practice/tree/main/3686-number-of-stable-subsequences/) | Hard |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/gauthamnholla/coding-practice/tree/main/3688-bitwise-or-of-even-numbers-in-an-array/) | Easy |
 | [3689-maximum-total-subarray-value-i](https://github.com/gauthamnholla/coding-practice/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
 | [3690-split-and-merge-array-transformation](https://github.com/gauthamnholla/coding-practice/tree/main/3690-split-and-merge-array-transformation/) | Medium |
@@ -535,6 +536,7 @@
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/gauthamnholla/coding-practice/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/gauthamnholla/coding-practice/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/gauthamnholla/coding-practice/tree/main/3661-maximum-walls-destroyed-by-robots/) | Hard |
+| [3686-number-of-stable-subsequences](https://github.com/gauthamnholla/coding-practice/tree/main/3686-number-of-stable-subsequences/) | Hard |
 | [3693-climbing-stairs-ii](https://github.com/gauthamnholla/coding-practice/tree/main/3693-climbing-stairs-ii/) | Medium |
 | [3738-longest-non-decreasing-subarray-after-replacing-at-most-one-element](https://github.com/gauthamnholla/coding-practice/tree/main/3738-longest-non-decreasing-subarray-after-replacing-at-most-one-element/) | Medium |
 | [3743-maximize-cyclic-partition-score](https://github.com/gauthamnholla/coding-practice/tree/main/3743-maximize-cyclic-partition-score/) | Hard |
