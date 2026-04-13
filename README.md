@@ -140,6 +140,7 @@
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/gauthamnholla/coding-practice/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/gauthamnholla/coding-practice/tree/main/3655-xor-after-range-multiplication-queries-ii/) | Hard |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/gauthamnholla/coding-practice/tree/main/3661-maximum-walls-destroyed-by-robots/) | Hard |
+| [3683-earliest-time-to-finish-one-task](https://github.com/gauthamnholla/coding-practice/tree/main/3683-earliest-time-to-finish-one-task/) | Easy |
 | [3686-number-of-stable-subsequences](https://github.com/gauthamnholla/coding-practice/tree/main/3686-number-of-stable-subsequences/) | Hard |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/gauthamnholla/coding-practice/tree/main/3688-bitwise-or-of-even-numbers-in-an-array/) | Easy |
 | [3689-maximum-total-subarray-value-i](https://github.com/gauthamnholla/coding-practice/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
