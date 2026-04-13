@@ -140,6 +140,7 @@
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/gauthamnholla/coding-practice/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/gauthamnholla/coding-practice/tree/main/3655-xor-after-range-multiplication-queries-ii/) | Hard |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/gauthamnholla/coding-practice/tree/main/3661-maximum-walls-destroyed-by-robots/) | Hard |
+| [3679-minimum-discards-to-balance-inventory](https://github.com/gauthamnholla/coding-practice/tree/main/3679-minimum-discards-to-balance-inventory/) | Medium |
 | [3683-earliest-time-to-finish-one-task](https://github.com/gauthamnholla/coding-practice/tree/main/3683-earliest-time-to-finish-one-task/) | Easy |
 | [3686-number-of-stable-subsequences](https://github.com/gauthamnholla/coding-practice/tree/main/3686-number-of-stable-subsequences/) | Hard |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/gauthamnholla/coding-practice/tree/main/3688-bitwise-or-of-even-numbers-in-an-array/) | Easy |
@@ -255,6 +256,7 @@
 | [3002-maximum-size-of-a-set-after-removals](https://github.com/gauthamnholla/coding-practice/tree/main/3002-maximum-size-of-a-set-after-removals/) | Medium |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/gauthamnholla/coding-practice/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3548-equal-sum-grid-partition-ii](https://github.com/gauthamnholla/coding-practice/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
+| [3679-minimum-discards-to-balance-inventory](https://github.com/gauthamnholla/coding-practice/tree/main/3679-minimum-discards-to-balance-inventory/) | Medium |
 | [3690-split-and-merge-array-transformation](https://github.com/gauthamnholla/coding-practice/tree/main/3690-split-and-merge-array-transformation/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/gauthamnholla/coding-practice/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/gauthamnholla/coding-practice/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
@@ -287,6 +289,7 @@
 | [2547-minimum-cost-to-split-an-array](https://github.com/gauthamnholla/coding-practice/tree/master/2547-minimum-cost-to-split-an-array) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/gauthamnholla/coding-practice/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/gauthamnholla/coding-practice/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
+| [3679-minimum-discards-to-balance-inventory](https://github.com/gauthamnholla/coding-practice/tree/main/3679-minimum-discards-to-balance-inventory/) | Medium |
 | [3785-minimum-swaps-to-avoid-forbidden-values](https://github.com/gauthamnholla/coding-practice/tree/main/3785-minimum-swaps-to-avoid-forbidden-values/) | Hard |
 | [3839-number-of-prefix-connected-groups](https://github.com/gauthamnholla/coding-practice/tree/main/3839-number-of-prefix-connected-groups/) | Medium |
 | [3843-first-element-with-unique-frequency](https://github.com/gauthamnholla/coding-practice/tree/main/3843-first-element-with-unique-frequency/) | Medium |
@@ -457,6 +460,7 @@
 | [2831-find-the-longest-equal-subarray](https://github.com/gauthamnholla/coding-practice/tree/master/2831-find-the-longest-equal-subarray) |
 | [2841-maximum-sum-of-almost-unique-subarray](https://github.com/gauthamnholla/coding-practice/tree/master/2841-maximum-sum-of-almost-unique-subarray) |
 | [2875-minimum-size-subarray-in-infinite-array](https://github.com/gauthamnholla/coding-practice/tree/master/2875-minimum-size-subarray-in-infinite-array) |
+| [3679-minimum-discards-to-balance-inventory](https://github.com/gauthamnholla/coding-practice/tree/main/3679-minimum-discards-to-balance-inventory/) | Medium |
 | [3768-minimum-inversion-count-in-subarrays-of-fixed-length](https://github.com/gauthamnholla/coding-practice/tree/main/3768-minimum-inversion-count-in-subarrays-of-fixed-length/) | Hard |
 | [3795-minimum-subarray-length-with-distinct-sum-at-least-k](https://github.com/gauthamnholla/coding-practice/tree/main/3795-minimum-subarray-length-with-distinct-sum-at-least-k/) | Medium |
 | [3845-maximum-subarray-xor-with-bounded-range](https://github.com/gauthamnholla/coding-practice/tree/master/3845-maximum-subarray-xor-with-bounded-range) |
@@ -611,6 +615,7 @@
 | [2751-robot-collisions](https://github.com/gauthamnholla/coding-practice/tree/main/2751-robot-collisions/) | Hard |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/gauthamnholla/coding-practice/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/gauthamnholla/coding-practice/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
+| [3679-minimum-discards-to-balance-inventory](https://github.com/gauthamnholla/coding-practice/tree/main/3679-minimum-discards-to-balance-inventory/) | Medium |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/gauthamnholla/coding-practice/tree/main/3688-bitwise-or-of-even-numbers-in-an-array/) | Easy |
 | [3701-compute-alternating-sum](https://github.com/gauthamnholla/coding-practice/tree/main/3701-compute-alternating-sum/) | Easy |
 | [3819-rotate-non-negative-elements](https://github.com/gauthamnholla/coding-practice/tree/master/3819-rotate-non-negative-elements) |
