@@ -43,6 +43,7 @@
 | [2451-odd-string-difference](https://github.com/gauthamnholla/coding-practice/tree/master/2451-odd-string-difference) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/gauthamnholla/coding-practice/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2453-destroy-sequential-targets](https://github.com/gauthamnholla/coding-practice/tree/master/2453-destroy-sequential-targets) |
+| [2463-minimum-total-distance-traveled](https://github.com/gauthamnholla/coding-practice/tree/main/2463-minimum-total-distance-traveled/) | Hard |
 | [2496-maximum-value-of-a-string-in-an-array](https://github.com/gauthamnholla/coding-practice/tree/master/2496-maximum-value-of-a-string-in-an-array) |
 | [2498-frog-jump-ii](https://github.com/gauthamnholla/coding-practice/tree/master/2498-frog-jump-ii) |
 | [2499-minimum-total-cost-to-make-arrays-unequal](https://github.com/gauthamnholla/coding-practice/tree/master/2499-minimum-total-cost-to-make-arrays-unequal) |
@@ -526,6 +527,7 @@
 | [2289-steps-to-make-array-non-decreasing](https://github.com/gauthamnholla/coding-practice/tree/master/2289-steps-to-make-array-non-decreasing) |
 | [2369-check-if-there-is-a-valid-partition-for-the-array](https://github.com/gauthamnholla/coding-practice/tree/master/2369-check-if-there-is-a-valid-partition-for-the-array) |
 | [2407-longest-increasing-subsequence-ii](https://github.com/gauthamnholla/coding-practice/tree/master/2407-longest-increasing-subsequence-ii) |
+| [2463-minimum-total-distance-traveled](https://github.com/gauthamnholla/coding-practice/tree/main/2463-minimum-total-distance-traveled/) | Hard |
 | [2518-number-of-great-partitions](https://github.com/gauthamnholla/coding-practice/tree/master/2518-number-of-great-partitions) |
 | [2547-minimum-cost-to-split-an-array](https://github.com/gauthamnholla/coding-practice/tree/master/2547-minimum-cost-to-split-an-array) |
 | [2560-house-robber-iv](https://github.com/gauthamnholla/coding-practice/tree/master/2560-house-robber-iv) |
@@ -752,6 +754,7 @@
 | ------- | ------- |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/gauthamnholla/coding-practice/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/gauthamnholla/coding-practice/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
+| [2463-minimum-total-distance-traveled](https://github.com/gauthamnholla/coding-practice/tree/main/2463-minimum-total-distance-traveled/) | Hard |
 | [2751-robot-collisions](https://github.com/gauthamnholla/coding-practice/tree/main/2751-robot-collisions/) | Hard |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/gauthamnholla/coding-practice/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/gauthamnholla/coding-practice/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
