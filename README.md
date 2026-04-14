@@ -141,6 +141,7 @@
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/gauthamnholla/coding-practice/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/gauthamnholla/coding-practice/tree/main/3655-xor-after-range-multiplication-queries-ii/) | Hard |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/gauthamnholla/coding-practice/tree/main/3661-maximum-walls-destroyed-by-robots/) | Hard |
+| [3668-restore-finishing-order](https://github.com/gauthamnholla/coding-practice/tree/main/3668-restore-finishing-order/) | Easy |
 | [3678-smallest-absent-positive-greater-than-average](https://github.com/gauthamnholla/coding-practice/tree/main/3678-smallest-absent-positive-greater-than-average/) | Easy |
 | [3679-minimum-discards-to-balance-inventory](https://github.com/gauthamnholla/coding-practice/tree/main/3679-minimum-discards-to-balance-inventory/) | Medium |
 | [3683-earliest-time-to-finish-one-task](https://github.com/gauthamnholla/coding-practice/tree/main/3683-earliest-time-to-finish-one-task/) | Easy |
@@ -258,6 +259,7 @@
 | [3002-maximum-size-of-a-set-after-removals](https://github.com/gauthamnholla/coding-practice/tree/main/3002-maximum-size-of-a-set-after-removals/) | Medium |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/gauthamnholla/coding-practice/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3548-equal-sum-grid-partition-ii](https://github.com/gauthamnholla/coding-practice/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
+| [3668-restore-finishing-order](https://github.com/gauthamnholla/coding-practice/tree/main/3668-restore-finishing-order/) | Easy |
 | [3678-smallest-absent-positive-greater-than-average](https://github.com/gauthamnholla/coding-practice/tree/main/3678-smallest-absent-positive-greater-than-average/) | Easy |
 | [3679-minimum-discards-to-balance-inventory](https://github.com/gauthamnholla/coding-practice/tree/main/3679-minimum-discards-to-balance-inventory/) | Medium |
 | [3690-split-and-merge-array-transformation](https://github.com/gauthamnholla/coding-practice/tree/main/3690-split-and-merge-array-transformation/) | Medium |
