@@ -49,6 +49,7 @@
 | [2499-minimum-total-cost-to-make-arrays-unequal](https://github.com/gauthamnholla/coding-practice/tree/master/2499-minimum-total-cost-to-make-arrays-unequal) |
 | [2506-count-pairs-of-similar-strings](https://github.com/gauthamnholla/coding-practice/tree/master/2506-count-pairs-of-similar-strings) |
 | [2509-cycle-length-queries-in-a-tree](https://github.com/gauthamnholla/coding-practice/tree/master/2509-cycle-length-queries-in-a-tree) |
+| [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/gauthamnholla/coding-practice/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [2518-number-of-great-partitions](https://github.com/gauthamnholla/coding-practice/tree/master/2518-number-of-great-partitions) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/gauthamnholla/coding-practice/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2530-maximal-score-after-applying-k-operations](https://github.com/gauthamnholla/coding-practice/tree/master/2530-maximal-score-after-applying-k-operations) |
@@ -385,6 +386,7 @@
 | [2452-words-within-two-edits-of-dictionary](https://github.com/gauthamnholla/coding-practice/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2496-maximum-value-of-a-string-in-an-array](https://github.com/gauthamnholla/coding-practice/tree/master/2496-maximum-value-of-a-string-in-an-array) |
 | [2506-count-pairs-of-similar-strings](https://github.com/gauthamnholla/coding-practice/tree/master/2506-count-pairs-of-similar-strings) |
+| [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/gauthamnholla/coding-practice/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [2564-substring-xor-queries](https://github.com/gauthamnholla/coding-practice/tree/master/2564-substring-xor-queries) |
 | [2573-find-the-string-with-lcp](https://github.com/gauthamnholla/coding-practice/tree/main/2573-find-the-string-with-lcp/) | Hard |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/gauthamnholla/coding-practice/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
