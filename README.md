@@ -142,6 +142,7 @@
 | [3643-flip-square-submatrix-vertically](https://github.com/gauthamnholla/coding-practice/tree/master/3643-flip-square-submatrix-vertically) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/gauthamnholla/coding-practice/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/gauthamnholla/coding-practice/tree/main/3655-xor-after-range-multiplication-queries-ii/) | Hard |
+| [3660-jump-game-ix](https://github.com/gauthamnholla/coding-practice/tree/main/3660-jump-game-ix/) | Medium |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/gauthamnholla/coding-practice/tree/main/3661-maximum-walls-destroyed-by-robots/) | Hard |
 | [3668-restore-finishing-order](https://github.com/gauthamnholla/coding-practice/tree/main/3668-restore-finishing-order/) | Easy |
 | [3670-maximum-product-of-two-integers-with-no-common-bits](https://github.com/gauthamnholla/coding-practice/tree/main/3670-maximum-product-of-two-integers-with-no-common-bits/) | Medium |
@@ -553,6 +554,7 @@
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/gauthamnholla/coding-practice/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/gauthamnholla/coding-practice/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/gauthamnholla/coding-practice/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
+| [3660-jump-game-ix](https://github.com/gauthamnholla/coding-practice/tree/main/3660-jump-game-ix/) | Medium |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/gauthamnholla/coding-practice/tree/main/3661-maximum-walls-destroyed-by-robots/) | Hard |
 | [3670-maximum-product-of-two-integers-with-no-common-bits](https://github.com/gauthamnholla/coding-practice/tree/main/3670-maximum-product-of-two-integers-with-no-common-bits/) | Medium |
 | [3686-number-of-stable-subsequences](https://github.com/gauthamnholla/coding-practice/tree/main/3686-number-of-stable-subsequences/) | Hard |
