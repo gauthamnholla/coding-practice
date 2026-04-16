@@ -148,6 +148,7 @@
 | [3668-restore-finishing-order](https://github.com/gauthamnholla/coding-practice/tree/main/3668-restore-finishing-order/) | Easy |
 | [3670-maximum-product-of-two-integers-with-no-common-bits](https://github.com/gauthamnholla/coding-practice/tree/main/3670-maximum-product-of-two-integers-with-no-common-bits/) | Medium |
 | [3674-minimum-operations-to-equalize-array](https://github.com/gauthamnholla/coding-practice/tree/main/3674-minimum-operations-to-equalize-array/) | Easy |
+| [3676-count-bowl-subarrays](https://github.com/gauthamnholla/coding-practice/tree/main/3676-count-bowl-subarrays/) | Medium |
 | [3678-smallest-absent-positive-greater-than-average](https://github.com/gauthamnholla/coding-practice/tree/main/3678-smallest-absent-positive-greater-than-average/) | Easy |
 | [3679-minimum-discards-to-balance-inventory](https://github.com/gauthamnholla/coding-practice/tree/main/3679-minimum-discards-to-balance-inventory/) | Medium |
 | [3683-earliest-time-to-finish-one-task](https://github.com/gauthamnholla/coding-practice/tree/main/3683-earliest-time-to-finish-one-task/) | Easy |
@@ -698,6 +699,7 @@
 | [2751-robot-collisions](https://github.com/gauthamnholla/coding-practice/tree/main/2751-robot-collisions/) | Hard |
 | [2865-beautiful-towers-i](https://github.com/gauthamnholla/coding-practice/tree/master/2865-beautiful-towers-i) |
 | [2866-beautiful-towers-ii](https://github.com/gauthamnholla/coding-practice/tree/master/2866-beautiful-towers-ii) |
+| [3676-count-bowl-subarrays](https://github.com/gauthamnholla/coding-practice/tree/main/3676-count-bowl-subarrays/) | Medium |
 | [3834-merge-adjacent-equal-elements](https://github.com/gauthamnholla/coding-practice/tree/main/3834-merge-adjacent-equal-elements/) | Medium |
 | [3878-count-good-subarrays](https://github.com/gauthamnholla/coding-practice/tree/main/3878-count-good-subarrays/) | Hard |
 ## Monotonic Stack
@@ -707,6 +709,7 @@
 | [2289-steps-to-make-array-non-decreasing](https://github.com/gauthamnholla/coding-practice/tree/master/2289-steps-to-make-array-non-decreasing) |
 | [2865-beautiful-towers-i](https://github.com/gauthamnholla/coding-practice/tree/master/2865-beautiful-towers-i) |
 | [2866-beautiful-towers-ii](https://github.com/gauthamnholla/coding-practice/tree/master/2866-beautiful-towers-ii) |
+| [3676-count-bowl-subarrays](https://github.com/gauthamnholla/coding-practice/tree/main/3676-count-bowl-subarrays/) | Medium |
 | [3878-count-good-subarrays](https://github.com/gauthamnholla/coding-practice/tree/main/3878-count-good-subarrays/) | Hard |
 ## Union-Find
 | Problem Name | Difficulty |
