@@ -125,6 +125,7 @@
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/gauthamnholla/coding-practice/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
 | [2901-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/gauthamnholla/coding-practice/tree/master/2901-longest-unequal-adjacent-groups-subsequence-ii) |
 | [2906-construct-product-matrix](https://github.com/gauthamnholla/coding-practice/tree/master/2906-construct-product-matrix) |
+| [2909-minimum-sum-of-mountain-triplets-ii](https://github.com/gauthamnholla/coding-practice/tree/main/2909-minimum-sum-of-mountain-triplets-ii/) | Medium |
 | [2910-minimum-number-of-groups-to-create-a-valid-assignment](https://github.com/gauthamnholla/coding-practice/tree/main/2910-minimum-number-of-groups-to-create-a-valid-assignment/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/gauthamnholla/coding-practice/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [2980-check-if-bitwise-or-has-trailing-zeros](https://github.com/gauthamnholla/coding-practice/tree/main/2980-check-if-bitwise-or-has-trailing-zeros/) | Easy |
