@@ -171,6 +171,7 @@
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/gauthamnholla/coding-practice/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/gauthamnholla/coding-practice/tree/main/3741-minimum-distance-between-three-equal-elements-ii/) | Medium |
 | [3743-maximize-cyclic-partition-score](https://github.com/gauthamnholla/coding-practice/tree/main/3743-maximize-cyclic-partition-score/) | Hard |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/gauthamnholla/coding-practice/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 | [3768-minimum-inversion-count-in-subarrays-of-fixed-length](https://github.com/gauthamnholla/coding-practice/tree/main/3768-minimum-inversion-count-in-subarrays-of-fixed-length/) | Hard |
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/gauthamnholla/coding-practice/tree/main/3774-absolute-difference-between-maximum-and-minimum-k-elements/) | Easy |
 | [3776-minimum-moves-to-balance-circular-array](https://github.com/gauthamnholla/coding-practice/tree/main/3776-minimum-moves-to-balance-circular-array/) | Medium |
@@ -280,6 +281,7 @@
 | [3718-smallest-missing-multiple-of-k](https://github.com/gauthamnholla/coding-practice/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/gauthamnholla/coding-practice/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/gauthamnholla/coding-practice/tree/main/3741-minimum-distance-between-three-equal-elements-ii/) | Medium |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/gauthamnholla/coding-practice/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 | [3779-minimum-number-of-operations-to-have-distinct-elements](https://github.com/gauthamnholla/coding-practice/tree/main/3779-minimum-number-of-operations-to-have-distinct-elements/) | Medium |
 | [3785-minimum-swaps-to-avoid-forbidden-values](https://github.com/gauthamnholla/coding-practice/tree/main/3785-minimum-swaps-to-avoid-forbidden-values/) | Hard |
 | [3795-minimum-subarray-length-with-distinct-sum-at-least-k](https://github.com/gauthamnholla/coding-practice/tree/main/3795-minimum-subarray-length-with-distinct-sum-at-least-k/) | Medium |
@@ -747,6 +749,7 @@
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/gauthamnholla/coding-practice/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/gauthamnholla/coding-practice/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/gauthamnholla/coding-practice/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/gauthamnholla/coding-practice/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 | [3850-count-sequences-to-k](https://github.com/gauthamnholla/coding-practice/tree/main/3850-count-sequences-to-k/) | Hard |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/gauthamnholla/coding-practice/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3875-construct-uniform-parity-array-i](https://github.com/gauthamnholla/coding-practice/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
