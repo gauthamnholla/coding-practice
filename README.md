@@ -128,6 +128,7 @@
 | [2908-minimum-sum-of-mountain-triplets-i](https://github.com/gauthamnholla/coding-practice/tree/main/2908-minimum-sum-of-mountain-triplets-i/) | Easy |
 | [2909-minimum-sum-of-mountain-triplets-ii](https://github.com/gauthamnholla/coding-practice/tree/main/2909-minimum-sum-of-mountain-triplets-ii/) | Medium |
 | [2910-minimum-number-of-groups-to-create-a-valid-assignment](https://github.com/gauthamnholla/coding-practice/tree/main/2910-minimum-number-of-groups-to-create-a-valid-assignment/) | Medium |
+| [2917-find-the-k-or-of-an-array](https://github.com/gauthamnholla/coding-practice/tree/main/2917-find-the-k-or-of-an-array/) | Easy |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/gauthamnholla/coding-practice/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [2980-check-if-bitwise-or-has-trailing-zeros](https://github.com/gauthamnholla/coding-practice/tree/main/2980-check-if-bitwise-or-has-trailing-zeros/) | Easy |
 | [2997-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/gauthamnholla/coding-practice/tree/main/2997-minimum-number-of-operations-to-make-array-xor-equal-to-k/) | Medium |
@@ -453,6 +454,7 @@
 | [2869-minimum-operations-to-collect-elements](https://github.com/gauthamnholla/coding-practice/tree/master/2869-minimum-operations-to-collect-elements) |
 | [2871-split-array-into-maximum-number-of-subarrays](https://github.com/gauthamnholla/coding-practice/tree/master/2871-split-array-into-maximum-number-of-subarrays) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/gauthamnholla/coding-practice/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [2917-find-the-k-or-of-an-array](https://github.com/gauthamnholla/coding-practice/tree/main/2917-find-the-k-or-of-an-array/) | Easy |
 | [2980-check-if-bitwise-or-has-trailing-zeros](https://github.com/gauthamnholla/coding-practice/tree/main/2980-check-if-bitwise-or-has-trailing-zeros/) | Easy |
 | [2997-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/gauthamnholla/coding-practice/tree/main/2997-minimum-number-of-operations-to-make-array-xor-equal-to-k/) | Medium |
 | [3670-maximum-product-of-two-integers-with-no-common-bits](https://github.com/gauthamnholla/coding-practice/tree/main/3670-maximum-product-of-two-integers-with-no-common-bits/) | Medium |
