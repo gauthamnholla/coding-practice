@@ -128,6 +128,7 @@
 | [2908-minimum-sum-of-mountain-triplets-i](https://github.com/gauthamnholla/coding-practice/tree/main/2908-minimum-sum-of-mountain-triplets-i/) | Easy |
 | [2909-minimum-sum-of-mountain-triplets-ii](https://github.com/gauthamnholla/coding-practice/tree/main/2909-minimum-sum-of-mountain-triplets-ii/) | Medium |
 | [2910-minimum-number-of-groups-to-create-a-valid-assignment](https://github.com/gauthamnholla/coding-practice/tree/main/2910-minimum-number-of-groups-to-create-a-valid-assignment/) | Medium |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/gauthamnholla/coding-practice/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [2917-find-the-k-or-of-an-array](https://github.com/gauthamnholla/coding-practice/tree/main/2917-find-the-k-or-of-an-array/) | Easy |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/gauthamnholla/coding-practice/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [2980-check-if-bitwise-or-has-trailing-zeros](https://github.com/gauthamnholla/coding-practice/tree/main/2980-check-if-bitwise-or-has-trailing-zeros/) | Easy |
@@ -271,6 +272,7 @@
 | [2875-minimum-size-subarray-in-infinite-array](https://github.com/gauthamnholla/coding-practice/tree/master/2875-minimum-size-subarray-in-infinite-array) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/gauthamnholla/coding-practice/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2910-minimum-number-of-groups-to-create-a-valid-assignment](https://github.com/gauthamnholla/coding-practice/tree/main/2910-minimum-number-of-groups-to-create-a-valid-assignment/) | Medium |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/gauthamnholla/coding-practice/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [3002-maximum-size-of-a-set-after-removals](https://github.com/gauthamnholla/coding-practice/tree/main/3002-maximum-size-of-a-set-after-removals/) | Medium |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/gauthamnholla/coding-practice/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3488-closest-equal-element-queries](https://github.com/gauthamnholla/coding-practice/tree/main/3488-closest-equal-element-queries/) | Medium |
