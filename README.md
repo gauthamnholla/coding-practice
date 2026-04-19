@@ -11,6 +11,7 @@
 | [1620-coordinate-with-maximum-network-quality](https://github.com/gauthamnholla/coding-practice/tree/master/1620-coordinate-with-maximum-network-quality) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/gauthamnholla/coding-practice/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/gauthamnholla/coding-practice/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/gauthamnholla/coding-practice/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/gauthamnholla/coding-practice/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/gauthamnholla/coding-practice/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1928-minimum-cost-to-reach-destination-in-time](https://github.com/gauthamnholla/coding-practice/tree/master/1928-minimum-cost-to-reach-destination-in-time) |
@@ -512,6 +513,7 @@
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/gauthamnholla/coding-practice/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [1964-find-the-longest-valid-obstacle-course-at-each-position](https://github.com/gauthamnholla/coding-practice/tree/master/1964-find-the-longest-valid-obstacle-course-at-each-position) |
 | [2498-frog-jump-ii](https://github.com/gauthamnholla/coding-practice/tree/master/2498-frog-jump-ii) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/gauthamnholla/coding-practice/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
@@ -815,6 +817,7 @@
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/gauthamnholla/coding-practice/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [3643-flip-square-submatrix-vertically](https://github.com/gauthamnholla/coding-practice/tree/master/3643-flip-square-submatrix-vertically) |
 | [3814-maximum-capacity-within-budget](https://github.com/gauthamnholla/coding-practice/tree/main/3814-maximum-capacity-within-budget/) | Medium |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/gauthamnholla/coding-practice/tree/master/3867-sum-of-gcd-of-formed-pairs) |
