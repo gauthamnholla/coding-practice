@@ -146,6 +146,7 @@
 | [3546-equal-sum-grid-partition-i](https://github.com/gauthamnholla/coding-practice/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/gauthamnholla/coding-practice/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/gauthamnholla/coding-practice/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
+| [3624-number-of-integers-with-popcount-depth-equal-to-k-ii](https://github.com/gauthamnholla/coding-practice/tree/main/3624-number-of-integers-with-popcount-depth-equal-to-k-ii/) | Hard |
 | [3639-minimum-time-to-activate-string](https://github.com/gauthamnholla/coding-practice/tree/main/3639-minimum-time-to-activate-string/) | Medium |
 | [3643-flip-square-submatrix-vertically](https://github.com/gauthamnholla/coding-practice/tree/master/3643-flip-square-submatrix-vertically) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/gauthamnholla/coding-practice/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
@@ -613,6 +614,7 @@
 | [2407-longest-increasing-subsequence-ii](https://github.com/gauthamnholla/coding-practice/tree/master/2407-longest-increasing-subsequence-ii) |
 | [2569-handling-sum-queries-after-update](https://github.com/gauthamnholla/coding-practice/tree/master/2569-handling-sum-queries-after-update) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/gauthamnholla/coding-practice/tree/main/2916-subarrays-distinct-element-sum-of-squares-ii/) | Hard |
+| [3624-number-of-integers-with-popcount-depth-equal-to-k-ii](https://github.com/gauthamnholla/coding-practice/tree/main/3624-number-of-integers-with-popcount-depth-equal-to-k-ii/) | Hard |
 | [3691-maximum-total-subarray-value-ii](https://github.com/gauthamnholla/coding-practice/tree/main/3691-maximum-total-subarray-value-ii/) | Hard |
 | [3768-minimum-inversion-count-in-subarrays-of-fixed-length](https://github.com/gauthamnholla/coding-practice/tree/main/3768-minimum-inversion-count-in-subarrays-of-fixed-length/) | Hard |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/gauthamnholla/coding-practice/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
@@ -627,6 +629,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2407-longest-increasing-subsequence-ii](https://github.com/gauthamnholla/coding-practice/tree/master/2407-longest-increasing-subsequence-ii) |
+| [3624-number-of-integers-with-popcount-depth-equal-to-k-ii](https://github.com/gauthamnholla/coding-practice/tree/main/3624-number-of-integers-with-popcount-depth-equal-to-k-ii/) | Hard |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/gauthamnholla/coding-practice/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/gauthamnholla/coding-practice/tree/main/3655-xor-after-range-multiplication-queries-ii/) | Hard |
 | [3826-minimum-partition-score](https://github.com/gauthamnholla/coding-practice/tree/master/3826-minimum-partition-score) |
@@ -637,6 +640,7 @@
 | [1964-find-the-longest-valid-obstacle-course-at-each-position](https://github.com/gauthamnholla/coding-practice/tree/master/1964-find-the-longest-valid-obstacle-course-at-each-position) |
 | [2407-longest-increasing-subsequence-ii](https://github.com/gauthamnholla/coding-practice/tree/master/2407-longest-increasing-subsequence-ii) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/gauthamnholla/coding-practice/tree/main/2916-subarrays-distinct-element-sum-of-squares-ii/) | Hard |
+| [3624-number-of-integers-with-popcount-depth-equal-to-k-ii](https://github.com/gauthamnholla/coding-practice/tree/main/3624-number-of-integers-with-popcount-depth-equal-to-k-ii/) | Hard |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
