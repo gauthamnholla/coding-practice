@@ -147,6 +147,7 @@
 | [3546-equal-sum-grid-partition-i](https://github.com/gauthamnholla/coding-practice/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/gauthamnholla/coding-practice/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/gauthamnholla/coding-practice/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
+| [3587-minimum-adjacent-swaps-to-alternate-parity](https://github.com/gauthamnholla/coding-practice/tree/main/3587-minimum-adjacent-swaps-to-alternate-parity/) | Medium |
 | [3592-inverse-coin-change](https://github.com/gauthamnholla/coding-practice/tree/main/3592-inverse-coin-change/) | Medium |
 | [3598-longest-common-prefix-between-adjacent-strings-after-removals](https://github.com/gauthamnholla/coding-practice/tree/main/3598-longest-common-prefix-between-adjacent-strings-after-removals/) | Medium |
 | [3624-number-of-integers-with-popcount-depth-equal-to-k-ii](https://github.com/gauthamnholla/coding-practice/tree/main/3624-number-of-integers-with-popcount-depth-equal-to-k-ii/) | Hard |
@@ -355,6 +356,7 @@
 | [3002-maximum-size-of-a-set-after-removals](https://github.com/gauthamnholla/coding-practice/tree/main/3002-maximum-size-of-a-set-after-removals/) | Medium |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/gauthamnholla/coding-practice/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/gauthamnholla/coding-practice/tree/main/3474-lexicographically-smallest-generated-string/) | Hard |
+| [3587-minimum-adjacent-swaps-to-alternate-parity](https://github.com/gauthamnholla/coding-practice/tree/main/3587-minimum-adjacent-swaps-to-alternate-parity/) | Medium |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/gauthamnholla/coding-practice/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3689-maximum-total-subarray-value-i](https://github.com/gauthamnholla/coding-practice/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
 | [3691-maximum-total-subarray-value-ii](https://github.com/gauthamnholla/coding-practice/tree/main/3691-maximum-total-subarray-value-ii/) | Hard |
