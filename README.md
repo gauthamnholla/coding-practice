@@ -146,6 +146,7 @@
 | [3488-closest-equal-element-queries](https://github.com/gauthamnholla/coding-practice/tree/main/3488-closest-equal-element-queries/) | Medium |
 | [3546-equal-sum-grid-partition-i](https://github.com/gauthamnholla/coding-practice/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/gauthamnholla/coding-practice/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
+| [3566-partition-array-into-two-equal-product-subsets](https://github.com/gauthamnholla/coding-practice/tree/main/3566-partition-array-into-two-equal-product-subsets/) | Medium |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/gauthamnholla/coding-practice/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3576-transform-array-to-all-equal-elements](https://github.com/gauthamnholla/coding-practice/tree/main/3576-transform-array-to-all-equal-elements/) | Medium |
 | [3587-minimum-adjacent-swaps-to-alternate-parity](https://github.com/gauthamnholla/coding-practice/tree/main/3587-minimum-adjacent-swaps-to-alternate-parity/) | Medium |
@@ -469,6 +470,7 @@
 | [2917-find-the-k-or-of-an-array](https://github.com/gauthamnholla/coding-practice/tree/main/2917-find-the-k-or-of-an-array/) | Easy |
 | [2980-check-if-bitwise-or-has-trailing-zeros](https://github.com/gauthamnholla/coding-practice/tree/main/2980-check-if-bitwise-or-has-trailing-zeros/) | Easy |
 | [2997-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/gauthamnholla/coding-practice/tree/main/2997-minimum-number-of-operations-to-make-array-xor-equal-to-k/) | Medium |
+| [3566-partition-array-into-two-equal-product-subsets](https://github.com/gauthamnholla/coding-practice/tree/main/3566-partition-array-into-two-equal-product-subsets/) | Medium |
 | [3670-maximum-product-of-two-integers-with-no-common-bits](https://github.com/gauthamnholla/coding-practice/tree/main/3670-maximum-product-of-two-integers-with-no-common-bits/) | Medium |
 | [3674-minimum-operations-to-equalize-array](https://github.com/gauthamnholla/coding-practice/tree/main/3674-minimum-operations-to-equalize-array/) | Easy |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/gauthamnholla/coding-practice/tree/main/3688-bitwise-or-of-even-numbers-in-an-array/) | Easy |
@@ -691,6 +693,7 @@
 | [2778-sum-of-squares-of-special-elements](https://github.com/gauthamnholla/coding-practice/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3546-equal-sum-grid-partition-i](https://github.com/gauthamnholla/coding-practice/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/gauthamnholla/coding-practice/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
+| [3566-partition-array-into-two-equal-product-subsets](https://github.com/gauthamnholla/coding-practice/tree/main/3566-partition-array-into-two-equal-product-subsets/) | Medium |
 | [3799-word-squares-ii](https://github.com/gauthamnholla/coding-practice/tree/main/3799-word-squares-ii/) | Medium |
 | [3804-number-of-centered-subarrays](https://github.com/gauthamnholla/coding-practice/tree/main/3804-number-of-centered-subarrays/) | Medium |
 | [3825-longest-strictly-increasing-subsequence-with-non-zero-bitwise-and](https://github.com/gauthamnholla/coding-practice/tree/main/3825-longest-strictly-increasing-subsequence-with-non-zero-bitwise-and/) | Medium |
@@ -848,4 +851,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/gauthamnholla/coding-practice/tree/main/3042-count-prefix-and-suffix-pairs-i/) | Easy |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3566-partition-array-into-two-equal-product-subsets](https://github.com/gauthamnholla/coding-practice/tree/main/3566-partition-array-into-two-equal-product-subsets/) | Medium |
 <!---LeetCode Topics End-->
