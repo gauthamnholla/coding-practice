@@ -145,6 +145,7 @@
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/gauthamnholla/coding-practice/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/gauthamnholla/coding-practice/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
 | [3488-closest-equal-element-queries](https://github.com/gauthamnholla/coding-practice/tree/main/3488-closest-equal-element-queries/) | Medium |
+| [3522-calculate-score-after-performing-instructions](https://github.com/gauthamnholla/coding-practice/tree/main/3522-calculate-score-after-performing-instructions/) | Medium |
 | [3523-make-array-non-decreasing](https://github.com/gauthamnholla/coding-practice/tree/main/3523-make-array-non-decreasing/) | Medium |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/gauthamnholla/coding-practice/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3533-concatenated-divisibility](https://github.com/gauthamnholla/coding-practice/tree/main/3533-concatenated-divisibility/) | Hard |
@@ -288,6 +289,7 @@
 | [3002-maximum-size-of-a-set-after-removals](https://github.com/gauthamnholla/coding-practice/tree/main/3002-maximum-size-of-a-set-after-removals/) | Medium |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/gauthamnholla/coding-practice/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3488-closest-equal-element-queries](https://github.com/gauthamnholla/coding-practice/tree/main/3488-closest-equal-element-queries/) | Medium |
+| [3522-calculate-score-after-performing-instructions](https://github.com/gauthamnholla/coding-practice/tree/main/3522-calculate-score-after-performing-instructions/) | Medium |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/gauthamnholla/coding-practice/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3548-equal-sum-grid-partition-ii](https://github.com/gauthamnholla/coding-practice/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
 | [3659-partition-array-into-k-distinct-groups](https://github.com/gauthamnholla/coding-practice/tree/main/3659-partition-array-into-k-distinct-groups/) | Medium |
@@ -440,6 +442,7 @@
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/gauthamnholla/coding-practice/tree/main/3042-count-prefix-and-suffix-pairs-i/) | Easy |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/gauthamnholla/coding-practice/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3474-lexicographically-smallest-generated-string](https://github.com/gauthamnholla/coding-practice/tree/main/3474-lexicographically-smallest-generated-string/) | Hard |
+| [3522-calculate-score-after-performing-instructions](https://github.com/gauthamnholla/coding-practice/tree/main/3522-calculate-score-after-performing-instructions/) | Medium |
 | [3598-longest-common-prefix-between-adjacent-strings-after-removals](https://github.com/gauthamnholla/coding-practice/tree/main/3598-longest-common-prefix-between-adjacent-strings-after-removals/) | Medium |
 | [3799-word-squares-ii](https://github.com/gauthamnholla/coding-practice/tree/main/3799-word-squares-ii/) | Medium |
 | [3838-weighted-word-mapping](https://github.com/gauthamnholla/coding-practice/tree/main/3838-weighted-word-mapping/) | Easy |
@@ -681,6 +684,7 @@
 | [2744-find-maximum-number-of-string-pairs](https://github.com/gauthamnholla/coding-practice/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2751-robot-collisions](https://github.com/gauthamnholla/coding-practice/tree/main/2751-robot-collisions/) | Hard |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/gauthamnholla/coding-practice/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
+| [3522-calculate-score-after-performing-instructions](https://github.com/gauthamnholla/coding-practice/tree/main/3522-calculate-score-after-performing-instructions/) | Medium |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/gauthamnholla/coding-practice/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
 | [3679-minimum-discards-to-balance-inventory](https://github.com/gauthamnholla/coding-practice/tree/main/3679-minimum-discards-to-balance-inventory/) | Medium |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/gauthamnholla/coding-practice/tree/main/3688-bitwise-or-of-even-numbers-in-an-array/) | Easy |
