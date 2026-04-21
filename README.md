@@ -145,6 +145,7 @@
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/gauthamnholla/coding-practice/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/gauthamnholla/coding-practice/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
 | [3488-closest-equal-element-queries](https://github.com/gauthamnholla/coding-practice/tree/main/3488-closest-equal-element-queries/) | Medium |
+| [3523-make-array-non-decreasing](https://github.com/gauthamnholla/coding-practice/tree/main/3523-make-array-non-decreasing/) | Medium |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/gauthamnholla/coding-practice/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3533-concatenated-divisibility](https://github.com/gauthamnholla/coding-practice/tree/main/3533-concatenated-divisibility/) | Hard |
 | [3546-equal-sum-grid-partition-i](https://github.com/gauthamnholla/coding-practice/tree/master/3546-equal-sum-grid-partition-i) |
@@ -363,6 +364,7 @@
 | [3002-maximum-size-of-a-set-after-removals](https://github.com/gauthamnholla/coding-practice/tree/main/3002-maximum-size-of-a-set-after-removals/) | Medium |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/gauthamnholla/coding-practice/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/gauthamnholla/coding-practice/tree/main/3474-lexicographically-smallest-generated-string/) | Hard |
+| [3523-make-array-non-decreasing](https://github.com/gauthamnholla/coding-practice/tree/main/3523-make-array-non-decreasing/) | Medium |
 | [3576-transform-array-to-all-equal-elements](https://github.com/gauthamnholla/coding-practice/tree/main/3576-transform-array-to-all-equal-elements/) | Medium |
 | [3587-minimum-adjacent-swaps-to-alternate-parity](https://github.com/gauthamnholla/coding-practice/tree/main/3587-minimum-adjacent-swaps-to-alternate-parity/) | Medium |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/gauthamnholla/coding-practice/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
@@ -745,6 +747,7 @@
 | [2751-robot-collisions](https://github.com/gauthamnholla/coding-practice/tree/main/2751-robot-collisions/) | Hard |
 | [2865-beautiful-towers-i](https://github.com/gauthamnholla/coding-practice/tree/master/2865-beautiful-towers-i) |
 | [2866-beautiful-towers-ii](https://github.com/gauthamnholla/coding-practice/tree/master/2866-beautiful-towers-ii) |
+| [3523-make-array-non-decreasing](https://github.com/gauthamnholla/coding-practice/tree/main/3523-make-array-non-decreasing/) | Medium |
 | [3676-count-bowl-subarrays](https://github.com/gauthamnholla/coding-practice/tree/main/3676-count-bowl-subarrays/) | Medium |
 | [3834-merge-adjacent-equal-elements](https://github.com/gauthamnholla/coding-practice/tree/main/3834-merge-adjacent-equal-elements/) | Medium |
 | [3878-count-good-subarrays](https://github.com/gauthamnholla/coding-practice/tree/main/3878-count-good-subarrays/) | Hard |
@@ -755,6 +758,7 @@
 | [2289-steps-to-make-array-non-decreasing](https://github.com/gauthamnholla/coding-practice/tree/master/2289-steps-to-make-array-non-decreasing) |
 | [2865-beautiful-towers-i](https://github.com/gauthamnholla/coding-practice/tree/master/2865-beautiful-towers-i) |
 | [2866-beautiful-towers-ii](https://github.com/gauthamnholla/coding-practice/tree/master/2866-beautiful-towers-ii) |
+| [3523-make-array-non-decreasing](https://github.com/gauthamnholla/coding-practice/tree/main/3523-make-array-non-decreasing/) | Medium |
 | [3676-count-bowl-subarrays](https://github.com/gauthamnholla/coding-practice/tree/main/3676-count-bowl-subarrays/) | Medium |
 | [3878-count-good-subarrays](https://github.com/gauthamnholla/coding-practice/tree/main/3878-count-good-subarrays/) | Hard |
 ## Union-Find
