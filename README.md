@@ -9,6 +9,7 @@
 | [1583-count-unhappy-friends](https://github.com/gauthamnholla/coding-practice/tree/master/1583-count-unhappy-friends) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/gauthamnholla/coding-practice/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1620-coordinate-with-maximum-network-quality](https://github.com/gauthamnholla/coding-practice/tree/master/1620-coordinate-with-maximum-network-quality) |
+| [1722-minimize-hamming-distance-after-swap-operations](https://github.com/gauthamnholla/coding-practice/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/gauthamnholla/coding-practice/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/gauthamnholla/coding-practice/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/gauthamnholla/coding-practice/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
@@ -768,6 +769,7 @@
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1722-minimize-hamming-distance-after-swap-operations](https://github.com/gauthamnholla/coding-practice/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
 | [2573-find-the-string-with-lcp](https://github.com/gauthamnholla/coding-practice/tree/main/2573-find-the-string-with-lcp/) | Hard |
 | [2612-minimum-reverse-operations](https://github.com/gauthamnholla/coding-practice/tree/master/2612-minimum-reverse-operations) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/gauthamnholla/coding-practice/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
@@ -816,6 +818,7 @@
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1722-minimize-hamming-distance-after-swap-operations](https://github.com/gauthamnholla/coding-practice/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
 | [2846-minimum-edge-weight-equilibrium-queries-in-a-tree](https://github.com/gauthamnholla/coding-practice/tree/master/2846-minimum-edge-weight-equilibrium-queries-in-a-tree) |
 ## Sorting
 | Problem Name | Difficulty |
