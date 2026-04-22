@@ -146,6 +146,7 @@
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/gauthamnholla/coding-practice/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/gauthamnholla/coding-practice/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
 | [3488-closest-equal-element-queries](https://github.com/gauthamnholla/coding-practice/tree/main/3488-closest-equal-element-queries/) | Medium |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/gauthamnholla/coding-practice/tree/main/3501-maximize-active-section-with-trade-ii/) | Hard |
 | [3502-minimum-cost-to-reach-every-position](https://github.com/gauthamnholla/coding-practice/tree/main/3502-minimum-cost-to-reach-every-position/) | Easy |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/gauthamnholla/coding-practice/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 | [3509-maximum-product-of-subsequences-with-an-alternating-sum-equal-to-k](https://github.com/gauthamnholla/coding-practice/tree/main/3509-maximum-product-of-subsequences-with-an-alternating-sum-equal-to-k/) | Hard |
@@ -448,6 +449,7 @@
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/gauthamnholla/coding-practice/tree/main/3042-count-prefix-and-suffix-pairs-i/) | Easy |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/gauthamnholla/coding-practice/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3474-lexicographically-smallest-generated-string](https://github.com/gauthamnholla/coding-practice/tree/main/3474-lexicographically-smallest-generated-string/) | Hard |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/gauthamnholla/coding-practice/tree/main/3501-maximize-active-section-with-trade-ii/) | Hard |
 | [3522-calculate-score-after-performing-instructions](https://github.com/gauthamnholla/coding-practice/tree/main/3522-calculate-score-after-performing-instructions/) | Medium |
 | [3598-longest-common-prefix-between-adjacent-strings-after-removals](https://github.com/gauthamnholla/coding-practice/tree/main/3598-longest-common-prefix-between-adjacent-strings-after-removals/) | Medium |
 | [3799-word-squares-ii](https://github.com/gauthamnholla/coding-practice/tree/main/3799-word-squares-ii/) | Medium |
@@ -550,6 +552,7 @@
 | [2861-maximum-number-of-alloys](https://github.com/gauthamnholla/coding-practice/tree/master/2861-maximum-number-of-alloys) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/gauthamnholla/coding-practice/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3488-closest-equal-element-queries](https://github.com/gauthamnholla/coding-practice/tree/main/3488-closest-equal-element-queries/) | Medium |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/gauthamnholla/coding-practice/tree/main/3501-maximize-active-section-with-trade-ii/) | Hard |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/gauthamnholla/coding-practice/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/gauthamnholla/coding-practice/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3639-minimum-time-to-activate-string](https://github.com/gauthamnholla/coding-practice/tree/main/3639-minimum-time-to-activate-string/) | Medium |
@@ -649,6 +652,7 @@
 | [2407-longest-increasing-subsequence-ii](https://github.com/gauthamnholla/coding-practice/tree/master/2407-longest-increasing-subsequence-ii) |
 | [2569-handling-sum-queries-after-update](https://github.com/gauthamnholla/coding-practice/tree/master/2569-handling-sum-queries-after-update) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/gauthamnholla/coding-practice/tree/main/2916-subarrays-distinct-element-sum-of-squares-ii/) | Hard |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/gauthamnholla/coding-practice/tree/main/3501-maximize-active-section-with-trade-ii/) | Hard |
 | [3624-number-of-integers-with-popcount-depth-equal-to-k-ii](https://github.com/gauthamnholla/coding-practice/tree/main/3624-number-of-integers-with-popcount-depth-equal-to-k-ii/) | Hard |
 | [3691-maximum-total-subarray-value-ii](https://github.com/gauthamnholla/coding-practice/tree/main/3691-maximum-total-subarray-value-ii/) | Hard |
 | [3768-minimum-inversion-count-in-subarrays-of-fixed-length](https://github.com/gauthamnholla/coding-practice/tree/main/3768-minimum-inversion-count-in-subarrays-of-fixed-length/) | Hard |
