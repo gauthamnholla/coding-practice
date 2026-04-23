@@ -152,6 +152,7 @@
 | [3509-maximum-product-of-subsequences-with-an-alternating-sum-equal-to-k](https://github.com/gauthamnholla/coding-practice/tree/main/3509-maximum-product-of-subsequences-with-an-alternating-sum-equal-to-k/) | Hard |
 | [3522-calculate-score-after-performing-instructions](https://github.com/gauthamnholla/coding-practice/tree/main/3522-calculate-score-after-performing-instructions/) | Medium |
 | [3523-make-array-non-decreasing](https://github.com/gauthamnholla/coding-practice/tree/main/3523-make-array-non-decreasing/) | Medium |
+| [3525-find-x-value-of-array-ii](https://github.com/gauthamnholla/coding-practice/tree/main/3525-find-x-value-of-array-ii/) | Hard |
 | [3527-find-the-most-common-response](https://github.com/gauthamnholla/coding-practice/tree/main/3527-find-the-most-common-response/) | Medium |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/gauthamnholla/coding-practice/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3533-concatenated-divisibility](https://github.com/gauthamnholla/coding-practice/tree/main/3533-concatenated-divisibility/) | Hard |
@@ -657,6 +658,7 @@
 | [2569-handling-sum-queries-after-update](https://github.com/gauthamnholla/coding-practice/tree/master/2569-handling-sum-queries-after-update) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/gauthamnholla/coding-practice/tree/main/2916-subarrays-distinct-element-sum-of-squares-ii/) | Hard |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/gauthamnholla/coding-practice/tree/main/3501-maximize-active-section-with-trade-ii/) | Hard |
+| [3525-find-x-value-of-array-ii](https://github.com/gauthamnholla/coding-practice/tree/main/3525-find-x-value-of-array-ii/) | Hard |
 | [3624-number-of-integers-with-popcount-depth-equal-to-k-ii](https://github.com/gauthamnholla/coding-practice/tree/main/3624-number-of-integers-with-popcount-depth-equal-to-k-ii/) | Hard |
 | [3691-maximum-total-subarray-value-ii](https://github.com/gauthamnholla/coding-practice/tree/main/3691-maximum-total-subarray-value-ii/) | Hard |
 | [3768-minimum-inversion-count-in-subarrays-of-fixed-length](https://github.com/gauthamnholla/coding-practice/tree/main/3768-minimum-inversion-count-in-subarrays-of-fixed-length/) | Hard |
@@ -814,6 +816,7 @@
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/gauthamnholla/coding-practice/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/gauthamnholla/coding-practice/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/gauthamnholla/coding-practice/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
+| [3525-find-x-value-of-array-ii](https://github.com/gauthamnholla/coding-practice/tree/main/3525-find-x-value-of-array-ii/) | Hard |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/gauthamnholla/coding-practice/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 | [3783-mirror-distance-of-an-integer](https://github.com/gauthamnholla/coding-practice/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
 | [3850-count-sequences-to-k](https://github.com/gauthamnholla/coding-practice/tree/main/3850-count-sequences-to-k/) | Hard |
