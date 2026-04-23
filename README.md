@@ -152,6 +152,7 @@
 | [3509-maximum-product-of-subsequences-with-an-alternating-sum-equal-to-k](https://github.com/gauthamnholla/coding-practice/tree/main/3509-maximum-product-of-subsequences-with-an-alternating-sum-equal-to-k/) | Hard |
 | [3522-calculate-score-after-performing-instructions](https://github.com/gauthamnholla/coding-practice/tree/main/3522-calculate-score-after-performing-instructions/) | Medium |
 | [3523-make-array-non-decreasing](https://github.com/gauthamnholla/coding-practice/tree/main/3523-make-array-non-decreasing/) | Medium |
+| [3527-find-the-most-common-response](https://github.com/gauthamnholla/coding-practice/tree/main/3527-find-the-most-common-response/) | Medium |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/gauthamnholla/coding-practice/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3533-concatenated-divisibility](https://github.com/gauthamnholla/coding-practice/tree/main/3533-concatenated-divisibility/) | Hard |
 | [3546-equal-sum-grid-partition-i](https://github.com/gauthamnholla/coding-practice/tree/master/3546-equal-sum-grid-partition-i) |
@@ -297,6 +298,7 @@
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/gauthamnholla/coding-practice/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 | [3509-maximum-product-of-subsequences-with-an-alternating-sum-equal-to-k](https://github.com/gauthamnholla/coding-practice/tree/main/3509-maximum-product-of-subsequences-with-an-alternating-sum-equal-to-k/) | Hard |
 | [3522-calculate-score-after-performing-instructions](https://github.com/gauthamnholla/coding-practice/tree/main/3522-calculate-score-after-performing-instructions/) | Medium |
+| [3527-find-the-most-common-response](https://github.com/gauthamnholla/coding-practice/tree/main/3527-find-the-most-common-response/) | Medium |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/gauthamnholla/coding-practice/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3548-equal-sum-grid-partition-ii](https://github.com/gauthamnholla/coding-practice/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
 | [3659-partition-array-into-k-distinct-groups](https://github.com/gauthamnholla/coding-practice/tree/main/3659-partition-array-into-k-distinct-groups/) | Medium |
@@ -336,6 +338,7 @@
 | [2547-minimum-cost-to-split-an-array](https://github.com/gauthamnholla/coding-practice/tree/master/2547-minimum-cost-to-split-an-array) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/gauthamnholla/coding-practice/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/gauthamnholla/coding-practice/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
+| [3527-find-the-most-common-response](https://github.com/gauthamnholla/coding-practice/tree/main/3527-find-the-most-common-response/) | Medium |
 | [3659-partition-array-into-k-distinct-groups](https://github.com/gauthamnholla/coding-practice/tree/main/3659-partition-array-into-k-distinct-groups/) | Medium |
 | [3679-minimum-discards-to-balance-inventory](https://github.com/gauthamnholla/coding-practice/tree/main/3679-minimum-discards-to-balance-inventory/) | Medium |
 | [3785-minimum-swaps-to-avoid-forbidden-values](https://github.com/gauthamnholla/coding-practice/tree/main/3785-minimum-swaps-to-avoid-forbidden-values/) | Hard |
@@ -451,6 +454,7 @@
 | [3474-lexicographically-smallest-generated-string](https://github.com/gauthamnholla/coding-practice/tree/main/3474-lexicographically-smallest-generated-string/) | Hard |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/gauthamnholla/coding-practice/tree/main/3501-maximize-active-section-with-trade-ii/) | Hard |
 | [3522-calculate-score-after-performing-instructions](https://github.com/gauthamnholla/coding-practice/tree/main/3522-calculate-score-after-performing-instructions/) | Medium |
+| [3527-find-the-most-common-response](https://github.com/gauthamnholla/coding-practice/tree/main/3527-find-the-most-common-response/) | Medium |
 | [3598-longest-common-prefix-between-adjacent-strings-after-removals](https://github.com/gauthamnholla/coding-practice/tree/main/3598-longest-common-prefix-between-adjacent-strings-after-removals/) | Medium |
 | [3799-word-squares-ii](https://github.com/gauthamnholla/coding-practice/tree/main/3799-word-squares-ii/) | Medium |
 | [3838-weighted-word-mapping](https://github.com/gauthamnholla/coding-practice/tree/main/3838-weighted-word-mapping/) | Easy |
