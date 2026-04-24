@@ -146,6 +146,7 @@
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/gauthamnholla/coding-practice/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/gauthamnholla/coding-practice/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/gauthamnholla/coding-practice/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
+| [3483-unique-3-digit-even-numbers](https://github.com/gauthamnholla/coding-practice/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3485-longest-common-prefix-of-k-strings-after-removal](https://github.com/gauthamnholla/coding-practice/tree/main/3485-longest-common-prefix-of-k-strings-after-removal/) | Hard |
 | [3488-closest-equal-element-queries](https://github.com/gauthamnholla/coding-practice/tree/main/3488-closest-equal-element-queries/) | Medium |
 | [3489-zero-array-transformation-iv](https://github.com/gauthamnholla/coding-practice/tree/main/3489-zero-array-transformation-iv/) | Medium |
@@ -299,6 +300,7 @@
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/gauthamnholla/coding-practice/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [3002-maximum-size-of-a-set-after-removals](https://github.com/gauthamnholla/coding-practice/tree/main/3002-maximum-size-of-a-set-after-removals/) | Medium |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/gauthamnholla/coding-practice/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
+| [3483-unique-3-digit-even-numbers](https://github.com/gauthamnholla/coding-practice/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3488-closest-equal-element-queries](https://github.com/gauthamnholla/coding-practice/tree/main/3488-closest-equal-element-queries/) | Medium |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/gauthamnholla/coding-practice/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 | [3509-maximum-product-of-subsequences-with-an-alternating-sum-equal-to-k](https://github.com/gauthamnholla/coding-practice/tree/main/3509-maximum-product-of-subsequences-with-an-alternating-sum-equal-to-k/) | Hard |
@@ -732,6 +734,7 @@
 | [2765-longest-alternating-subarray](https://github.com/gauthamnholla/coding-practice/tree/master/2765-longest-alternating-subarray) |
 | [2768-number-of-black-blocks](https://github.com/gauthamnholla/coding-practice/tree/master/2768-number-of-black-blocks) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/gauthamnholla/coding-practice/tree/master/2778-sum-of-squares-of-special-elements) |
+| [3483-unique-3-digit-even-numbers](https://github.com/gauthamnholla/coding-practice/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3546-equal-sum-grid-partition-i](https://github.com/gauthamnholla/coding-practice/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/gauthamnholla/coding-practice/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
 | [3566-partition-array-into-two-equal-product-subsets](https://github.com/gauthamnholla/coding-practice/tree/main/3566-partition-array-into-two-equal-product-subsets/) | Medium |
@@ -905,5 +908,6 @@
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/gauthamnholla/coding-practice/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3566-partition-array-into-two-equal-product-subsets](https://github.com/gauthamnholla/coding-practice/tree/main/3566-partition-array-into-two-equal-product-subsets/) | Medium |
 <!---LeetCode Topics End-->
