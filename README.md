@@ -146,6 +146,7 @@
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/gauthamnholla/coding-practice/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/gauthamnholla/coding-practice/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/gauthamnholla/coding-practice/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
+| [3464-maximize-the-distance-between-points-on-a-square](https://github.com/gauthamnholla/coding-practice/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
 | [3469-find-minimum-cost-to-remove-array-elements](https://github.com/gauthamnholla/coding-practice/tree/main/3469-find-minimum-cost-to-remove-array-elements/) | Medium |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/gauthamnholla/coding-practice/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3473-sum-of-k-subarrays-with-length-at-least-m](https://github.com/gauthamnholla/coding-practice/tree/main/3473-sum-of-k-subarrays-with-length-at-least-m/) | Medium |
@@ -570,6 +571,7 @@
 | [2831-find-the-longest-equal-subarray](https://github.com/gauthamnholla/coding-practice/tree/master/2831-find-the-longest-equal-subarray) |
 | [2861-maximum-number-of-alloys](https://github.com/gauthamnholla/coding-practice/tree/master/2861-maximum-number-of-alloys) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/gauthamnholla/coding-practice/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [3464-maximize-the-distance-between-points-on-a-square](https://github.com/gauthamnholla/coding-practice/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
 | [3488-closest-equal-element-queries](https://github.com/gauthamnholla/coding-practice/tree/main/3488-closest-equal-element-queries/) | Medium |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/gauthamnholla/coding-practice/tree/main/3501-maximize-active-section-with-trade-ii/) | Hard |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/gauthamnholla/coding-practice/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
@@ -835,6 +837,7 @@
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/gauthamnholla/coding-practice/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/gauthamnholla/coding-practice/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/gauthamnholla/coding-practice/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [3464-maximize-the-distance-between-points-on-a-square](https://github.com/gauthamnholla/coding-practice/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/gauthamnholla/coding-practice/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 | [3525-find-x-value-of-array-ii](https://github.com/gauthamnholla/coding-practice/tree/main/3525-find-x-value-of-array-ii/) | Hard |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/gauthamnholla/coding-practice/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
@@ -869,6 +872,7 @@
 | [2463-minimum-total-distance-traveled](https://github.com/gauthamnholla/coding-practice/tree/main/2463-minimum-total-distance-traveled/) | Hard |
 | [2751-robot-collisions](https://github.com/gauthamnholla/coding-practice/tree/main/2751-robot-collisions/) | Hard |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/gauthamnholla/coding-practice/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
+| [3464-maximize-the-distance-between-points-on-a-square](https://github.com/gauthamnholla/coding-practice/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/gauthamnholla/coding-practice/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/gauthamnholla/coding-practice/tree/main/3661-maximum-walls-destroyed-by-robots/) | Hard |
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/gauthamnholla/coding-practice/tree/main/3774-absolute-difference-between-maximum-and-minimum-k-elements/) | Easy |
@@ -919,4 +923,8 @@
 | ------- | ------- |
 | [3483-unique-3-digit-even-numbers](https://github.com/gauthamnholla/coding-practice/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3566-partition-array-into-two-equal-product-subsets](https://github.com/gauthamnholla/coding-practice/tree/main/3566-partition-array-into-two-equal-product-subsets/) | Medium |
+## Geometry
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3464-maximize-the-distance-between-points-on-a-square](https://github.com/gauthamnholla/coding-practice/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
 <!---LeetCode Topics End-->
