@@ -146,6 +146,7 @@
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/gauthamnholla/coding-practice/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/gauthamnholla/coding-practice/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/gauthamnholla/coding-practice/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
+| [3469-find-minimum-cost-to-remove-array-elements](https://github.com/gauthamnholla/coding-practice/tree/main/3469-find-minimum-cost-to-remove-array-elements/) | Medium |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/gauthamnholla/coding-practice/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3473-sum-of-k-subarrays-with-length-at-least-m](https://github.com/gauthamnholla/coding-practice/tree/main/3473-sum-of-k-subarrays-with-length-at-least-m/) | Medium |
 | [3483-unique-3-digit-even-numbers](https://github.com/gauthamnholla/coding-practice/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
@@ -628,6 +629,7 @@
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/gauthamnholla/coding-practice/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/gauthamnholla/coding-practice/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/gauthamnholla/coding-practice/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
+| [3469-find-minimum-cost-to-remove-array-elements](https://github.com/gauthamnholla/coding-practice/tree/main/3469-find-minimum-cost-to-remove-array-elements/) | Medium |
 | [3473-sum-of-k-subarrays-with-length-at-least-m](https://github.com/gauthamnholla/coding-practice/tree/main/3473-sum-of-k-subarrays-with-length-at-least-m/) | Medium |
 | [3489-zero-array-transformation-iv](https://github.com/gauthamnholla/coding-practice/tree/main/3489-zero-array-transformation-iv/) | Medium |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/gauthamnholla/coding-practice/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
