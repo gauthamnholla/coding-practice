@@ -146,6 +146,7 @@
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/gauthamnholla/coding-practice/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/gauthamnholla/coding-practice/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/gauthamnholla/coding-practice/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
+| [3449-maximize-the-minimum-game-score](https://github.com/gauthamnholla/coding-practice/tree/main/3449-maximize-the-minimum-game-score/) | Hard |
 | [3452-sum-of-good-numbers](https://github.com/gauthamnholla/coding-practice/tree/main/3452-sum-of-good-numbers/) | Easy |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/gauthamnholla/coding-practice/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
 | [3469-find-minimum-cost-to-remove-array-elements](https://github.com/gauthamnholla/coding-practice/tree/main/3469-find-minimum-cost-to-remove-array-elements/) | Medium |
@@ -389,6 +390,7 @@
 | [2910-minimum-number-of-groups-to-create-a-valid-assignment](https://github.com/gauthamnholla/coding-practice/tree/main/2910-minimum-number-of-groups-to-create-a-valid-assignment/) | Medium |
 | [3002-maximum-size-of-a-set-after-removals](https://github.com/gauthamnholla/coding-practice/tree/main/3002-maximum-size-of-a-set-after-removals/) | Medium |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/gauthamnholla/coding-practice/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [3449-maximize-the-minimum-game-score](https://github.com/gauthamnholla/coding-practice/tree/main/3449-maximize-the-minimum-game-score/) | Hard |
 | [3474-lexicographically-smallest-generated-string](https://github.com/gauthamnholla/coding-practice/tree/main/3474-lexicographically-smallest-generated-string/) | Hard |
 | [3523-make-array-non-decreasing](https://github.com/gauthamnholla/coding-practice/tree/main/3523-make-array-non-decreasing/) | Medium |
 | [3576-transform-array-to-all-equal-elements](https://github.com/gauthamnholla/coding-practice/tree/main/3576-transform-array-to-all-equal-elements/) | Medium |
@@ -572,6 +574,7 @@
 | [2831-find-the-longest-equal-subarray](https://github.com/gauthamnholla/coding-practice/tree/master/2831-find-the-longest-equal-subarray) |
 | [2861-maximum-number-of-alloys](https://github.com/gauthamnholla/coding-practice/tree/master/2861-maximum-number-of-alloys) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/gauthamnholla/coding-practice/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [3449-maximize-the-minimum-game-score](https://github.com/gauthamnholla/coding-practice/tree/main/3449-maximize-the-minimum-game-score/) | Hard |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/gauthamnholla/coding-practice/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
 | [3488-closest-equal-element-queries](https://github.com/gauthamnholla/coding-practice/tree/main/3488-closest-equal-element-queries/) | Medium |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/gauthamnholla/coding-practice/tree/main/3501-maximize-active-section-with-trade-ii/) | Hard |
