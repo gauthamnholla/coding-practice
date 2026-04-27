@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/check-if-there-is-a-valid-path-in-a-grid">1507. Check if There is a Valid Path in a Grid</a></h2><h3>Medium</h3><hr><p>You are given an <code>m x n</code> <code>grid</code>. Each cell of <code>grid</code> represents a street. The street of <code>grid[i][j]</code> can be:</p>
+<h2><a href="https://leetcode.com/problems/check-if-there-is-a-valid-path-in-a-grid">1391. Check if There is a Valid Path in a Grid</a></h2><h3>Medium</h3><hr><p>You are given an <code>m x n</code> <code>grid</code>. Each cell of <code>grid</code> represents a street. The street of <code>grid[i][j]</code> can be:</p>
 
 <ul>
 	<li><code>1</code> which means a street connecting the left cell and the right cell.</li>
