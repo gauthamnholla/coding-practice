@@ -150,6 +150,7 @@
 | [3402-minimum-operations-to-make-columns-strictly-increasing](https://github.com/gauthamnholla/coding-practice/tree/main/3402-minimum-operations-to-make-columns-strictly-increasing/) | Easy |
 | [3404-count-special-subsequences](https://github.com/gauthamnholla/coding-practice/tree/main/3404-count-special-subsequences/) | Medium |
 | [3409-longest-subsequence-with-decreasing-adjacent-difference](https://github.com/gauthamnholla/coding-practice/tree/main/3409-longest-subsequence-with-decreasing-adjacent-difference/) | Medium |
+| [3410-maximize-subarray-sum-after-removing-all-occurrences-of-one-element](https://github.com/gauthamnholla/coding-practice/tree/main/3410-maximize-subarray-sum-after-removing-all-occurrences-of-one-element/) | Hard |
 | [3411-maximum-subarray-with-equal-products](https://github.com/gauthamnholla/coding-practice/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/gauthamnholla/coding-practice/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/gauthamnholla/coding-practice/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
@@ -656,6 +657,7 @@
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/gauthamnholla/coding-practice/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/gauthamnholla/coding-practice/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 | [3409-longest-subsequence-with-decreasing-adjacent-difference](https://github.com/gauthamnholla/coding-practice/tree/main/3409-longest-subsequence-with-decreasing-adjacent-difference/) | Medium |
+| [3410-maximize-subarray-sum-after-removing-all-occurrences-of-one-element](https://github.com/gauthamnholla/coding-practice/tree/main/3410-maximize-subarray-sum-after-removing-all-occurrences-of-one-element/) | Hard |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/gauthamnholla/coding-practice/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
 | [3429-paint-house-iv](https://github.com/gauthamnholla/coding-practice/tree/main/3429-paint-house-iv/) | Medium |
 | [3434-maximum-frequency-after-subarray-operation](https://github.com/gauthamnholla/coding-practice/tree/main/3434-maximum-frequency-after-subarray-operation/) | Medium |
@@ -704,6 +706,7 @@
 | [2407-longest-increasing-subsequence-ii](https://github.com/gauthamnholla/coding-practice/tree/master/2407-longest-increasing-subsequence-ii) |
 | [2569-handling-sum-queries-after-update](https://github.com/gauthamnholla/coding-practice/tree/master/2569-handling-sum-queries-after-update) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/gauthamnholla/coding-practice/tree/main/2916-subarrays-distinct-element-sum-of-squares-ii/) | Hard |
+| [3410-maximize-subarray-sum-after-removing-all-occurrences-of-one-element](https://github.com/gauthamnholla/coding-practice/tree/main/3410-maximize-subarray-sum-after-removing-all-occurrences-of-one-element/) | Hard |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/gauthamnholla/coding-practice/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/gauthamnholla/coding-practice/tree/main/3501-maximize-active-section-with-trade-ii/) | Hard |
 | [3525-find-x-value-of-array-ii](https://github.com/gauthamnholla/coding-practice/tree/main/3525-find-x-value-of-array-ii/) | Hard |
