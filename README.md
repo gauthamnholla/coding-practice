@@ -147,6 +147,7 @@
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/gauthamnholla/coding-practice/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/gauthamnholla/coding-practice/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/gauthamnholla/coding-practice/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [3398-smallest-substring-with-identical-characters-i](https://github.com/gauthamnholla/coding-practice/tree/main/3398-smallest-substring-with-identical-characters-i/) | Hard |
 | [3402-minimum-operations-to-make-columns-strictly-increasing](https://github.com/gauthamnholla/coding-practice/tree/main/3402-minimum-operations-to-make-columns-strictly-increasing/) | Easy |
 | [3404-count-special-subsequences](https://github.com/gauthamnholla/coding-practice/tree/main/3404-count-special-subsequences/) | Medium |
 | [3409-longest-subsequence-with-decreasing-adjacent-difference](https://github.com/gauthamnholla/coding-practice/tree/main/3409-longest-subsequence-with-decreasing-adjacent-difference/) | Medium |
@@ -596,6 +597,7 @@
 | [2831-find-the-longest-equal-subarray](https://github.com/gauthamnholla/coding-practice/tree/master/2831-find-the-longest-equal-subarray) |
 | [2861-maximum-number-of-alloys](https://github.com/gauthamnholla/coding-practice/tree/master/2861-maximum-number-of-alloys) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/gauthamnholla/coding-practice/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [3398-smallest-substring-with-identical-characters-i](https://github.com/gauthamnholla/coding-practice/tree/main/3398-smallest-substring-with-identical-characters-i/) | Hard |
 | [3449-maximize-the-minimum-game-score](https://github.com/gauthamnholla/coding-practice/tree/main/3449-maximize-the-minimum-game-score/) | Hard |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/gauthamnholla/coding-practice/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
 | [3488-closest-equal-element-queries](https://github.com/gauthamnholla/coding-practice/tree/main/3488-closest-equal-element-queries/) | Medium |
@@ -776,6 +778,7 @@
 | [2765-longest-alternating-subarray](https://github.com/gauthamnholla/coding-practice/tree/master/2765-longest-alternating-subarray) |
 | [2768-number-of-black-blocks](https://github.com/gauthamnholla/coding-practice/tree/master/2768-number-of-black-blocks) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/gauthamnholla/coding-practice/tree/master/2778-sum-of-squares-of-special-elements) |
+| [3398-smallest-substring-with-identical-characters-i](https://github.com/gauthamnholla/coding-practice/tree/main/3398-smallest-substring-with-identical-characters-i/) | Hard |
 | [3404-count-special-subsequences](https://github.com/gauthamnholla/coding-practice/tree/main/3404-count-special-subsequences/) | Medium |
 | [3411-maximum-subarray-with-equal-products](https://github.com/gauthamnholla/coding-practice/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3434-maximum-frequency-after-subarray-operation](https://github.com/gauthamnholla/coding-practice/tree/main/3434-maximum-frequency-after-subarray-operation/) | Medium |
