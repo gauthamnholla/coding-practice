@@ -147,6 +147,7 @@
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/gauthamnholla/coding-practice/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/gauthamnholla/coding-practice/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/gauthamnholla/coding-practice/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [3396-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/gauthamnholla/coding-practice/tree/main/3396-minimum-number-of-operations-to-make-elements-in-array-distinct/) | Easy |
 | [3398-smallest-substring-with-identical-characters-i](https://github.com/gauthamnholla/coding-practice/tree/main/3398-smallest-substring-with-identical-characters-i/) | Hard |
 | [3402-minimum-operations-to-make-columns-strictly-increasing](https://github.com/gauthamnholla/coding-practice/tree/main/3402-minimum-operations-to-make-columns-strictly-increasing/) | Easy |
 | [3404-count-special-subsequences](https://github.com/gauthamnholla/coding-practice/tree/main/3404-count-special-subsequences/) | Medium |
@@ -319,6 +320,7 @@
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/gauthamnholla/coding-practice/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [3002-maximum-size-of-a-set-after-removals](https://github.com/gauthamnholla/coding-practice/tree/main/3002-maximum-size-of-a-set-after-removals/) | Medium |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/gauthamnholla/coding-practice/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
+| [3396-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/gauthamnholla/coding-practice/tree/main/3396-minimum-number-of-operations-to-make-elements-in-array-distinct/) | Easy |
 | [3404-count-special-subsequences](https://github.com/gauthamnholla/coding-practice/tree/main/3404-count-special-subsequences/) | Medium |
 | [3434-maximum-frequency-after-subarray-operation](https://github.com/gauthamnholla/coding-practice/tree/main/3434-maximum-frequency-after-subarray-operation/) | Medium |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/gauthamnholla/coding-practice/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
