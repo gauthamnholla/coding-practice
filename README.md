@@ -155,6 +155,7 @@
 | [3411-maximum-subarray-with-equal-products](https://github.com/gauthamnholla/coding-practice/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/gauthamnholla/coding-practice/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/gauthamnholla/coding-practice/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
+| [3427-sum-of-variable-length-subarrays](https://github.com/gauthamnholla/coding-practice/tree/main/3427-sum-of-variable-length-subarrays/) | Easy |
 | [3429-paint-house-iv](https://github.com/gauthamnholla/coding-practice/tree/main/3429-paint-house-iv/) | Medium |
 | [3430-maximum-and-minimum-sums-of-at-most-size-k-subarrays](https://github.com/gauthamnholla/coding-practice/tree/main/3430-maximum-and-minimum-sums-of-at-most-size-k-subarrays/) | Hard |
 | [3434-maximum-frequency-after-subarray-operation](https://github.com/gauthamnholla/coding-practice/tree/main/3434-maximum-frequency-after-subarray-operation/) | Medium |
@@ -807,6 +808,7 @@
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/gauthamnholla/coding-practice/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/gauthamnholla/coding-practice/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/gauthamnholla/coding-practice/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
+| [3427-sum-of-variable-length-subarrays](https://github.com/gauthamnholla/coding-practice/tree/main/3427-sum-of-variable-length-subarrays/) | Easy |
 | [3434-maximum-frequency-after-subarray-operation](https://github.com/gauthamnholla/coding-practice/tree/main/3434-maximum-frequency-after-subarray-operation/) | Medium |
 | [3473-sum-of-k-subarrays-with-length-at-least-m](https://github.com/gauthamnholla/coding-practice/tree/main/3473-sum-of-k-subarrays-with-length-at-least-m/) | Medium |
 | [3546-equal-sum-grid-partition-i](https://github.com/gauthamnholla/coding-practice/tree/master/3546-equal-sum-grid-partition-i) |
