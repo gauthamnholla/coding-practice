@@ -147,6 +147,7 @@
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/gauthamnholla/coding-practice/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/gauthamnholla/coding-practice/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/gauthamnholla/coding-practice/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [3395-subsequences-with-a-unique-middle-mode-i](https://github.com/gauthamnholla/coding-practice/tree/main/3395-subsequences-with-a-unique-middle-mode-i/) | Hard |
 | [3396-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/gauthamnholla/coding-practice/tree/main/3396-minimum-number-of-operations-to-make-elements-in-array-distinct/) | Easy |
 | [3398-smallest-substring-with-identical-characters-i](https://github.com/gauthamnholla/coding-practice/tree/main/3398-smallest-substring-with-identical-characters-i/) | Hard |
 | [3402-minimum-operations-to-make-columns-strictly-increasing](https://github.com/gauthamnholla/coding-practice/tree/main/3402-minimum-operations-to-make-columns-strictly-increasing/) | Easy |
@@ -320,6 +321,7 @@
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/gauthamnholla/coding-practice/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [3002-maximum-size-of-a-set-after-removals](https://github.com/gauthamnholla/coding-practice/tree/main/3002-maximum-size-of-a-set-after-removals/) | Medium |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/gauthamnholla/coding-practice/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
+| [3395-subsequences-with-a-unique-middle-mode-i](https://github.com/gauthamnholla/coding-practice/tree/main/3395-subsequences-with-a-unique-middle-mode-i/) | Hard |
 | [3396-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/gauthamnholla/coding-practice/tree/main/3396-minimum-number-of-operations-to-make-elements-in-array-distinct/) | Easy |
 | [3404-count-special-subsequences](https://github.com/gauthamnholla/coding-practice/tree/main/3404-count-special-subsequences/) | Medium |
 | [3434-maximum-frequency-after-subarray-operation](https://github.com/gauthamnholla/coding-practice/tree/main/3434-maximum-frequency-after-subarray-operation/) | Medium |
@@ -886,6 +888,7 @@
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/gauthamnholla/coding-practice/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/gauthamnholla/coding-practice/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/gauthamnholla/coding-practice/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [3395-subsequences-with-a-unique-middle-mode-i](https://github.com/gauthamnholla/coding-practice/tree/main/3395-subsequences-with-a-unique-middle-mode-i/) | Hard |
 | [3404-count-special-subsequences](https://github.com/gauthamnholla/coding-practice/tree/main/3404-count-special-subsequences/) | Medium |
 | [3411-maximum-subarray-with-equal-products](https://github.com/gauthamnholla/coding-practice/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3430-maximum-and-minimum-sums-of-at-most-size-k-subarrays](https://github.com/gauthamnholla/coding-practice/tree/main/3430-maximum-and-minimum-sums-of-at-most-size-k-subarrays/) | Hard |
@@ -984,4 +987,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/gauthamnholla/coding-practice/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
+## Combinatorics
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3395-subsequences-with-a-unique-middle-mode-i](https://github.com/gauthamnholla/coding-practice/tree/main/3395-subsequences-with-a-unique-middle-mode-i/) | Hard |
 <!---LeetCode Topics End-->
