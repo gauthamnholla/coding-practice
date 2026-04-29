@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/maximum-score-from-grid-operations">3470. Maximum Score From Grid Operations</a></h2><h3>Hard</h3><hr><p>You are given a 2D matrix <code>grid</code> of size <code>n x n</code>. Initially, all cells of the grid are colored white. In one operation, you can select any cell of indices <code>(i, j)</code>, and color black all the cells of the <code>j<sup>th</sup></code> column starting from the top row down to the <code>i<sup>th</sup></code> row.</p>
+<h2><a href="https://leetcode.com/problems/maximum-score-from-grid-operations">3225. Maximum Score From Grid Operations</a></h2><h3>Hard</h3><hr><p>You are given a 2D matrix <code>grid</code> of size <code>n x n</code>. Initially, all cells of the grid are colored white. In one operation, you can select any cell of indices <code>(i, j)</code>, and color black all the cells of the <code>j<sup>th</sup></code> column starting from the top row down to the <code>i<sup>th</sup></code> row.</p>
 
 <p>The grid score is the sum of all <code>grid[i][j]</code> such that cell <code>(i, j)</code> is white and it has a horizontally adjacent black cell.</p>
 
