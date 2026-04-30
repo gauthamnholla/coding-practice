@@ -148,6 +148,7 @@
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/gauthamnholla/coding-practice/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3225-maximum-score-from-grid-operations](https://github.com/gauthamnholla/coding-practice/tree/main/3225-maximum-score-from-grid-operations/) | Hard |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/gauthamnholla/coding-practice/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [3388-count-beautiful-splits-in-an-array](https://github.com/gauthamnholla/coding-practice/tree/main/3388-count-beautiful-splits-in-an-array/) | Medium |
 | [3395-subsequences-with-a-unique-middle-mode-i](https://github.com/gauthamnholla/coding-practice/tree/main/3395-subsequences-with-a-unique-middle-mode-i/) | Hard |
 | [3396-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/gauthamnholla/coding-practice/tree/main/3396-minimum-number-of-operations-to-make-elements-in-array-distinct/) | Easy |
 | [3398-smallest-substring-with-identical-characters-i](https://github.com/gauthamnholla/coding-practice/tree/main/3398-smallest-substring-with-identical-characters-i/) | Hard |
@@ -666,6 +667,7 @@
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/gauthamnholla/coding-practice/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/gauthamnholla/coding-practice/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 | [3225-maximum-score-from-grid-operations](https://github.com/gauthamnholla/coding-practice/tree/main/3225-maximum-score-from-grid-operations/) | Hard |
+| [3388-count-beautiful-splits-in-an-array](https://github.com/gauthamnholla/coding-practice/tree/main/3388-count-beautiful-splits-in-an-array/) | Medium |
 | [3409-longest-subsequence-with-decreasing-adjacent-difference](https://github.com/gauthamnholla/coding-practice/tree/main/3409-longest-subsequence-with-decreasing-adjacent-difference/) | Medium |
 | [3410-maximize-subarray-sum-after-removing-all-occurrences-of-one-element](https://github.com/gauthamnholla/coding-practice/tree/main/3410-maximize-subarray-sum-after-removing-all-occurrences-of-one-element/) | Hard |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/gauthamnholla/coding-practice/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
