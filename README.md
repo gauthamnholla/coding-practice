@@ -222,6 +222,7 @@
 | [3738-longest-non-decreasing-subarray-after-replacing-at-most-one-element](https://github.com/gauthamnholla/coding-practice/tree/main/3738-longest-non-decreasing-subarray-after-replacing-at-most-one-element/) | Medium |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/gauthamnholla/coding-practice/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/gauthamnholla/coding-practice/tree/main/3741-minimum-distance-between-three-equal-elements-ii/) | Medium |
+| [3742-maximum-path-score-in-a-grid](https://github.com/gauthamnholla/coding-practice/tree/main/3742-maximum-path-score-in-a-grid/) | Medium |
 | [3743-maximize-cyclic-partition-score](https://github.com/gauthamnholla/coding-practice/tree/main/3743-maximize-cyclic-partition-score/) | Hard |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/gauthamnholla/coding-practice/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 | [3768-minimum-inversion-count-in-subarrays-of-fixed-length](https://github.com/gauthamnholla/coding-practice/tree/main/3768-minimum-inversion-count-in-subarrays-of-fixed-length/) | Hard |
@@ -457,6 +458,7 @@
 | [3548-equal-sum-grid-partition-ii](https://github.com/gauthamnholla/coding-practice/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/gauthamnholla/coding-practice/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3643-flip-square-submatrix-vertically](https://github.com/gauthamnholla/coding-practice/tree/master/3643-flip-square-submatrix-vertically) |
+| [3742-maximum-path-score-in-a-grid](https://github.com/gauthamnholla/coding-practice/tree/main/3742-maximum-path-score-in-a-grid/) | Medium |
 | [3858-minimum-bitwise-or-from-grid](https://github.com/gauthamnholla/coding-practice/tree/main/3858-minimum-bitwise-or-from-grid/) | Medium |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/gauthamnholla/coding-practice/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 ## String
@@ -689,6 +691,7 @@
 | [3686-number-of-stable-subsequences](https://github.com/gauthamnholla/coding-practice/tree/main/3686-number-of-stable-subsequences/) | Hard |
 | [3693-climbing-stairs-ii](https://github.com/gauthamnholla/coding-practice/tree/main/3693-climbing-stairs-ii/) | Medium |
 | [3738-longest-non-decreasing-subarray-after-replacing-at-most-one-element](https://github.com/gauthamnholla/coding-practice/tree/main/3738-longest-non-decreasing-subarray-after-replacing-at-most-one-element/) | Medium |
+| [3742-maximum-path-score-in-a-grid](https://github.com/gauthamnholla/coding-practice/tree/main/3742-maximum-path-score-in-a-grid/) | Medium |
 | [3743-maximize-cyclic-partition-score](https://github.com/gauthamnholla/coding-practice/tree/main/3743-maximize-cyclic-partition-score/) | Hard |
 | [3826-minimum-partition-score](https://github.com/gauthamnholla/coding-practice/tree/master/3826-minimum-partition-score) |
 | [3836-maximum-score-using-exactly-k-pairs](https://github.com/gauthamnholla/coding-practice/tree/main/3836-maximum-score-using-exactly-k-pairs/) | Hard |
