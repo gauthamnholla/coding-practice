@@ -148,6 +148,7 @@
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/gauthamnholla/coding-practice/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3225-maximum-score-from-grid-operations](https://github.com/gauthamnholla/coding-practice/tree/main/3225-maximum-score-from-grid-operations/) | Hard |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/gauthamnholla/coding-practice/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [3364-minimum-positive-sum-subarray](https://github.com/gauthamnholla/coding-practice/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 | [3366-minimum-array-sum](https://github.com/gauthamnholla/coding-practice/tree/main/3366-minimum-array-sum/) | Medium |
 | [3371-identify-the-largest-outlier-in-an-array](https://github.com/gauthamnholla/coding-practice/tree/main/3371-identify-the-largest-outlier-in-an-array/) | Medium |
 | [3378-count-connected-components-in-lcm-graph](https://github.com/gauthamnholla/coding-practice/tree/main/3378-count-connected-components-in-lcm-graph/) | Hard |
@@ -582,6 +583,7 @@
 | [2831-find-the-longest-equal-subarray](https://github.com/gauthamnholla/coding-practice/tree/master/2831-find-the-longest-equal-subarray) |
 | [2841-maximum-sum-of-almost-unique-subarray](https://github.com/gauthamnholla/coding-practice/tree/master/2841-maximum-sum-of-almost-unique-subarray) |
 | [2875-minimum-size-subarray-in-infinite-array](https://github.com/gauthamnholla/coding-practice/tree/master/2875-minimum-size-subarray-in-infinite-array) |
+| [3364-minimum-positive-sum-subarray](https://github.com/gauthamnholla/coding-practice/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 | [3411-maximum-subarray-with-equal-products](https://github.com/gauthamnholla/coding-practice/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/gauthamnholla/coding-practice/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/gauthamnholla/coding-practice/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
@@ -830,6 +832,7 @@
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/gauthamnholla/coding-practice/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/gauthamnholla/coding-practice/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3225-maximum-score-from-grid-operations](https://github.com/gauthamnholla/coding-practice/tree/main/3225-maximum-score-from-grid-operations/) | Hard |
+| [3364-minimum-positive-sum-subarray](https://github.com/gauthamnholla/coding-practice/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 | [3427-sum-of-variable-length-subarrays](https://github.com/gauthamnholla/coding-practice/tree/main/3427-sum-of-variable-length-subarrays/) | Easy |
 | [3434-maximum-frequency-after-subarray-operation](https://github.com/gauthamnholla/coding-practice/tree/main/3434-maximum-frequency-after-subarray-operation/) | Medium |
 | [3473-sum-of-k-subarrays-with-length-at-least-m](https://github.com/gauthamnholla/coding-practice/tree/main/3473-sum-of-k-subarrays-with-length-at-least-m/) | Medium |
