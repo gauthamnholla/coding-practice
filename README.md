@@ -148,6 +148,7 @@
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/gauthamnholla/coding-practice/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3225-maximum-score-from-grid-operations](https://github.com/gauthamnholla/coding-practice/tree/main/3225-maximum-score-from-grid-operations/) | Hard |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/gauthamnholla/coding-practice/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [3366-minimum-array-sum](https://github.com/gauthamnholla/coding-practice/tree/main/3366-minimum-array-sum/) | Medium |
 | [3371-identify-the-largest-outlier-in-an-array](https://github.com/gauthamnholla/coding-practice/tree/main/3371-identify-the-largest-outlier-in-an-array/) | Medium |
 | [3378-count-connected-components-in-lcm-graph](https://github.com/gauthamnholla/coding-practice/tree/main/3378-count-connected-components-in-lcm-graph/) | Hard |
 | [3386-button-with-longest-push-time](https://github.com/gauthamnholla/coding-practice/tree/main/3386-button-with-longest-push-time/) | Easy |
@@ -675,6 +676,7 @@
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/gauthamnholla/coding-practice/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/gauthamnholla/coding-practice/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 | [3225-maximum-score-from-grid-operations](https://github.com/gauthamnholla/coding-practice/tree/main/3225-maximum-score-from-grid-operations/) | Hard |
+| [3366-minimum-array-sum](https://github.com/gauthamnholla/coding-practice/tree/main/3366-minimum-array-sum/) | Medium |
 | [3388-count-beautiful-splits-in-an-array](https://github.com/gauthamnholla/coding-practice/tree/main/3388-count-beautiful-splits-in-an-array/) | Medium |
 | [3409-longest-subsequence-with-decreasing-adjacent-difference](https://github.com/gauthamnholla/coding-practice/tree/main/3409-longest-subsequence-with-decreasing-adjacent-difference/) | Medium |
 | [3410-maximize-subarray-sum-after-removing-all-occurrences-of-one-element](https://github.com/gauthamnholla/coding-practice/tree/main/3410-maximize-subarray-sum-after-removing-all-occurrences-of-one-element/) | Hard |
