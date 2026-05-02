@@ -283,6 +283,7 @@
 | [3886-sum-of-sortable-integers](https://github.com/gauthamnholla/coding-practice/tree/main/3886-sum-of-sortable-integers/) | Hard |
 | [3891-minimum-increase-to-maximize-special-indices](https://github.com/gauthamnholla/coding-practice/tree/main/3891-minimum-increase-to-maximize-special-indices/) | Medium |
 | [3892-minimum-operations-to-achieve-at-least-k-peaks](https://github.com/gauthamnholla/coding-practice/tree/main/3892-minimum-operations-to-achieve-at-least-k-peaks/) | Hard |
+| [3903-smallest-stable-index-i](https://github.com/gauthamnholla/coding-practice/tree/main/3903-smallest-stable-index-i/) | Easy |
 | [3904-smallest-stable-index-ii](https://github.com/gauthamnholla/coding-practice/tree/main/3904-smallest-stable-index-ii/) | Medium |
 | [3905-multi-source-flood-fill](https://github.com/gauthamnholla/coding-practice/tree/main/3905-multi-source-flood-fill/) | Medium |
 ## Hash Table
@@ -848,6 +849,7 @@
 | [3862-find-the-smallest-balanced-index](https://github.com/gauthamnholla/coding-practice/tree/master/3862-find-the-smallest-balanced-index) |
 | [3883-count-non-decreasing-arrays-with-given-digit-sums](https://github.com/gauthamnholla/coding-practice/tree/main/3883-count-non-decreasing-arrays-with-given-digit-sums/) | Hard |
 | [3891-minimum-increase-to-maximize-special-indices](https://github.com/gauthamnholla/coding-practice/tree/main/3891-minimum-increase-to-maximize-special-indices/) | Medium |
+| [3903-smallest-stable-index-i](https://github.com/gauthamnholla/coding-practice/tree/main/3903-smallest-stable-index-i/) | Easy |
 | [3904-smallest-stable-index-ii](https://github.com/gauthamnholla/coding-practice/tree/main/3904-smallest-stable-index-ii/) | Medium |
 ## Bitmask
 | Problem Name | Difficulty |
