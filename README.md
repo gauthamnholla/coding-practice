@@ -283,6 +283,7 @@
 | [3886-sum-of-sortable-integers](https://github.com/gauthamnholla/coding-practice/tree/main/3886-sum-of-sortable-integers/) | Hard |
 | [3891-minimum-increase-to-maximize-special-indices](https://github.com/gauthamnholla/coding-practice/tree/main/3891-minimum-increase-to-maximize-special-indices/) | Medium |
 | [3892-minimum-operations-to-achieve-at-least-k-peaks](https://github.com/gauthamnholla/coding-practice/tree/main/3892-minimum-operations-to-achieve-at-least-k-peaks/) | Hard |
+| [3905-multi-source-flood-fill](https://github.com/gauthamnholla/coding-practice/tree/main/3905-multi-source-flood-fill/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -467,6 +468,7 @@
 | [3742-maximum-path-score-in-a-grid](https://github.com/gauthamnholla/coding-practice/tree/main/3742-maximum-path-score-in-a-grid/) | Medium |
 | [3858-minimum-bitwise-or-from-grid](https://github.com/gauthamnholla/coding-practice/tree/main/3858-minimum-bitwise-or-from-grid/) | Medium |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/gauthamnholla/coding-practice/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
+| [3905-multi-source-flood-fill](https://github.com/gauthamnholla/coding-practice/tree/main/3905-multi-source-flood-fill/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -973,6 +975,7 @@
 | [1559-detect-cycles-in-2d-grid](https://github.com/gauthamnholla/coding-practice/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [2612-minimum-reverse-operations](https://github.com/gauthamnholla/coding-practice/tree/master/2612-minimum-reverse-operations) |
 | [3690-split-and-merge-array-transformation](https://github.com/gauthamnholla/coding-practice/tree/main/3690-split-and-merge-array-transformation/) | Medium |
+| [3905-multi-source-flood-fill](https://github.com/gauthamnholla/coding-practice/tree/main/3905-multi-source-flood-fill/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
