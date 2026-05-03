@@ -480,6 +480,7 @@
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/gauthamnholla/coding-practice/tree/master/0020-valid-parentheses) |
 | [0657-robot-return-to-origin](https://github.com/gauthamnholla/coding-practice/tree/main/0657-robot-return-to-origin/) | Easy |
+| [0796-rotate-string](https://github.com/gauthamnholla/coding-practice/tree/main/0796-rotate-string/) | Easy |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/gauthamnholla/coding-practice/tree/main/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/gauthamnholla/coding-practice/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/gauthamnholla/coding-practice/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
@@ -1013,6 +1014,7 @@
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0796-rotate-string](https://github.com/gauthamnholla/coding-practice/tree/main/0796-rotate-string/) | Easy |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/gauthamnholla/coding-practice/tree/main/3042-count-prefix-and-suffix-pairs-i/) | Easy |
 | [3474-lexicographically-smallest-generated-string](https://github.com/gauthamnholla/coding-practice/tree/main/3474-lexicographically-smallest-generated-string/) | Hard |
 ## Rolling Hash
