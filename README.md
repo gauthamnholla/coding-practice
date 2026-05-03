@@ -152,6 +152,7 @@
 | [3364-minimum-positive-sum-subarray](https://github.com/gauthamnholla/coding-practice/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 | [3366-minimum-array-sum](https://github.com/gauthamnholla/coding-practice/tree/main/3366-minimum-array-sum/) | Medium |
 | [3371-identify-the-largest-outlier-in-an-array](https://github.com/gauthamnholla/coding-practice/tree/main/3371-identify-the-largest-outlier-in-an-array/) | Medium |
+| [3375-minimum-operations-to-make-array-values-equal-to-k](https://github.com/gauthamnholla/coding-practice/tree/main/3375-minimum-operations-to-make-array-values-equal-to-k/) | Easy |
 | [3378-count-connected-components-in-lcm-graph](https://github.com/gauthamnholla/coding-practice/tree/main/3378-count-connected-components-in-lcm-graph/) | Hard |
 | [3386-button-with-longest-push-time](https://github.com/gauthamnholla/coding-practice/tree/main/3386-button-with-longest-push-time/) | Easy |
 | [3388-count-beautiful-splits-in-an-array](https://github.com/gauthamnholla/coding-practice/tree/main/3388-count-beautiful-splits-in-an-array/) | Medium |
@@ -336,6 +337,7 @@
 | [3002-maximum-size-of-a-set-after-removals](https://github.com/gauthamnholla/coding-practice/tree/main/3002-maximum-size-of-a-set-after-removals/) | Medium |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/gauthamnholla/coding-practice/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3371-identify-the-largest-outlier-in-an-array](https://github.com/gauthamnholla/coding-practice/tree/main/3371-identify-the-largest-outlier-in-an-array/) | Medium |
+| [3375-minimum-operations-to-make-array-values-equal-to-k](https://github.com/gauthamnholla/coding-practice/tree/main/3375-minimum-operations-to-make-array-values-equal-to-k/) | Easy |
 | [3378-count-connected-components-in-lcm-graph](https://github.com/gauthamnholla/coding-practice/tree/main/3378-count-connected-components-in-lcm-graph/) | Hard |
 | [3395-subsequences-with-a-unique-middle-mode-i](https://github.com/gauthamnholla/coding-practice/tree/main/3395-subsequences-with-a-unique-middle-mode-i/) | Hard |
 | [3396-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/gauthamnholla/coding-practice/tree/main/3396-minimum-number-of-operations-to-make-elements-in-array-distinct/) | Easy |
