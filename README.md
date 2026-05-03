@@ -155,6 +155,7 @@
 | [3378-count-connected-components-in-lcm-graph](https://github.com/gauthamnholla/coding-practice/tree/main/3378-count-connected-components-in-lcm-graph/) | Hard |
 | [3386-button-with-longest-push-time](https://github.com/gauthamnholla/coding-practice/tree/main/3386-button-with-longest-push-time/) | Easy |
 | [3388-count-beautiful-splits-in-an-array](https://github.com/gauthamnholla/coding-practice/tree/main/3388-count-beautiful-splits-in-an-array/) | Medium |
+| [3392-count-subarrays-of-length-three-with-a-condition](https://github.com/gauthamnholla/coding-practice/tree/main/3392-count-subarrays-of-length-three-with-a-condition/) | Easy |
 | [3395-subsequences-with-a-unique-middle-mode-i](https://github.com/gauthamnholla/coding-practice/tree/main/3395-subsequences-with-a-unique-middle-mode-i/) | Hard |
 | [3396-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/gauthamnholla/coding-practice/tree/main/3396-minimum-number-of-operations-to-make-elements-in-array-distinct/) | Easy |
 | [3398-smallest-substring-with-identical-characters-i](https://github.com/gauthamnholla/coding-practice/tree/main/3398-smallest-substring-with-identical-characters-i/) | Hard |
