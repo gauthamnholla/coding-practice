@@ -149,6 +149,7 @@
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/gauthamnholla/coding-practice/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3225-maximum-score-from-grid-operations](https://github.com/gauthamnholla/coding-practice/tree/main/3225-maximum-score-from-grid-operations/) | Hard |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/gauthamnholla/coding-practice/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [3356-zero-array-transformation-ii](https://github.com/gauthamnholla/coding-practice/tree/main/3356-zero-array-transformation-ii/) | Medium |
 | [3357-minimize-the-maximum-adjacent-element-difference](https://github.com/gauthamnholla/coding-practice/tree/main/3357-minimize-the-maximum-adjacent-element-difference/) | Hard |
 | [3364-minimum-positive-sum-subarray](https://github.com/gauthamnholla/coding-practice/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 | [3366-minimum-array-sum](https://github.com/gauthamnholla/coding-practice/tree/main/3366-minimum-array-sum/) | Medium |
@@ -629,6 +630,7 @@
 | [2831-find-the-longest-equal-subarray](https://github.com/gauthamnholla/coding-practice/tree/master/2831-find-the-longest-equal-subarray) |
 | [2861-maximum-number-of-alloys](https://github.com/gauthamnholla/coding-practice/tree/master/2861-maximum-number-of-alloys) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/gauthamnholla/coding-practice/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [3356-zero-array-transformation-ii](https://github.com/gauthamnholla/coding-practice/tree/main/3356-zero-array-transformation-ii/) | Medium |
 | [3357-minimize-the-maximum-adjacent-element-difference](https://github.com/gauthamnholla/coding-practice/tree/main/3357-minimize-the-maximum-adjacent-element-difference/) | Hard |
 | [3398-smallest-substring-with-identical-characters-i](https://github.com/gauthamnholla/coding-practice/tree/main/3398-smallest-substring-with-identical-characters-i/) | Hard |
 | [3449-maximize-the-minimum-game-score](https://github.com/gauthamnholla/coding-practice/tree/main/3449-maximize-the-minimum-game-score/) | Hard |
@@ -849,6 +851,7 @@
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/gauthamnholla/coding-practice/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/gauthamnholla/coding-practice/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3225-maximum-score-from-grid-operations](https://github.com/gauthamnholla/coding-practice/tree/main/3225-maximum-score-from-grid-operations/) | Hard |
+| [3356-zero-array-transformation-ii](https://github.com/gauthamnholla/coding-practice/tree/main/3356-zero-array-transformation-ii/) | Medium |
 | [3364-minimum-positive-sum-subarray](https://github.com/gauthamnholla/coding-practice/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 | [3427-sum-of-variable-length-subarrays](https://github.com/gauthamnholla/coding-practice/tree/main/3427-sum-of-variable-length-subarrays/) | Easy |
 | [3434-maximum-frequency-after-subarray-operation](https://github.com/gauthamnholla/coding-practice/tree/main/3434-maximum-frequency-after-subarray-operation/) | Medium |
@@ -998,6 +1001,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/gauthamnholla/coding-practice/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
+| [3356-zero-array-transformation-ii](https://github.com/gauthamnholla/coding-practice/tree/main/3356-zero-array-transformation-ii/) | Medium |
 | [3643-flip-square-submatrix-vertically](https://github.com/gauthamnholla/coding-practice/tree/master/3643-flip-square-submatrix-vertically) |
 | [3814-maximum-capacity-within-budget](https://github.com/gauthamnholla/coding-practice/tree/main/3814-maximum-capacity-within-budget/) | Medium |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/gauthamnholla/coding-practice/tree/master/3867-sum-of-gcd-of-formed-pairs) |
