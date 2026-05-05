@@ -938,6 +938,7 @@
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0061-rotate-list](https://github.com/gauthamnholla/coding-practice/tree/main/0061-rotate-list/) | Medium |
 | [2289-steps-to-make-array-non-decreasing](https://github.com/gauthamnholla/coding-practice/tree/master/2289-steps-to-make-array-non-decreasing) |
 ## Math
 | Problem Name | Difficulty |
@@ -1014,6 +1015,7 @@
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0061-rotate-list](https://github.com/gauthamnholla/coding-practice/tree/main/0061-rotate-list/) | Medium |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/gauthamnholla/coding-practice/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [3356-zero-array-transformation-ii](https://github.com/gauthamnholla/coding-practice/tree/main/3356-zero-array-transformation-ii/) | Medium |
 | [3643-flip-square-submatrix-vertically](https://github.com/gauthamnholla/coding-practice/tree/master/3643-flip-square-submatrix-vertically) |
