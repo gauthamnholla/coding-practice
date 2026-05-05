@@ -153,6 +153,7 @@
 | [3351-sum-of-good-subsequences](https://github.com/gauthamnholla/coding-practice/tree/main/3351-sum-of-good-subsequences/) | Hard |
 | [3356-zero-array-transformation-ii](https://github.com/gauthamnholla/coding-practice/tree/main/3356-zero-array-transformation-ii/) | Medium |
 | [3357-minimize-the-maximum-adjacent-element-difference](https://github.com/gauthamnholla/coding-practice/tree/main/3357-minimize-the-maximum-adjacent-element-difference/) | Hard |
+| [3361-shift-distance-between-two-strings](https://github.com/gauthamnholla/coding-practice/tree/main/3361-shift-distance-between-two-strings/) | Medium |
 | [3364-minimum-positive-sum-subarray](https://github.com/gauthamnholla/coding-practice/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 | [3366-minimum-array-sum](https://github.com/gauthamnholla/coding-practice/tree/main/3366-minimum-array-sum/) | Medium |
 | [3371-identify-the-largest-outlier-in-an-array](https://github.com/gauthamnholla/coding-practice/tree/main/3371-identify-the-largest-outlier-in-an-array/) | Medium |
@@ -524,6 +525,7 @@
 | [2901-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/gauthamnholla/coding-practice/tree/master/2901-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/gauthamnholla/coding-practice/tree/main/3042-count-prefix-and-suffix-pairs-i/) | Easy |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/gauthamnholla/coding-practice/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
+| [3361-shift-distance-between-two-strings](https://github.com/gauthamnholla/coding-practice/tree/main/3361-shift-distance-between-two-strings/) | Medium |
 | [3474-lexicographically-smallest-generated-string](https://github.com/gauthamnholla/coding-practice/tree/main/3474-lexicographically-smallest-generated-string/) | Hard |
 | [3485-longest-common-prefix-of-k-strings-after-removal](https://github.com/gauthamnholla/coding-practice/tree/main/3485-longest-common-prefix-of-k-strings-after-removal/) | Hard |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/gauthamnholla/coding-practice/tree/main/3501-maximize-active-section-with-trade-ii/) | Hard |
@@ -859,6 +861,7 @@
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/gauthamnholla/coding-practice/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3225-maximum-score-from-grid-operations](https://github.com/gauthamnholla/coding-practice/tree/main/3225-maximum-score-from-grid-operations/) | Hard |
 | [3356-zero-array-transformation-ii](https://github.com/gauthamnholla/coding-practice/tree/main/3356-zero-array-transformation-ii/) | Medium |
+| [3361-shift-distance-between-two-strings](https://github.com/gauthamnholla/coding-practice/tree/main/3361-shift-distance-between-two-strings/) | Medium |
 | [3364-minimum-positive-sum-subarray](https://github.com/gauthamnholla/coding-practice/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 | [3427-sum-of-variable-length-subarrays](https://github.com/gauthamnholla/coding-practice/tree/main/3427-sum-of-variable-length-subarrays/) | Easy |
 | [3434-maximum-frequency-after-subarray-operation](https://github.com/gauthamnholla/coding-practice/tree/main/3434-maximum-frequency-after-subarray-operation/) | Medium |
