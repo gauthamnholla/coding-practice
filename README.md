@@ -150,6 +150,7 @@
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/gauthamnholla/coding-practice/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3225-maximum-score-from-grid-operations](https://github.com/gauthamnholla/coding-practice/tree/main/3225-maximum-score-from-grid-operations/) | Hard |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/gauthamnholla/coding-practice/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [3309-maximum-possible-number-by-binary-concatenation](https://github.com/gauthamnholla/coding-practice/tree/main/3309-maximum-possible-number-by-binary-concatenation/) | Medium |
 | [3351-sum-of-good-subsequences](https://github.com/gauthamnholla/coding-practice/tree/main/3351-sum-of-good-subsequences/) | Hard |
 | [3356-zero-array-transformation-ii](https://github.com/gauthamnholla/coding-practice/tree/main/3356-zero-array-transformation-ii/) | Medium |
 | [3357-minimize-the-maximum-adjacent-element-difference](https://github.com/gauthamnholla/coding-practice/tree/main/3357-minimize-the-maximum-adjacent-element-difference/) | Hard |
@@ -569,6 +570,7 @@
 | [2917-find-the-k-or-of-an-array](https://github.com/gauthamnholla/coding-practice/tree/main/2917-find-the-k-or-of-an-array/) | Easy |
 | [2980-check-if-bitwise-or-has-trailing-zeros](https://github.com/gauthamnholla/coding-practice/tree/main/2980-check-if-bitwise-or-has-trailing-zeros/) | Easy |
 | [2997-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/gauthamnholla/coding-practice/tree/main/2997-minimum-number-of-operations-to-make-array-xor-equal-to-k/) | Medium |
+| [3309-maximum-possible-number-by-binary-concatenation](https://github.com/gauthamnholla/coding-practice/tree/main/3309-maximum-possible-number-by-binary-concatenation/) | Medium |
 | [3444-minimum-increments-for-target-multiples-in-an-array](https://github.com/gauthamnholla/coding-practice/tree/main/3444-minimum-increments-for-target-multiples-in-an-array/) | Hard |
 | [3533-concatenated-divisibility](https://github.com/gauthamnholla/coding-practice/tree/main/3533-concatenated-divisibility/) | Hard |
 | [3566-partition-array-into-two-equal-product-subsets](https://github.com/gauthamnholla/coding-practice/tree/main/3566-partition-array-into-two-equal-product-subsets/) | Medium |
@@ -829,6 +831,7 @@
 | [2765-longest-alternating-subarray](https://github.com/gauthamnholla/coding-practice/tree/master/2765-longest-alternating-subarray) |
 | [2768-number-of-black-blocks](https://github.com/gauthamnholla/coding-practice/tree/master/2768-number-of-black-blocks) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/gauthamnholla/coding-practice/tree/master/2778-sum-of-squares-of-special-elements) |
+| [3309-maximum-possible-number-by-binary-concatenation](https://github.com/gauthamnholla/coding-practice/tree/main/3309-maximum-possible-number-by-binary-concatenation/) | Medium |
 | [3371-identify-the-largest-outlier-in-an-array](https://github.com/gauthamnholla/coding-practice/tree/main/3371-identify-the-largest-outlier-in-an-array/) | Medium |
 | [3398-smallest-substring-with-identical-characters-i](https://github.com/gauthamnholla/coding-practice/tree/main/3398-smallest-substring-with-identical-characters-i/) | Hard |
 | [3404-count-special-subsequences](https://github.com/gauthamnholla/coding-practice/tree/main/3404-count-special-subsequences/) | Medium |
