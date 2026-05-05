@@ -176,6 +176,7 @@
 | [3430-maximum-and-minimum-sums-of-at-most-size-k-subarrays](https://github.com/gauthamnholla/coding-practice/tree/main/3430-maximum-and-minimum-sums-of-at-most-size-k-subarrays/) | Hard |
 | [3434-maximum-frequency-after-subarray-operation](https://github.com/gauthamnholla/coding-practice/tree/main/3434-maximum-frequency-after-subarray-operation/) | Medium |
 | [3444-minimum-increments-for-target-multiples-in-an-array](https://github.com/gauthamnholla/coding-practice/tree/main/3444-minimum-increments-for-target-multiples-in-an-array/) | Hard |
+| [3447-assign-elements-to-groups-with-constraints](https://github.com/gauthamnholla/coding-practice/tree/main/3447-assign-elements-to-groups-with-constraints/) | Medium |
 | [3449-maximize-the-minimum-game-score](https://github.com/gauthamnholla/coding-practice/tree/main/3449-maximize-the-minimum-game-score/) | Hard |
 | [3452-sum-of-good-numbers](https://github.com/gauthamnholla/coding-practice/tree/main/3452-sum-of-good-numbers/) | Easy |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/gauthamnholla/coding-practice/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
@@ -348,6 +349,7 @@
 | [3396-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/gauthamnholla/coding-practice/tree/main/3396-minimum-number-of-operations-to-make-elements-in-array-distinct/) | Easy |
 | [3404-count-special-subsequences](https://github.com/gauthamnholla/coding-practice/tree/main/3404-count-special-subsequences/) | Medium |
 | [3434-maximum-frequency-after-subarray-operation](https://github.com/gauthamnholla/coding-practice/tree/main/3434-maximum-frequency-after-subarray-operation/) | Medium |
+| [3447-assign-elements-to-groups-with-constraints](https://github.com/gauthamnholla/coding-practice/tree/main/3447-assign-elements-to-groups-with-constraints/) | Medium |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/gauthamnholla/coding-practice/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/gauthamnholla/coding-practice/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3488-closest-equal-element-queries](https://github.com/gauthamnholla/coding-practice/tree/main/3488-closest-equal-element-queries/) | Medium |
