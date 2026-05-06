@@ -17,6 +17,7 @@
 | [1727-largest-submatrix-with-rearrangements](https://github.com/gauthamnholla/coding-practice/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/gauthamnholla/coding-practice/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/gauthamnholla/coding-practice/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
+| [1861-rotating-the-box](https://github.com/gauthamnholla/coding-practice/tree/main/1861-rotating-the-box/) | Medium |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/gauthamnholla/coding-practice/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/gauthamnholla/coding-practice/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1928-minimum-cost-to-reach-destination-in-time](https://github.com/gauthamnholla/coding-practice/tree/master/1928-minimum-cost-to-reach-destination-in-time) |
@@ -469,6 +470,7 @@
 | [1582-special-positions-in-a-binary-matrix](https://github.com/gauthamnholla/coding-practice/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/gauthamnholla/coding-practice/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/gauthamnholla/coding-practice/tree/master/1727-largest-submatrix-with-rearrangements) |
+| [1861-rotating-the-box](https://github.com/gauthamnholla/coding-practice/tree/main/1861-rotating-the-box/) | Medium |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/gauthamnholla/coding-practice/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/gauthamnholla/coding-practice/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2573-find-the-string-with-lcp](https://github.com/gauthamnholla/coding-practice/tree/main/2573-find-the-string-with-lcp/) | Hard |
@@ -1019,6 +1021,7 @@
 | ------- | ------- |
 | [0061-rotate-list](https://github.com/gauthamnholla/coding-practice/tree/main/0061-rotate-list/) | Medium |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/gauthamnholla/coding-practice/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
+| [1861-rotating-the-box](https://github.com/gauthamnholla/coding-practice/tree/main/1861-rotating-the-box/) | Medium |
 | [3356-zero-array-transformation-ii](https://github.com/gauthamnholla/coding-practice/tree/main/3356-zero-array-transformation-ii/) | Medium |
 | [3643-flip-square-submatrix-vertically](https://github.com/gauthamnholla/coding-practice/tree/master/3643-flip-square-submatrix-vertically) |
 | [3814-maximum-capacity-within-budget](https://github.com/gauthamnholla/coding-practice/tree/main/3814-maximum-capacity-within-budget/) | Medium |
