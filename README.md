@@ -149,6 +149,7 @@
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/gauthamnholla/coding-practice/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/gauthamnholla/coding-practice/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3225-maximum-score-from-grid-operations](https://github.com/gauthamnholla/coding-practice/tree/main/3225-maximum-score-from-grid-operations/) | Hard |
+| [3255-find-the-power-of-k-size-subarrays-ii](https://github.com/gauthamnholla/coding-practice/tree/main/3255-find-the-power-of-k-size-subarrays-ii/) | Medium |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/gauthamnholla/coding-practice/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3309-maximum-possible-number-by-binary-concatenation](https://github.com/gauthamnholla/coding-practice/tree/main/3309-maximum-possible-number-by-binary-concatenation/) | Medium |
 | [3351-sum-of-good-subsequences](https://github.com/gauthamnholla/coding-practice/tree/main/3351-sum-of-good-subsequences/) | Hard |
@@ -607,6 +608,7 @@
 | [2831-find-the-longest-equal-subarray](https://github.com/gauthamnholla/coding-practice/tree/master/2831-find-the-longest-equal-subarray) |
 | [2841-maximum-sum-of-almost-unique-subarray](https://github.com/gauthamnholla/coding-practice/tree/master/2841-maximum-sum-of-almost-unique-subarray) |
 | [2875-minimum-size-subarray-in-infinite-array](https://github.com/gauthamnholla/coding-practice/tree/master/2875-minimum-size-subarray-in-infinite-array) |
+| [3255-find-the-power-of-k-size-subarrays-ii](https://github.com/gauthamnholla/coding-practice/tree/main/3255-find-the-power-of-k-size-subarrays-ii/) | Medium |
 | [3364-minimum-positive-sum-subarray](https://github.com/gauthamnholla/coding-practice/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 | [3411-maximum-subarray-with-equal-products](https://github.com/gauthamnholla/coding-practice/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/gauthamnholla/coding-practice/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
