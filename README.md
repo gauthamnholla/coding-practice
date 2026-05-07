@@ -44,6 +44,7 @@
 | [2404-most-frequent-even-element](https://github.com/gauthamnholla/coding-practice/tree/master/2404-most-frequent-even-element) |
 | [2407-longest-increasing-subsequence-ii](https://github.com/gauthamnholla/coding-practice/tree/master/2407-longest-increasing-subsequence-ii) |
 | [2416-sum-of-prefix-scores-of-strings](https://github.com/gauthamnholla/coding-practice/tree/master/2416-sum-of-prefix-scores-of-strings) |
+| [2425-bitwise-xor-of-all-pairings](https://github.com/gauthamnholla/coding-practice/tree/main/2425-bitwise-xor-of-all-pairings/) | Medium |
 | [2432-the-employee-that-worked-on-the-longest-task](https://github.com/gauthamnholla/coding-practice/tree/master/2432-the-employee-that-worked-on-the-longest-task) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/gauthamnholla/coding-practice/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2444-count-subarrays-with-fixed-bounds](https://github.com/gauthamnholla/coding-practice/tree/master/2444-count-subarrays-with-fixed-bounds) |
@@ -555,6 +556,7 @@
 | ------- | ------- |
 | [1009-complement-of-base-10-integer](https://github.com/gauthamnholla/coding-practice/tree/master/1009-complement-of-base-10-integer) |
 | [1947-maximum-compatibility-score-sum](https://github.com/gauthamnholla/coding-practice/tree/master/1947-maximum-compatibility-score-sum) |
+| [2425-bitwise-xor-of-all-pairings](https://github.com/gauthamnholla/coding-practice/tree/main/2425-bitwise-xor-of-all-pairings/) | Medium |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/gauthamnholla/coding-practice/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2506-count-pairs-of-similar-strings](https://github.com/gauthamnholla/coding-practice/tree/master/2506-count-pairs-of-similar-strings) |
 | [2564-substring-xor-queries](https://github.com/gauthamnholla/coding-practice/tree/master/2564-substring-xor-queries) |
@@ -756,6 +758,7 @@
 ## Brainteaser
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2425-bitwise-xor-of-all-pairings](https://github.com/gauthamnholla/coding-practice/tree/main/2425-bitwise-xor-of-all-pairings/) | Medium |
 | [2568-minimum-impossible-or](https://github.com/gauthamnholla/coding-practice/tree/master/2568-minimum-impossible-or) |
 | [3674-minimum-operations-to-equalize-array](https://github.com/gauthamnholla/coding-practice/tree/main/3674-minimum-operations-to-equalize-array/) | Easy |
 ## Segment Tree
