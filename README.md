@@ -152,6 +152,7 @@
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/gauthamnholla/coding-practice/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3225-maximum-score-from-grid-operations](https://github.com/gauthamnholla/coding-practice/tree/main/3225-maximum-score-from-grid-operations/) | Hard |
 | [3255-find-the-power-of-k-size-subarrays-ii](https://github.com/gauthamnholla/coding-practice/tree/main/3255-find-the-power-of-k-size-subarrays-ii/) | Medium |
+| [3295-report-spam-message](https://github.com/gauthamnholla/coding-practice/tree/main/3295-report-spam-message/) | Medium |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/gauthamnholla/coding-practice/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3309-maximum-possible-number-by-binary-concatenation](https://github.com/gauthamnholla/coding-practice/tree/main/3309-maximum-possible-number-by-binary-concatenation/) | Medium |
 | [3351-sum-of-good-subsequences](https://github.com/gauthamnholla/coding-practice/tree/main/3351-sum-of-good-subsequences/) | Hard |
@@ -346,6 +347,7 @@
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/gauthamnholla/coding-practice/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [3002-maximum-size-of-a-set-after-removals](https://github.com/gauthamnholla/coding-practice/tree/main/3002-maximum-size-of-a-set-after-removals/) | Medium |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/gauthamnholla/coding-practice/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
+| [3295-report-spam-message](https://github.com/gauthamnholla/coding-practice/tree/main/3295-report-spam-message/) | Medium |
 | [3351-sum-of-good-subsequences](https://github.com/gauthamnholla/coding-practice/tree/main/3351-sum-of-good-subsequences/) | Hard |
 | [3371-identify-the-largest-outlier-in-an-array](https://github.com/gauthamnholla/coding-practice/tree/main/3371-identify-the-largest-outlier-in-an-array/) | Medium |
 | [3375-minimum-operations-to-make-array-values-equal-to-k](https://github.com/gauthamnholla/coding-practice/tree/main/3375-minimum-operations-to-make-array-values-equal-to-k/) | Easy |
@@ -530,6 +532,7 @@
 | [2901-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/gauthamnholla/coding-practice/tree/master/2901-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/gauthamnholla/coding-practice/tree/main/3042-count-prefix-and-suffix-pairs-i/) | Easy |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/gauthamnholla/coding-practice/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
+| [3295-report-spam-message](https://github.com/gauthamnholla/coding-practice/tree/main/3295-report-spam-message/) | Medium |
 | [3361-shift-distance-between-two-strings](https://github.com/gauthamnholla/coding-practice/tree/main/3361-shift-distance-between-two-strings/) | Medium |
 | [3474-lexicographically-smallest-generated-string](https://github.com/gauthamnholla/coding-practice/tree/main/3474-lexicographically-smallest-generated-string/) | Hard |
 | [3485-longest-common-prefix-of-k-strings-after-removal](https://github.com/gauthamnholla/coding-practice/tree/main/3485-longest-common-prefix-of-k-strings-after-removal/) | Hard |
