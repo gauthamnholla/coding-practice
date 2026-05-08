@@ -214,6 +214,7 @@
 | [3592-inverse-coin-change](https://github.com/gauthamnholla/coding-practice/tree/main/3592-inverse-coin-change/) | Medium |
 | [3598-longest-common-prefix-between-adjacent-strings-after-removals](https://github.com/gauthamnholla/coding-practice/tree/main/3598-longest-common-prefix-between-adjacent-strings-after-removals/) | Medium |
 | [3624-number-of-integers-with-popcount-depth-equal-to-k-ii](https://github.com/gauthamnholla/coding-practice/tree/main/3624-number-of-integers-with-popcount-depth-equal-to-k-ii/) | Hard |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/gauthamnholla/coding-practice/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
 | [3639-minimum-time-to-activate-string](https://github.com/gauthamnholla/coding-practice/tree/main/3639-minimum-time-to-activate-string/) | Medium |
 | [3643-flip-square-submatrix-vertically](https://github.com/gauthamnholla/coding-practice/tree/master/3643-flip-square-submatrix-vertically) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/gauthamnholla/coding-practice/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
@@ -368,6 +369,7 @@
 | [3527-find-the-most-common-response](https://github.com/gauthamnholla/coding-practice/tree/main/3527-find-the-most-common-response/) | Medium |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/gauthamnholla/coding-practice/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3548-equal-sum-grid-partition-ii](https://github.com/gauthamnholla/coding-practice/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/gauthamnholla/coding-practice/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
 | [3659-partition-array-into-k-distinct-groups](https://github.com/gauthamnholla/coding-practice/tree/main/3659-partition-array-into-k-distinct-groups/) | Medium |
 | [3668-restore-finishing-order](https://github.com/gauthamnholla/coding-practice/tree/main/3668-restore-finishing-order/) | Easy |
 | [3678-smallest-absent-positive-greater-than-average](https://github.com/gauthamnholla/coding-practice/tree/main/3678-smallest-absent-positive-greater-than-average/) | Easy |
@@ -982,6 +984,7 @@
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/gauthamnholla/coding-practice/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/gauthamnholla/coding-practice/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 | [3525-find-x-value-of-array-ii](https://github.com/gauthamnholla/coding-practice/tree/main/3525-find-x-value-of-array-ii/) | Hard |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/gauthamnholla/coding-practice/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/gauthamnholla/coding-practice/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 | [3783-mirror-distance-of-an-integer](https://github.com/gauthamnholla/coding-practice/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
 | [3850-count-sequences-to-k](https://github.com/gauthamnholla/coding-practice/tree/main/3850-count-sequences-to-k/) | Hard |
@@ -1033,6 +1036,7 @@
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/gauthamnholla/coding-practice/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/gauthamnholla/coding-practice/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [2612-minimum-reverse-operations](https://github.com/gauthamnholla/coding-practice/tree/master/2612-minimum-reverse-operations) |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/gauthamnholla/coding-practice/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
 | [3690-split-and-merge-array-transformation](https://github.com/gauthamnholla/coding-practice/tree/main/3690-split-and-merge-array-transformation/) | Medium |
 | [3905-multi-source-flood-fill](https://github.com/gauthamnholla/coding-practice/tree/main/3905-multi-source-flood-fill/) | Medium |
 ## Two Pointers
@@ -1051,6 +1055,7 @@
 | [3378-count-connected-components-in-lcm-graph](https://github.com/gauthamnholla/coding-practice/tree/main/3378-count-connected-components-in-lcm-graph/) | Hard |
 | [3411-maximum-subarray-with-equal-products](https://github.com/gauthamnholla/coding-practice/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3444-minimum-increments-for-target-multiples-in-an-array](https://github.com/gauthamnholla/coding-practice/tree/main/3444-minimum-increments-for-target-multiples-in-an-array/) | Hard |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/gauthamnholla/coding-practice/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
 | [3850-count-sequences-to-k](https://github.com/gauthamnholla/coding-practice/tree/main/3850-count-sequences-to-k/) | Hard |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/gauthamnholla/coding-practice/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Memoization
