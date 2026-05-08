@@ -152,6 +152,7 @@
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/gauthamnholla/coding-practice/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3225-maximum-score-from-grid-operations](https://github.com/gauthamnholla/coding-practice/tree/main/3225-maximum-score-from-grid-operations/) | Hard |
 | [3255-find-the-power-of-k-size-subarrays-ii](https://github.com/gauthamnholla/coding-practice/tree/main/3255-find-the-power-of-k-size-subarrays-ii/) | Medium |
+| [3291-minimum-number-of-valid-strings-to-form-target-i](https://github.com/gauthamnholla/coding-practice/tree/main/3291-minimum-number-of-valid-strings-to-form-target-i/) | Medium |
 | [3292-minimum-number-of-valid-strings-to-form-target-ii](https://github.com/gauthamnholla/coding-practice/tree/main/3292-minimum-number-of-valid-strings-to-form-target-ii/) | Hard |
 | [3295-report-spam-message](https://github.com/gauthamnholla/coding-practice/tree/main/3295-report-spam-message/) | Medium |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/gauthamnholla/coding-practice/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
@@ -442,6 +443,7 @@
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/gauthamnholla/coding-practice/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
 | [2910-minimum-number-of-groups-to-create-a-valid-assignment](https://github.com/gauthamnholla/coding-practice/tree/main/2910-minimum-number-of-groups-to-create-a-valid-assignment/) | Medium |
 | [3002-maximum-size-of-a-set-after-removals](https://github.com/gauthamnholla/coding-practice/tree/main/3002-maximum-size-of-a-set-after-removals/) | Medium |
+| [3291-minimum-number-of-valid-strings-to-form-target-i](https://github.com/gauthamnholla/coding-practice/tree/main/3291-minimum-number-of-valid-strings-to-form-target-i/) | Medium |
 | [3292-minimum-number-of-valid-strings-to-form-target-ii](https://github.com/gauthamnholla/coding-practice/tree/main/3292-minimum-number-of-valid-strings-to-form-target-ii/) | Hard |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/gauthamnholla/coding-practice/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3357-minimize-the-maximum-adjacent-element-difference](https://github.com/gauthamnholla/coding-practice/tree/main/3357-minimize-the-maximum-adjacent-element-difference/) | Hard |
@@ -534,6 +536,7 @@
 | [2901-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/gauthamnholla/coding-practice/tree/master/2901-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/gauthamnholla/coding-practice/tree/main/3042-count-prefix-and-suffix-pairs-i/) | Easy |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/gauthamnholla/coding-practice/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
+| [3291-minimum-number-of-valid-strings-to-form-target-i](https://github.com/gauthamnholla/coding-practice/tree/main/3291-minimum-number-of-valid-strings-to-form-target-i/) | Medium |
 | [3292-minimum-number-of-valid-strings-to-form-target-ii](https://github.com/gauthamnholla/coding-practice/tree/main/3292-minimum-number-of-valid-strings-to-form-target-ii/) | Hard |
 | [3295-report-spam-message](https://github.com/gauthamnholla/coding-practice/tree/main/3295-report-spam-message/) | Medium |
 | [3361-shift-distance-between-two-strings](https://github.com/gauthamnholla/coding-practice/tree/main/3361-shift-distance-between-two-strings/) | Medium |
@@ -555,6 +558,7 @@
 | [2707-extra-characters-in-a-string](https://github.com/gauthamnholla/coding-practice/tree/master/2707-extra-characters-in-a-string) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/gauthamnholla/coding-practice/tree/main/3042-count-prefix-and-suffix-pairs-i/) | Easy |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/gauthamnholla/coding-practice/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
+| [3291-minimum-number-of-valid-strings-to-form-target-i](https://github.com/gauthamnholla/coding-practice/tree/main/3291-minimum-number-of-valid-strings-to-form-target-i/) | Medium |
 | [3485-longest-common-prefix-of-k-strings-after-removal](https://github.com/gauthamnholla/coding-practice/tree/main/3485-longest-common-prefix-of-k-strings-after-removal/) | Hard |
 | [3845-maximum-subarray-xor-with-bounded-range](https://github.com/gauthamnholla/coding-practice/tree/master/3845-maximum-subarray-xor-with-bounded-range) |
 ## Bit Manipulation
@@ -651,6 +655,7 @@
 | [2826-sorting-three-groups](https://github.com/gauthamnholla/coding-practice/tree/master/2826-sorting-three-groups) |
 | [2831-find-the-longest-equal-subarray](https://github.com/gauthamnholla/coding-practice/tree/master/2831-find-the-longest-equal-subarray) |
 | [2861-maximum-number-of-alloys](https://github.com/gauthamnholla/coding-practice/tree/master/2861-maximum-number-of-alloys) |
+| [3291-minimum-number-of-valid-strings-to-form-target-i](https://github.com/gauthamnholla/coding-practice/tree/main/3291-minimum-number-of-valid-strings-to-form-target-i/) | Medium |
 | [3292-minimum-number-of-valid-strings-to-form-target-ii](https://github.com/gauthamnholla/coding-practice/tree/main/3292-minimum-number-of-valid-strings-to-form-target-ii/) | Hard |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/gauthamnholla/coding-practice/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3356-zero-array-transformation-ii](https://github.com/gauthamnholla/coding-practice/tree/main/3356-zero-array-transformation-ii/) | Medium |
@@ -719,6 +724,7 @@
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/gauthamnholla/coding-practice/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/gauthamnholla/coding-practice/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 | [3225-maximum-score-from-grid-operations](https://github.com/gauthamnholla/coding-practice/tree/main/3225-maximum-score-from-grid-operations/) | Hard |
+| [3291-minimum-number-of-valid-strings-to-form-target-i](https://github.com/gauthamnholla/coding-practice/tree/main/3291-minimum-number-of-valid-strings-to-form-target-i/) | Medium |
 | [3292-minimum-number-of-valid-strings-to-form-target-ii](https://github.com/gauthamnholla/coding-practice/tree/main/3292-minimum-number-of-valid-strings-to-form-target-ii/) | Hard |
 | [3351-sum-of-good-subsequences](https://github.com/gauthamnholla/coding-practice/tree/main/3351-sum-of-good-subsequences/) | Hard |
 | [3366-minimum-array-sum](https://github.com/gauthamnholla/coding-practice/tree/main/3366-minimum-array-sum/) | Medium |
@@ -776,6 +782,7 @@
 | [2407-longest-increasing-subsequence-ii](https://github.com/gauthamnholla/coding-practice/tree/master/2407-longest-increasing-subsequence-ii) |
 | [2569-handling-sum-queries-after-update](https://github.com/gauthamnholla/coding-practice/tree/master/2569-handling-sum-queries-after-update) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/gauthamnholla/coding-practice/tree/main/2916-subarrays-distinct-element-sum-of-squares-ii/) | Hard |
+| [3291-minimum-number-of-valid-strings-to-form-target-i](https://github.com/gauthamnholla/coding-practice/tree/main/3291-minimum-number-of-valid-strings-to-form-target-i/) | Medium |
 | [3292-minimum-number-of-valid-strings-to-form-target-ii](https://github.com/gauthamnholla/coding-practice/tree/main/3292-minimum-number-of-valid-strings-to-form-target-ii/) | Hard |
 | [3410-maximize-subarray-sum-after-removing-all-occurrences-of-one-element](https://github.com/gauthamnholla/coding-practice/tree/main/3410-maximize-subarray-sum-after-removing-all-occurrences-of-one-element/) | Hard |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/gauthamnholla/coding-practice/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
@@ -1056,17 +1063,20 @@
 | ------- | ------- |
 | [0796-rotate-string](https://github.com/gauthamnholla/coding-practice/tree/main/0796-rotate-string/) | Easy |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/gauthamnholla/coding-practice/tree/main/3042-count-prefix-and-suffix-pairs-i/) | Easy |
+| [3291-minimum-number-of-valid-strings-to-form-target-i](https://github.com/gauthamnholla/coding-practice/tree/main/3291-minimum-number-of-valid-strings-to-form-target-i/) | Medium |
 | [3292-minimum-number-of-valid-strings-to-form-target-ii](https://github.com/gauthamnholla/coding-practice/tree/main/3292-minimum-number-of-valid-strings-to-form-target-ii/) | Hard |
 | [3474-lexicographically-smallest-generated-string](https://github.com/gauthamnholla/coding-practice/tree/main/3474-lexicographically-smallest-generated-string/) | Hard |
 ## Rolling Hash
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/gauthamnholla/coding-practice/tree/main/3042-count-prefix-and-suffix-pairs-i/) | Easy |
+| [3291-minimum-number-of-valid-strings-to-form-target-i](https://github.com/gauthamnholla/coding-practice/tree/main/3291-minimum-number-of-valid-strings-to-form-target-i/) | Medium |
 | [3292-minimum-number-of-valid-strings-to-form-target-ii](https://github.com/gauthamnholla/coding-practice/tree/main/3292-minimum-number-of-valid-strings-to-form-target-ii/) | Hard |
 ## Hash Function
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/gauthamnholla/coding-practice/tree/main/3042-count-prefix-and-suffix-pairs-i/) | Easy |
+| [3291-minimum-number-of-valid-strings-to-form-target-i](https://github.com/gauthamnholla/coding-practice/tree/main/3291-minimum-number-of-valid-strings-to-form-target-i/) | Medium |
 | [3292-minimum-number-of-valid-strings-to-form-target-ii](https://github.com/gauthamnholla/coding-practice/tree/main/3292-minimum-number-of-valid-strings-to-form-target-ii/) | Hard |
 ## Recursion
 | Problem Name | Difficulty |
