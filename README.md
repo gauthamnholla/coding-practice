@@ -153,6 +153,7 @@
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/gauthamnholla/coding-practice/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3225-maximum-score-from-grid-operations](https://github.com/gauthamnholla/coding-practice/tree/main/3225-maximum-score-from-grid-operations/) | Hard |
 | [3255-find-the-power-of-k-size-subarrays-ii](https://github.com/gauthamnholla/coding-practice/tree/main/3255-find-the-power-of-k-size-subarrays-ii/) | Medium |
+| [3282-reach-end-of-array-with-max-score](https://github.com/gauthamnholla/coding-practice/tree/main/3282-reach-end-of-array-with-max-score/) | Medium |
 | [3285-find-indices-of-stable-mountains](https://github.com/gauthamnholla/coding-practice/tree/main/3285-find-indices-of-stable-mountains/) | Easy |
 | [3291-minimum-number-of-valid-strings-to-form-target-i](https://github.com/gauthamnholla/coding-practice/tree/main/3291-minimum-number-of-valid-strings-to-form-target-i/) | Medium |
 | [3292-minimum-number-of-valid-strings-to-form-target-ii](https://github.com/gauthamnholla/coding-practice/tree/main/3292-minimum-number-of-valid-strings-to-form-target-ii/) | Hard |
@@ -447,6 +448,7 @@
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/gauthamnholla/coding-practice/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
 | [2910-minimum-number-of-groups-to-create-a-valid-assignment](https://github.com/gauthamnholla/coding-practice/tree/main/2910-minimum-number-of-groups-to-create-a-valid-assignment/) | Medium |
 | [3002-maximum-size-of-a-set-after-removals](https://github.com/gauthamnholla/coding-practice/tree/main/3002-maximum-size-of-a-set-after-removals/) | Medium |
+| [3282-reach-end-of-array-with-max-score](https://github.com/gauthamnholla/coding-practice/tree/main/3282-reach-end-of-array-with-max-score/) | Medium |
 | [3291-minimum-number-of-valid-strings-to-form-target-i](https://github.com/gauthamnholla/coding-practice/tree/main/3291-minimum-number-of-valid-strings-to-form-target-i/) | Medium |
 | [3292-minimum-number-of-valid-strings-to-form-target-ii](https://github.com/gauthamnholla/coding-practice/tree/main/3292-minimum-number-of-valid-strings-to-form-target-ii/) | Hard |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/gauthamnholla/coding-practice/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
