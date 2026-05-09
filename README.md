@@ -153,6 +153,7 @@
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/gauthamnholla/coding-practice/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3225-maximum-score-from-grid-operations](https://github.com/gauthamnholla/coding-practice/tree/main/3225-maximum-score-from-grid-operations/) | Hard |
 | [3255-find-the-power-of-k-size-subarrays-ii](https://github.com/gauthamnholla/coding-practice/tree/main/3255-find-the-power-of-k-size-subarrays-ii/) | Medium |
+| [3285-find-indices-of-stable-mountains](https://github.com/gauthamnholla/coding-practice/tree/main/3285-find-indices-of-stable-mountains/) | Easy |
 | [3291-minimum-number-of-valid-strings-to-form-target-i](https://github.com/gauthamnholla/coding-practice/tree/main/3291-minimum-number-of-valid-strings-to-form-target-i/) | Medium |
 | [3292-minimum-number-of-valid-strings-to-form-target-ii](https://github.com/gauthamnholla/coding-practice/tree/main/3292-minimum-number-of-valid-strings-to-form-target-ii/) | Hard |
 | [3295-report-spam-message](https://github.com/gauthamnholla/coding-practice/tree/main/3295-report-spam-message/) | Medium |
