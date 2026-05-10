@@ -152,6 +152,7 @@
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/gauthamnholla/coding-practice/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/gauthamnholla/coding-practice/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3225-maximum-score-from-grid-operations](https://github.com/gauthamnholla/coding-practice/tree/main/3225-maximum-score-from-grid-operations/) | Hard |
+| [3229-minimum-operations-to-make-array-equal-to-target](https://github.com/gauthamnholla/coding-practice/tree/main/3229-minimum-operations-to-make-array-equal-to-target/) | Hard |
 | [3238-find-the-number-of-winning-players](https://github.com/gauthamnholla/coding-practice/tree/main/3238-find-the-number-of-winning-players/) | Easy |
 | [3255-find-the-power-of-k-size-subarrays-ii](https://github.com/gauthamnholla/coding-practice/tree/main/3255-find-the-power-of-k-size-subarrays-ii/) | Medium |
 | [3277-maximum-xor-score-subarray-queries](https://github.com/gauthamnholla/coding-practice/tree/main/3277-maximum-xor-score-subarray-queries/) | Hard |
@@ -452,6 +453,7 @@
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/gauthamnholla/coding-practice/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
 | [2910-minimum-number-of-groups-to-create-a-valid-assignment](https://github.com/gauthamnholla/coding-practice/tree/main/2910-minimum-number-of-groups-to-create-a-valid-assignment/) | Medium |
 | [3002-maximum-size-of-a-set-after-removals](https://github.com/gauthamnholla/coding-practice/tree/main/3002-maximum-size-of-a-set-after-removals/) | Medium |
+| [3229-minimum-operations-to-make-array-equal-to-target](https://github.com/gauthamnholla/coding-practice/tree/main/3229-minimum-operations-to-make-array-equal-to-target/) | Hard |
 | [3282-reach-end-of-array-with-max-score](https://github.com/gauthamnholla/coding-practice/tree/main/3282-reach-end-of-array-with-max-score/) | Medium |
 | [3291-minimum-number-of-valid-strings-to-form-target-i](https://github.com/gauthamnholla/coding-practice/tree/main/3291-minimum-number-of-valid-strings-to-form-target-i/) | Medium |
 | [3292-minimum-number-of-valid-strings-to-form-target-ii](https://github.com/gauthamnholla/coding-practice/tree/main/3292-minimum-number-of-valid-strings-to-form-target-ii/) | Hard |
@@ -735,6 +737,7 @@
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/gauthamnholla/coding-practice/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/gauthamnholla/coding-practice/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 | [3225-maximum-score-from-grid-operations](https://github.com/gauthamnholla/coding-practice/tree/main/3225-maximum-score-from-grid-operations/) | Hard |
+| [3229-minimum-operations-to-make-array-equal-to-target](https://github.com/gauthamnholla/coding-practice/tree/main/3229-minimum-operations-to-make-array-equal-to-target/) | Hard |
 | [3277-maximum-xor-score-subarray-queries](https://github.com/gauthamnholla/coding-practice/tree/main/3277-maximum-xor-score-subarray-queries/) | Hard |
 | [3291-minimum-number-of-valid-strings-to-form-target-i](https://github.com/gauthamnholla/coding-practice/tree/main/3291-minimum-number-of-valid-strings-to-form-target-i/) | Medium |
 | [3292-minimum-number-of-valid-strings-to-form-target-ii](https://github.com/gauthamnholla/coding-practice/tree/main/3292-minimum-number-of-valid-strings-to-form-target-ii/) | Hard |
@@ -931,6 +934,7 @@
 | [2751-robot-collisions](https://github.com/gauthamnholla/coding-practice/tree/main/2751-robot-collisions/) | Hard |
 | [2865-beautiful-towers-i](https://github.com/gauthamnholla/coding-practice/tree/master/2865-beautiful-towers-i) |
 | [2866-beautiful-towers-ii](https://github.com/gauthamnholla/coding-practice/tree/master/2866-beautiful-towers-ii) |
+| [3229-minimum-operations-to-make-array-equal-to-target](https://github.com/gauthamnholla/coding-practice/tree/main/3229-minimum-operations-to-make-array-equal-to-target/) | Hard |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/gauthamnholla/coding-practice/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
 | [3430-maximum-and-minimum-sums-of-at-most-size-k-subarrays](https://github.com/gauthamnholla/coding-practice/tree/main/3430-maximum-and-minimum-sums-of-at-most-size-k-subarrays/) | Hard |
 | [3523-make-array-non-decreasing](https://github.com/gauthamnholla/coding-practice/tree/main/3523-make-array-non-decreasing/) | Medium |
@@ -944,6 +948,7 @@
 | [2289-steps-to-make-array-non-decreasing](https://github.com/gauthamnholla/coding-practice/tree/master/2289-steps-to-make-array-non-decreasing) |
 | [2865-beautiful-towers-i](https://github.com/gauthamnholla/coding-practice/tree/master/2865-beautiful-towers-i) |
 | [2866-beautiful-towers-ii](https://github.com/gauthamnholla/coding-practice/tree/master/2866-beautiful-towers-ii) |
+| [3229-minimum-operations-to-make-array-equal-to-target](https://github.com/gauthamnholla/coding-practice/tree/main/3229-minimum-operations-to-make-array-equal-to-target/) | Hard |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/gauthamnholla/coding-practice/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
 | [3430-maximum-and-minimum-sums-of-at-most-size-k-subarrays](https://github.com/gauthamnholla/coding-practice/tree/main/3430-maximum-and-minimum-sums-of-at-most-size-k-subarrays/) | Hard |
 | [3523-make-array-non-decreasing](https://github.com/gauthamnholla/coding-practice/tree/main/3523-make-array-non-decreasing/) | Medium |
