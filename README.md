@@ -152,6 +152,7 @@
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/gauthamnholla/coding-practice/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/gauthamnholla/coding-practice/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3225-maximum-score-from-grid-operations](https://github.com/gauthamnholla/coding-practice/tree/main/3225-maximum-score-from-grid-operations/) | Hard |
+| [3238-find-the-number-of-winning-players](https://github.com/gauthamnholla/coding-practice/tree/main/3238-find-the-number-of-winning-players/) | Easy |
 | [3255-find-the-power-of-k-size-subarrays-ii](https://github.com/gauthamnholla/coding-practice/tree/main/3255-find-the-power-of-k-size-subarrays-ii/) | Medium |
 | [3277-maximum-xor-score-subarray-queries](https://github.com/gauthamnholla/coding-practice/tree/main/3277-maximum-xor-score-subarray-queries/) | Hard |
 | [3282-reach-end-of-array-with-max-score](https://github.com/gauthamnholla/coding-practice/tree/main/3282-reach-end-of-array-with-max-score/) | Medium |
@@ -354,6 +355,7 @@
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/gauthamnholla/coding-practice/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [3002-maximum-size-of-a-set-after-removals](https://github.com/gauthamnholla/coding-practice/tree/main/3002-maximum-size-of-a-set-after-removals/) | Medium |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/gauthamnholla/coding-practice/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
+| [3238-find-the-number-of-winning-players](https://github.com/gauthamnholla/coding-practice/tree/main/3238-find-the-number-of-winning-players/) | Easy |
 | [3295-report-spam-message](https://github.com/gauthamnholla/coding-practice/tree/main/3295-report-spam-message/) | Medium |
 | [3351-sum-of-good-subsequences](https://github.com/gauthamnholla/coding-practice/tree/main/3351-sum-of-good-subsequences/) | Hard |
 | [3371-identify-the-largest-outlier-in-an-array](https://github.com/gauthamnholla/coding-practice/tree/main/3371-identify-the-largest-outlier-in-an-array/) | Medium |
@@ -412,6 +414,7 @@
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/gauthamnholla/coding-practice/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [2833-furthest-point-from-origin](https://github.com/gauthamnholla/coding-practice/tree/main/2833-furthest-point-from-origin/) | Easy |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/gauthamnholla/coding-practice/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
+| [3238-find-the-number-of-winning-players](https://github.com/gauthamnholla/coding-practice/tree/main/3238-find-the-number-of-winning-players/) | Easy |
 | [3371-identify-the-largest-outlier-in-an-array](https://github.com/gauthamnholla/coding-practice/tree/main/3371-identify-the-largest-outlier-in-an-array/) | Medium |
 | [3527-find-the-most-common-response](https://github.com/gauthamnholla/coding-practice/tree/main/3527-find-the-most-common-response/) | Medium |
 | [3659-partition-array-into-k-distinct-groups](https://github.com/gauthamnholla/coding-practice/tree/main/3659-partition-array-into-k-distinct-groups/) | Medium |
