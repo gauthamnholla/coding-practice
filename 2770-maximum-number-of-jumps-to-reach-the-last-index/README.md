@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/maximum-number-of-jumps-to-reach-the-last-index">2855. Maximum Number of Jumps to Reach the Last Index</a></h2><h3>Medium</h3><hr><p>You are given a <strong>0-indexed</strong> array <code>nums</code> of <code>n</code> integers and an integer <code>target</code>.</p>
+<h2><a href="https://leetcode.com/problems/maximum-number-of-jumps-to-reach-the-last-index">2770. Maximum Number of Jumps to Reach the Last Index</a></h2><h3>Medium</h3><hr><p>You are given a <strong>0-indexed</strong> array <code>nums</code> of <code>n</code> integers and an integer <code>target</code>.</p>
 
 <p>You are initially positioned at index <code>0</code>. In one step, you can jump from index <code>i</code> to any index <code>j</code> such that:</p>
 
