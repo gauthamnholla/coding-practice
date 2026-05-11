@@ -65,6 +65,7 @@
 | [2530-maximal-score-after-applying-k-operations](https://github.com/gauthamnholla/coding-practice/tree/master/2530-maximal-score-after-applying-k-operations) |
 | [2537-count-the-number-of-good-subarrays](https://github.com/gauthamnholla/coding-practice/tree/master/2537-count-the-number-of-good-subarrays) |
 | [2547-minimum-cost-to-split-an-array](https://github.com/gauthamnholla/coding-practice/tree/master/2547-minimum-cost-to-split-an-array) |
+| [2553-separate-the-digits-in-an-array](https://github.com/gauthamnholla/coding-practice/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [2555-maximize-win-from-two-segments](https://github.com/gauthamnholla/coding-practice/tree/master/2555-maximize-win-from-two-segments) |
 | [2560-house-robber-iv](https://github.com/gauthamnholla/coding-practice/tree/master/2560-house-robber-iv) |
 | [2564-substring-xor-queries](https://github.com/gauthamnholla/coding-practice/tree/master/2564-substring-xor-queries) |
@@ -847,6 +848,7 @@
 | [2293-min-max-game](https://github.com/gauthamnholla/coding-practice/tree/master/2293-min-max-game) |
 | [2295-replace-elements-in-an-array](https://github.com/gauthamnholla/coding-practice/tree/master/2295-replace-elements-in-an-array) |
 | [2303-calculate-amount-paid-in-taxes](https://github.com/gauthamnholla/coding-practice/tree/master/2303-calculate-amount-paid-in-taxes) |
+| [2553-separate-the-digits-in-an-array](https://github.com/gauthamnholla/coding-practice/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [2660-determine-the-winner-of-a-bowling-game](https://github.com/gauthamnholla/coding-practice/tree/master/2660-determine-the-winner-of-a-bowling-game) |
 | [2682-find-the-losers-of-the-circular-game](https://github.com/gauthamnholla/coding-practice/tree/master/2682-find-the-losers-of-the-circular-game) |
 | [2717-semi-ordered-permutation](https://github.com/gauthamnholla/coding-practice/tree/master/2717-semi-ordered-permutation) |
