@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/frequencies-of-shortest-supersequences">3713. Frequencies of Shortest Supersequences</a></h2><h3>Hard</h3><hr><p>You are given an array of strings <code>words</code>. Find all <strong>shortest common supersequences (SCS)</strong> of <code><font face="monospace">words</font></code> that are not <span data-keyword="permutation-string">permutations</span> of each other.</p>
+<h2><a href="https://leetcode.com/problems/frequencies-of-shortest-supersequences/?envType=problem-list-v2&envId=array">3435. Frequencies of Shortest Supersequences</a></h2><h3>Hard</h3><hr><p>You are given an array of strings <code>words</code>. Find all <strong>shortest common supersequences (SCS)</strong> of <code><font face="monospace">words</font></code> that are not <span data-keyword="permutation-string">permutations</span> of each other.</p>
 
 <p>A <strong>shortest common supersequence</strong> is a string of <strong>minimum</strong> length that contains each string in <code>words</code> as a <span data-keyword="subsequence-string-nonempty">subsequence</span>.</p>
 
