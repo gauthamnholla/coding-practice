@@ -155,6 +155,7 @@
 | [3229-minimum-operations-to-make-array-equal-to-target](https://github.com/gauthamnholla/coding-practice/tree/main/3229-minimum-operations-to-make-array-equal-to-target/) | Hard |
 | [3238-find-the-number-of-winning-players](https://github.com/gauthamnholla/coding-practice/tree/main/3238-find-the-number-of-winning-players/) | Easy |
 | [3255-find-the-power-of-k-size-subarrays-ii](https://github.com/gauthamnholla/coding-practice/tree/main/3255-find-the-power-of-k-size-subarrays-ii/) | Medium |
+| [3259-maximum-energy-boost-from-two-drinks](https://github.com/gauthamnholla/coding-practice/tree/main/3259-maximum-energy-boost-from-two-drinks/) | Medium |
 | [3277-maximum-xor-score-subarray-queries](https://github.com/gauthamnholla/coding-practice/tree/main/3277-maximum-xor-score-subarray-queries/) | Hard |
 | [3282-reach-end-of-array-with-max-score](https://github.com/gauthamnholla/coding-practice/tree/main/3282-reach-end-of-array-with-max-score/) | Medium |
 | [3285-find-indices-of-stable-mountains](https://github.com/gauthamnholla/coding-practice/tree/main/3285-find-indices-of-stable-mountains/) | Easy |
@@ -738,6 +739,7 @@
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/gauthamnholla/coding-practice/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 | [3225-maximum-score-from-grid-operations](https://github.com/gauthamnholla/coding-practice/tree/main/3225-maximum-score-from-grid-operations/) | Hard |
 | [3229-minimum-operations-to-make-array-equal-to-target](https://github.com/gauthamnholla/coding-practice/tree/main/3229-minimum-operations-to-make-array-equal-to-target/) | Hard |
+| [3259-maximum-energy-boost-from-two-drinks](https://github.com/gauthamnholla/coding-practice/tree/main/3259-maximum-energy-boost-from-two-drinks/) | Medium |
 | [3277-maximum-xor-score-subarray-queries](https://github.com/gauthamnholla/coding-practice/tree/main/3277-maximum-xor-score-subarray-queries/) | Hard |
 | [3291-minimum-number-of-valid-strings-to-form-target-i](https://github.com/gauthamnholla/coding-practice/tree/main/3291-minimum-number-of-valid-strings-to-form-target-i/) | Medium |
 | [3292-minimum-number-of-valid-strings-to-form-target-ii](https://github.com/gauthamnholla/coding-practice/tree/main/3292-minimum-number-of-valid-strings-to-form-target-ii/) | Hard |
