@@ -154,6 +154,7 @@
 | [3225-maximum-score-from-grid-operations](https://github.com/gauthamnholla/coding-practice/tree/main/3225-maximum-score-from-grid-operations/) | Hard |
 | [3229-minimum-operations-to-make-array-equal-to-target](https://github.com/gauthamnholla/coding-practice/tree/main/3229-minimum-operations-to-make-array-equal-to-target/) | Hard |
 | [3238-find-the-number-of-winning-players](https://github.com/gauthamnholla/coding-practice/tree/main/3238-find-the-number-of-winning-players/) | Easy |
+| [3248-snake-in-matrix](https://github.com/gauthamnholla/coding-practice/tree/main/3248-snake-in-matrix/) | Easy |
 | [3255-find-the-power-of-k-size-subarrays-ii](https://github.com/gauthamnholla/coding-practice/tree/main/3255-find-the-power-of-k-size-subarrays-ii/) | Medium |
 | [3259-maximum-energy-boost-from-two-drinks](https://github.com/gauthamnholla/coding-practice/tree/main/3259-maximum-energy-boost-from-two-drinks/) | Medium |
 | [3277-maximum-xor-score-subarray-queries](https://github.com/gauthamnholla/coding-practice/tree/main/3277-maximum-xor-score-subarray-queries/) | Hard |
@@ -550,6 +551,7 @@
 | [2901-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/gauthamnholla/coding-practice/tree/master/2901-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/gauthamnholla/coding-practice/tree/main/3042-count-prefix-and-suffix-pairs-i/) | Easy |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/gauthamnholla/coding-practice/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
+| [3248-snake-in-matrix](https://github.com/gauthamnholla/coding-practice/tree/main/3248-snake-in-matrix/) | Easy |
 | [3291-minimum-number-of-valid-strings-to-form-target-i](https://github.com/gauthamnholla/coding-practice/tree/main/3291-minimum-number-of-valid-strings-to-form-target-i/) | Medium |
 | [3292-minimum-number-of-valid-strings-to-form-target-ii](https://github.com/gauthamnholla/coding-practice/tree/main/3292-minimum-number-of-valid-strings-to-form-target-ii/) | Hard |
 | [3295-report-spam-message](https://github.com/gauthamnholla/coding-practice/tree/main/3295-report-spam-message/) | Medium |
@@ -851,6 +853,7 @@
 | [2744-find-maximum-number-of-string-pairs](https://github.com/gauthamnholla/coding-practice/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2751-robot-collisions](https://github.com/gauthamnholla/coding-practice/tree/main/2751-robot-collisions/) | Hard |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/gauthamnholla/coding-practice/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
+| [3248-snake-in-matrix](https://github.com/gauthamnholla/coding-practice/tree/main/3248-snake-in-matrix/) | Easy |
 | [3522-calculate-score-after-performing-instructions](https://github.com/gauthamnholla/coding-practice/tree/main/3522-calculate-score-after-performing-instructions/) | Medium |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/gauthamnholla/coding-practice/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
 | [3679-minimum-discards-to-balance-inventory](https://github.com/gauthamnholla/coding-practice/tree/main/3679-minimum-discards-to-balance-inventory/) | Medium |
