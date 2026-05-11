@@ -192,6 +192,7 @@
 | [3429-paint-house-iv](https://github.com/gauthamnholla/coding-practice/tree/main/3429-paint-house-iv/) | Medium |
 | [3430-maximum-and-minimum-sums-of-at-most-size-k-subarrays](https://github.com/gauthamnholla/coding-practice/tree/main/3430-maximum-and-minimum-sums-of-at-most-size-k-subarrays/) | Hard |
 | [3434-maximum-frequency-after-subarray-operation](https://github.com/gauthamnholla/coding-practice/tree/main/3434-maximum-frequency-after-subarray-operation/) | Medium |
+| [3435-frequencies-of-shortest-supersequences](https://github.com/gauthamnholla/coding-practice/tree/main/3435-frequencies-of-shortest-supersequences/) | Hard |
 | [3444-minimum-increments-for-target-multiples-in-an-array](https://github.com/gauthamnholla/coding-practice/tree/main/3444-minimum-increments-for-target-multiples-in-an-array/) | Hard |
 | [3447-assign-elements-to-groups-with-constraints](https://github.com/gauthamnholla/coding-practice/tree/main/3447-assign-elements-to-groups-with-constraints/) | Medium |
 | [3449-maximize-the-minimum-game-score](https://github.com/gauthamnholla/coding-practice/tree/main/3449-maximize-the-minimum-game-score/) | Hard |
@@ -557,6 +558,7 @@
 | [3292-minimum-number-of-valid-strings-to-form-target-ii](https://github.com/gauthamnholla/coding-practice/tree/main/3292-minimum-number-of-valid-strings-to-form-target-ii/) | Hard |
 | [3295-report-spam-message](https://github.com/gauthamnholla/coding-practice/tree/main/3295-report-spam-message/) | Medium |
 | [3361-shift-distance-between-two-strings](https://github.com/gauthamnholla/coding-practice/tree/main/3361-shift-distance-between-two-strings/) | Medium |
+| [3435-frequencies-of-shortest-supersequences](https://github.com/gauthamnholla/coding-practice/tree/main/3435-frequencies-of-shortest-supersequences/) | Hard |
 | [3474-lexicographically-smallest-generated-string](https://github.com/gauthamnholla/coding-practice/tree/main/3474-lexicographically-smallest-generated-string/) | Hard |
 | [3485-longest-common-prefix-of-k-strings-after-removal](https://github.com/gauthamnholla/coding-practice/tree/main/3485-longest-common-prefix-of-k-strings-after-removal/) | Hard |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/gauthamnholla/coding-practice/tree/main/3501-maximize-active-section-with-trade-ii/) | Hard |
@@ -603,6 +605,7 @@
 | [2980-check-if-bitwise-or-has-trailing-zeros](https://github.com/gauthamnholla/coding-practice/tree/main/2980-check-if-bitwise-or-has-trailing-zeros/) | Easy |
 | [2997-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/gauthamnholla/coding-practice/tree/main/2997-minimum-number-of-operations-to-make-array-xor-equal-to-k/) | Medium |
 | [3309-maximum-possible-number-by-binary-concatenation](https://github.com/gauthamnholla/coding-practice/tree/main/3309-maximum-possible-number-by-binary-concatenation/) | Medium |
+| [3435-frequencies-of-shortest-supersequences](https://github.com/gauthamnholla/coding-practice/tree/main/3435-frequencies-of-shortest-supersequences/) | Hard |
 | [3444-minimum-increments-for-target-multiples-in-an-array](https://github.com/gauthamnholla/coding-practice/tree/main/3444-minimum-increments-for-target-multiples-in-an-array/) | Hard |
 | [3533-concatenated-divisibility](https://github.com/gauthamnholla/coding-practice/tree/main/3533-concatenated-divisibility/) | Hard |
 | [3566-partition-array-into-two-equal-product-subsets](https://github.com/gauthamnholla/coding-practice/tree/main/3566-partition-array-into-two-equal-product-subsets/) | Medium |
@@ -883,6 +886,7 @@
 | [3404-count-special-subsequences](https://github.com/gauthamnholla/coding-practice/tree/main/3404-count-special-subsequences/) | Medium |
 | [3411-maximum-subarray-with-equal-products](https://github.com/gauthamnholla/coding-practice/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3434-maximum-frequency-after-subarray-operation](https://github.com/gauthamnholla/coding-practice/tree/main/3434-maximum-frequency-after-subarray-operation/) | Medium |
+| [3435-frequencies-of-shortest-supersequences](https://github.com/gauthamnholla/coding-practice/tree/main/3435-frequencies-of-shortest-supersequences/) | Hard |
 | [3483-unique-3-digit-even-numbers](https://github.com/gauthamnholla/coding-practice/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3546-equal-sum-grid-partition-i](https://github.com/gauthamnholla/coding-practice/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/gauthamnholla/coding-practice/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
@@ -977,6 +981,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1928-minimum-cost-to-reach-destination-in-time](https://github.com/gauthamnholla/coding-practice/tree/master/1928-minimum-cost-to-reach-destination-in-time) |
+| [3435-frequencies-of-shortest-supersequences](https://github.com/gauthamnholla/coding-practice/tree/main/3435-frequencies-of-shortest-supersequences/) | Hard |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/gauthamnholla/coding-practice/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/gauthamnholla/coding-practice/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Minimum Spanning Tree
@@ -1119,4 +1124,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3395-subsequences-with-a-unique-middle-mode-i](https://github.com/gauthamnholla/coding-practice/tree/main/3395-subsequences-with-a-unique-middle-mode-i/) | Hard |
+## Topological Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3435-frequencies-of-shortest-supersequences](https://github.com/gauthamnholla/coding-practice/tree/main/3435-frequencies-of-shortest-supersequences/) | Hard |
 <!---LeetCode Topics End-->
