@@ -313,6 +313,7 @@
 | [3903-smallest-stable-index-i](https://github.com/gauthamnholla/coding-practice/tree/main/3903-smallest-stable-index-i/) | Easy |
 | [3904-smallest-stable-index-ii](https://github.com/gauthamnholla/coding-practice/tree/main/3904-smallest-stable-index-ii/) | Medium |
 | [3905-multi-source-flood-fill](https://github.com/gauthamnholla/coding-practice/tree/main/3905-multi-source-flood-fill/) | Medium |
+| [3910-count-connected-subgraphs-with-even-node-sum](https://github.com/gauthamnholla/coding-practice/tree/main/Python3/3910-count-connected-subgraphs-with-even-node-sum/) | Hard |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -620,6 +621,7 @@
 | [3877-minimum-removals-to-achieve-target-xor](https://github.com/gauthamnholla/coding-practice/tree/main/3877-minimum-removals-to-achieve-target-xor/) | Medium |
 | [3878-count-good-subarrays](https://github.com/gauthamnholla/coding-practice/tree/main/3878-count-good-subarrays/) | Hard |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/gauthamnholla/coding-practice/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
+| [3910-count-connected-subgraphs-with-even-node-sum](https://github.com/gauthamnholla/coding-practice/tree/main/Python3/3910-count-connected-subgraphs-with-even-node-sum/) | Hard |
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -898,6 +900,7 @@
 | [3872-longest-arithmetic-sequence-after-changing-at-most-one-element](https://github.com/gauthamnholla/coding-practice/tree/master/3872-longest-arithmetic-sequence-after-changing-at-most-one-element) |
 | [3880-minimum-absolute-difference-between-two-values](https://github.com/gauthamnholla/coding-practice/tree/main/3880-minimum-absolute-difference-between-two-values/) | Easy |
 | [3886-sum-of-sortable-integers](https://github.com/gauthamnholla/coding-practice/tree/main/3886-sum-of-sortable-integers/) | Hard |
+| [3910-count-connected-subgraphs-with-even-node-sum](https://github.com/gauthamnholla/coding-practice/tree/main/Python3/3910-count-connected-subgraphs-with-even-node-sum/) | Hard |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -977,6 +980,7 @@
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/gauthamnholla/coding-practice/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/gauthamnholla/coding-practice/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3873-maximum-points-activated-with-one-addition](https://github.com/gauthamnholla/coding-practice/tree/master/3873-maximum-points-activated-with-one-addition) |
+| [3910-count-connected-subgraphs-with-even-node-sum](https://github.com/gauthamnholla/coding-practice/tree/main/Python3/3910-count-connected-subgraphs-with-even-node-sum/) | Hard |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -984,6 +988,7 @@
 | [3435-frequencies-of-shortest-supersequences](https://github.com/gauthamnholla/coding-practice/tree/main/3435-frequencies-of-shortest-supersequences/) | Hard |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/gauthamnholla/coding-practice/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/gauthamnholla/coding-practice/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
+| [3910-count-connected-subgraphs-with-even-node-sum](https://github.com/gauthamnholla/coding-practice/tree/main/Python3/3910-count-connected-subgraphs-with-even-node-sum/) | Hard |
 ## Minimum Spanning Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -1039,6 +1044,7 @@
 | [1559-detect-cycles-in-2d-grid](https://github.com/gauthamnholla/coding-practice/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/gauthamnholla/coding-practice/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
 | [2846-minimum-edge-weight-equilibrium-queries-in-a-tree](https://github.com/gauthamnholla/coding-practice/tree/master/2846-minimum-edge-weight-equilibrium-queries-in-a-tree) |
+| [3910-count-connected-subgraphs-with-even-node-sum](https://github.com/gauthamnholla/coding-practice/tree/main/Python3/3910-count-connected-subgraphs-with-even-node-sum/) | Hard |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -1067,6 +1073,7 @@
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/gauthamnholla/coding-practice/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
 | [3690-split-and-merge-array-transformation](https://github.com/gauthamnholla/coding-practice/tree/main/3690-split-and-merge-array-transformation/) | Medium |
 | [3905-multi-source-flood-fill](https://github.com/gauthamnholla/coding-practice/tree/main/3905-multi-source-flood-fill/) | Medium |
+| [3910-count-connected-subgraphs-with-even-node-sum](https://github.com/gauthamnholla/coding-practice/tree/main/Python3/3910-count-connected-subgraphs-with-even-node-sum/) | Hard |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
